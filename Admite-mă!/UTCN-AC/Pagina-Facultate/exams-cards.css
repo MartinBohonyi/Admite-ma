@@ -1,0 +1,148 @@
+.exams {
+    margin-top: 100px;
+}
+
+
+/* TITLUL + BUTONUL */
+
+.exams-toggle {
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background: none;
+    border: none;
+
+    padding: 0;
+    margin-bottom: 40px;
+
+    font-family: "Cormorant Garamond", serif;
+    font-size: 52px;
+    color: #1F3A5F;
+
+    cursor: pointer;
+    text-align: left;
+}
+
+
+/* SAGEATA DE LA EXAMENE */
+
+.exams-arrow {
+    width: 12px;
+    height: 12px;
+
+    border-right: 2px solid  black;
+    border-bottom: 2px solid black;
+
+    transform: rotate(45deg);
+
+    transition:
+        transform 0.35s ease,
+        filter 0.25s ease;
+}
+
+.exams-arrow:hover {
+    filter: drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.35));
+}
+
+
+.exams-list {
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+
+    transition:
+        max-height 0.8s ease,
+        opacity 0.4s ease;
+}
+
+.exams-list.open {
+    max-height: 5000px;
+    opacity: 1;
+}
+
+/* ROTIREA SAGETII */
+
+.exams-toggle.open .exams-arrow {
+    transform: rotate(225deg);
+}
+
+
+/* CARD EXAMEN */
+
+.exam-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background: white;
+
+    border-radius: 24px;
+
+    padding: 28px 36px;
+
+    margin-bottom: 20px;
+
+    text-decoration: none;
+    color: #1F3A5F;
+
+    box-shadow: 0 10px 30px rgba(0,0,0,.12);
+
+    transform: translateY(-10px);
+    opacity: 0;
+
+    transition:
+        transform 0.5s ease,
+        opacity 0.5s ease,
+        box-shadow 0.3s ease;
+}
+
+.exams-list.open .exam-card {
+    transform: translateY(0);
+    opacity: 1;
+}
+
+
+.exam-card:hover {
+    transform: translateY(-6px);
+
+    box-shadow: 0 20px 40px rgba(0,0,0,.18);
+}
+
+
+/* INFORMATII EXAMEN */
+
+.exam-info h3 {
+    font-family: "Cormorant Garamond", serif;
+
+    font-size: 38px;
+
+    margin-bottom: 6px;
+}
+
+
+.exam-info p {
+    font-size: 18px;
+
+    color: #666;
+}
+
+
+/* SAGEATA DIN FIECARE CARD */
+
+.arrow {
+    font-size: 42px;
+
+    transition: .3s;
+}
+
+
+.exam-card:hover .arrow {
+    transform: translateX(8px);
+}
+
+#first-exam {
+    scroll-margin-top: 100px;
+}

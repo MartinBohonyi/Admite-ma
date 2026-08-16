@@ -1,0 +1,82 @@
+.steps{
+    margin-top:100px;
+}
+
+.steps h2{
+    text-align:center;
+
+    font-family:"Cormorant Garamond", serif;
+
+    font-size:48px;
+
+    font-style : italic;
+
+    margin-bottom: 70px;
+
+    color: #1F2937;
+}
+
+.steps-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(3,1fr);
+
+    gap:40px;
+
+    margin-top:60px;
+}
+
+.step-card{
+
+    background: white;
+
+    border-radius:24px;
+
+    min-height:340px;
+
+    padding:40px 32px;
+
+    box-shadow:0 15px 35px rgba(0,0,0,.15);
+
+    transition:.35s;
+
+}
+
+.step-card:hover{
+    transition: 0.35s;
+
+    transform:translateY(-10px);
+    
+    box-shadow:0 28px 55px rgba(0,0,0,.22);
+}
+
+.step-number{
+    font-size:72px;
+    font-weight:700;
+    color:#1F3A5F;
+    text-align:center;
+    margin-bottom:12px;
+}
+
+.step-card h3{
+     font-size : 30px;
+
+     color :#1F3A5F;
+
+     text-align: center;
+}
+
+.step-card p{
+     margin-top : 25px;
+
+     text-align : center;
+     
+     font-size : 16px;
+
+     font-family: 'Times New Roman', Times, serif;
+
+     font-style : italic;
+
+     color : #1F3A5F;
+ }

@@ -1,0 +1,38 @@
+.skip-button , .check-button{
+    background-color: #1F3A5F;
+    color: white;
+
+    border: none;
+    border-radius: 12px;
+
+    padding: 12px 24px;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+
+    cursor: pointer;
+
+    transition: 0.2s;
+}
+
+.skip-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+}
+
+.question-buttons {
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 30px;
+}
+
+.question-source {
+    margin: 0 0 12px 5px;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif ;
+    color :#1F3A5F;
+    font-style: italic;
+}
