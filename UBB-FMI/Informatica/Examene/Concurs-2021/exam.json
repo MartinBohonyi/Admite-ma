@@ -1,0 +1,396 @@
+{
+    "examTitle" : "Concurs Mate-Info UBB 2021",
+    "questions" : [
+    {
+        "questionNumber": 1,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q1.png",
+        "category": "algoritmi",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A","B"]
+    },
+    {
+        "questionNumber": 2,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q2.png",
+        "category": "divizibilitate",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 3,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q3.png",
+        "category": "algoritmi",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 4,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q4.png",
+        "category": "vectori",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 5,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q5.png",
+        "category": "recursivitate",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 6,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q6.png",
+        "category": "vectori",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 7,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q7.png",
+        "category": "algoritmi",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 8,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q8.png",
+        "category": "algoritmi",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 9,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q9.png",
+        "category": "algoritmi",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A","B","C"]
+    },
+    {
+        "questionNumber": 10,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q10.png",
+        "category": "combinatorica",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 11,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q11.png",
+        "category": "biti",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B","C","D"]
+    },
+    {
+        "questionNumber": 12,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q12.png",
+        "category": "matrici",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 13,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q13.png",
+        "category": "divizibilitate",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 14,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q14.png",
+        "category": "recursivitate",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 15,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q15.png",
+        "category": "biti",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A","C"]
+    },
+    {
+        "questionNumber": 16,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q16.png",
+        "category": "vectori",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 17,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q17.png",
+        "category": "combinatorica",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 18,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q18.png",
+        "category": "recursivitate",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 19,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q19.png",
+        "category": "divizibilitate",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 20,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q20.png",
+        "category": "vectori",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A","C"]
+    },
+    {
+        "questionNumber": 21,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q21.png",
+        "category": "algoritmi",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B","D"]
+    },
+    {
+        "questionNumber": 22,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q22.png",
+        "category": "vectori",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 23,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q23.png",
+        "category": "vectori",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 24,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q24.png",
+        "category": "combinatorica",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B","D"]
+    },
+    {
+        "questionNumber": 25,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q25.png",
+        "category": "biti",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A","B","D"]
+    },
+    {
+        "questionNumber": 26,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q26.png",
+        "category": "algoritmi",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A","D"]
+    },
+    {
+        "questionNumber": 27,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q27.png",
+        "category": "algoritmi",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B","D"]
+    },
+    {
+        "questionNumber": 28,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q28.png",
+        "category": "divizibilitate",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 29,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q29.png",
+        "category": "recursivitate",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 30,
+        "points": 0.3,
+        "questionImage": "Concurs-2021/images/Q30.png",
+        "category": "algoritmi",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B"]
+    }
+
+    ]
+}

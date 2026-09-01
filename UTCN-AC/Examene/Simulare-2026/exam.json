@@ -1,0 +1,936 @@
+{
+    "examTitle": "Simulare 2026",
+    "type": "single-choice",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Câte submulțimi ale mulțimii\n    \\(\\{1,2,3,\\ldots,10\\}\\)\n    conțin cel puțin un multiplu de 3 și cel puțin un multiplu de 5?",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(512\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(640\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(672\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(336\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(704\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 2,
+            "category": "analiza",
+            "groupId": 1,
+            "context": "Fie funcția\n    <span>\n        \\(f:\\mathbb{R}\\rightarrow\\mathbb{R},\\;\n        f(x)=(x-2)e^{-x},\\)  pentru orice\n        \\(x\\in\\mathbb{R}\\)\n    </span>.",
+            "question": "Numărul asimptotelor la graficul funcției \\(f\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(3\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 3,
+            "category": "analiza",
+            "groupId": 1,
+            "context": "Fie funcția\n    <span>\n        \\(f:\\mathbb{R}\\rightarrow\\mathbb{R},\\;\n        f(x)=(x-2)e^{-x},\\)  pentru orice\n        \\(x\\in\\mathbb{R}\\)\n    </span>.",
+            "question": "\\(f'(0)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac{3}{e}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-3\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 4,
+            "category": "analiza",
+            "groupId": 1,
+            "context": "Fie funcția\n    <span>\n        \\(f:\\mathbb{R}\\rightarrow\\mathbb{R},\\;\n        f(x)=(x-2)e^{-x},\\)  pentru orice\n        \\(x\\in\\mathbb{R}\\)\n    </span>.",
+            "question": "Valoarea maximă a funcției \\(f\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac{e-2}{e^e}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{2}{e^4}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{1}{e^3}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{1}{2\\sqrt{e^5}}\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 5,
+            "category": "analiza",
+            "groupId": 2,
+            "context": null,
+            "question": "\\(\\displaystyle\n    \\lim_{x\\to0}\n    \\dfrac{(x-1)e^x+1}{x^2}\n    \\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(e\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{e+1}{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac12\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{e}{2}\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 6,
+            "category": "analiza",
+            "groupId": 2,
+            "context": null,
+            "question": "\\(\\displaystyle\n                            \\lim_{x\\to0}\n                            \\left(1+\\sin^2x\\right)^{\\frac1{x}}\n                            \\)\n                            este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(e^2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(e\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\sqrt e\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "limita nu există"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(1\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 7,
+            "category": "geometrie",
+            "groupId": 3,
+            "context": "În reperul cartezian \\(xOy\\) se consideră paralelogramul \\(ABCD\\), unde\n    \\(A(5,0)\\), \\(B(0,3)\\) și \\(C(0,-3)\\).",
+            "question": "Panta medianei din \\(B\\) a triunghiului \\(ABC\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-\\dfrac95\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-\\dfrac32\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac53\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-\\dfrac73\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 8,
+            "category": "geometrie",
+            "groupId": 3,
+            "context": "În reperul cartezian \\(xOy\\) se consideră paralelogramul \\(ABCD\\), unde\n    \\(A(5,0)\\), \\(B(0,3)\\) și \\(C(0,-3)\\).",
+            "question": "\\(D\\) are coordonatele:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\left(\\dfrac52,-3\\right)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((-5,0)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((5,6)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((-5,3)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\((5,-6)\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 9,
+            "category": "geometrie",
+            "groupId": 3,
+            "context": "În reperul cartezian \\(xOy\\) se consideră paralelogramul \\(ABCD\\), unde\n    \\(A(5,0)\\), \\(B(0,3)\\) și \\(C(0,-3)\\).",
+            "question": "Aria lui \\(ABCD\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(60\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(40\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(20\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(30\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(15\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 10,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Mulțimea valorilor lui \\(a &gt; 0\\) pentru care inegalitatea\n    \\(a^x + 2^x \\ge 2 \\cdot 4^x\\)\n    are loc pentru orice \\(x \\in \\mathbb{R}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\{8\\}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\([4,\\,8]\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\varnothing\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((0,\\,8]\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\([8,\\,\\infty)\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 11,
+            "category": "analiza",
+            "groupId": 4,
+            "context": null,
+            "question": "\\(\\displaystyle \\int_{0}^{1}x(1-x)\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle \\frac{3}{10}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle \\frac{1}{2}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle \\frac{3}{20}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle \\frac{5}{6}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle \\frac{1}{6}\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 12,
+            "category": "analiza",
+            "groupId": 4,
+            "context": null,
+            "question": "\\(\\displaystyle \\int_{-1}^{1}\\frac{e^x}{1+e^x}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle \\ln\\frac{e+1}{2}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle \\ln(e^2-1)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle \\ln(e+1)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(1\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 13,
+            "category": "analiza",
+            "groupId": 4,
+            "context": null,
+            "question": "\\(\\displaystyle \\int_{0}^{\\pi}\\frac{x\\sin x}{1+\\cos^2x}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle \\frac{\\pi^2}{2}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle \\frac{\\pi}{2}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle \\frac{\\pi^2}{4}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle \\frac{\\pi\\ln2}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle \\pi\\ln2\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 14,
+            "category": "algebra",
+            "groupId": 5,
+            "context": "Fie \\((a_n)_{n\\ge1}\\) o progresie aritmetică pentru care\n    \\(a_1+a_4=4\\) și \\(a_2+a_5=0\\).",
+            "question": "\\(a_3\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 15,
+            "category": "algebra",
+            "groupId": 5,
+            "context": "Fie \\((a_n)_{n\\ge1}\\) o progresie aritmetică pentru care\n    \\(a_1+a_4=4\\) și \\(a_2+a_5=0\\).",
+            "question": "Dacă suma primilor \\(n\\) termeni ai progresiei este \\(0\\), atunci \\(n\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(7\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(8\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(10\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(6\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(5\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 16,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Fie matricea <span class=\"inline-system\">\n    \\[\n    \\displaystyle\n    A=\\begin{pmatrix}\n    -1 &amp; 0\\\\\n    6 &amp; 1\n    \\end{pmatrix}.\n    \\]</span>",
+            "question": "\\(\\displaystyle A^2\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle -I_2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle A\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle -A\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle I_2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle 7A\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 17,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Fie matricea <span class=\"inline-system\">\n    \\[\n    \\displaystyle\n    A=\\begin{pmatrix}\n    -1 &amp; 0\\\\\n    6 &amp; 1\n    \\end{pmatrix}.\n    \\]</span>",
+            "question": "Numărul soluțiilor\n    \\(\\displaystyle X\\in M_2(\\mathbb{R})\\)\n    ale ecuației\n    \\(\\displaystyle X^2=A\\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(8\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(3\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 18,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Fie matricea <span class=\"inline-system\">\n    \\[\n    \\displaystyle\n    A=\\begin{pmatrix}\n    -1 &amp; 0\\\\\n    6 &amp; 1\n    \\end{pmatrix}.\n    \\]</span>",
+            "question": "Dacă\n    \\(\\displaystyle X\\in M_2(\\mathbb{C})\\)\n    verifică\n    \\(\\displaystyle X^2=A\\),\n    atunci\n    \\(\\displaystyle X^{2026}\\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle -A\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle -I_2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle 1013A\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle A\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle X\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 19,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "<p class=\"question-context\">\n    Pe mulțimea \\(\\mathbb{Z}\\) se definește legea de compoziție \"\\(\\ast\\)\" prin \\(x\\ast y=x+y+2xy,\\ \\text{pentru orice }x,y\\in\\mathbb{Z}.\\)\n</p>",
+            "question": "Elementul neutru în raport cu legea \"\\(\\ast\\)\" este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle -2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle 1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle 2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle 0\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle -1\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 20,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "<p class=\"question-context\">\n    Pe mulțimea \\(\\mathbb{Z}\\) se definește legea de compoziție \"\\(\\ast\\)\" prin \\(x\\ast y=x+y+2xy,\\ \\text{pentru orice }x,y\\in\\mathbb{Z}.\\)\n</p>",
+            "question": "Valoarea minimă a expresiei\n                            \\(\\displaystyle x*x\\)\n                            este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle 0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle -1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle 1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle 4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle -2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 21,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "<p class=\"question-context\">\n    Pe mulțimea \\(\\mathbb{Z}\\) se definește legea de compoziție \"\\(\\ast\\)\" prin \\(x\\ast y=x+y+2xy,\\ \\text{pentru orice }x,y\\in\\mathbb{Z}.\\)\n</p>",
+            "question": "Numărul elementelor simetrizabile în raport cu legea\n    \"\\(\\displaystyle *\\)\"\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle 2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle 3\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle 0\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle 1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "infinit"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 22,
+            "category": "trigonometrie",
+            "groupId": 8,
+            "context": "Fie \\(m\\in\\mathbb{R}\\) și ecuația\n    \\(\\displaystyle \\sin^2x+2\\cos^2x=m,\\)\n    cu necunoscuta\n    \\(x\\in\\mathbb{R}.\\)",
+            "question": "Dacă\n    \\(\\displaystyle x=\\frac{\\pi}{3}\\)\n    este soluție a ecuației, atunci\n    \\(m\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle \\frac32\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle \\frac74\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle 3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle 2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle \\dfrac54\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 23,
+            "category": "trigonometrie",
+            "groupId": 8,
+            "context": "Fie \\(m\\in\\mathbb{R}\\) și ecuația\n    \\(\\displaystyle \\sin^2x+2\\cos^2x=m,\\)\n    cu necunoscuta\n    \\(x\\in\\mathbb{R}.\\)",
+            "question": "Mulțimea valorilor lui\n                            \\(m\\)\n                            pentru care ecuația are soluții este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle \\left[1,\\frac74\\right]\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle [1,2]\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle [1,3]\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle [0,3]\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle [0,2]\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 24,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Mulțimea soluțiilor inecuației\n                            \\(\\displaystyle \\log_2(x-1)\\le2\\)\n                            este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle (1,4]\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle (1,\\infty)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle [5,\\infty)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle [4,\\infty)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle (1,5]\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 25,
+            "category": "algebra",
+            "groupId": 9,
+            "context": "Fie polinomul\n    \\(P\\in\\mathbb{C}[X],\\)\n    \\(\\displaystyle P=2X^5-X^4+3X^2-2X.\\)",
+            "question": "Restul împărțirii lui\n                            \\(P\\)\n                            la\n                            \\(X-1\\)\n                            este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-4\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2X\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 26,
+            "category": "algebra",
+            "groupId": 9,
+            "context": "Fie polinomul\n    \\(P\\in\\mathbb{C}[X],\\)\n    \\(\\displaystyle P=2X^5-X^4+3X^2-2X.\\)",
+            "question": "Dacă\n                            \\(x_1,x_2,\\ldots,x_5\\in\\mathbb{C}\\)\n                            sunt rădăcinile polinomului\n                            \\(P,\\)\n                            atunci\n                            \\(\\displaystyle \\sum_{k=1}^{5}x_k^2\\)\n                            este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{13}{4}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-\\dfrac{11}{4}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac14\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac94\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 27,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Dacă\n                            \\(\\displaystyle z=1+i\\sqrt3,\\)\n                            atunci\n                            \\(\\displaystyle z^6+z^3+1\\)\n                            este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(65\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(73\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(57\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(13\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 28,
+            "category": "analiza",
+            "groupId": 10,
+            "context": null,
+            "question": "\\(\\displaystyle\n                            \\lim_{n\\to\\infty}\n                            \\left(\n                            \\sqrt{n^2+3n}\n                            -\n                            \\sqrt{n^2-n}\n                            \\right)\n                            \\)\n                            este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac32\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 29,
+            "category": "analiza",
+            "groupId": 10,
+            "context": null,
+            "question": "\\(\\displaystyle\n                            \\lim_{n\\to\\infty}\n                            \\frac{\n                            1+\\dfrac13+\\dfrac15+\\cdots+\\dfrac1{2n-1}\n                            }{\\ln n}\n                            \\)\n                            este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2e\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac12\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac1{e^2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac1{2e}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 30,
+            "category": "analiza",
+            "groupId": 10,
+            "context": null,
+            "question": "\\(\\displaystyle\n                            \\lim_{n\\to\\infty}\n                            \\frac{\\sin n}{n}\n                            \\)\n                            este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac13\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "limita nu există"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac23\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        }
+    ]
+}

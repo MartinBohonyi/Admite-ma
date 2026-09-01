@@ -1,0 +1,936 @@
+{
+    "examTitle": "Admitere 2017",
+    "type": "single-choice",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "Se consideră șirul \\(a_n=n\\sqrt n\\left(\\sqrt{n+1}-a\\sqrt n+\\sqrt{n-1}\\right),\\ n\\in\\mathbb N^*,\\ a\\in\\mathbb R\\). Dacă șirul \\((a_n)\\) este convergent, atunci limita lui este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle -\\frac12\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac12\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle -\\frac14\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 2,
+            "category": "analiza",
+            "groupId": 1,
+            "context": "Fie \\(f:\\mathbb R\\to\\mathbb R,\\quad f(x)=\\sqrt{16x^2+1}+4x-5\\).",
+            "question": "\\(\\displaystyle\\lim_{x\\to-\\infty}f(x)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-\\infty\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-5\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(8\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 3,
+            "category": "analiza",
+            "groupId": 1,
+            "context": "Fie \\(f:\\mathbb R\\to\\mathbb R,\\quad f(x)=\\sqrt{16x^2+1}+4x-5\\).",
+            "question": "Numărul asimptotelor funcției \\(f\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(4\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 4,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Se consideră ecuația \\(a^x=2x+1\\), unde \\(a\\in(0,\\infty)\\) este fixat.",
+            "question": "Valoarea lui \\(a\\) pentru care ecuația admite rădăcina \\(x=1\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\ln 2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(e\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 5,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Se consideră ecuația \\(a^x=2x+1\\), unde \\(a\\in(0,\\infty)\\) este fixat.",
+            "question": "Mulțimea valorilor lui \\(a\\) pentru care ecuația admite o singură rădăcină reală este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((0,+\\infty)\\setminus\\{e^2\\}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((0,1]\\cup\\{e^2\\}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((0,e^2]\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\([1,+\\infty)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\((0,1]\\cup\\{e\\}\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 6,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "Fie \\(f:\\mathbb R\\to\\mathbb R,\\quad \\displaystyle f(x)=\\sqrt[5]{x^3-\\tan^3x}\\). Valoarea lui \\(f'(0)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle-\\frac15\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac15\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\sqrt[5]{\\frac15}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle-\\sqrt[5]{\\frac15}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 7,
+            "category": "analiza",
+            "groupId": 3,
+            "context": "Să se calculeze:",
+            "question": "\\(\\displaystyle\\lim_{x\\to+\\infty}\\frac{2^x+3^x}{2\\cdot3^x+1}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(+\\infty\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac12\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 8,
+            "category": "analiza",
+            "groupId": 3,
+            "context": "Să se calculeze:",
+            "question": "\\(\\displaystyle\\lim_{x\\to0^+}\\left((x+9)^x-9^x\\right)^x\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "nu există"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(e\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\ln 9\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 9,
+            "category": "analiza",
+            "groupId": 4,
+            "context": "Să se calculeze:",
+            "question": "\\(\\displaystyle\\int_0^3\\frac{dx}{x^2+9}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{3\\sqrt3}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{6}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{4}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{18}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{12}\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 10,
+            "category": "analiza",
+            "groupId": 4,
+            "context": "Să se calculeze:",
+            "question": "\\(\\displaystyle\\int_1^e\\frac{1}{x}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2e-1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(1-2e\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(e+1\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 11,
+            "category": "analiza",
+            "groupId": 4,
+            "context": "Să se calculeze:",
+            "question": "\\(\\displaystyle\\int_{-1}^{1}\\frac{\\arccos x}{1+x^2}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{4}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{\\pi^2}{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{\\pi^2}{4}\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 12,
+            "category": "analiza",
+            "groupId": 4,
+            "context": "Să se calculeze:",
+            "question": "\\(\\displaystyle\\lim_{n\\to\\infty}n\\int_2^e(\\ln x)^n\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(e\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\ln 2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(+\\infty\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 13,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "Fie funcția \\(f:\\mathbb R\\to\\mathbb R,\\quad f(x)=x^3+3x+2\\) și fie \\(f^{-1}\\) inversa funcției \\(f\\). Valoarea \\(\\left(f^{-1}\\right)'(2)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(15\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac16\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac13\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 14,
+            "category": "geometrie",
+            "groupId": 5,
+            "context": "În planul \\(xOy\\) se consideră punctele \\(A(3,0)\\) și \\(B(0,4)\\).",
+            "question": "Distanța de la originea planului la dreapta \\(AB\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac43\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{12}{5}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2\\sqrt2\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 15,
+            "category": "geometrie",
+            "groupId": 5,
+            "context": "În planul \\(xOy\\) se consideră punctele \\(A(3,0)\\) și \\(B(0,4)\\).",
+            "question": "Ecuația mediatoarei segmentului \\([AB]\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\left(x-\\frac32\\right)+(y-2)=0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(4x+3y+4=0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(3x-4y+4=0\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(6x-8y+7=0\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(x-y=0\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 16,
+            "category": "geometrie",
+            "groupId": null,
+            "context": null,
+            "question": "Se consideră familia de funcții \\(f_m:\\mathbb R\\to\\mathbb R,\\quad f_m(x)=x^2-(4m+3)x+4m+2,\\ m\\in\\mathbb R\\). Punctul din plan prin care trec toate graficele funcțiilor \\(f_m\\) este situat pe:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "axa \\(Oy\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "axa \\(Ox\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "prima bisectoare"
+                },
+                {
+                    "answer": "D",
+                    "text": "a doua bisectoare"
+                },
+                {
+                    "answer": "E",
+                    "text": "alt răspuns"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 17,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Fie \\(e\\) baza logaritmului natural. Pe intervalul \\((0,+\\infty)\\) definim legea de compoziție \\(x*y=x^{2\\ln y},\\ \\forall x&gt;0,\\ y&gt;0\\).",
+            "question": "Elementul neutru este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\sqrt e\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(e\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac1{\\sqrt e}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(e^2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 18,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Fie \\(e\\) baza logaritmului natural. Pe intervalul \\((0,+\\infty)\\) definim legea de compoziție \\(x*y=x^{2\\ln y},\\ \\forall x&gt;0,\\ y&gt;0\\).",
+            "question": "Pentru \\(x\\ne1\\), simetricul lui \\(x\\) în raport cu legea \"\\(*\\)\" este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(e^{-x}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac1x\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle e^{\\frac1{4\\ln x}}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(x^{-2\\ln x}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac1{2\\ln x}\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 19,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Fie \\(e\\) baza logaritmului natural. Pe intervalul \\((0,+\\infty)\\) definim legea de compoziție \\(x*y=x^{2\\ln y},\\ \\forall x&gt;0,\\ y&gt;0\\).",
+            "question": "Valoarea lui \\(a&gt;0\\) pentru care structura algebrică \\(((0,\\infty)\\setminus\\{a\\},*)\\) este grup, este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(e\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac1e\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(e^2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\sqrt e\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 20,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Fie \\(e\\) baza logaritmului natural. Pe intervalul \\((0,+\\infty)\\) definim legea de compoziție \\(x*y=x^{2\\ln y},\\ \\forall x&gt;0,\\ y&gt;0\\).",
+            "question": "\\(\\displaystyle e*e*\\cdots*e\\), unde \\(e\\) apare de \\(10\\) ori, este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(e^{256}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(e^{10}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(e^{512}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(10^{\\ln 10}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(e^{1024}\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 21,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "Se consideră sistemul\n                \\(\\displaystyle \\begin{cases}\n                ax+y+z=-1\\\\\n                x+ay+z=-a\\\\\n                x+y-z=-2\n                \\end{cases}\\), unde \\(a\\in\\mathbb R\\).",
+            "question": "Determinantul sistemului este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(a^2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(a^2+2a-3\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(a^2-2a+3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-a^2-2a+3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2a+3\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 22,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "Se consideră sistemul\n                \\(\\displaystyle \\begin{cases}\n                ax+y+z=-1\\\\\n                x+ay+z=-a\\\\\n                x+y-z=-2\n                \\end{cases}\\), unde \\(a\\in\\mathbb R\\).",
+            "question": "Sistemul este incompatibil dacă și numai dacă:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(a=-1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(a=1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "alt răspuns"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(a\\in\\mathbb R\\setminus\\{-3,1\\}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(a=-3\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 23,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "Se consideră sistemul\n                \\(\\displaystyle \\begin{cases}\n                ax+y+z=-1\\\\\n                x+ay+z=-a\\\\\n                x+y-z=-2\n                \\end{cases}\\), unde \\(a\\in\\mathbb R\\).",
+            "question": "Numărul valorilor lui \\(a\\in\\mathbb R\\) pentru care sistemul admite soluții \\((x,y,z)\\), cu \\(x,y,z\\) în progresie aritmetică în această ordine, este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\infty\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 24,
+            "category": "trigonometrie",
+            "groupId": 8,
+            "context": "Se consideră funcția \\(f:[0,2\\pi]\\to\\mathbb R,\\quad f(x)=\\sin x+\\cos 2x\\).",
+            "question": "\\(f(0)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac12\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(1\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 25,
+            "category": "trigonometrie",
+            "groupId": 8,
+            "context": "Se consideră funcția \\(f:[0,2\\pi]\\to\\mathbb R,\\quad f(x)=\\sin x+\\cos 2x\\).",
+            "question": "Numărul soluțiilor ecuației \\(f(x)=1\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(5\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 26,
+            "category": "trigonometrie",
+            "groupId": 8,
+            "context": "Se consideră funcția \\(f:[0,2\\pi]\\to\\mathbb R,\\quad f(x)=\\sin x+\\cos 2x\\).",
+            "question": "Mulțimea valorilor parametrului real \\(m\\) pentru care ecuația \\(f(x)=m\\) are soluții este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\left[0,\\frac98\\right]\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\([-2,0]\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\left[-2,\\frac98\\right]\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\mathbb{R}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "alt răspuns"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 27,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Numărul soluțiilor reale ale ecuației \\(16^x=3^x+4^x\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(4\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 28,
+            "category": "algebra",
+            "groupId": 9,
+            "context": "Se dă ecuația \\(x^4-4x^3+2x^2-x+1=0\\), cu rădăcinile \\(x_1,x_2,x_3,x_4\\in\\mathbb C\\).",
+            "question": "Valoarea sumei \\(x_1+x_2+x_3+x_4\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-4\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(1\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 29,
+            "category": "algebra",
+            "groupId": 9,
+            "context": "Se dă ecuația \\(x^4-4x^3+2x^2-x+1=0\\), cu rădăcinile \\(x_1,x_2,x_3,x_4\\in\\mathbb C\\).",
+            "question": "Ecuația cu rădăcinile \\(\\displaystyle\\frac1{x_1},\\frac1{x_2},\\frac1{x_3},\\frac1{x_4}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(x^4+4x^3-2x^2+x+1=0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(x^4+x^3-2x^2+4x-1=0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(x^4-x^3+2x^2-4x+1=0\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(x^4-4x^3-2x^2-x+1=0\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(x^4+4x^3+2x^2+x+1=0\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 30,
+            "category": "algebra",
+            "groupId": 9,
+            "context": "Se dă ecuația \\(x^4-4x^3+2x^2-x+1=0\\), cu rădăcinile \\(x_1,x_2,x_3,x_4\\in\\mathbb C\\).",
+            "question": "Valoarea sumei \\(\\displaystyle\\frac1{x_1^2}+\\frac1{x_2^2}+\\frac1{x_3^2}+\\frac1{x_4^2}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-3\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(1\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        }
+    ]
+}

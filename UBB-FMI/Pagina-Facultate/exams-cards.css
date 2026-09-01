@@ -1,0 +1,147 @@
+
+
+.subjects {
+    margin-top: 65px;
+}
+
+.section-label {
+    margin: 0 0 8px;
+    text-align: center;
+
+    font-family: "Exo 2", sans-serif;
+    font-size: 26px;
+    font-weight: 600;
+    letter-spacing: 3px;
+
+    color: #c8832b;
+}
+
+.subjects h3 {
+    margin: 0 0 40px;
+
+    text-align: center;
+
+    font-family: "Cormorant Garamond", serif;
+    font-size: 42px;
+    font-weight: 600;
+
+    color: #1F3A5F;
+}
+
+.subjects-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+
+    gap: 28px;
+
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.subject-card {
+    position: relative;
+
+    min-height: 230px;
+    padding: 35px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    text-decoration: none;
+
+    background: linear-gradient(
+        145deg,
+        #ffffff,
+        #f5f6f8
+    );
+
+    border: 1px solid #cfd3d9;
+    border-radius: 18px;
+
+    overflow: hidden;
+
+    transition:
+        transform 0.3s ease,
+        box-shadow 0.3s ease,
+        border-color 0.3s ease;
+}
+
+.subject-card::before {
+    content: "";
+
+    position: absolute;
+
+    top: 0;
+    left: 0;
+
+    width: 5px;
+    height: 100%;
+
+    background-color: #c8832b;
+
+    transform: scaleY(0);
+    transform-origin: bottom;
+
+    transition: transform 0.3s ease;
+}
+
+.subject-card:hover {
+    transform: translateY(-7px);
+
+    border-color: #c8832b;
+
+    box-shadow: 0 15px 35px rgba(31, 58, 95, 0.15);
+}
+
+.subject-card:hover::before {
+    transform: scaleY(1);
+}
+
+.subject-number {
+    font-family: "Exo 2", sans-serif;
+
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 2px;
+
+    color: #c8832b;
+}
+
+.subject-content h4 {
+    margin: 20px 0 8px;
+
+    font-family: "Cormorant Garamond", serif;
+
+    font-size: 38px;
+    font-weight: 600;
+
+    color: #1F3A5F;
+}
+
+.subject-content p {
+    margin: 0;
+
+    font-family: "Roboto", sans-serif;
+
+    font-size: 15px;
+
+    color: #68717c;
+}
+
+.subject-arrow {
+    position: absolute;
+
+    right: 30px;
+    bottom: 25px;
+
+    font-size: 30px;
+
+    color: #1F3A5F;
+
+    transition: transform 0.3s ease;
+}
+
+.subject-card:hover .subject-arrow {
+    transform: translateX(7px);
+}

@@ -1,0 +1,318 @@
+{
+    "examTitle": "Admitere 2025 (sesiunea Septembrie)",
+   
+    "questions": [
+    {
+        "questionNumber": 1,
+        "points": 0.375,
+        "question": "Fie \\(A(x)=\\begin{pmatrix}x&2x&3\\\\0&1&2\\\\x&0&3\\end{pmatrix}\\), unde \\(x\\in\\mathbb{R}\\). Dacă \\(\\det(A(x))=16\\), atunci valoarea lui \\(x\\) poate fi",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(-1\\)"},
+            {"answer": "B", "text": "\\(1\\)"},
+            {"answer": "C", "text": "\\(2\\)"},
+            {"answer": "D", "text": "\\(-2\\)"}
+        ],
+        "correctAnswer": ["C","D"]
+    },
+    {
+        "questionNumber": 2,
+        "points": 0.375,
+        "question": "În rombul \\(ABCD\\) fie \\(A(1,3)\\) și \\(C(3,-2)\\) două vârfuri opuse. Ecuația diagonalei \\(BD\\) este",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(4x-10y+1=0\\)"},
+            {"answer": "B", "text": "\\(4x-10y-3=0\\)"},
+            {"answer": "C", "text": "\\(10x+4y-22=0\\)"},
+            {"answer": "D", "text": "\\(10x+4y+5=0\\)"}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 3,
+        "points": 0.375,
+        "question": "Considerăm polinomul \\(P(X)=X^3-aX^2-3X+a^2+2\\), unde \\(a\\) este un parametru real. Suma tuturor valorilor posibile ale lui \\(a\\) pentru care \\(P(3)=0\\) este",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(8\\)"},
+            {"answer": "B", "text": "\\(9\\)"},
+            {"answer": "C", "text": "\\(20\\)"},
+            {"answer": "D", "text": "\\(-20\\)"}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 4,
+        "points": 0.375,
+        "question": "Pentru numerele reale \\(x,y\\neq 0\\) definim expresia \\[x\\star y=\\dfrac{x-1}{y}-\\dfrac{y-1}{x}.\\] Care dintre următoarele afirmații sunt adevărate?",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "Dacă \\(x\\star y=0\\), atunci \\(x=y\\)."},
+            {"answer": "B", "text": "\\(x\\star y\\in\\mathbb{R}^*,\\) oricare ar fi \\(x,y\\in\\mathbb{R}^*\\)."},
+            {"answer": "C", "text": "Există \\(x,y\\in\\mathbb{R}^*\\) pentru care \\(x\\star y\\neq y\\star x\\)."},
+            {"answer": "D", "text": "\\(1\\star(2\\star 3)=\\dfrac{5}{3}\\)."}
+        ],
+        "correctAnswer": ["C","D"]
+    },
+    {
+        "questionNumber": 5,
+        "points": 0.375,
+        "question": "Dacă pentru numerele reale \\(a,b\\in(0,1)\\) avem \\(\\log_a b>\\log_b a\\), atunci",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(\\log_a b>0\\)"},
+            {"answer": "B", "text": "\\(\\log_b a<0\\)"},
+            {"answer": "C", "text": "\\(a>b\\)"},
+            {"answer": "D", "text": "\\(b>a\\)"}
+        ],
+        "correctAnswer": ["A","C"]
+    },
+    {
+        "questionNumber": 6,
+        "points": 0.375,
+        "question": "Dacă \\(x\\in\\left(\\pi,\\dfrac{3\\pi}{2}\\right)\\) și \\(\\cos x=-\\dfrac{4}{5}\\), atunci valoarea expresiei \\(\\sin(2x)\\) este",
+        "category": "trigonometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(-\\dfrac{24}{25}\\)"},
+            {"answer": "B", "text": "\\(\\dfrac{24}{25}\\)"},
+            {"answer": "C", "text": "\\(-\\dfrac{7}{25}\\)"},
+            {"answer": "D", "text": "\\(\\dfrac{7}{25}\\)"}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 7,
+        "points": 0.375,
+        "question": "Fie \\(\\vec{i}\\) și \\(\\vec{j}\\) versorii unui sistem cartezian și \\(m\\) un număr real. Unghiul format de vectorii \\(\\vec{u}=\\vec{i}-3\\vec{j}\\) și \\(\\vec{v}=m\\vec{i}+\\vec{j}\\) este ascuțit, dacă",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(\\vec{u}\\cdot\\vec{v}<0\\)"},
+            {"answer": "B", "text": "\\(\\vec{u}\\cdot\\vec{v}>0\\)"},
+            {"answer": "C", "text": "\\(m>3\\)"},
+            {"answer": "D", "text": "\\(m<3\\)"}
+        ],
+        "correctAnswer": ["B","C"]
+    },
+    {
+        "questionNumber": 8,
+        "points": 0.375,
+        "question": "Coeficientul termenului \\(x\\) în dezvoltarea binomului \\[\\left(2\\sqrt[3]{x}+3\\dfrac{1}{\\sqrt[6]{x}}\\right)^{6}\\] este:",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(1080\\)"},
+            {"answer": "B", "text": "\\(2160\\)"},
+            {"answer": "C", "text": "\\(3240\\)"},
+            {"answer": "D", "text": "\\(4320\\)"}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 9,
+        "points": 0.375,
+        "question": "Fie \\(f:[-2,2]\\to\\mathbb{R}\\), funcția definită prin \\[f(x)=\\begin{cases}x^3, & \\text{dacă } x\\in[0,1]\\\\ 0, & \\text{dacă } x\\in[-2,2]\\setminus[0,1]\\end{cases}\\] Care dintre următoarele afirmații sunt adevărate?",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(f\\) este continuă pe \\([-2,2]\\)"},
+            {"answer": "B", "text": "\\(f\\) este derivabilă în punctul \\(0\\)"},
+            {"answer": "C", "text": "\\(f\\) este impară"},
+            {"answer": "D", "text": "\\(f\\) este integrabilă pe \\([-2,2]\\) și \\(\\displaystyle\\int_{-2}^{2}f(x)dx=\\dfrac{1}{4}\\)"}
+        ],
+        "correctAnswer": ["B","D"]
+    },
+    {
+        "questionNumber": 10,
+        "points": 0.375,
+        "question": "Se consideră funcția \\(f:(0,\\infty)\\to\\mathbb{R}\\), definită prin \\(f(x)=\\ln x-\\ln^2 x,\\ \\forall x>0\\). Punctul în care tangenta la graficul lui \\(f\\) este paralelă cu axa \\(Ox\\) are abscisa",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(\\dfrac{1}{e^2}\\)"},
+            {"answer": "B", "text": "\\(e^2\\)"},
+            {"answer": "C", "text": "\\(\\dfrac{1}{\\sqrt e}\\)"},
+            {"answer": "D", "text": "\\(\\sqrt e\\)"}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 11,
+        "points": 0.375,
+        "question": "Valoarea limitei \\(\\displaystyle\\lim_{x\\to 0}\\dfrac{1-\\cos x}{\\sin^2 x}\\) este",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(\\dfrac{1}{2}\\)"},
+            {"answer": "B", "text": "\\(-\\dfrac{1}{2}\\)"},
+            {"answer": "C", "text": "\\(0\\)"},
+            {"answer": "D", "text": "\\(\\infty\\)"}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 12,
+        "points": 0.375,
+        "question": "Se consideră mulțimea \\(A=\\left\\{p\\in\\mathbb{R}\\ \\middle|\\ \\displaystyle\\lim_{\\substack{x\\to 0\\\\ x>0}}x^p\\,\\text{arctg}\\,x\\in(0,\\infty)\\right\\}\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "Mulțimea \\(A\\) este finită"},
+            {"answer": "B", "text": "Mulțimea \\(A\\) este infinită"},
+            {"answer": "C", "text": "\\(A=\\emptyset\\)"},
+            {"answer": "D", "text": "\\(A\\subseteq\\mathbb{Q}\\)"}
+        ],
+        "correctAnswer": ["A","D"]
+    },
+    {
+        "questionNumber": 13,
+        "points": 0.375,
+        "question": "Fie \\(A=\\begin{pmatrix}1&2\\\\3&4\\end{pmatrix}\\) și \\(B=\\begin{pmatrix}2&0\\\\1&3\\end{pmatrix}\\). Dacă \\(X\\in M_2(\\mathbb{R})\\) este o matrice astfel încât \\(AX-XB=4I_2\\), atunci suma tuturor elementelor matricei \\(X\\) este",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(1\\)"},
+            {"answer": "B", "text": "\\(2\\)"},
+            {"answer": "C", "text": "\\(3\\)"},
+            {"answer": "D", "text": "\\(0\\)"}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 14,
+        "points": 0.375,
+        "question": "Dacă pentru numărul complex \\(z\\) avem \\((2+i)z+(1-3i)\\overline{z}=2-3i\\), atunci \\(|z|\\) este egal cu",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(\\sqrt2\\)"},
+            {"answer": "B", "text": "\\(\\sqrt5\\)"},
+            {"answer": "C", "text": "\\(3\\)"},
+            {"answer": "D", "text": "\\(2\\sqrt2\\)"}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 15,
+        "points": 0.375,
+        "question": "Se dau punctele \\(A(2,0)\\), \\(B(-2,2)\\) și dreapta \\(d:x+y-3=0\\). Dacă \\(C\\) este un punct de pe dreapta \\(d\\) pentru care aria triunghiului \\(ABC\\) este egală cu \\(2\\), atunci produsul coordonatelor lui \\(C\\) poate fi",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(-18\\)"},
+            {"answer": "B", "text": "\\(-8\\)"},
+            {"answer": "C", "text": "\\(-2\\)"},
+            {"answer": "D", "text": "\\(2\\)"}
+        ],
+        "correctAnswer": ["A","D"]
+    },
+    {
+        "questionNumber": 16,
+        "points": 0.375,
+        "question": "În triunghiul \\(ABC\\) fie laturile \\(BC=\\sqrt{37}\\), \\(AC=7\\), \\(AB=4\\) și \\(R\\) raza cercului circumscris triunghiului. Care dintre următoarele afirmații sunt adevărate?",
+        "category": "trigonometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(\\widehat{A}=30^\\circ\\)"},
+            {"answer": "B", "text": "\\(\\widehat{A}=60^\\circ\\)"},
+            {"answer": "C", "text": "\\(R=\\dfrac{\\sqrt{111}}{3}\\)"},
+            {"answer": "D", "text": "\\(R=\\dfrac{\\sqrt{74}}{2}\\)"}
+        ],
+        "correctAnswer": ["B","C"]
+    },
+    {
+        "questionNumber": 17,
+        "points": 0.375,
+        "question": "Se consideră triunghiul \\(ABC\\) și punctele \\(M,N\\) astfel încât \\(\\overrightarrow{BM}=\\dfrac{2}{5}\\overrightarrow{BC}\\) și \\(\\overrightarrow{AN}=\\dfrac{1}{4}\\overrightarrow{AC}\\). Dacă notăm cu \\(G\\) centrul de greutate al triunghiului \\(ABC\\), atunci care dintre următoarele afirmații sunt adevărate?",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(\\overrightarrow{NG}=\\dfrac{1}{3}\\overrightarrow{AB}+\\dfrac{1}{12}\\overrightarrow{AC}\\)"},
+            {"answer": "B", "text": "\\(\\overrightarrow{NG}=\\dfrac{1}{3}\\overrightarrow{AB}-\\dfrac{1}{4}\\overrightarrow{AC}\\)"},
+            {"answer": "C", "text": "\\(\\overrightarrow{NM}=\\dfrac{3}{5}\\overrightarrow{AB}+\\dfrac{3}{20}\\overrightarrow{AC}\\)"},
+            {"answer": "D", "text": "punctele \\(M,N,G\\) sunt coliniare."}
+        ],
+        "correctAnswer": ["A","C","D"]
+    },
+    {
+        "questionNumber": 18,
+        "points": 0.375,
+        "question": "Câte numere reale din intervalul \\([0,2\\pi]\\) satisfac ecuația \\(\\text{tg}\\,x+\\sin 2x=3\\sin x\\)?",
+        "category": "trigonometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(2\\)"},
+            {"answer": "B", "text": "\\(3\\)"},
+            {"answer": "C", "text": "\\(4\\)"},
+            {"answer": "D", "text": "\\(5\\)"}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 19,
+        "points": 0.375,
+        "question": "Capetele ipotenuzei unui triunghi dreptunghic \\(ABC\\) sunt punctele \\(A\\) și \\(B\\). Punctul \\(A\\) are coordonatele \\((2,-2)\\) și \\(B\\) are ordonata \\(4\\). Ecuația uneia dintre catete este \\(x+y=10\\). Lungimea catetei \\(BC\\) este",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(2\\)"},
+            {"answer": "B", "text": "\\(\\sqrt3\\)"},
+            {"answer": "C", "text": "\\(\\sqrt2\\)"},
+            {"answer": "D", "text": "\\(1\\)"}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 20,
+        "points": 0.375,
+        "question": "Fie \\(f:\\left[0,\\dfrac{\\pi}{2}\\right]\\to\\mathbb{R}\\) funcția definită prin \\(f(x)=\\sin x-e^{-x},\\ \\forall x\\in\\left[0,\\dfrac{\\pi}{2}\\right]\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(f\\) este strict monotonă pe intervalul \\(\\left[0,\\dfrac{\\pi}{2}\\right]\\);"},
+            {"answer": "B", "text": "\\(f\\) este concavă pe intervalul \\(\\left[0,\\dfrac{\\pi}{2}\\right]\\);"},
+            {"answer": "C", "text": "Pentru orice \\(x\\in\\left[0,\\dfrac{\\pi}{2}\\right]\\) are loc inegalitatea \\(f(x)\\geq 0\\);"},
+            {"answer": "D", "text": "Ecuația \\(f(x)=0\\) are exact o soluție în intervalul \\(\\left[0,\\dfrac{\\pi}{2}\\right]\\)."}
+        ],
+        "correctAnswer": ["A","B","D"]
+    },
+    {
+        "questionNumber": 21,
+        "points": 0.375,
+        "question": "Valoarea integralei \\(\\displaystyle\\int_1^e\\dfrac{dx}{x\\sqrt{4-\\ln^2 x}}\\) este",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(\\dfrac{\\pi}{12}\\)"},
+            {"answer": "B", "text": "\\(\\dfrac{\\pi}{3}\\)"},
+            {"answer": "C", "text": "\\(\\dfrac{\\pi}{6}\\)"},
+            {"answer": "D", "text": "\\(\\ln\\sqrt{\\dfrac{3}{4}}\\)"}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 22,
+        "points": 0.375,
+        "question": "Fie \\((g_n)_{n\\geq 1}\\) o progresie geometrică astfel încât \\(g_2+g_4=10\\) și \\(g_1+g_2+g_3=7\\). Valoarea termenului \\(g_3\\) este",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(2\\)"},
+            {"answer": "B", "text": "\\(4\\)"},
+            {"answer": "C", "text": "\\(8\\)"},
+            {"answer": "D", "text": "\\(16\\)"}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 23,
+        "points": 0.375,
+        "question": "Pentru fiecare număr real \\(a>1\\) se notează \\(I(a)=\\displaystyle\\int_1^a\\dfrac{\\text{arctg}\\,x}{x^2}dx\\). Valoarea limitei \\(\\displaystyle\\lim_{a\\to\\infty}I(a)\\) este",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(\\dfrac{\\pi}{4}+2\\ln 2\\)"},
+            {"answer": "B", "text": "\\(\\dfrac{\\pi}{4}-\\ln\\sqrt2\\)"},
+            {"answer": "C", "text": "\\(\\dfrac{\\pi}{4}+\\ln\\sqrt2\\)"},
+            {"answer": "D", "text": "\\(\\dfrac{\\pi}{4}+\\ln 2\\)"}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 24,
+        "points": 0.375,
+        "question": "Valoarea limitei \\(\\displaystyle\\lim_{n\\to\\infty}\\dfrac{\\frac{n}{\\sqrt1}+\\frac{n}{\\sqrt2}+\\ldots+\\frac{n}{\\sqrt n}}{\\sqrt1+\\sqrt2+\\ldots+\\sqrt n}\\) este",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(1\\)"},
+            {"answer": "B", "text": "\\(2\\)"},
+            {"answer": "C", "text": "\\(3\\)"},
+            {"answer": "D", "text": "\\(\\infty\\)"}
+        ],
+        "correctAnswer": ["C"]
+    }
+]
+}

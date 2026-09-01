@@ -1,0 +1,587 @@
+{
+    "examTitle" : "Concurs Mate-Info UBB 2021" ,
+    "questions" : [
+  {
+    "questionNumber": 1,
+    "points": 0.3,
+    "question": "Fie \\((a_n)_{n \\ge 0}\\) un şir de numere reale nenule în progresie geometrică, cu raţia \\(r \\in \\mathbb{R}\\). Ştiind că expresia\n\\[E = \\dfrac{4a_4}{a_2} + \\dfrac{4a_8}{a_7} + \\dfrac{a_5 \\cdot a_7}{a_6^2}\\]\nare valoarea minimă posibilă, să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(r = \\dfrac{1}{2}\\)"},
+      {"answer": "B", "text": "\\(\\left|\\dfrac{a_{12}}{a_9}\\right| < \\dfrac{1}{4}\\)"},
+      {"answer": "C", "text": "\\(a_5a_2 + 2a_1a_5 + a_0a_5 > 0\\)"},
+      {"answer": "D", "text": "\\(a_na_{n+1} < 0\\), pentru orice \\(n \\in \\mathbb{N}\\)"}
+    ],
+    "correctAnswer": ["B","D"]
+  },
+  {
+    "questionNumber": 2,
+    "points": 0.3,
+    "question": "Fie dreptele \\(d_1\\) şi \\(d_2\\), respectiv de ecuaţii \\(x - 3y + 1 = 0\\) şi \\(3x + y + 2 = 0\\), \\(a\\) un număr real şi \\(P\\) punctul de coordonate \\((0, a)\\). Punctul \\(P\\) este egal depărtat de dreptele \\(d_1\\) şi \\(d_2\\) dacă \\(a\\) ia valoarea",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(-\\dfrac{1}{4}\\)"},
+      {"answer": "B", "text": "\\(0\\)"},
+      {"answer": "C", "text": "\\(\\dfrac{1}{4}\\)"},
+      {"answer": "D", "text": "\\(\\dfrac{3}{2}\\)"}
+    ],
+    "correctAnswer": ["A","D"]
+  },
+  {
+    "questionNumber": 3,
+    "points": 0.3,
+    "question": "Mulţimea soluţiilor ecuaţiei \\(A_x^6 - 24xC_x^4 - 11A_x^4 = 0\\) este",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(\\{1\\}\\)"},
+      {"answer": "B", "text": "\\(\\{9\\}\\)"},
+      {"answer": "C", "text": "\\(\\{5\\}\\)"},
+      {"answer": "D", "text": "\\(\\{1, 9\\}\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 4,
+    "points": 0.3,
+    "question": "Fie \\(x > 0\\). Coeficientul binomial al termenului care conţine pe \\(x^6\\) din dezvoltarea binomului\n\\[\\left(\\sqrt{x} - \\dfrac{1}{\\sqrt[5]{x}}\\right)^{2021}\\]\neste",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(C_{2021}^{1435}\\)"},
+      {"answer": "B", "text": "\\(C_{2021}^{586}\\)"},
+      {"answer": "C", "text": "\\(C_{2021}^{587}\\)"},
+      {"answer": "D", "text": "\\(C_{2021}^{1434}\\)"}
+    ],
+    "correctAnswer": ["A","B"]
+  },
+  {
+    "questionNumber": 5,
+    "points": 0.3,
+    "question": "Fie \\(M, N, P\\) respectiv \\(Q\\) mijloacele laturilor \\([AB]\\), \\([BC]\\), \\([CD]\\) respectiv \\([DA]\\) ale patrulaterului oarecare \\(ABCD\\). Atunci:",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(\\overrightarrow{AD} + \\overrightarrow{AB} = \\overrightarrow{CB} + \\overrightarrow{CD}\\)"},
+      {"answer": "B", "text": "\\(\\overrightarrow{MN} + \\overrightarrow{PQ} = \\overrightarrow{0}\\)"},
+      {"answer": "C", "text": "\\(\\overrightarrow{AB} + \\overrightarrow{BC} = \\overrightarrow{AD} + \\overrightarrow{DC}\\)"},
+      {"answer": "D", "text": "\\(\\overrightarrow{AD} + \\overrightarrow{BC} = \\overrightarrow{BD} + \\overrightarrow{CA}\\)"}
+    ],
+    "correctAnswer": ["B","C"]
+  },
+  {
+    "questionNumber": 6,
+    "points": 0.3,
+    "question": "Fie \\((a_n)_{n \\ge 1}\\) şirul de termen general\n\\[a_n = \\left(1 + \\dfrac{1}{n}\\right)\\left(1 + \\dfrac{2}{n}\\right) \\cdots \\left(1 + \\dfrac{n}{n}\\right).\\]\nSă se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} \\dfrac{a_{n+1}}{a_n} < 1\\)"},
+      {"answer": "B", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} \\dfrac{a_n}{a_{n+1}} < 1\\)"},
+      {"answer": "C", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} a_n = \\ln 2\\)"},
+      {"answer": "D", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} a_n = \\infty\\)"}
+    ],
+    "correctAnswer": ["B","D"]
+  },
+  {
+    "questionNumber": 7,
+    "points": 0.3,
+    "question": "Dacă \\(\\log_{12}27 = a\\), atunci valoarea lui \\(\\log_6 16\\) este",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(4\\)"},
+      {"answer": "B", "text": "\\(\\dfrac{4(3-a)}{3+a}\\)"},
+      {"answer": "C", "text": "\\(\\dfrac{4+a}{4-a}\\)"},
+      {"answer": "D", "text": "\\(\\dfrac{4(3+a)}{3-a}\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 8,
+    "points": 0.3,
+    "question": "Pe intervalul \\((-1, 1)\\) definim legea de compoziţie \"\\(*\\)\" prin \\(x * y = \\dfrac{x+y}{1+xy}\\), pentru orice \\(x, y \\in (-1, 1)\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "Elementul neutru în raport cu \"\\(*\\)\" este \\(\\dfrac{1}{2}\\)"},
+      {"answer": "B", "text": "\\(\\dfrac{1}{3} * \\left(\\dfrac{1}{3} * \\dfrac{1}{3}\\right) = \\dfrac{5}{9}\\)"},
+      {"answer": "C", "text": "Legea de compoziţie \"\\(*\\)\" este asociativă."},
+      {"answer": "D", "text": "Simetricul lui \\(\\dfrac{1}{3}\\) în raport cu \"\\(*\\)\" este \\(\\dfrac{1}{9}\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 9,
+    "points": 0.3,
+    "question": "Fie \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\) funcţia definită prin\n\\[f(x) = \\begin{cases} x^4 + a, & x \\in (-\\infty, 0] \\\\ bx^3, & x \\in (0, \\infty), \\end{cases}\\]\nunde \\(a, b \\in \\mathbb{R}\\) sunt parametri. Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "Dacă \\(a = 0\\) şi \\(b \\in \\mathbb{R}\\), atunci funcţia \\(f\\) este continuă pe \\(\\mathbb{R}\\)."},
+      {"answer": "B", "text": "Dacă \\(a = 1\\) şi \\(b = -1\\), atunci funcţia \\(f\\) este strict descrescătoare pe \\(\\mathbb{R}\\)."},
+      {"answer": "C", "text": "Dacă \\(a = 1\\) şi \\(b = -1\\), atunci funcţia \\(f\\) este discontinuă în \\(0\\)."},
+      {"answer": "D", "text": "\\(\\displaystyle\\lim_{x \\to -\\infty} f(x) = \\lim_{x \\to \\infty} f(x)\\) oricare ar fi \\(a, b \\in \\mathbb{R}\\)"}
+    ],
+    "correctAnswer": ["A","B","C"]
+  },
+  {
+    "questionNumber": 10,
+    "points": 0.3,
+    "question": "Dacă \\(\\cos x = -\\dfrac{1}{7}\\) şi \\(\\cos y = -\\dfrac{13}{14}\\), unde \\(x \\in \\left(\\pi, \\dfrac{3\\pi}{2}\\right)\\), atunci diferenţa \\(x - y\\) poate fi",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(-\\dfrac{\\pi}{3}\\)"},
+      {"answer": "B", "text": "\\(\\dfrac{\\pi}{6}\\)"},
+      {"answer": "C", "text": "\\(\\dfrac{\\pi}{2}\\)"},
+      {"answer": "D", "text": "\\(\\dfrac{2\\pi}{3}\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 11,
+    "points": 0.3,
+    "question": "Pentru fiecare \\(n \\in \\mathbb{N}^*\\) se defineşte funcţia \\(f_n : \\mathbb{R} \\rightarrow \\mathbb{R}\\) prin \\(f_n(x) = (2-x)^n \\), \\(x \\in \\mathbb{R}\\) . Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(0 < f_n(x) < 1\\), pentru orice \\(n\\ \\in \\mathbb{N^\\ast}\\) şi orice \\(x \\in [1, 2]\\)"},
+      {"answer": "B", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} f_n(x) = 0\\), pentru orice \\(x \\in [1, 2]\\)"},
+      {"answer": "C", "text": "Şirul \\((f_n(4))_{n \\geq 1}\\) are un subșir crescător"},
+      {"answer": "D", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} f_n(4) = \\infty\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 12,
+    "points": 0.3,
+    "question": "Fie \\(ABC\\) un triunghi nedegenerat astfel încât lungimea segmentului \\([BC]\\) este \\(\\sqrt3\\), măsura unghiului \\(\\widehat{B}\\) este \\(60^\\circ\\) şi lungimea razei cercului circumscris triunghiului \\(ABC\\) este \\(1\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "Aria triunghiului \\(ABC\\) este egală cu \\(\\dfrac{3\\sqrt3}{2}\\)"},
+      {"answer": "B", "text": "Perimetrul triunghiului \\(ABC\\) este \\(3\\sqrt3\\)"},
+      {"answer": "C", "text": "Triunghiul \\(ABC\\) este echilateral."},
+      {"answer": "D", "text": "Lungimea razei cercului înscris în triunghiul \\(ABC\\) este egală cu \\(\\dfrac{\\sqrt3}{2}\\)"}
+    ],
+    "correctAnswer": ["B","C"]
+  },
+  {
+    "questionNumber": 13,
+    "points": 0.3,
+    "question": "Considerăm ecuațiile dreptelor \\(d_1 : x = 1\\) şi \\(d_2 : y = 1\\) într-un plan cu un sistem de coordonate carteziene cu originea în \\(O\\). Oricare ar fi \\(A\\),\\(B\\),\\(C\\) puncte în plan astfel încât \\(O\\), \\(A\\), \\(B\\), \\(C\\) sunt vârfurile unui pătrat având una dintre diagonale \\([AB]\\) cu \\(A \\in d_1\\) și \\(B \\in d_2\\) , avem: ",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(C \\in d\\), unde \\(d : x - y = 0\\)"},
+      {"answer": "B", "text": "Distanţa dintre \\(A\\) şi \\(B\\) este cel puțin egală cu \\(\\sqrt2\\)"},
+      {"answer": "C", "text": "\\(C \\in d\\), unde \\(d : x + y = 2\\)"},
+      {"answer": "D", "text": "Aria pătratului determinat de \\(O, A, B, C\\) este cel puțin egală cu \\(1\\)"}
+    ],
+    "correctAnswer": ["B","C","D"]
+  },
+  {
+    "questionNumber": 14,
+    "points": 0.3,
+    "question": "Fie \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\) funcţia definită prin \\(f(x) = \\sqrt[3]{x + 2} - \\sqrt[3]{x}\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "Funcţia \\(f\\) este derivabilă în punctul \\(x \\in \\mathbb{R} \\Leftrightarrow x \\in \\mathbb{R} \\setminus \\{-2, 0\\}\\)"},
+      {"answer": "B", "text": "Funcţia \\(f\\) are exact un punct de extrem local."},
+      {"answer": "C", "text": "Funcţia \\(f\\) are cel puțin un punct de minim global."},
+      {"answer": "D", "text": "\\(\\sqrt[3]3 + \\sqrt[3]7 < 2\\sqrt[3]5\\)."}
+    ],
+    "correctAnswer": ["A","B","D"]
+  },
+  {
+      "questionNumber": 15,
+      "points": 0.3,
+      "question": "Relativ la un reper cartezian ortonormat al planului, se consideră punctele \\(A(7, 5)\\), \\(B(9, 1)\\). Mediatoarea segmentului \\([AB]\\) este \\(d : x - 2y = 2\\). Notăm cu \\(\\mathcal{C}\\) mulţimea tuturor cercurilor având centrul pe dreapta \\(d\\) şi care trec prin \\(A\\) şi \\(B\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+      "category": "geometrie",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "Există în \\(\\mathcal{C}\\) un cerc cu aria egală cu \\(\\pi\\)."
+        },
+        {
+          "answer": "B",
+          "text": "Există în \\(\\mathcal{C}\\) un cerc cu aria egală cu \\(17\\)."
+        },
+        {
+          "answer": "C",
+          "text": "Există în \\(\\mathcal{C}\\) un cerc care intersectează fiecare axă de coordonate în exact un punct."
+        },
+        {
+          "answer": "D",
+          "text": "Pentru punctul \\(D(3, 3)\\), cercul circumscris triunghiului \\(ABD\\) se află în \\(\\mathcal{C}\\)."
+        }
+      ],
+      "correctAnswer": ["B","D"]
+    },
+    {
+      "questionNumber": 16,
+      "points": 0.3,
+      "question": "Se consideră ecuaţia matriceală\n\\[\\begin{pmatrix} 2 & 3a & 1 & -1 \\\\ 1 & 2 & a & 2 \\\\ 1 & 1 & 4 & 3 \\end{pmatrix} X = \\begin{pmatrix} 1 \\\\ 1 \\\\ 1 \\end{pmatrix}, \\quad (1)\\]\nîn care toate matricele care apar sunt considerate matrice cu elemente numere reale. Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+      "category": "algebra",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "Indiferent ce valoare ia parametrul \\(a \\in \\mathbb{R}\\), nu există matrice din \\(\\mathcal{M}_3(\\mathbb{R})\\) care să verifice \\((1)\\)."
+        },
+        {
+          "answer": "B",
+          "text": "Dacă \\(a \\in \\mathbb{R} \\setminus \\{3\\}\\), atunci ecuaţia \\((1)\\) are cel puţin o soluţie."
+        },
+        {
+          "answer": "C",
+          "text": "Ecuaţia \\((1)\\) are cel puţin o soluţie pentru orice \\(a \\in \\mathbb{R}\\)."
+        },
+        {
+          "answer": "D",
+          "text": "Dacă \\(\\begin{vmatrix} 2 & 3a & 1 \\\\ 1 & 2 & a \\\\ 1 & 1 & 4 \\end{vmatrix} = 0\\), atunci ecuaţia \\((1)\\) nu are nicio soluţie."
+        }
+      ],
+      "correctAnswer": ["A","B"]
+    },
+    {
+      "questionNumber": 17,
+      "points": 0.3,
+      "question": "Se notează cu \\(\\ell\\) valoarea limitei \\(\\displaystyle\\lim_{x \\to \\frac{\\pi}{2}} (\\sin x + \\cos x)^{\\operatorname{tg} x}\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+      "category": "analiza",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\ell = \\infty\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\ell < 1\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\ell \\in \\mathbb{R} \\setminus \\mathbb{Q}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\ell \\in (2, \\infty)\\)"
+        }
+      ],
+      "correctAnswer": ["C","D"]
+    },
+    {
+      "questionNumber": 18,
+      "points": 0.3,
+      "question": "Fie \\(v\\) valoarea minimă a expresiei \\(E(x,y) = x^2 + 2y^2\\), \\(x \\in \\mathbb{R},\\) \\(y \\in \\mathbb{R}\\), unde \\(x\\) şi \\(y\\) verifică ecuația\n\\[\\begin{vmatrix} x & y & 1 \\\\ 1 & 0 & 1 \\\\ 0 & -1/2 & 1 \\end{vmatrix} = 0.\\]\nAtunci",
+      "category": "algebra",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(v > 0\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(v = 1\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(v < 1\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(v = -\\dfrac{1}{3}\\)"
+        }
+      ],
+      "correctAnswer": ["A","C"]
+    },
+    {
+      "questionNumber": 19,
+      "points": 0.3,
+      "question": "Specificaţi care dintre următoarele condiţii implică faptul că dreptele \\((d_1) : ax + by + c = 0\\), \\((d_2) : bx + cy + a = 0\\) şi \\((d_3) : cx + ay + b = 0\\) au cel puţin un punct comun, \\(a, b, c\\) fiind numere reale nenule:",
+      "category": "geometrie",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(a + b + c = 0\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(a^2 + b^2 + c^2 = ab + bc + ca\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(a^3 + b^3 + c^3 = 3abc\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(a^2 + b^2 + c^2 = 2(ab + bc + ca)\\)"
+        }
+      ],
+      "correctAnswer": ["A","B","C"]
+    },
+    {
+      "questionNumber": 20,
+      "points": 0.3,
+      "question": "Fie \\(f : \\mathbb{R} \\rightarrow (-\\infty, 0)\\) o funcţie care admite primitive şi fie \\(F\\) o primitivă a lui \\(f\\). Valoarea parametrului \\(m \\in \\mathbb{R}\\) pentru care\n\\[F(4m^2 - 12m + 5) \\ge F(3m^2 - 6m - 4)\\]\neste:",
+      "category": "analiza",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(m = 1\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(m = 2\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(m = 3\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(m = 4\\)"
+        }
+      ],
+      "correctAnswer": ["C"]
+    },
+    {
+      "questionNumber": 21,
+      "points": 0.3,
+      "question": "Fie funcţia \\(f : \\mathbb{R} \\rightarrow \\mathbb{C}^*\\) definită prin \\(f(x) = \\cos x + i\\sin x\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+      "category": "algebra",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(f\\) este un morfism de grupuri între grupurile \\((\\mathbb{R}, +)\\) şi \\((\\mathbb{C}^*, \\cdot)\\)."
+        },
+        {
+          "answer": "B",
+          "text": "\\(f\\) este injectivă."
+        },
+        {
+          "answer": "C",
+          "text": "\\(f\\) este surjectivă."
+        },
+        {
+          "answer": "D",
+          "text": "\\(f\\) este un izomorfism de grupuri între grupurile \\((\\mathbb{R}, +)\\) şi \\((\\mathbb{C}^*, \\cdot)\\)."
+        }
+      ],
+      "correctAnswer": ["A"]
+    },
+    {
+      "questionNumber": 22,
+      "points": 0.3,
+      "question": "Dacă \\(S\\) este mulţimea soluţiilor reale ale inecuaţiei \\(2\\cos^2 x \\ge \\cos x + 1\\), atunci",
+      "category": "trigonometrie",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(2020\\pi \\in S\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(2021\\pi \\in S\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\left[\\dfrac{2018\\pi}{3}, \\dfrac{2020\\pi}{3}\\right] \\subset S\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(20 \\in S\\)"
+        }
+      ],
+      "correctAnswer": ["A","B","C"]
+    },
+    {
+      "questionNumber": 23,
+      "points": 0.3,
+      "question": "Se notează cu \\(\\ell\\) valoarea limitei \\(\\displaystyle\\lim_{t \\to \\infty} \\dfrac{1}{t\\sqrt{t}} \\int_0^t \\left(\\sqrt{x} + \\sin(x^2)\\right) dx\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+      "category": "analiza",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\ell = 0\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\ell = \\dfrac{2}{3}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\ell = \\infty\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\ell = \\pi\\)"
+        }
+      ],
+      "correctAnswer": ["B"]
+    },
+    {
+      "questionNumber": 24,
+      "points": 0.3,
+      "question": "Să presupunem că există numere complexe \\(a, b, c, d\\) diferite de zero, astfel încât \\(z \\in \\mathbb{C}\\) satisface ecuaţiile \\(az^3 + bz^2 + cz + d = 0\\) şi \\(bz^3 + cz^2 + dz + a = 0\\). În acest caz, toate valorile posibile (complexe) ale lui \\(z\\) sunt:",
+      "category": "algebra",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\{i, -i\\}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\{1, -1\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\{1, i, -1\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\{1, i, -1, -i\\}\\)"
+        }
+      ],
+      "correctAnswer": ["D"]
+    },
+    {
+      "questionNumber": 25,
+      "points": 0.3,
+      "question": "Fie \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\) funcţia definită prin\n\\[f(x) = |x - 2k|, \\quad \\text{pentru orice } x \\in (2k-1, 2k+1] \\text{ şi orice } k \\in \\mathbb{Z}.\\]\nSă se indice care dintre următoarele afirmaţii sunt adevărate.",
+      "category": "analiza",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "Funcţia \\(f\\) nu este continuă pe \\(\\mathbb{R}\\)."
+        },
+        {
+          "answer": "B",
+          "text": "Funcţia \\(f\\) este derivabilă pe \\(\\mathbb{R} \\setminus \\mathbb{Z}\\)."
+        },
+        {
+          "answer": "C",
+          "text": "Funcţia \\(f\\) este derivabilă pe \\(\\mathbb{R}\\)."
+        },
+        {
+          "answer": "D",
+          "text": "Funcţia \\(f\\) nu este continuă în punctele mulţimii \\(\\{2k-1 : k \\in \\mathbb{Z}\\}\\)."
+        }
+      ],
+      "correctAnswer": ["B"]
+    },
+    {
+      "questionNumber": 26,
+      "points": 0.3,
+      "question": "Fie \\(I = \\displaystyle\\lim_{t \\to \\infty} \\int_0^t \\dfrac{x}{x^4 + 2x^2 + 2}\\, dx\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+      "category": "analiza",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(I = \\infty\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(I = \\dfrac{\\pi}{8}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(I = \\dfrac{\\pi}{4}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(I < \\dfrac{1}{2}\\)"
+        }
+      ],
+      "correctAnswer": ["B","D"]
+    },
+    {
+      "questionNumber": 27,
+      "points": 0.3,
+      "question": "Fie \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\) funcţia definită prin \\(f(x) = \\sqrt[3]{(x^2-1)^2}\\) şi fie \\(n\\) numărul punctelor de extrem local ale lui \\(f\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+      "category": "analiza",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(n = 0\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(n = 1\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(n = 2\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(n = 3\\)"
+        }
+      ],
+      "correctAnswer": ["D"]
+    },
+    {
+      "questionNumber": 28,
+      "points": 0.3,
+      "question": "În triunghiul \\(ABC\\) mediana din vârful \\(A\\) al triunghiului este egală cu latura \\(BC\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+      "category": "trigonometrie",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(5\\sin^2A - \\cos2B - \\cos2C = -2\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(5\\sin^2A + \\cos2B + \\cos2C = 2\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(3\\sin^2A - 4\\sin B\\sin C\\cos A = 0\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(4\\sin^2A - 3\\sin B\\sin C\\cos A = 0\\)"
+        }
+      ],
+      "correctAnswer": ["B","C"]
+    },
+    {
+      "questionNumber": 29,
+      "points": 0.3,
+      "question": "Un segment \\(MN\\) paralel cu bazele unui trapez, cu capetele segmentului aflate pe cele două laturi neparalele împarte aria trapezului în două părţi egale. Dacă lungimile bazelor sunt \\(a\\) şi \\(b\\), \\(a > b\\), atunci pentru lungimea \\(l\\) a segmentului \\(MN\\) avem:",
+      "category": "geometrie",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(l = \\sqrt{\\dfrac{a^2+b^2}{2}}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(l = \\sqrt{ab}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(l > \\dfrac{a+b}{2}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(l = \\dfrac{2}{\\dfrac{1}{a} + \\dfrac{1}{b}}\\)"
+        }
+      ],
+      "correctAnswer": ["A","C"]
+    },
+    {
+      "questionNumber": 30,
+      "points": 0.3,
+      "question": "Notăm cu \\(A\\) mulţimea numerelor naturale \\(n\\) care au ultima cifră \\(6\\) şi au proprietatea că, dacă mutăm această cifră în faţa numărului, obţinem un număr de \\(4\\) ori mai mare. Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+      "category": "algebra",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "Dacă \\(n \\in A\\), atunci \\(3 \\mid n\\)."
+        },
+        {
+          "answer": "B",
+          "text": "Există \\(n \\in A\\) astfel încât \\(12 \\mid n\\)."
+        },
+        {
+          "answer": "C",
+          "text": "Există \\(n \\in A\\) care are \\(8\\) cifre."
+        },
+        {
+          "answer": "D",
+          "text": "Există \\(n \\in A\\) care are toate cifrele diferite două câte două."
+        }
+      ],
+      "correctAnswer": ["A","D"]
+    }
+  ]
+}

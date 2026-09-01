@@ -1,0 +1,936 @@
+{
+    "examTitle": "Simulare 2018",
+    "type": "single-choice",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "category": "analiza",
+            "groupId": 1,
+            "context": null,
+            "question": "\\(\\displaystyle\\int_{-1}^{1}\\ln\\left(x+\\sqrt{1+x^2}\\right)\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(e\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\ln 2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-\\ln 2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2\\ln 2\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 2,
+            "category": "analiza",
+            "groupId": 1,
+            "context": null,
+            "question": "\\(\\displaystyle\\int_0^1\\frac{dx}{2x^2-2x+1}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\pi\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{4}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\ln 2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{2}\\ln 2\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 3,
+            "category": "analiza",
+            "groupId": 1,
+            "context": null,
+            "question": "\\(\\displaystyle\\int_0^1\\sqrt{\\frac{x}{1+x^3}}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac32\\ln 3\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac23\\ln(\\sqrt2+\\sqrt3)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac23\\ln 2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac23\\ln(1+\\sqrt2)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac32\\ln 2\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 4,
+            "category": "analiza",
+            "groupId": 1,
+            "context": null,
+            "question": "\\(\\displaystyle\\int_{-1}^{1}\\frac{x}{e^x+x+1}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\ln\\frac{e}{1+e}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\ln\\frac{e+1}{e-1}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{e+1}{e-1}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\ln\\frac{e}{2+e}\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 5,
+            "category": "analiza",
+            "groupId": 2,
+            "context": "",
+            "question": "\\(\\displaystyle\\lim_{x\\to\\infty}\\frac{2x+1}{x+1}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(+\\infty\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(e\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 6,
+            "category": "analiza",
+            "groupId": 2,
+            "context": "",
+            "question": "\\(\\displaystyle\\lim_{x\\to\\infty}\\left(\\ln(e^x+2^x)-\\sqrt{x^2-4x+1}\\right)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(+\\infty\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\ln 2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(4\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 7,
+            "category": "analiza",
+            "groupId": 2,
+            "context": "",
+            "question": "\\(\\displaystyle\\lim_{x\\to1}\\frac{x^a-x^b}{\\ln^2x}\\), \\(a,b\\in\\mathbb{R}\\), este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac{a-b}{2}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(b-a\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(e^a-e^b\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(ab(a-b)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(a-b\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 8,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Se consideră funcția \\(f:\\mathbb{R}\\to\\mathbb{R},\\quad f(x)=e^{2x}(x^2+x+m)\\), unde \\(m\\) este un parametru real.",
+            "question": "\\(f(0)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(m+3\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(e^2(m+3)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(m\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-m\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 9,
+            "category": "analiza",
+            "groupId": 3,
+            "context": "Se consideră funcția \\(f:\\mathbb{R}\\to\\mathbb{R},\\quad f(x)=e^{2x}(x^2+x+m)\\), unde \\(m\\) este un parametru real.",
+            "question": "\\(f\\) este monotonă pe \\(\\mathbb{R}\\) dacă și numai dacă \\(m\\) aparține mulțimii:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\left[\\frac12,1\\right]\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\([0,\\infty)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((0,\\infty)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\mathbb{R}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\left[\\frac12,\\infty\\right)\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 10,
+            "category": "analiza",
+            "groupId": 3,
+            "context": "Se consideră funcția \\(f:\\mathbb{R}\\to\\mathbb{R},\\quad f(x)=e^{2x}(x^2+x+m)\\), unde \\(m\\) este un parametru real.",
+            "question": "\\(f\\) are două puncte de extrem dacă și numai dacă \\(m\\) aparține mulțimii:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\left(-\\infty,\\frac12\\right)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\([0,\\infty)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((-2,2)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\mathbb{R}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\((-1,1)\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 11,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "Se consideră funcția \\(f:\\mathbb{R}\\to\\mathbb{R},\\quad f(x)=|x-a|\\sin x\\), unde \\(a\\) este un parametru real. Numărul valorilor lui \\(a\\) pentru care \\(f\\) este derivabilă pe \\(\\mathbb{R}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "infinit"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(4\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 12,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "Se consideră șirul \\((x_n)_{n\\geq0}\\) definit prin formula de recurență \\(x_{n+1}=x_n^2-2x_n+2,\\quad x_0=a\\in\\mathbb{R}\\). Șirul este convergent dacă și numai dacă \\(a\\) aparține mulțimii:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\([1,2]\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\([-1,1]\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\([0,2]\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\([0,1]\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\([-1,0]\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 13,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Dacă \\(a=\\log_6 2\\), atunci \\(\\log_3 12\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{2+a}{2-a}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{a+4}{a+3}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{1+a}{1-a}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac14\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 14,
+            "category": "algebra",
+            "groupId": 4,
+            "context": "Ecuația \\(x^2-2mx+2m^2-2m=0\\), unde \\(m\\) este un parametru real, are rădăcinile reale \\(x_1\\) și \\(x_2\\).",
+            "question": "Suma \\(x_1+x_2\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2m\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2m^2-2m\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(m\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-m\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 15,
+            "category": "algebra",
+            "groupId": 4,
+            "context": "Ecuația \\(x^2-2mx+2m^2-2m=0\\), unde \\(m\\) este un parametru real, are rădăcinile reale \\(x_1\\) și \\(x_2\\).",
+            "question": "Mulțimea valorilor produsului \\(x_1x_2\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\([0,4\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\left[-\\frac12,4\\right]\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\left[\\frac12,2\\right]\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\([-1,2]\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\mathbb{R}\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 16,
+            "category": "algebra",
+            "groupId": 5,
+            "context": "Se consideră ecuația \\(x^5+a^2x^4+1=0,\\quad a\\in\\mathbb{R}\\), cu rădăcinile \\(x_i,\\ i=1,\\ldots,5\\).",
+            "question": "Valoarea sumei \\(\\displaystyle\\sum_{i=1}^{5}x_i\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-5a\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(a^4\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-a^2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-a^4\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 17,
+            "category": "algebra",
+            "groupId": 5,
+            "context": "Se consideră ecuația \\(x^5+a^2x^4+1=0,\\quad a\\in\\mathbb{R}\\), cu rădăcinile \\(x_i,\\ i=1,\\ldots,5\\).",
+            "question": "Valoarea sumei \\(\\displaystyle\\sum_{i=1}^{5}\\frac{1}{x_i^4}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(a^4\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-5a^4\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-4a^2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(a^3\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 18,
+            "category": "algebra",
+            "groupId": 5,
+            "context": "Se consideră ecuația \\(x^5+a^2x^4+1=0,\\quad a\\in\\mathbb{R}\\), cu rădăcinile \\(x_i,\\ i=1,\\ldots,5\\).",
+            "question": "Mulțimea valorilor lui \\(a\\) pentru care două dintre rădăcinile ecuației au partea imaginară nenulă este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\([-1,1]\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\varnothing\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((-\\infty,0]\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((-\\infty,0)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\mathbb{R}\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 19,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Numărul valorilor parametrului real \\(a\\) pentru care sistemul\n                            \\(\\displaystyle\n                            \\begin{cases}\n                            ax+y+z=0\\\\\n                            x+ay+z=0\\\\\n                            x+y+az=0\\\\\n                            x^2+y^2+z^2=3\n                            \\end{cases}\n                            \\)\n                            are cel puțin o soluție este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "infinit"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 20,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Fie \\(A\\in M_2(\\mathbb{R})\\) și \\(\\lambda\\in\\mathbb{R}\\) astfel încât \\(A^2-\\lambda A+\\lambda^2I_2=O_2\\). Matricea \\(A^{2018}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\lambda^{2018}I_2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(A\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\lambda^{2016}A^2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\lambda^2A^2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(O_2\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 21,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Se consideră grupul \\((G,*)\\), unde \\(G=(-1,1)\\) și \\(\\displaystyle x*y=\\frac{x+y}{1+xy}\\).",
+            "question": "\\(\\displaystyle\\frac23*\\frac34\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac9{12}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{14}{15}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{17}{18}\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 22,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Se consideră grupul \\((G,*)\\), unde \\(G=(-1,1)\\) și \\(\\displaystyle x*y=\\frac{x+y}{1+xy}\\).",
+            "question": "Elementul neutru al grupului \\((G,*)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac12\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle-\\frac12\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{\\sqrt2}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{\\sqrt2-1}{\\sqrt2+1}\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 23,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Se consideră grupul \\((G,*)\\), unde \\(G=(-1,1)\\) și \\(\\displaystyle x*y=\\frac{x+y}{1+xy}\\).",
+            "question": "Dacă \\(((0,\\infty),\\cdot)\\) este grupul multiplicativ al numerelor reale pozitive, atunci funcția crescătoare \\(f:G\\to(0,\\infty),\\ \\displaystyle f(x)=\\frac{a+x}{b-x}\\), este un izomorfism de grupuri pentru:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(a=b=2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(a=-b=1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(a=-b=-1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(a= b=-1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(a=b=1\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 24,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Se consideră grupul \\((G,*)\\), unde \\(G=(-1,1)\\) și \\(\\displaystyle x*y=\\frac{x+y}{1+xy}\\).",
+            "question": "\\(\\displaystyle\\frac12*\\frac14*\\cdots*\\frac1{10}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac56\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{10}{13}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{11}{15}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac79\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac89\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 25,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Numărul valorilor parametrului real \\(m\\) pentru care ecuația \\(\\displaystyle\\sqrt{\\cos^4x+4\\sin^2x}+\\sqrt{\\sin^4x+4\\cos^2x}=m\\) are soluții este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "infinit"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 26,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "Fie \\(f:[0,3\\pi]\\to\\mathbb{R},\\quad f(x)=\\sin x+\\cos(4x)\\).",
+            "question": "\\(\\displaystyle f\\left(\\frac{\\pi}{2}\\right)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\sqrt2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2\\sqrt2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 27,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "Fie \\(f:[0,3\\pi]\\to\\mathbb{R},\\quad f(x)=\\sin x+\\cos(4x)\\).",
+            "question": "Numărul soluțiilor ecuației \\(f(x)=2\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(6\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 28,
+            "category": "geometrie",
+            "groupId": null,
+            "context": null,
+            "question": "Ecuațiile dreptelor care sunt la distanță \\(2\\) de punctul \\(A(2,1)\\) și trec prin originea \\(O(0,0)\\) sunt:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "alt răspuns"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(3x+4y=0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(y=\\pm x\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2x\\pm y=0\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(x\\pm2y=0\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 29,
+            "category": "geometrie",
+            "groupId": 8,
+            "context": "Se consideră punctele \\(A(6,0)\\), \\(B(0,3)\\) și \\(O(0,0)\\) în plan.",
+            "question": "Ecuația înălțimii din \\(O\\) a triunghiului \\(AOB\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(x=2y\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2y=3x\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(y=2x\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(x=y\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(3x=y\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 30,
+            "category": "geometrie",
+            "groupId": 8,
+            "context": "Se consideră punctele \\(A(6,0)\\), \\(B(0,3)\\) și \\(O(0,0)\\) în plan.",
+            "question": "Coordonatele centrului de greutate al triunghiului \\(AOB\\) sunt:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((2,1)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((1,1)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((1,2)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((2,2)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\((3,2)\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        }
+    ]
+}

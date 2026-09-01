@@ -1,0 +1,395 @@
+{
+    "examTitle" : "Concurs Mate-Info UBB 2022" ,
+    "questions" : [
+  {
+    "questionNumber": 1,
+    "points": 0.3,
+    "question": "Fie \\(x = \\sin\\dfrac{12133}{6}\\pi\\). Atunci",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(x = \\dfrac{\\sqrt3}{2}\\)"},
+      {"answer": "B", "text": "\\(x = \\dfrac{1}{2}\\)"},
+      {"answer": "C", "text": "\\(x > 0\\)"},
+      {"answer": "D", "text": "\\(x < 0\\)"}
+    ],
+    "correctAnswer": ["B","C"]
+  },
+  {
+    "questionNumber": 2,
+    "points": 0.3,
+    "question": "Dacă într-un sistem cartezian de coordonate vârfurile triunghiului \\(ABC\\) au coordonatele \\(A(2,3)\\), \\(B(-1,1)\\), \\(C(-3,4)\\), iar \\(G\\) este centrul de greutate al triunghiului \\(ABC\\), atunci mijlocul \\(F\\) al segmentului \\(AG\\) are coordonatele",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(F(0,0)\\)"},
+      {"answer": "B", "text": "\\(F\\left(\\dfrac{2}{3}, \\dfrac{17}{6}\\right)\\)"},
+      {"answer": "C", "text": "\\(F\\left(-\\dfrac{2}{3}, \\dfrac{8}{3}\\right)\\)"},
+      {"answer": "D", "text": "altă valoare"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 3,
+    "points": 0.3,
+    "question": "Numărul soluţiilor ecuaţiei \\(3\\sin x - 2 = 0\\) pe intervalul \\([0, \\pi]\\) este",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(0\\)"},
+      {"answer": "B", "text": "\\(1\\)"},
+      {"answer": "C", "text": "\\(2\\)"},
+      {"answer": "D", "text": "infinit"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 4,
+    "points": 0.3,
+    "question": "Considerăm în \\(\\mathbb{R}\\) ecuaţia \\(\\sqrt{x^2 - 3} = x^2 - 5\\). Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "Ecuaţia nu are soluţii."},
+      {"answer": "B", "text": "Ecuaţia are exact două soluţii."},
+      {"answer": "C", "text": "Ecuaţia are exact patru soluţii."},
+      {"answer": "D", "text": "Ecuaţia are numai soluţii pozitive."}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 5,
+    "points": 0.3,
+    "question": "Numărul termenilor raţionali din dezvoltarea \\(\\left(\\sqrt2 + \\sqrt[3]{5}\\right)^{300}\\) este",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(50\\)"},
+      {"answer": "B", "text": "\\(51\\)"},
+      {"answer": "C", "text": "\\(52\\)"},
+      {"answer": "D", "text": "\\(150\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 6,
+    "points": 0.3,
+    "question": "Fie matricea \\(A = \\begin{pmatrix} 1 & 1 \\\\ 1 & 0 \\end{pmatrix} \\in \\mathcal{M}_2(\\mathbb{R})\\). Suma elementelor matricei \\(A^5\\) este",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(19\\)"},
+      {"answer": "B", "text": "\\(20\\)"},
+      {"answer": "C", "text": "\\(21\\)"},
+      {"answer": "D", "text": "\\(22\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 7,
+    "points": 0.3,
+    "question": "Fie \\((x_n)_{n \\ge 1}\\) un şir de numere reale pozitive, cu proprietatea că \\((n+1)x_{n+1} - nx_n < 0\\), oricare ar fi \\(n \\ge 1\\). Atunci limita şirului este",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(1\\)"},
+      {"answer": "B", "text": "\\(\\infty\\)"},
+      {"answer": "C", "text": "nu există"},
+      {"answer": "D", "text": "\\(0\\)"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 8,
+    "points": 0.3,
+    "question": "Funcţia \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\), definită prin\n\\[f(x) = \\begin{cases} e^{-\\frac{1}{x^2}}, & \\text{dacă } x < 0 \\\\ x^3 + x + \\alpha, & \\text{dacă } x \\ge 0, \\end{cases}\\]\neste continuă dacă",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(\\alpha \\in \\mathbb{R}\\)"},
+      {"answer": "B", "text": "\\(\\alpha = 1\\)"},
+      {"answer": "C", "text": "\\(\\alpha = 0\\)"},
+      {"answer": "D", "text": "nu există \\(\\alpha \\in \\mathbb{R}\\) astfel încât funcţia să fie continuă"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 9,
+    "points": 0.3,
+    "question": "Ecuaţia tangentei la graficul funcţiei \\(f(x) = \\sqrt[3]{x - 1}\\) în punctul de abscisă \\(x = 9\\) este",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(-12y + x - 15 = 0\\)"},
+      {"answer": "B", "text": "\\(12y - x - 15 = 0\\)"},
+      {"answer": "C", "text": "\\(y - 12x - 15 = 0\\)"},
+      {"answer": "D", "text": "\\(y + 12x + 15 = 0\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 10,
+    "points": 0.3,
+    "question": "Mulţimea soluţiilor ecuaţiei\n\\[4\\sin x \\cos^3 x - 4\\sin^3 x \\cos x = 1\\]\neste",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(\\left\\{\\dfrac{\\pi}{8} + \\dfrac{k\\pi}{4} \\mid k \\in \\mathbb{Z}\\right\\}\\)"},
+      {"answer": "B", "text": "\\(\\left\\{\\dfrac{\\pi}{8} + \\dfrac{k\\pi}{2} \\mid k \\in \\mathbb{Z}\\right\\}\\)"},
+      {"answer": "C", "text": "\\(\\left\\{\\dfrac{\\pi}{8} - k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"},
+      {"answer": "D", "text": "\\(\\left\\{\\dfrac{\\pi}{4} + \\dfrac{k\\pi}{8} \\mid k \\in \\mathbb{Z}\\right\\}\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 11,
+    "points": 0.3,
+    "question": "Vârfurile \\(A\\) şi \\(B\\) ale paralelogramului \\(ABCD\\) se găsesc pe dreapta de ecuaţie \\(3x - y - 4 = 0\\), iar punctul de intersecţie \\(O\\) al diagonalelor \\(AC\\) şi \\(BD\\) are coordonatele \\((3, 4)\\). Dacă coordonatele vârfului \\(A\\) sunt \\((0, -4)\\), atunci ecuaţia dreptei \\(CD\\) este",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(x + 3y - 42 = 0\\)"},
+      {"answer": "B", "text": "\\(x - 3y - 6 = 0\\)"},
+      {"answer": "C", "text": "\\(3x - y - 6 = 0\\)"},
+      {"answer": "D", "text": "\\(y = 3x + 6\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 12,
+    "points": 0.3,
+    "question": "Fie funcţia \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\) definită prin \\(f(x) = 2x - [2x]\\), unde prin \\([a]\\) se notează partea întreagă a numărului real \\(a \\in \\mathbb{R}\\). Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(f\\) are perioada \\(\\dfrac{1}{2}\\)"},
+      {"answer": "B", "text": "\\(f\\) este injectivă"},
+      {"answer": "C", "text": "\\(f\\) este surjectivă"},
+      {"answer": "D", "text": "\\(f\\) este pară"}
+    ],
+    "correctAnswer": ["A"]
+  },
+  {
+    "questionNumber": 13,
+    "points": 0.3,
+    "question": "Fie suma \\(S_n = i + 2i^2 + 3i^3 + \\ldots + ni^n\\), \\(n \\in \\mathbb{N}^*\\), unde \\(i\\) este unitatea imaginară \\((i^2 = -1.)\\) Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(S_{2020}\\) este un număr real"},
+      {"answer": "B", "text": "\\(|S_{2020}|\\) este un număr irațional"},
+      {"answer": "C", "text": "Partea imaginară a lui \\(S_{2022}\\) este egală cu \\(1011\\)"},
+      {"answer": "D", "text": "\\(|S_{2022}| = 1011\\)"}
+    ],
+    "correctAnswer": ["B","C"]
+  },
+  {
+    "questionNumber": 14,
+    "points": 0.3,
+    "question": "Fie \\((x, y) \\in \\mathbb{R}_+^2\\) soluţia sistemului de ecuaţii\n\\[\\begin{cases} \\log_{225} x + \\log_{64} y = 0 \\\\ \\log_x 225 - \\log_y 64 = 1. \\end{cases}\\]\nValoarea expresiei \\(\\log_{30}(x^3) - \\log_{30} y\\) este egală cu:",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(0\\)"},
+      {"answer": "B", "text": "\\(12\\)"},
+      {"answer": "C", "text": "\\(1\\)"},
+      {"answer": "D", "text": "\\(10\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 15,
+    "points": 0.3,
+    "question": "Suma soluţiilor ecuaţiei \\(6^{x+1} - 4^x = 3^{2x}\\) este",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(-1\\)"},
+      {"answer": "B", "text": "\\(0\\)"},
+      {"answer": "C", "text": "\\(1\\)"},
+      {"answer": "D", "text": "\\(2\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 16,
+    "points": 0.3,
+    "question": "Punctul \\(A(3,1)\\) este vârful unui pătrat în care o diagonală se află pe dreapta de ecuaţie \\(y - x = 0\\). Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "Distanţa de la vârful \\(A\\) la această diagonală este egală cu \\(2\\)."},
+      {"answer": "B", "text": "Ecuaţia dreptei pe care se află cealaltă diagonală este \\(x + y + 2 = 0\\)."},
+      {"answer": "C", "text": "Aria pătratului este egală cu \\(4\\)."},
+      {"answer": "D", "text": "Punctul \\(C(1,3)\\) este de asemenea vârf al pătratului."}
+    ],
+    "correctAnswer": ["C","D"]
+  },
+  {
+    "questionNumber": 17,
+    "points": 0.3,
+    "question": "Fie triunghiul \\(ABC\\), în care notăm \\(BC = a\\), \\(AC = b\\), \\(AB = c\\). Presupunem că lungimea medianei \\(AM\\) este egală cu \\(c\\). Atunci:",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(a^2 + 2c^2 = 3b^2\\)"},
+      {"answer": "B", "text": "\\(a^2 + 2c^2 = 2b^2\\)"},
+      {"answer": "C", "text": "\\(\\cos C = \\dfrac{4a}{3b}\\)"},
+      {"answer": "D", "text": "\\(\\cos C = \\dfrac{3a}{4b}\\)"}
+    ],
+    "correctAnswer": ["B","D"]
+  },
+  {
+    "questionNumber": 18,
+    "points": 0.3,
+    "question": "Valoarea limitei \\(\\displaystyle\\lim_{x \\to 0}\\left(\\dfrac{1}{x^2} - \\dfrac{1}{\\sin^2 x}\\right)\\) este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(-\\dfrac{1}{3}\\)"},
+      {"answer": "B", "text": "\\(-1\\)"},
+      {"answer": "C", "text": "\\(0\\)"},
+      {"answer": "D", "text": "\\(\\dfrac{1}{2}\\)"}
+    ],
+    "correctAnswer": ["A"]
+  },
+  {
+    "questionNumber": 19,
+    "points": 0.3,
+    "question": "Fie funcţia \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\), definită prin \\(f(x) = \\operatorname{arctg} x + \\operatorname{arcctg} x\\) pentru orice \\(x \\in \\mathbb{R}\\). Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(f(-1) = -\\dfrac{\\pi}{2}\\)"},
+      {"answer": "B", "text": "\\(f(x) = \\dfrac{\\pi}{2}\\), pentru orice \\(x \\in (0, \\infty)\\)"},
+      {"answer": "C", "text": "Funcţia \\(f\\) este impară."},
+      {"answer": "D", "text": "\\(\\displaystyle\\lim_{x \\to \\infty} f(x) = \\lim_{x \\to -\\infty} f(x)\\)"}
+    ],
+    "correctAnswer": ["B","D"]
+  },
+  {
+    "questionNumber": 20,
+    "points": 0.3,
+    "question": "Numărul soluţiilor reale ale ecuaţiei \\(xe^x = -\\dfrac{1}{3}\\) este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(0\\)"},
+      {"answer": "B", "text": "\\(1\\)"},
+      {"answer": "C", "text": "\\(2\\)"},
+      {"answer": "D", "text": "\\(3\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 21,
+    "points": 0.3,
+    "question": "Fie \\(ABC\\) un triunghi şi \\(A' \\in [BC]\\), \\(B' \\in [CA]\\), \\(C' \\in [AB]\\) astfel încât \\(\\dfrac{BA'}{BC} = \\dfrac{CB'}{CA} = \\dfrac{AC'}{AB} = \\alpha\\). Dacă \\(\\mathcal{A}_{ABC}\\) este aria triunghiului \\(ABC\\) şi \\(\\mathcal{A}_{A'B'C'}\\) este aria triunghiului \\(A'B'C'\\), atunci:",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(\\dfrac{\\mathcal{A}_{A'B'C'}}{\\mathcal{A}_{ABC}} = 1 - 3\\alpha(1 - \\alpha)\\)"},
+      {"answer": "B", "text": "\\(\\dfrac{\\mathcal{A}_{A'B'C'}}{\\mathcal{A}_{ABC}} \\in \\left[\\dfrac{1}{4}, 1\\right]\\)"},
+      {"answer": "C", "text": "\\(\\dfrac{\\mathcal{A}_{A'B'C'}}{\\mathcal{A}_{ABC}} = 1 - 12\\alpha^2(1 - \\alpha)^2\\)"},
+      {"answer": "D", "text": "\\(\\dfrac{\\mathcal{A}_{A'B'C'}}{\\mathcal{A}_{ABC}} \\in \\left[\\dfrac{1}{2}, 1\\right]\\)"}
+    ],
+    "correctAnswer": ["A","B"]
+  },
+  {
+    "questionNumber": 22,
+    "points": 0.3,
+    "question": "Valoarea limitei \\(\\displaystyle\\lim_{x \\to \\frac{\\pi}{4}} \\dfrac{\\int_1^{\\operatorname{tg}x} e^{t^2}\\, dt}{\\int_1^{\\operatorname{ctg} x} e^{t^2}\\, dt}\\) este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(1\\)"},
+      {"answer": "B", "text": "\\(\\pi\\)"},
+      {"answer": "C", "text": "\\(0\\)"},
+      {"answer": "D", "text": "\\(-1\\)"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 23,
+    "points": 0.3,
+    "question": "Triunghiul \\(ABC\\) în care are loc relaţia \\(\\sin(B) + \\cos(B) = \\sin(C) + \\cos(C)\\) este",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "dreptunghic"},
+      {"answer": "B", "text": "isoscel"},
+      {"answer": "C", "text": "echilateral"},
+      {"answer": "D", "text": "dreptunghic sau isoscel"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 24,
+    "points": 0.3,
+    "question": "Fie \\((a_n)_{n \\in \\mathbb{N}^*}\\) şirul definit prin\n\\[a_n = \\sqrt{\\dfrac{1}{n^2} + \\dfrac{1}{n^3}} + \\sqrt{\\dfrac{1}{n^2} + \\dfrac{2}{n^3}} + \\ldots + \\sqrt{\\dfrac{1}{n^2} + \\dfrac{n}{n^3}}, \\quad \\text{pentru fiecare } n \\in \\mathbb{N}^*.\\]\nSe notează cu \\(\\ell = \\displaystyle\\lim_{n \\to \\infty} a_n\\). Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(\\ell = 0\\)"},
+      {"answer": "B", "text": "\\(\\ell = \\dfrac{\\sqrt2}{3}\\)"},
+      {"answer": "C", "text": "\\(\\ell \\in \\mathbb{\\overline{R}} \\setminus \\mathbb{Q}\\)"},
+      {"answer": "D", "text": "\\(\\ell = \\infty\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 25,
+    "points": 0.3,
+    "question": "Două laturi ale unui dreptunghi se află pe dreptele date prin ecuaţiile:\n\\[(d_1): 2x - 3y + 5 = 0\\]\n\\[(d_2): 3x + 2y - 7 = 0\\]\nşi unul din vârfurile sale este punctul \\(A(2, -3)\\). Ecuaţiile dreptelor pe care se află celelalte două laturi ale dreptunghiului sunt:",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(2x - 3y - 13 = 0\\) şi \\(3x + 2y = 0\\)"},
+      {"answer": "B", "text": "\\(y + 3 = \\dfrac{2}{3}(x - 2)\\) şi \\(y + 3 = -\\dfrac{3}{2}(x - 2)\\)"},
+      {"answer": "C", "text": "\\(2x - 3y + 13 = 0\\) şi \\(3x - 2y = 0\\)"},
+      {"answer": "D", "text": "\\(y - 3 = \\dfrac{2}{3}(x - 2)\\) şi \\(y - 3 = -\\dfrac{3}{2}(x - 2)\\)"}
+    ],
+    "correctAnswer": ["A","B"]
+  },
+  {
+    "questionNumber": 26,
+    "points": 0.3,
+    "question": "Considerăm \\(\\alpha \\in \\mathbb{C}\\) un parametru şi sistemul de ecuaţii liniare cu \\(3\\) necunoscute\n\\[\\begin{cases} 2x + \\alpha y + 2z = 1 \\\\ 4x - y + 5z = 1 \\\\ 2x + 10y + z = 1. \\end{cases}\\]\nStabiliţi valoarea de adevăr a următoarelor afirmaţii:",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "Matricea sistemului are rang \\(3\\) pentru orice valoare a lui \\(\\alpha\\)."},
+      {"answer": "B", "text": "Matricea extinsă a sistemului are rang \\(3\\) pentru orice valoare a lui \\(\\alpha\\)."},
+      {"answer": "C", "text": "Sistemul dat este incompatibil dacă şi numai dacă \\(\\alpha \\neq 3\\)."},
+      {"answer": "D", "text": "Sistemul dat este compatibil dacă şi numai dacă \\(\\alpha \\neq 3\\)."}
+    ],
+    "correctAnswer": ["B","D"]
+  },
+  {
+    "questionNumber": 27,
+    "points": 0.3,
+    "question": "Fie \\(G \\subseteq \\mathbb{R}\\) o mulţime astfel încât expresia\n\\[x * y = \\dfrac{xy}{2xy - x - y + 1}, \\quad \\forall x, y \\in G\\]\ndefineşte o lege de compoziţie pe \\(G\\). Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(G\\) poate fi intervalul \\((0, 2)\\)"},
+      {"answer": "B", "text": "\\(G\\) poate fi intervalul \\((0, 1)\\)"},
+      {"answer": "C", "text": "Dacă \\(G = (0, 1)\\), atunci \"\\(*\\)\" admite un element neutru."},
+      {"answer": "D", "text": "Dacă \\(G = (0, 1)\\), atunci simetricul lui \\(\\dfrac{1}{3}\\) este \\(\\dfrac{2}{3}\\)."}
+    ],
+    "correctAnswer": ["B","C","D"]
+  },
+  {
+    "questionNumber": 28,
+    "points": 0.3,
+    "question": "Valoarea integralei\n\\[\\displaystyle\\int_{\\frac{1}{2022}}^{2022} \\dfrac{\\ln x}{1 + x^2}\\, dx\\]\neste:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(0\\)"},
+      {"answer": "B", "text": "\\(1\\)"},
+      {"answer": "C", "text": "\\(2\\)"},
+      {"answer": "D", "text": "\\(3\\)"}
+    ],
+    "correctAnswer": ["A"]
+  },
+  {
+    "questionNumber": 29,
+    "points": 0.3,
+    "question": "Fie \\(x, y, z \\in \\mathbb{Z}^*\\) astfel încât \\(xy, yz, zx\\) sunt în progresie geometrică cu raţia un număr întreg diferit de \\(1\\).",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "Dacă \\(y\\) este pătrat perfect, atunci şi \\(z\\) este pătrat perfect."},
+      {"answer": "B", "text": "Dacă \\(z\\) este pătrat perfect, atunci şi \\(y\\) este pătrat perfect."},
+      {"answer": "C", "text": "Dacă \\(y\\) este pătrat perfect, atunci şi \\(x\\) este pătrat perfect."},
+      {"answer": "D", "text": "Dacă \\(z\\) este pătrat perfect, atunci şi \\(x\\) este pătrat perfect."}
+    ],
+    "correctAnswer": ["A","B"]
+  },
+  {
+    "questionNumber": 30,
+    "points": 0.3,
+    "question": "Fie \\((x_n)_{n \\in \\mathbb{N^{\\ast}}}\\) şirul definit prin\n\\[x_n = \\displaystyle\\int_0^2 \\dfrac{(2-x)^{2n-1}}{(2+x)^{2n+1}}\\, dx, \\quad \\text{pentru fiecare } n \\in \\mathbb{N}^*.\\]\nCare dintre următoarele afirmaţii sunt adevărate?",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(x_{23} = \\dfrac{1}{184}\\)"},
+      {"answer": "B", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} n^2 x_n = 1\\)"},
+      {"answer": "C", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} nx_n = \\dfrac{1}{8}\\)"},
+      {"answer": "D", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} nx_n = 0\\)"}
+    ],
+    "correctAnswer": ["A","C"]
+  }
+]
+}

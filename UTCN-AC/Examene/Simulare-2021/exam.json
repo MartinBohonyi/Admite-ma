@@ -1,0 +1,936 @@
+{
+    "examTitle": "Simulare 2021",
+    "type": "single-choice",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Câte numere naturale de 3 cifre distincte (în baza 10) au cifrele scrise în ordine ...",
+            "question": "crescătoare?",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(168\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(120\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(126\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(504\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(84\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 2,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Câte numere naturale de 3 cifre distincte (în baza 10) au cifrele scrise în ordine ...",
+            "question": "descrescătoare?",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(84\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(720\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(126\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(168\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(120\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 3,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Fie \\((G,*)\\) un grup astfel încât funcția \\(\\displaystyle f:(\\mathbb{R},+)\\to(G,*),\\quad f(x)=\\frac{x}{\\sqrt{1+x^2}}\\;(x\\in\\mathbb{R})\\) să fie un izomorfism de grupuri.",
+            "question": "Mulțimea \\(G\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((-1,1)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\([0,\\infty)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\([-1,1]\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\mathbb{R}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\([0,1)\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 4,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Fie \\((G,*)\\) un grup astfel încât funcția \\(\\displaystyle f:(\\mathbb{R},+)\\to(G,*),\\quad f(x)=\\frac{x}{\\sqrt{1+x^2}}\\;(x\\in\\mathbb{R})\\) să fie un izomorfism de grupuri.",
+            "question": "Inversa \\(f^{-1}(y)\\) are expresia:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac{y}{\\sqrt{1+y^2}}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{|y|}{\\sqrt{1+y^2}}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{y}{\\sqrt{y^2-1}}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{|y|}{\\sqrt{1-y^2}}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{y}{\\sqrt{1-y^2}}\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 5,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Fie \\((G,*)\\) un grup astfel încât funcția \\(\\displaystyle f:(\\mathbb{R},+)\\to(G,*),\\quad f(x)=\\frac{x}{\\sqrt{1+x^2}}\\;(x\\in\\mathbb{R})\\) să fie un izomorfism de grupuri.",
+            "question": "Valoarea expresiei \\((f\\circ f\\circ\\ldots\\circ f)(1)\\), unde \\(f\\) apare de 2021 ori, este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac{1}{2021}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{1}{\\sqrt{2022}}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{1}{\\sqrt{2021}}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\sqrt{\\frac{2020}{2021}}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{1}{\\sqrt{2020\\cdot2021}}\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 6,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Fie \\((G,*)\\) un grup astfel încât funcția \\(\\displaystyle f:(\\mathbb{R},+)\\to(G,*),\\quad f(x)=\\frac{x}{\\sqrt{1+x^2}}\\;(x\\in\\mathbb{R})\\) să fie un izomorfism de grupuri.",
+            "question": "\\(\\displaystyle\\frac{\\sqrt{2}}{2}*\\frac{\\sqrt{2}}{2}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac{2\\sqrt{5}}{5}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{2\\sqrt{3}}{3}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\sqrt{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{\\sqrt{2}}{2}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 7,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Fie \\((G,*)\\) un grup astfel încât funcția \\(\\displaystyle f:(\\mathbb{R},+)\\to(G,*),\\quad f(x)=\\frac{x}{\\sqrt{1+x^2}}\\;(x\\in\\mathbb{R})\\) să fie un izomorfism de grupuri.",
+            "question": "Elementul neutru în \\((G,*)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{\\sqrt{2}}{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle-\\frac{\\sqrt{2}}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle-\\frac{\\sqrt{2}}{2}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 8,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Fie \\((G,*)\\) un grup astfel încât funcția \\(\\displaystyle f:(\\mathbb{R},+)\\to(G,*),\\quad f(x)=\\frac{x}{\\sqrt{1+x^2}}\\;(x\\in\\mathbb{R})\\) să fie un izomorfism de grupuri.",
+            "question": "Valoarea expresiei \\(\\displaystyle\\frac{1}{\\sqrt{2021}}*\\dfrac{1}{\\sqrt{2021}}*\\cdots*\\dfrac{1}{\\sqrt{2021}}\\), unde \\(\\displaystyle\\dfrac{1}{\\sqrt{2021}}\\) apare de 2020 de ori, este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac{1}{2021}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{1}{\\sqrt{2022}}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{1}{\\sqrt{2021}}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\sqrt{\\frac{2020}{2021}}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{1}{\\sqrt{2020\\cdot2021}}\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 9,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Fie matricea \\(\\displaystyle A=\\begin{pmatrix}3&amp;-4&amp;0\\\\1&amp;-1&amp;0\\\\0&amp;0&amp;1\\end{pmatrix}\\).",
+            "question": "Determinantul matricei \\(A\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(7\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-3\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 10,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Fie matricea \\(\\displaystyle A=\\begin{pmatrix}3&amp;-4&amp;0\\\\1&amp;-1&amp;0\\\\0&amp;0&amp;1\\end{pmatrix}\\).",
+            "question": "\\((A-I_3)^2\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(O_3\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(I_3\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(A\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(A-I_3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-I_3\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 11,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Fie matricea \\(\\displaystyle A=\\begin{pmatrix}3&amp;-4&amp;0\\\\1&amp;-1&amp;0\\\\0&amp;0&amp;1\\end{pmatrix}\\).",
+            "question": "\\(A^{2021}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2021A-2020I_3\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(A-I_3\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(A+2020I_3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2020A-2021I_3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2021A+2020I_3\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 12,
+            "category": "analiza",
+            "groupId": 4,
+            "context": "",
+            "question": "\\(\\displaystyle\\lim_{x\\to\\pi}\\frac{\\sin x}{x^2-\\pi^2}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle-\\frac{1}{2\\pi}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{1}{\\pi^2}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{1}{2\\pi}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{1}{\\pi}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 13,
+            "category": "analiza",
+            "groupId": 4,
+            "context": "",
+            "question": "\\(\\displaystyle\\lim_{x\\to0}\\frac{1-\\sqrt{1+x^2}\\cos x}{x^4}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac{1}{4}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{1}{2}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{1}{3}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{1}{6}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{1}{12}\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 14,
+            "category": "analiza",
+            "groupId": 5,
+            "context": "",
+            "question": "\\(\\displaystyle\\int_0^1x^3\\operatorname{arctg} x\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{2}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{1}{3}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{4}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{1}{5}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{1}{6}\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 15,
+            "category": "analiza",
+            "groupId": 5,
+            "context": "",
+            "question": "\\(\\displaystyle\\int_0^{\\frac{\\pi}{3}}\\frac{\\cos x}{\\sin x+\\cos x}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{6}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{2}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{3}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{4}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{12}\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 16,
+            "category": "analiza",
+            "groupId": 5,
+            "context": "",
+            "question": "\\(\\displaystyle\\lim_{x\\to0}\\frac{1}{x}\\int_0^x e^{-t^2}\\,dt\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(e\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{1}{e}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{2}{e}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 17,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "Fie \\(\\{x\\}\\) partea fracționară a numărului real \\(x\\). Limita șirului \\[\\displaystyle\\int_0^n\\frac{\\{x\\}}{1+\\{x\\}}\\,dx,\\quad n=1,2,\\ldots\\] este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac{1}{2}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{1}{3}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(ln 2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\infty\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 18,
+            "category": "analiza",
+            "groupId": 6,
+            "context": "Fie șirul \\((x_n)_{n\\geq0}\\) definit prin relația de recurență \\(\\displaystyle x_{n+1}=x_n+2^{-x_n}\\) pentru orice \\(n\\geq0,\\quad x_0=0\\).",
+            "question": "\\(x_1\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac32\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac12\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 19,
+            "category": "analiza",
+            "groupId": 6,
+            "context": "Fie șirul \\((x_n)_{n\\geq0}\\) definit prin relația de recurență \\(\\displaystyle x_{n+1}=x_n+2^{-x_n}\\) pentru orice \\(n\\geq0,\\quad x_0=0\\).",
+            "question": "\\(\\displaystyle\\lim_{n\\to\\infty}x_n\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(e\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\infty\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2^e\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "nu există"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 20,
+            "category": "analiza",
+            "groupId": 6,
+            "context": "Fie șirul \\((x_n)_{n\\geq0}\\) definit prin relația de recurență \\(\\displaystyle x_{n+1}=x_n+2^{-x_n}\\) pentru orice \\(n\\geq0,\\quad x_0=0\\).",
+            "question": "\\(\\displaystyle\\lim_{n\\to\\infty}\\frac{x_n}{\\ln n}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\log_2 e\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\ln 2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{1}{\\sqrt e}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 21,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "Fie \\(a\\in\\mathbb{R}\\) și fie funcția \\(f:(-2,\\infty)\\to\\mathbb{R}\\), definită prin \\(f(x)=\\ln(2+x)+ax^2+4x\\).",
+            "question": "Dacă tangenta la graficul funcției \\(f\\) în punctul de abscisă \\(-1\\) este perpendiculară pe dreapta de ecuație \\(x+y+1=0\\), atunci valoarea lui \\(a\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-1\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 22,
+            "category": "analiza",
+            "groupId": 7,
+            "context": "Fie \\(a\\in\\mathbb{R}\\) și fie funcția \\(f:(-2,\\infty)\\to\\mathbb{R}\\), definită prin \\(f(x)=\\ln(2+x)+ax^2+4x\\).",
+            "question": "Dacă \\(f''(0)=0\\), atunci valoarea lui \\(a\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac{1}{8}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{1}{2}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle-\\frac{1}{4}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 23,
+            "category": "analiza",
+            "groupId": 7,
+            "context": "Fie \\(a\\in\\mathbb{R}\\) și fie funcția \\(f:(-2,\\infty)\\to\\mathbb{R}\\), definită prin \\(f(x)=\\ln(2+x)+ax^2+4x\\).",
+            "question": "Funcția \\(f\\) este concavă dacă și numai dacă \\(a\\) aparține mulțimii:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((-\\infty,0]\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((-\\infty,0)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((0,\\infty)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\([0,\\infty)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\mathbb{R}^*\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 24,
+            "category": "geometrie",
+            "groupId": 8,
+            "context": "În planul \\(xOy\\) se consideră punctele \\(A(0,2)\\), \\(B(-1,-2)\\) și \\(C(1,0)\\).",
+            "question": "Centrul de greutate al triunghiului \\(ABC\\) are coordonatele:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((0,0)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((1,0)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((0,-1)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\left(0,\\frac{4}{3}\\right)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\left(\\frac{2}{3},0\\right)\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 25,
+            "category": "geometrie",
+            "groupId": 8,
+            "context": "În planul \\(xOy\\) se consideră punctele \\(A(0,2)\\), \\(B(-1,-2)\\) și \\(C(1,0)\\).",
+            "question": "Dacă \\(D\\) este un punct din plan cu proprietatea că \\(ABCD\\) este paralelogram, atunci \\(OD\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\sqrt5\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(5\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\sqrt3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(3\\sqrt2\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 26,
+            "category": "geometrie",
+            "groupId": 8,
+            "context": "În planul \\(xOy\\) se consideră punctele \\(A(0,2)\\), \\(B(-1,-2)\\) și \\(C(1,0)\\).",
+            "question": "Dacă \\(M\\) este un punct din plan cu proprietatea că \\(MA^2+MB^2+MC^2=37\\), atunci \\(OM\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\sqrt2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2\\sqrt3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(4\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 27,
+            "category": "algebra",
+            "groupId": 9,
+            "context": null,
+            "question": "Numărul complex \\((1+i)(1+2i)(1+3i)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-10\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(10i\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1-3i\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3i-1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(9+i\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 28,
+            "category": "trigonometrie",
+            "groupId": 9,
+            "context": null,
+            "question": "Valoarea expresiei \\(\\operatorname{arctg} 1+\\operatorname{arctg} 2+\\operatorname{arctg} 3\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac{5\\pi}{6}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\pi\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{3\\pi}{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{3\\pi}{4}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{5\\pi}{4}\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 29,
+            "category": "trigonometrie",
+            "groupId": 10,
+            "context": "Fie funcția \\(f:[0,4\\pi]\\to\\mathbb{R}\\), \\(f(x)=\\sin^5x+\\cos^5x\\).",
+            "question": "\\(f(\\pi)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 30,
+            "category": "trigonometrie",
+            "groupId": 10,
+            "context": "Fie funcția \\(f:[0,4\\pi]\\to\\mathbb{R}\\), \\(f(x)=\\sin^5x+\\cos^5x\\).",
+            "question": "Numărul soluțiilor ecuației \\(f(x)=1\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(5\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(7\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(9\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(10\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        }
+    ]
+}

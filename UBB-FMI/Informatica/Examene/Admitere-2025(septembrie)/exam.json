@@ -1,0 +1,318 @@
+{
+    "examTitle" : "Admitere 2025 (sesiunea Septembrie)",
+    "questions" : [
+    {
+        "questionNumber": 1,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q1.png",
+        "category": "vectori",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A","C"]
+    },
+    {
+        "questionNumber": 2,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q2.png",
+        "category": "recursivitate",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A","D"]
+    },
+    {
+        "questionNumber": 3,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q3.png",
+        "category": "divizibilitate",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["C","D"]
+    },
+    {
+        "questionNumber": 4,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q4.png",
+        "category": "vectori",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B","C","D"]
+    },
+    {
+        "questionNumber": 5,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q5.png",
+        "category": "algoritmi",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B","D"]
+    },
+    {
+        "questionNumber": 6,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q6.png",
+        "category": "algoritmi",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A","B","C"]
+    },
+    {
+        "questionNumber": 7,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q7.png",
+        "category": "biti",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A","C"]
+    },
+    {
+        "questionNumber": 8,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q8.png",
+        "category": "divizibilitate",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A","C"]
+    },
+    {
+        "questionNumber": 9,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q9.png",
+        "category": "vectori",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 10,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q10.png",
+        "category": "recursivitate",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B","D"]
+    },
+    {
+        "questionNumber": 11,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q11.png",
+        "category": "vectori",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 12,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q12.png",
+        "category": "vectori",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A","B","C"]
+    },
+    {
+        "questionNumber": 13,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q13.png",
+        "category": "vectori",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 14,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q14.png",
+        "category": "matrici",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 15,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q15.png",
+        "category": "matrici",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["C","D"]
+    },
+    {
+        "questionNumber": 16,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q16.png",
+        "category": "matrici",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 17,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q17.png",
+        "category": "vectori",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A","C"]
+    },
+    {
+        "questionNumber": 18,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q18.png",
+        "category": "matrici",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 19,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q19.png",
+        "category": "vectori",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A","D"]
+    },
+    {
+        "questionNumber": 20,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q20.png",
+        "category": "algoritmi",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B","C"]
+    },
+    {
+        "questionNumber": 21,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q21.png",
+        "category": "matrici",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 22,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q22.png",
+        "category": "recursivitate",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["A","D"]
+    },
+    {
+        "questionNumber": 23,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q23.png",
+        "category": "combinatorica",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 24,
+        "points": 0.375,
+        "questionImage": "Admitere-2025(septembrie)/images/Q24.png",
+        "category": "vectori",
+        "answers": [
+        {"answer": "A" , "text" : ""},
+        {"answer": "B" , "text" : ""},
+        {"answer": "C" , "text" : ""},
+        {"answer": "D" , "text" : ""}
+        ],
+        "correctAnswer": ["B"]
+    }
+
+    ]
+}

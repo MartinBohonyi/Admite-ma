@@ -1,0 +1,60 @@
+.header{
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+    gap : 30px;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 60px;
+    height: 60px;
+
+    color: white;
+    background-color: #1F3A5F;
+    border-radius: 50%;
+}
+
+.logo-section{
+    display:flex;
+    align-items:center;
+    gap:30px;
+}
+
+.nav{
+    display:flex;
+    align-items:center;
+    gap:30px;
+}
+
+.logo p {
+    margin: 0;
+    font-size : 32px;
+    font-family: "Cormorant Garamond";
+}
+
+.mid-section p{
+    font-size:32px;
+    font-family:"Cormorant Garamond", serif;
+    color:#1F3A5F;
+    font-weight:600;
+}
+
+.header-button{
+    text-decoration:none;
+    color:white;
+    background:#1F3A5F;
+    padding:12px 24px;
+    border-radius:30px;
+    font-family:"Cormorant Garamond", serif;
+    font-size:20px;
+    transition:.3s;
+}
+
+.header-button:hover{
+    background:#274a78;
+}
+

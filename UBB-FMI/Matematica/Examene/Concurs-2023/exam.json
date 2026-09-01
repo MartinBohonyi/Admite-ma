@@ -1,0 +1,326 @@
+{
+    "examTitle" : "Concurs Mate-Info UBB 2023" , 
+    "questions" : [
+  {
+    "questionNumber": 1,
+    "points": 0.375,
+    
+    "chapterContext": "Fie \\(A(2,2)\\) și \\(B(-3,7)\\) vârfurile triunghiului \\(ABC\\) iar \\(G(-2,5)\\) centrul de greutate al triunghiului \\(ABC\\)",
+    "context" : "Fie \\(A(2,2)\\) și \\(B(-3,7)\\) vârfurile triunghiului \\(ABC\\) iar \\(G(-2,5)\\) centrul de greutate al triunghiului \\(ABC\\) . Problemele \\(1\\) și \\(2\\) se referă la acest triunghi \\(ABC\\).",
+    "question" : "Coordonatele vârfului \\(C\\) sunt",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(C(5,6)\\)"},
+      {"answer": "B", "text": "\\(C(-5,6)\\)"},
+      {"answer": "C", "text": "\\(C\\left(\\dfrac{2}{3}, 3\\right)\\)"},
+      {"answer": "D", "text": "\\(C(5,-6).\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 2,
+    "points": 0.375,
+    
+    "question": "Panta dreptei perpendiculare pe dreapta \\(AG\\) este",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(-\\dfrac{4}{3}\\)"},
+      {"answer": "B", "text": "\\(-\\dfrac{3}{4}\\)"},
+      {"answer": "C", "text": "\\(\\dfrac{3}{4}\\)"},
+      {"answer": "D", "text": "\\(\\dfrac{4}{3}\\)"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 3,
+    "points": 0.375,
+    "question": "Valoarea limitei \\(\\displaystyle\\lim_{x \\to 0} \\dfrac{e^x - \\sin x - \\cos x}{x^2}\\) este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "0"},
+      {"answer": "B", "text": "\\(\\dfrac{1}{2}\\)"},
+      {"answer": "C", "text": "1"},
+      {"answer": "D", "text": "\\(+\\infty\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 4,
+    "points": 0.375,
+    "question": "Aria triunghiului \\(ABC\\) este \\(6\\). Dacă laturile sale sunt de lungimi \\(AB = 8\\) și \\(AC = 3\\), atunci măsura unghiului \\(BAC\\) poate fi:",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(30^\\circ\\)"},
+      {"answer": "B", "text": "\\(60^\\circ\\)"},
+      {"answer": "C", "text": "\\(120^\\circ\\)"},
+      {"answer": "D", "text": "\\(150^\\circ\\)"}
+    ],
+    "correctAnswer": ["A","D"]
+  },
+  {
+    "questionNumber": 5,
+    "points": 0.375,
+    "question": "Aria mulțimii plane cuprinsă între graficul funcției \\(f : [1, e] \\rightarrow \\mathbb{R}\\), definită prin \\(f(x) = x^2 \\ln x\\), axa \\(Ox\\) și dreapta de ecuație \\(x = e \\) este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(\\dfrac{1}{9}\\)"},
+      {"answer": "B", "text": "\\(\\dfrac{1}{3}\\)"},
+      {"answer": "C", "text": "\\(\\dfrac{1+e^3}{9}\\)"},
+      {"answer": "D", "text": "\\(\\dfrac{1+2e^3}{9}\\)"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 6,
+    "points": 0.375,
+    "question": "Dacă notăm cu S mulțimea soluțiilor reale ale ecuației\n\\[\\log_2 x + \\log_4 x^2 + \\log_8 x^3 + \\log_{16} x^4 = 2,\\]\natunci",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(S \\subseteq [0, 1)\\)"},
+      {"answer": "B", "text": "\\(S \\subseteq (1, 2]\\)"},
+      {"answer": "C", "text": "S are exact două elemente"},
+      {"answer": "D", "text": "S are exact un element"}
+    ],
+    "correctAnswer": ["B","D"]
+  },
+  {
+    "questionNumber": 7,
+    "points": 0.375,
+    "question": "Considerăm mulțimea\n\\[S = \\{m \\in \\mathbb{R} \\mid x^2 - 2(m^2 + 1)x + (m + 1)^4 \\ge 0, \\forall x \\in \\mathbb{R}\\}.\\]\nCare dintre următoarele afirmații sunt corecte?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(1 \\in S\\)"},
+      {"answer": "B", "text": "\\(-1 \\in S\\)"},
+      {"answer": "C", "text": "\\(S = [0, \\infty)\\)"},
+      {"answer": "D", "text": "\\(S = \\mathbb{R}\\)"}
+    ],
+    "correctAnswer": ["A","C"]
+  },
+  {
+    "questionNumber": 8,
+    "points": 0.375,
+    "question": "Considerăm funcția \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\),\n\\[f(x) = \\begin{cases} -x^2, & \\text{dacă } x \\in (-\\infty, -1) \\\\ 1, & \\text{dacă } x \\in [-1, 1] \\\\ x^2, & \\text{dacă } x \\in (1, \\infty). \\end{cases}\\]\nCare dintre următoarele afirmații sunt corecte?",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "f este injectivă"},
+      {"answer": "B", "text": "f este surjectivă"},
+      {"answer": "C", "text": "f este crescătoare"},
+      {"answer": "D", "text": "f este bijectivă"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 9,
+    "points": 0.375,
+    "question": "Fie \\(ABCD\\) un dreptunghi cu laturile \\(AB = 4\\sqrt{3}\\) și \\(BC = 4\\). Atunci",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(\\overrightarrow{BA} \\cdot \\overrightarrow{BC} = 0\\)"},
+      {"answer": "B", "text": "\\(\\overrightarrow{BA} \\cdot \\overrightarrow{BC} = 16\\sqrt{3}\\)"},
+      {"answer": "C", "text": "\\(\\overrightarrow{BA} \\cdot \\overrightarrow{BD} = 24\\)"},
+      {"answer": "D", "text": "\\(\\overrightarrow{BA} \\cdot \\overrightarrow{BD} = 48\\)"}
+    ],
+    "correctAnswer": ["A","D"]
+  },
+  {
+    "questionNumber": 10,
+    "points": 0.375,
+    "question": "Fie dreptele \\(d_1 : x - 3y + 2 = 0\\), \\(d_2 : (m + 1)x - (2m - 3)y + 4 = 0\\) și \\(d_3 : mx + y + m + 1 = 0\\), unde \\(m\\) este un parametru real. Care dintre afirmațiile următoare sunt adevărate?",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "Dreptele \\(d_1\\) și \\(d_2\\) sunt paralele pentru m = -6."},
+      {"answer": "B", "text": "Dreptele \\(d_2\\) și \\(d_3\\) nu sunt paralele pentru nici o valoare a lui m."},
+      {"answer": "C", "text": "Dreptele \\(d_1, d_2\\) și \\(d_3\\) sunt concurente pentru o singură valoare a lui m."},
+      {"answer": "D", "text": "Dreptele \\(d_1, d_2\\) și \\(d_3\\) sunt concurente pentru două valori ale lui m."}
+    ],
+    "correctAnswer": ["A","B","D"]
+  },
+  {
+    "questionNumber": 11,
+    "points": 0.375,
+    "question": "Fie S un punct pe latura \\(PQ\\) a triunghiului \\(PQR\\) astfel încât \\(\\dfrac{PS}{SQ} = \\dfrac{1}{2}\\) și fie \\(T\\) mijlocul segmentului \\(SR\\). Care dintre următoarele afirmații sunt adevărate?",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(\\overrightarrow{QT} = \\dfrac{1}{2}(\\overrightarrow{QS} - \\overrightarrow{QR})\\)"},
+      {"answer": "B", "text": "\\(\\overrightarrow{QT} = \\dfrac{1}{2}(\\overrightarrow{QS} + \\overrightarrow{QR})\\)"},
+      {"answer": "C", "text": "\\(\\overrightarrow{PS} = \\dfrac{1}{3}\\overrightarrow{QP}\\)"},
+      {"answer": "D", "text": "\\(\\overrightarrow{RT} = \\dfrac{1}{3}\\overrightarrow{RP} + \\dfrac{1}{6}\\overrightarrow{RQ}\\)"}
+    ],
+    "correctAnswer": ["B","D"]
+  },
+  {
+    "questionNumber": 12,
+    "points": 0.375,
+    "question": "Dacă numerele naturale nenule \\(x\\), \\(y\\) îndeplinesc egalitatea\n\\[x(y + 1)C_{x+y+1}^{y+1} = 30C_{x+y+1}^{x+1},\\]\natunci",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(x\\) este unic determinat"},
+      {"answer": "B", "text": "\\(y\\) este unic determinat"},
+      {"answer": "C", "text": "\\(x\\) < 10"},
+      {"answer": "D", "text": "\\(x\\) > 5"}
+    ],
+    "correctAnswer": ["A","C"]
+  },
+  {
+    "questionNumber": 13,
+    "points": 0.375,
+    "question": "Numărul soluțiilor ecuației \\(\\cos(3\\pi x) = 0\\) în intervalul \\((0, 2023)\\) este",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "2022"},
+      {"answer": "B", "text": "2023"},
+      {"answer": "C", "text": "6066"},
+      {"answer": "D", "text": "6069"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 14,
+    "points": 0.375,
+    "question": "Considerăm sistemul de ecuații\n\\[\\begin{cases} 2x + 2z = 3 \\\\ 3x + 2y = 0 \\\\ 2x + ay + 2z = a + 3, \\end{cases}\\]\nunde \\(a\\) este parametru real. Care dintre următoarele afirmații sunt corecte?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "Există \\(a \\in \\mathbb{R}\\) pentru care determinantul sistemului este 0."},
+      {"answer": "B", "text": "Există un singur \\(a \\in \\mathbb{R}\\) pentru care sistemul nu admite soluții."},
+      {"answer": "C", "text": "Sistemul admite soluții pentru orice \\(a \\in \\mathbb{R}\\)."},
+      {"answer": "D", "text": "Dacă numărul soluțiilor este finit, atunci \\(y\\) nu depinde de \\(a\\)."}
+    ],
+    "correctAnswer": ["A","C","D"]
+  },
+  {
+    "questionNumber": 15,
+    "points": 0.375,
+    "question": "Fie \\(A = \\begin{pmatrix} i & 2 \\\\ 0 & i \\end{pmatrix} \\in \\mathcal{M}_2(\\mathbb{C})\\) și pentru orice \\(n \\in \\mathbb{N}^*\\) definim numerele complexe \\(a_n, b_n, c_n, d_n\\) prin\n\\[\\begin{pmatrix} a_n & b_n \\\\ c_n & d_n \\end{pmatrix} = A^n.\\]\nCare dintre următoarele afirmații sunt corecte?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(a_n = d_n = i^n\\) pentru orice \\(n \\in \\mathbb{N}^*\\)."},
+      {"answer": "B", "text": "\\(b_n = 2ni^{n-1}\\) pentru orice \\(n \\in \\mathbb{N}^*\\)."},
+      {"answer": "C", "text": "\\(b_n = 2^n i^{n-1}\\) pentru orice \\(n \\in \\mathbb{N}^*\\)."},
+      {"answer": "D", "text": "Există \\(n \\in \\mathbb{N}^*\\) astfel încât numerele \\(a_n, b_n, c_n, d_n\\) să fie toate reale."}
+    ],
+    "correctAnswer": ["A","B"]
+  },
+  {
+    "questionNumber": 16,
+    "points": 0.375,
+    "question": "Valoarea limitei \\(\\displaystyle\\lim_{n \\to \\infty} \\ln(1 + e^n) \\cdot \\sin\\frac{1}{n}\\) este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "0"},
+      {"answer": "B", "text": "1"},
+      {"answer": "C", "text": "e"},
+      {"answer": "D", "text": "\\(+\\infty\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 17,
+    "points": 0.375,
+    "question": "Pentru fiecare \\(a > 0\\) se notează \\(I(a) = \\displaystyle\\int_0^a \\frac{dx}{(x+2)\\sqrt{x+1}}\\). Care dintre următoarele afirmații sunt adevărate?",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(I(2) = \\dfrac{\\pi}{6}\\)"},
+      {"answer": "B", "text": "\\(I(2) = \\dfrac{\\pi}{3}\\)"},
+      {"answer": "C", "text": "\\(\\displaystyle\\lim_{a \\to \\infty} I(a) = \\dfrac{\\pi}{4}\\)"},
+      {"answer": "D", "text": "\\(\\displaystyle\\lim_{a \\to \\infty} I(a) = \\dfrac{\\pi}{2}\\)"}
+    ],
+    "correctAnswer": ["A","D"]
+  },
+  {
+    "questionNumber": 18,
+    "points": 0.375,
+    "context": "Problemele \\(18\\), \\(19\\) și \\(20\\) se referă la funcția \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\), definită prin \\(f(x) = \\dfrac{x^2 + ax + 5}{\\sqrt{x^2 + 1}}\\), unde a este un număr real fixat.",
+    "chapterContext": "Fie \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\), definită prin \\(f(x) = \\dfrac{x^2 + ax + 5}{\\sqrt{x^2 + 1}}\\), unde a este un număr real fixat.",
+    
+    "question": "Ecuația asimptotei la graficul lui \\(f\\) spre \\(+\\infty\\) este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(y = a\\)"},
+      {"answer": "B", "text": "\\(y = x + a\\)"},
+      {"answer": "C", "text": "\\(y = x - a\\)"},
+      {"answer": "D", "text": "\\(y = x + \\dfrac{a}{2}\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 19,
+    "points": 0.375,
+    "chapterContext": "Fie \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\), definită prin \\(f(x) = \\dfrac{x^2 + ax + 5}{\\sqrt{x^2 + 1}}\\), unde a este un număr real fixat.",
+    "question": "Dacă \\(d\\) este tangenta la graficul lui \\(f\\) în punctul de intersecție a acestuia cu axa \\(Oy\\), care dintre următoarele afirmații sunt adevărate?",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "Dreapta \\(d\\) este paralelă cu dreapta de ecuație \\(y = ax\\)."},
+      {"answer": "B", "text": "Pentru \\(a \\neq 0\\) dreapta \\(d\\) este paralelă cu dreapta de ecuație \\(y = \\dfrac{1}{a}x\\)."},
+      {"answer": "C", "text": "Pentru \\(a = 0\\) dreapta \\(d\\) este paralelă cu axa \\(Ox\\)."},
+      {"answer": "D", "text": "Pentru \\(a \\neq 0\\) dreapta \\(d\\) este perpendiculară pe dreapta de ecuație \\(y = -\\dfrac{1}{a}x\\)."}
+    ],
+    "correctAnswer": ["A","C","D"]
+  },
+  {
+    "questionNumber": 20,
+    "points": 0.375,
+    "chapterContext": "Fie \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\), definită prin \\(f(x) = \\dfrac{x^2 + ax + 5}{\\sqrt{x^2 + 1}}\\), unde a este un număr real fixat.",
+    "question": "Mulțimea valorilor lui \\(a\\) pentru care \\(f\\) are trei puncte de extrem local este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\((-1, 1)\\)"},
+      {"answer": "B", "text": "\\([-1, 1]\\)"},
+      {"answer": "C", "text": "\\([-2, 2]\\)"},
+      {"answer": "D", "text": "\\((-2, 2)\\)"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 21,
+    "points": 0.375,
+    "question": "Fie \\(a \\in \\mathbb{R}\\) un parametru real. În mulțimea numerelor reale definim operația \"\\(\\ast\\)\" prin\n\\[x * y = (x - 2023)(y - 2023) + a, \\quad \\forall x, y \\in \\mathbb{R}.\\]\nCare dintre următoarele afirmații sunt corecte?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "Operația \"\\(\\ast\\)\" este asociativă dacă și numai dacă \\(a = 2023\\)."},
+      {"answer": "B", "text": "Dacă \\(a = 2023\\), atunci \\(2024\\) este element neutru față de \"\\(\\ast\\)\"."},
+      {"answer": "C", "text": "Dacă operația \"\\(\\ast\\)\" este asociativă, atunci \\((\\mathbb{R}, *)\\) este grup."},
+      {"answer": "D", "text": "\\(((a, +\\infty), *)\\) este grup pentru orice \\(a \\in \\mathbb{R}\\)."}
+    ],
+    "correctAnswer": ["A","B"]
+  },
+  {
+    "questionNumber": 22,
+    "points": 0.375,
+    "question": "Care dintre graficele de mai jos poate fi graficul funcției definite prin \\(f(x) = \\cos\\dfrac{\\pi}{x^2 + 2x + 3}\\)?",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text" : "" , "image": "Concurs-2023/imagini/Q22A.png"},
+      {"answer": "B", "text": "" , "image" : "Concurs-2023/imagini/Q22B.png"},
+      {"answer": "C", "text": "" , "image" : "Concurs-2023/imagini/Q22C.png"},
+      {"answer": "D", "text": "" , "image" : "Concurs-2023/imagini/Q22D.png"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 23,
+    "points": 0.375,
+    "question": "Într-un triunghi unghiul opus celei mai mari laturi este de două ori mai mare decât unghiul opus celei mai mici laturi. Dacă laturile triunghiului sunt numere naturale consecutive, atunci perimetrul triunghiului este",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "9"},
+      {"answer": "B", "text": "12"},
+      {"answer": "C", "text": "15"},
+      {"answer": "D", "text": "24"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 24,
+    "points": 0.375,
+    "question": "Numerele distincte \\(a\\), \\(b\\), \\(c\\) sunt în progresie aritmetică, în această ordine, cu rația \\(r\\), iar numerele \\(a - 1\\), \\(b\\), \\(c + 4\\) sunt în progresie geometrică, în această ordine, tot cu rația \\(r\\). Care dintre următoarele afirmații pot fi corecte?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(b = 0\\)"},
+      {"answer": "B", "text": "\\(b = 6\\)"},
+      {"answer": "C", "text": "\\(b = -\\dfrac{2}{3}\\)"},
+      {"answer": "D", "text": "\\(b = -3\\)"}
+    ],
+    "correctAnswer": ["B","C"]
+  }
+]
+}

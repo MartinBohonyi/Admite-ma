@@ -1,0 +1,936 @@
+{
+    "examTitle": "Simulare 2019",
+    "type": "single-choice",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Se consideră mulțimea \\(A=\\{0,1,2,\\ldots,8\\}\\). Câte dintre submulțimile lui \\(A\\) îl conțin pe \\(3\\) și îl au pe \\(7\\) ca fiind cel mai mare element?",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2^5\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2^7\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2^7-1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle C_7^3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2^6\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 2,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Se consideră sistemul \\(\\displaystyle (S):\\begin{cases}x-2y-3z=b\\\\2x+y+az=2\\\\3x+y-2z=4\\end{cases},\\quad a,b\\in\\mathbb{R}.\\)",
+            "question": "Sistemul \\((S)\\) este compatibil determinat dacă și numai dacă:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(a\\neq1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(a\\neq-1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(a=1,\\ b=2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(a=3,\\ b\\neq2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(a\\neq-2\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 3,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Se consideră sistemul \\(\\displaystyle (S):\\begin{cases}x-2y-3z=b\\\\2x+y+az=2\\\\3x+y-2z=4\\end{cases},\\quad a,b\\in\\mathbb{R}.\\)",
+            "question": "Sistemul \\((S)\\) este compatibil nedeterminat dacă și numai dacă:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(a=1,\\ b=-5\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(a=-1,\\ b=4\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(a=-1,\\ b=6\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(a=-1,\\ b=-6\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(a=1,\\ b=5\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 4,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Se consideră funcția \\(\\displaystyle f:\\mathbb{R}\\to\\mathbb{R},\\quad f(x)=(2m+1)x^2-2(m+2)x+m+2,\\) unde \\(m\\) este un parametru real, \\(\\displaystyle m\\neq-\\frac12.\\)",
+            "question": "Ecuația \\(f(x)=0\\) are o unică soluție dacă și numai dacă \\(m\\) aparține mulțimii:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\{-1,2\\}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\{-1,1\\}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\{-2,2\\}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\{-2,1\\}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\{0,1\\}\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 5,
+            "category": "analiza",
+            "groupId": 2,
+            "context": "Se consideră funcția \\(\\displaystyle f:\\mathbb{R}\\to\\mathbb{R},\\quad f(x)=(2m+1)x^2-2(m+2)x+m+2,\\) unde \\(m\\) este un parametru real, \\(\\displaystyle m\\neq-\\frac12.\\)",
+            "question": "Funcția \\(f\\) admite un minim global negativ dacă și numai dacă \\(m\\) aparține mulțimii:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\left(-\\frac12,1\\right)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\([-1,2]\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\left(-\\frac12,1\\right]\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\left(-\\infty,-\\frac12\\right)\\cup(1,\\infty)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\left(-\\infty,-\\frac12\\right]\\cup(1,\\infty)\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 6,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Se consideră funcția \\(\\displaystyle f:\\mathbb{R}\\to\\mathbb{R},\\quad f(x)=(2m+1)x^2-2(m+2)x+m+2,\\) unde \\(m\\) este un parametru real, \\(\\displaystyle m\\neq-\\frac12.\\)",
+            "question": "Soluțiile reale \\(x_1,x_2\\) ale ecuației \\(f(x)=0\\) verifică \\(x_1&lt;2\\) și \\(x_2&gt;2\\) dacă și numai dacă \\(m\\) aparține mulțimii:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\left[0,\\frac25\\right)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\left[-\\frac13,\\frac25\\right)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\left(-\\frac12,\\frac25\\right]\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\left(-\\frac12,\\frac25\\right)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\mathbb{R}\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 7,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Pe mulțimea \\((0,\\infty)\\) se definește legea de compoziție \"\\(*\\)\" prin \\(\\displaystyle x*y=x^{\\frac{\\lg y}{\\lg a}}\\), unde \\(a\\in(0,\\infty)\\setminus\\{1\\}\\) este fixat.",
+            "question": "Elementul neutru este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-\\lg a\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\lg a\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(a^{-1}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(a\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 8,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Pe mulțimea \\((0,\\infty)\\) se definește legea de compoziție \"\\(*\\)\" prin \\(\\displaystyle x*y=x^{\\frac{\\lg y}{\\lg a}}\\), unde \\(a\\in(0,\\infty)\\setminus\\{1\\}\\) este fixat.",
+            "question": "Simetricul unui element \\(x\\in(0,\\infty)\\setminus\\{1\\}\\) în raport cu legea \"\\(*\\)\" este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle e^{\\frac{\\lg^2a}{\\lg x}}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle10^{\\frac{\\lg^2a}{\\lg x}}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle10^{\\frac{\\lg x}{\\lg^2a}}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle e^{\\frac{\\lg x}{\\lg^2a}}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(x^{-1}\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 9,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Pe mulțimea \\((0,\\infty)\\) se definește legea de compoziție \"\\(*\\)\" prin \\(\\displaystyle x*y=x^{\\frac{\\lg y}{\\lg a}}\\), unde \\(a\\in(0,\\infty)\\setminus\\{1\\}\\) este fixat.",
+            "question": "\\(\\displaystyle x*x*\\cdots*x\\), unde \\(x\\) apare de \\(n\\) ori, este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle10^{\\frac{\\lg^n x}{\\lg^{n-1}a}}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle e^{\\frac{\\lg^n x}{\\lg^n a}}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle10^{\\frac{\\lg^n x}{\\lg a}}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle e^{\\frac{\\lg x}{n\\lg^2a}}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle10^{\\frac{\\lg x}{n\\lg a}}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 10,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Fie \\(\\displaystyle A=\\begin{pmatrix}a&amp;b\\\\c&amp;d\\end{pmatrix}\\in M_2(\\mathbb{C})\\) și \\(\\operatorname{tr}(A)=a+d\\). Atunci \\(\\det(A+I_2)-1-\\det A\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\operatorname{tr}(A)+1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\operatorname{tr}(A)+1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\operatorname{tr}(A)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\operatorname{tr}(A)-1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\operatorname{tr}(A)\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 11,
+            "category": "algebra",
+            "groupId": 4,
+            "context": "Fie \\(\\varepsilon\\) rădăcina pozitivă a ecuației \\(x^2-x-1=0\\) și matricea \\(\\displaystyle A=\\begin{pmatrix}-\\varepsilon+1&amp;\\frac{1}{\\varepsilon}\\\\1&amp;\\varepsilon-1\\end{pmatrix}\\in M_2(\\mathbb{R}).\\)",
+            "question": "\\(\\varepsilon^3\\) este egal cu:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\varepsilon-2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\varepsilon-1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\varepsilon+1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-\\varepsilon+2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\varepsilon\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 12,
+            "category": "algebra",
+            "groupId": 4,
+            "context": "Fie \\(\\varepsilon\\) rădăcina pozitivă a ecuației \\(x^2-x-1=0\\) și matricea \\(\\displaystyle A=\\begin{pmatrix}-\\varepsilon+1&amp;\\frac{1}{\\varepsilon}\\\\1&amp;\\varepsilon-1\\end{pmatrix}\\in M_2(\\mathbb{R}).\\)",
+            "question": "\\(\\det(A^{2019})\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2019\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\varepsilon\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 13,
+            "category": "algebra",
+            "groupId": 4,
+            "context": "Fie \\(\\varepsilon\\) rădăcina pozitivă a ecuației \\(x^2-x-1=0\\) și matricea \\(\\displaystyle A=\\begin{pmatrix}-\\varepsilon+1&amp;\\frac{1}{\\varepsilon}\\\\1&amp;\\varepsilon-1\\end{pmatrix}\\in M_2(\\mathbb{R}).\\)",
+            "question": "Matricea \\(A^{2019}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\varepsilon I_2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-A\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(I_2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-\\varepsilon I_2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(A\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 14,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Fie polinomul \\(P(x)=x^3+3x+2\\), cu rădăcinile \\(x_1,x_2,x_3\\). Polinomul cu rădăcinile \\(1+x_1,1+x_2,1+x_3\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(x^3-3x^2+6x-2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(x^3-3x^2-5x-1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(x^3-3x^2-x+2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(x^3-3x^2+x-1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(x^3-3x^2-x-5\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 15,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "\\(\\displaystyle\\lim_{n\\to\\infty}n\\int_0^1\\frac{x^n}{1+x+x^n}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\ln 2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\ln\\frac{3}{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2\\ln 2\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 16,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "\\(\\displaystyle\\lim_{n\\to\\infty}\\left(n-\\sum_{k=1}^{n}\\frac{\\cos 2k}{n\\sqrt n}\\right)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{1}{2}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{2}{3}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(+\\infty\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 17,
+            "category": "analiza",
+            "groupId": 5,
+            "context": "Se consideră funcția \\(f:[-2,+\\infty)\\to\\mathbb{R}\\), \\(\\displaystyle f(x)=e^{-x}(x^2+x-1)\\).",
+            "question": "Numărul asimptotelor lui \\(f\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "alt răspuns"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 18,
+            "category": "analiza",
+            "groupId": 5,
+            "context": "Se consideră funcția \\(f:[-2,+\\infty)\\to\\mathbb{R}\\), \\(\\displaystyle f(x)=e^{-x}(x^2+x-1)\\).",
+            "question": "Numărul punctelor de extrem local ale lui \\(f\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(3\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 19,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "\\(\\displaystyle\\lim_{n\\to\\infty}\\frac{2n}{\\sqrt{n^2+2n}}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{2}{3}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\sqrt 2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 20,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "\\(\\displaystyle\\lim_{x\\to0}\\frac{\\sin x}{\\sqrt{1-\\cos x}}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\sqrt 2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{1}{\\sqrt2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "nu există"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 21,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "Fie funcția \\(\\displaystyle f:\\mathbb{R}\\to\\mathbb{R},\\quad f(x)=|2x^2-3x+1|\\cdot\\cos(ax)\\), unde \\(a\\in[0,2\\pi]\\) este un parametru real. Numărul valorilor lui \\(a\\) pentru care funcția \\(f\\) este derivabilă pe \\(\\mathbb{R}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "infinit"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 22,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "\\(\\displaystyle\\int_0^3\\frac{1}{\\sqrt{1+x}}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac12\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\sqrt3\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{\\sqrt3}{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{7}{12}\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 23,
+            "category": "analiza",
+            "groupId": 6,
+            "context": "Fie \\(a\\in\\mathbb{R}\\) și fie funcțiile \\(f,g:(-1,\\infty)\\to\\mathbb{R}\\) definite prin \\(\\displaystyle f(x)=ax^2+x,\\quad g(x)=\\ln(1+x)\\).",
+            "question": "\\(\\displaystyle\\lim_{x\\to0}\\dfrac{f(x)}{g(x)}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2a+1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(infty\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(a+1\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 24,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Fie \\(a\\in\\mathbb{R}\\) și fie funcțiile \\(f,g:(-1,\\infty)\\to\\mathbb{R}\\) definite prin \\(\\displaystyle f(x)=ax^2+x,\\quad g(x)=\\ln(1+x)\\).",
+            "question": "Mulțimea valorilor lui \\(a\\) pentru care graficele funcțiilor \\(f\\) și \\(g\\) au tangentă comună într-un punct comun este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\mathbb{R}\\setminus\\left\\{1-\\frac{1}{e}\\right\\}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((-\\infty,0]\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\([0,\\infty)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\left[-\\frac12,\\infty\\right)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\mathbb{R}\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 25,
+            "category": "analiza",
+            "groupId": 7,
+            "context": "Fie șirul de numere reale \\((x_n)_{n\\geq0}\\) definit prin \\(\\displaystyle x_{n+1}=x_n\\sqrt{1-x_n^2},\\) unde \\(x_0=a\\in(0,1)\\).",
+            "question": "\\(\\displaystyle\\lim_{n\\to\\infty}x_n\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(a\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\sqrt{1-a^2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "nu există"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 26,
+            "category": "analiza",
+            "groupId": 7,
+            "context": "Fie șirul de numere reale \\((x_n)_{n\\geq0}\\) definit prin \\(\\displaystyle x_{n+1}=x_n\\sqrt{1-x_n^2},\\) unde \\(x_0=a\\in(0,1)\\).",
+            "question": "\\(\\displaystyle\\lim_{n\\to\\infty}n\\cdot x_n^2\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(a^2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(1-a^2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(+\\infty\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 27,
+            "category": "geometrie",
+            "groupId": 8,
+            "context": "Fie \\(ABCD\\) paralelogram, cu \\(A(-1,4)\\), \\(B(1,6)\\) și \\(C(3,-8)\\).",
+            "question": "Punctul de intersecție al diagonalelor are coordonatele:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((2,-1)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((0,5)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((1,-2)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((2,-4)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\((1,-10)\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 28,
+            "category": "geometrie",
+            "groupId": 8,
+            "context": "Fie \\(ABCD\\) paralelogram, cu \\(A(-1,4)\\), \\(B(1,6)\\) și \\(C(3,-8)\\).",
+            "question": "Simetricul lui \\(D\\) față de dreapta \\(AB\\) are coordonatele:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((-14,5)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((6,-15)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((-13,4)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((-15,6)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\((-5,14)\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 29,
+            "category": "geometrie",
+            "groupId": 8,
+            "context": "Fie \\(ABCD\\) paralelogram, cu \\(A(-1,4)\\), \\(B(1,6)\\) și \\(C(3,-8)\\).",
+            "question": "Aria paralelogramului \\(ABCD\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(32\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(16\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(8\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(48\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(24\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 30,
+            "category": "trigonometrie",
+            "groupId": null,
+            "context": null,
+            "question": "Mulțimea soluțiilor ecuației \\(\\displaystyle\\sin x+\\sin(3x)=\\frac{8}{3\\sqrt3}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\left\\{(-1)^k\\arcsin\\frac{1}{\\sqrt3}+k\\pi:k\\in\\mathbb{Z}\\right\\}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\left\\{\\frac{k\\pi}{6}:k\\in\\mathbb{Z}\\right\\}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\left\\{(-1)^k\\arcsin\\frac{3\\sqrt3}{8}+k\\pi:k\\in\\mathbb{Z}\\right\\}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\varnothing\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\left\\{\\frac{k\\pi}{8}:k\\in\\mathbb{Z}\\right\\}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        }
+    ]
+}

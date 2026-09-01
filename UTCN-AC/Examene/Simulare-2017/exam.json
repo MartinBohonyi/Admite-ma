@@ -1,0 +1,936 @@
+{
+    "examTitle": "Simulare 2017",
+    "type": "single-choice",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Mulțimea valorilor parametrului real \\(m\\) pentru care \\(x^2+2x+m\\ge 0\\) pentru orice \\(x\\) real este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((1,\\infty)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\([1,\\infty)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\([0,\\infty)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\mathbb{R}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\varnothing\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 2,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Mulțimea soluțiilor ecuației \\(\\displaystyle\\frac{2\\lg(x-2)}{\\lg(5x-14)}=1\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\varnothing\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\{3,6\\}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\{4\\}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\mathbb R\\setminus\\{3\\}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\{6\\}\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 3,
+            "category": "trigonometrie",
+            "groupId": 1,
+            "context": null,
+            "question": "\\(\\displaystyle\\sin^2\\frac{\\pi}{3}+\\cos^2\\frac{\\pi}{3}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\sqrt 2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac12\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac13\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\sqrt 3\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 4,
+            "category": "trigonometrie",
+            "groupId": 1,
+            "context": null,
+            "question": "Numărul soluțiilor din intervalul \\([0,2\\pi]\\) ale ecuației \\(\\sin x=\\cos x\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 5,
+            "category": "trigonometrie",
+            "groupId": 1,
+            "context": null,
+            "question": "Valoarea minimă a funcției \\(f:\\mathbb R\\to\\mathbb R,\\quad f(x)=\\sin^4x+\\cos^4x\\), este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac12\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac14\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac34\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac13\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 6,
+            "category": "geometrie",
+            "groupId": 2,
+            "context": "Se consideră punctele \\(A(0,3)\\), \\(B(1,0)\\) și \\(C(6,1)\\).",
+            "question": "Coordonatele mijlocului segmentului \\(AC\\) sunt:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((2,2)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((3,2)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((3,4)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((3,3)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\((4,3)\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 7,
+            "category": "geometrie",
+            "groupId": 2,
+            "context": "Se consideră punctele \\(A(0,3)\\), \\(B(1,0)\\) și \\(C(6,1)\\).",
+            "question": "Coordonatele punctului \\(D\\) pentru care \\(ABCD\\) este paralelogram sunt:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((5,4)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((5,5)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((4,4)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((6,4)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\((2,4)\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 8,
+            "category": "geometrie",
+            "groupId": 2,
+            "context": "Se consideră punctele \\(A(0,3)\\), \\(B(1,0)\\) și \\(C(6,1)\\).",
+            "question": "Centrul de greutate al triunghiului \\(ABC\\) are coordonatele:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\left(3,\\dfrac{4}{3}\\right)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\left(\\dfrac{8}{3},\\dfrac{2}{3}\\right)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\left(4,\\dfrac{4}{3}\\right)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\left(\\dfrac{7}{3},\\dfrac{4}{3}\\right)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\((1,1)\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 9,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Se consideră sistemul\n    \\(\n    \\begin{cases}\n    x+2y+3z=1\\\\\n    2x-y+az=1\\\\\n    3x+y+4z=2b^3\n    \\end{cases}\n    \\quad a,b\\in\\mathbb{R}.\n    \\)",
+            "question": "Sistemul este compatibil determinat dacă și numai dacă:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(a\\in\\mathbb{R}\\setminus\\{1\\};\\ b\\in\\mathbb{R}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(a\\in\\mathbb{R}\\setminus\\{1\\};\\ b=1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(a=b=2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(a=1;\\ b\\in\\mathbb{R}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(a\\in\\mathbb{R}\\setminus\\{0\\};\\ b\\in\\mathbb{R}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 10,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Se consideră sistemul\n    \\(\n    \\begin{cases}\n    x+2y+3z=1\\\\\n    2x-y+az=1\\\\\n    3x+y+4z=2b^3\n    \\end{cases}\n    \\quad a,b\\in\\mathbb{R}.\n    \\)",
+            "question": "Numărul perechilor \\((a,b)\\in\\mathbb{R}\\times\\mathbb{R}\\) pentru care sistemul este compatibil nedeterminat este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "infinit"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 11,
+            "category": "analiza",
+            "groupId": 4,
+            "context": "Să se calculeze:",
+            "question": "\\(\\displaystyle\n    \\lim_{n\\to\\infty}\\dfrac{2n+1}{n+2}\n    \\)",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\infty\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(e\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 12,
+            "category": "analiza",
+            "groupId": 4,
+            "context": "Să se calculeze:",
+            "question": "\\(\\displaystyle\n    \\lim_{x\\to\\infty}\\left(\\sqrt{x^2+2x}-x\\right)\n    \\)",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "nu există"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\infty\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(1\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 13,
+            "category": "analiza",
+            "groupId": 4,
+            "context": "Să se calculeze:",
+            "question": "\\(\\displaystyle\n    \\lim_{x\\to0}\\frac{3x-\\sin x}{x+\\sin x}\n    \\)",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\infty\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-1\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 14,
+            "category": "analiza",
+            "groupId": 4,
+            "context": "Să se calculeze:",
+            "question": "\\(\\displaystyle\n    \\lim_{n\\to\\infty}\\left(n-\\sum_{k=1}^{n}e^{\\frac{k}{n}}\\right)\n    \\)",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\infty\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(e\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-\\frac{1}{2}\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 15,
+            "category": "analiza",
+            "groupId": 5,
+            "context": "Se consideră funcția \\(f:(0,\\infty)\\to\\mathbb{R}\\),\n    \\(f(x)=xe^{\\frac{a}{x}}\\), unde \\(a\\) este un parametru real.",
+            "question": "Mulțimea valorilor lui \\(a\\) pentru care graficul funcției \\(f\\) admite asimptota\n    \\(y=x+2\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\{-2,2\\}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\{1\\}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\{2\\}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\{-1\\}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\varnothing\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 16,
+            "category": "analiza",
+            "groupId": 5,
+            "context": "Se consideră funcția \\(f:(0,\\infty)\\to\\mathbb{R}\\),\n    \\(f(x)=xe^{\\frac{a}{x}}\\), unde \\(a\\) este un parametru real.",
+            "question": "Mulțimea valorilor lui \\(a\\) pentru care graficul funcției \\(f\\) are două asimptote este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((0,1)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((1,\\infty)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((-\\infty,0)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((0,\\infty)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\varnothing\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 17,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Se consideră polinomul\n    \\(\n    P(x)=(x^2+x+1)^{100}\n    =a_0+a_1x+\\cdots+a_{199}x^{199}+a_{200}x^{200},\n    \\)\n    având rădăcinile \\(x_1,x_2,\\ldots,x_{200}\\).",
+            "question": "Valoarea lui \\(P(0)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(30\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(200\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(100\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(1\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 18,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Se consideră polinomul\n    \\(\n    P(x)=(x^2+x+1)^{100}\n    =a_0+a_1x+\\cdots+a_{199}x^{199}+a_{200}x^{200},\n    \\)\n    având rădăcinile \\(x_1,x_2,\\ldots,x_{200}\\).",
+            "question": "Valoarea lui \\(a_1\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(100\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(200\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(199\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 19,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Se consideră polinomul\n    \\(\n    P(x)=(x^2+x+1)^{100}\n    =a_0+a_1x+\\cdots+a_{199}x^{199}+a_{200}x^{200},\n    \\)\n    având rădăcinile \\(x_1,x_2,\\ldots,x_{200}\\).",
+            "question": "Restul împărțirii polinomului \\(P\\) la \\(x^2+x\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(100x-1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(99\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(100x+1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(1\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 20,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Se consideră polinomul\n    \\(\n    P(x)=(x^2+x+1)^{100}\n    =a_0+a_1x+\\cdots+a_{199}x^{199}+a_{200}x^{200},\n    \\)\n    având rădăcinile \\(x_1,x_2,\\ldots,x_{200}\\).",
+            "question": "Suma\n                            \\(\\displaystyle\n                            \\sum_{k=1}^{200}\\frac{1}{1+x_k}\n                            \\)\n                            este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(100\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(200\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-100\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(1\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 21,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "Pe mulțimea \\(\\mathbb{Z}\\) se definește legea de compoziție \"\\(*\\)\" prin\n    \\(\n    x*y=xy+mx+my+2,\\qquad \\text{unde }m\\in\\mathbb{Z}.\n    \\)",
+            "question": "\\(0*0\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(5\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(6\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 22,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "Pe mulțimea \\(\\mathbb{Z}\\) se definește legea de compoziție \"\\(*\\)\" prin\n    \\(\n    x*y=xy+mx+my+2,\\qquad \\text{unde }m\\in\\mathbb{Z}.\n    \\)",
+            "question": "Fie \\(m=-1\\). Știind că \"\\(*\\)\" este asociativă,\n    \\((-4)*(-3)*(-2)*(-1)*0*1*2*3*4\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 23,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "Pe mulțimea \\(\\mathbb{Z}\\) se definește legea de compoziție \"\\(*\\)\" prin\n    \\(\n    x*y=xy+mx+my+2,\\qquad \\text{unde }m\\in\\mathbb{Z}.\n    \\)",
+            "question": "Mulțimea valorilor parametrului \\(m\\) pentru care legea \"\\(*\\)\"\n    admite element neutru este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\{-1,0,2\\}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\{-1,1,2\\}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\{-1,2\\}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\{-1\\}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\{2\\}\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 24,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "Pe mulțimea \\(\\mathbb{Z}\\) se definește legea de compoziție \"\\(*\\)\" prin\n    \\(\n    x*y=xy+mx+my+2,\\qquad \\text{unde }m\\in\\mathbb{Z}.\n    \\)",
+            "question": "Dacă \\(m=2\\), atunci numărul elementelor simetrizabile în raport cu \"\\(*\\)\" este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "infinit"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 25,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "Funcția \\(f:\\mathbb{R}\\to\\mathbb{R}\\),\n                                \\(\n                                f(x)=\\displaystyle\\int_0^1 |t-x|^3\\,dt,\n                                \\)\n                                are valoare minimă pentru \\(x\\) egal cu:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac12\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac14\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-1\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 26,
+            "category": "analiza",
+            "groupId": 8,
+            "context": "Să se calculeze:",
+            "question": "\\(\\displaystyle\n    \\int_0^1 x^9\\,dx\n    \\)",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac18\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac29\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac19\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{1}{10}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(10\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 27,
+            "category": "analiza",
+            "groupId": 8,
+            "context": "Să se calculeze:",
+            "question": "\\(\\displaystyle\n    \\int_0^2 \\frac{1}{4+x^2}\\,dx\n    \\)",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{\\pi}{6}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac{\\pi}{8}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{\\pi}{4}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{\\pi}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\pi\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 28,
+            "category": "analiza",
+            "groupId": 8,
+            "context": "Să se calculeze:",
+            "question": "\\(\\displaystyle\n    \\int_0^1 \\ln(x+1)\\,dx\n    \\)",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\ln\\dfrac{e}{2}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\ln\\dfrac{2}{3}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\ln\\dfrac{4}{e}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\ln 2\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 29,
+            "category": "analiza",
+            "groupId": 8,
+            "context": "Să se calculeze:",
+            "question": "\\(\\displaystyle\n    \\int_0^1 \\frac{1+x^2}{1+x^2+x^4}\\,dx\n    \\)",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{\\pi}{3\\sqrt{3}}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac{\\pi}{2\\sqrt{3}}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{\\pi}{2\\sqrt{2}}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{\\pi}{3\\sqrt{2}}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{\\pi}{\\sqrt{3}}\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 30,
+            "category": "analiza",
+            "groupId": 8,
+            "context": "Să se calculeze:",
+            "question": "\\(\\displaystyle\n    \\lim_{n\\to\\infty}\n    n\\int_{\\frac{1}{n}}^n\n    \\frac{\\operatorname{arctg}(x^2)}{1+x^2}\\,dx\n    \\)",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{\\pi^2}{2}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac{\\pi^2}{4}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{\\pi^2}{8}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\pi^2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{\\pi^2}{6}\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        }
+    ]
+}

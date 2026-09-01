@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <script>
+            window.MathJax = {
+            tex: {
+                inlineMath: [['\\(', '\\)'], ['$', '$']]
+            }
+            };
+        </script>
+
+        <script
+            id="MathJax-script"
+            async
+            src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+
+        </script>
+
+        <meta charset="UTF-8">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+         
+        <link rel="stylesheet" href="exam-styles.css">
+    </head>
+    <body>
+
+    <div class="container">
+           <header class="header">
+                <div class="logo-section">
+                    <div class="logo">
+                          <p>A!</p>
+                    </div>
+                    <div class="mid-section">
+                        <p>Admite-mă!</p>
+                    </div>
+                </div>
+
+                <div class="nav">
+                   <a class="header-button" href="../Pagina-Departament/index.html#examene">
+                         Înapoi
+                    </a>
+                </div>
+            </header>
+
+            <div class="university">Universitatea Babeș-Bolyai</div>
+            <div class="faculty">Facultatea de Matematică și Informatică</div>
+
+            <h1 class="exam-title"></h1>
+
+            <div class="divider"></div>
+        <div class="questions-list"></div>    
+
+            <p class="progress-text"></p>
+
+                <div class="submit-section">
+
+                    <button class="submit-button">
+                        Corectează examenul
+                    </button>
+
+                    <button class="reset-button">
+                        Resetează
+                     </button>
+                </div>
+
+                <div class="result-card" id="rezultat">
+
+                    <h2>Rezultat</h2>
+
+                    <div class="result-divider"></div>
+
+                    <p class="score-text"></p>
+                    <p class="grade-text"></p>
+                </div>
+
+
+
+    </div>
+    
+    <script src="loading-script.js"></script>
+    <script src="exam-script.js"></script>
+    </body>
+</html>

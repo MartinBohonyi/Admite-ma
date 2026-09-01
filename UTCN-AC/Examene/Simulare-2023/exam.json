@@ -1,0 +1,936 @@
+{
+    "examTitle": "Simulare 2023",
+    "type": "single-choice",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Numărul polinoamelor \\(P\\in\\mathbb{C}[X]\\) de grad \\(3\\) care au toate rădăcinile în mulțimea\n    \\(\\{0,1,2,\\ldots,8\\}\\) și verifică\n    \\(\\displaystyle\\lim_{x\\to\\infty}\\dfrac{P(x)}{x^3}=1\\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(165\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(129\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(84\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(120\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(240\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 2,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Pentru orice \\(m\\in\\mathbb{R}\\) se definește funcția\n    \\(f_m:\\mathbb{R}\\to\\mathbb{R}\\),\n    \\(f_m(x)=mx^2-2(m+1)x+m-1\\), pentru orice \\(x\\in\\mathbb{R}\\).",
+            "question": "Mulțimea valorilor lui \\(m\\) pentru care ecuația\n    \\(f_m(x)=0\\) are soluții reale este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\([0,\\infty)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\([-1,\\infty)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\left[-\\dfrac{1}{3},\\infty\\right)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\([1,\\infty)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\mathbb{R}^*\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 3,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Pentru orice \\(m\\in\\mathbb{R}\\) se definește funcția\n    \\(f_m:\\mathbb{R}\\to\\mathbb{R}\\),\n    \\(f_m(x)=mx^2-2(m+1)x+m-1\\), pentru orice \\(x\\in\\mathbb{R}\\).",
+            "question": "Vârfurile parabolelor reprezentate de graficele funcțiilor\n    \\(f_m\\), pentru \\(m\\neq0\\), se află pe dreapta de ecuație:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(x+y=-2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(x-y=6\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2x+y=-1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(y=-2x\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(y=-x\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 4,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Pentru orice \\(m\\in\\mathbb{R}\\) se definește funcția\n    \\(f_m:\\mathbb{R}\\to\\mathbb{R}\\),\n    \\(f_m(x)=mx^2-2(m+1)x+m-1\\), pentru orice \\(x\\in\\mathbb{R}\\).",
+            "question": "Mulțimea punctelor comune tuturor graficelor funcțiilor\n    \\(f_m\\), \\(m\\in\\mathbb{R}\\), este inclusă în:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(x=0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(y=3\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(y=x\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(y=-2x+1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(y=-3x\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 5,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Restul împărțirii polinomului\n    \\(X^{2023}-2X^{22}+3X^{10}-2\\)\n    la \\(X^3+X^2+X+1\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-X-3\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2X^2-X-1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(X^2-X\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2X+1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 6,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Pe mulțimea \\((0,\\infty)\\) se definește legea de compoziție\n    \\(x*y=\\dfrac{xy}{x+y}\\), pentru orice \\(x,y\\in(0,\\infty)\\).",
+            "question": "Elementul neutru în raport cu legea \"\\(*\\)\" este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\sqrt2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "nu există element neutru."
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 7,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Pe mulțimea \\((0,\\infty)\\) se definește legea de compoziție\n    \\(x*y=\\dfrac{xy}{x+y}\\), pentru orice \\(x,y\\in(0,\\infty)\\).",
+            "question": "Numărul perechilor \\((x,y)\\), cu \\(x,y&gt;0\\), care verifică relația\n    \\(\\dfrac{1}{x*y}=\\dfrac{1}{x}+\\dfrac{1}{y}\\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\infty\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(6\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 8,
+            "category": "analiza",
+            "groupId": 2,
+            "context": "Pe mulțimea \\((0,\\infty)\\) se definește legea de compoziție\n    \\(x*y=\\dfrac{xy}{x+y}\\), pentru orice \\(x,y\\in(0,\\infty)\\).",
+            "question": "\\(\\displaystyle\\lim_{n\\to\\infty}1*2*3*\\cdots*n\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\ln 2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\infty\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "limita nu există."
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{1}{e}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 9,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Fie \\(a\\in\\mathbb{C}\\) și fie matricea\n    \\(A=\\begin{pmatrix}1&amp;a\\\\-a&amp;1\\end{pmatrix}\\).",
+            "question": "Mulțimea valorilor lui \\(a\\) pentru care\n    \\(A^2-2A+I_2=O_2\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\{1,-1\\}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\{i,-i\\}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\{0\\}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\{\\sqrt{2},-\\sqrt{2}\\}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\varnothing\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 10,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Fie \\(a\\in\\mathbb{C}\\) și fie matricea\n    \\(A=\\begin{pmatrix}1&amp;a\\\\-a&amp;1\\end{pmatrix}\\).",
+            "question": "Dacă \\(a=i\\), atunci numărul soluțiilor\n    \\(X\\in M_2(\\mathbb{C})\\) ale ecuației\n    \\(AX=I_2\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\infty\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 11,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Fie \\(a\\in\\mathbb{C}\\) și fie matricea\n    \\(A=\\begin{pmatrix}1&amp;a\\\\-a&amp;1\\end{pmatrix}\\).",
+            "question": "Dacă \\(a=i\\), atunci \\(A^{100}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2^{99}A\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2^{100}iA\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-2^{99}A\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-2^{99}iA\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(O_2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 12,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Fie numărul complex\n    \\(z=\\sin\\dfrac{5\\pi}{6}+i\\cos\\dfrac{5\\pi}{6}\\).\n    Atunci \\(z^6\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(i\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-i\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{\\sqrt{3}-i}{2}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 13,
+            "category": "analiza",
+            "groupId": 4,
+            "context": null,
+            "question": "\\(\\displaystyle\\lim_{x\\to0}\\frac{x-\\sin x\\cdot\\cos x}{x^3}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{2}{3}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac{1}{6}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{1}{3}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-\\dfrac{1}{3}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{4}{3}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 14,
+            "category": "analiza",
+            "groupId": 4,
+            "context": null,
+            "question": "\\(\\displaystyle\\lim_{x\\to0}\\left(\\frac{1}{(\\operatorname{arctg} x)^2}-\\frac{1}{(\\operatorname{tg} x)^2}\\right)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{4}{3}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac{1}{6}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{1}{3}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{2}{3}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 15,
+            "category": "analiza",
+            "groupId": 5,
+            "context": "",
+            "question": "\\(\\displaystyle\\int_0^2\\sqrt{|x-1|}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{4}{3}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac{2}{3}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{1}{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 16,
+            "category": "analiza",
+            "groupId": 5,
+            "context": "",
+            "question": "\\(\\displaystyle\\int_0^\\pi x\\cdot\\cos x\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\pi - 2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2-\\pi\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\pi + 2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 17,
+            "category": "analiza",
+            "groupId": 5,
+            "context": "",
+            "question": "\\(\\displaystyle\n    \\int_0^1 \\frac{\\sin \\pi x}{9^x+3}\\,dx\n    \\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{1}{3\\pi}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac{2}{3\\pi}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{2}{9\\pi}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{1}{\\pi}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{2}{\\pi}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 18,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "Limita șirului\n    \\(\\displaystyle\\frac{1}{n\\pi}\\int_0^{n\\pi}\\frac{1}{2+\\sin^2x}\\,dx\\),\n    \\(n=1,2,3,\\ldots\\), este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\sqrt{6}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{1}{\\sqrt{6}}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{\\pi}{\\sqrt{6}}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{2}{\\pi\\sqrt{6}}\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 19,
+            "category": "analiza",
+            "groupId": 6,
+            "context": "Fie șirul \\((x_n)_{n\\geq 0}\\) definit prin\n    \\(x_{n+1}=2x_n^2-1\\), pentru orice \\(n\\in\\mathbb{N}\\),\n    unde \\(x_0\\in\\mathbb{R}\\).",
+            "question": "Numărul valorilor lui \\(x_0\\) pentru care șirul\n    \\((x_n)_{n\\geq 0}\\) este constant este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\infty\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 20,
+            "category": "analiza",
+            "groupId": 6,
+            "context": "Fie șirul \\((x_n)_{n\\geq 0}\\) definit prin\n    \\(x_{n+1}=2x_n^2-1\\), pentru orice \\(n\\in\\mathbb{N}\\),\n    unde \\(x_0\\in\\mathbb{R}\\).",
+            "question": "Dacă \\(x_0=\\sqrt{2}\\), atunci\n    \\(\\displaystyle\\lim_{n\\to\\infty}x_n\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\infty\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-\\infty\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "limita nu există."
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 21,
+            "category": "analiza",
+            "groupId": 6,
+            "context": "Fie șirul \\((x_n)_{n\\geq 0}\\) definit prin\n    \\(x_{n+1}=2x_n^2-1\\), pentru orice \\(n\\in\\mathbb{N}\\),\n    unde \\(x_0\\in\\mathbb{R}\\).",
+            "question": "Dacă \\(x_0=\\sqrt{2}\\), atunci\n    \\(\\displaystyle\n    \\lim_{n\\to\\infty}\n    \\frac{2^n\\cdot x_0x_1\\cdots x_n}{x_{n+1}}\n    \\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac12\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{\\sqrt{2}}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 22,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "Fie \\(a\\in\\mathbb{R}\\) fixat și fie funcția\n    \\(f:\\mathbb{R}\\to\\mathbb{R}\\), cu\n    \\(f(x)=ax+\\sin x\\), pentru orice \\(x\\in\\mathbb{R}\\).",
+            "question": "Mulțimea valorilor lui \\(a\\) pentru care funcția \\(f\\)\n    este inversabilă este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((-\\infty,-1]\\cup[1,\\infty)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\left[\\dfrac{1}{\\pi},\\infty\\right]\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\([1,\\infty]\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\( \\left(-\\infty,-\\dfrac{1}{\\pi}\\right]\\cup\\left[\\dfrac{1}{\\pi},\\infty\\right) \\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\((0,\\infty)\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 23,
+            "category": "analiza",
+            "groupId": 7,
+            "context": "Fie \\(a\\in\\mathbb{R}\\) fixat și fie funcția\n    \\(f:\\mathbb{R}\\to\\mathbb{R}\\), cu\n    \\(f(x)=ax+\\sin x\\), pentru orice \\(x\\in\\mathbb{R}\\).",
+            "question": "Dacă \\(a=2\\), iar \\(g\\) este inversa funcției \\(f\\), atunci \\(g'(0)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\( \\dfrac{1}{2} \\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\( \\dfrac{1}{3} \\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(3\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 24,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "Fie \\(a\\in\\mathbb{R}\\) fixat și fie funcția\n    \\(f:\\mathbb{R}\\to\\mathbb{R}\\), cu\n    \\(f(x)=ax+\\sin x\\), pentru orice \\(x\\in\\mathbb{R}\\).",
+            "question": "Numărul valorilor lui \\(a\\) pentru care dreapta de ecuație\n    \\(y=x\\) este tangentă la graficul funcției \\(f\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "infinit"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 25,
+            "category": "geometrie",
+            "groupId": 8,
+            "context": "În planul \\(xOy\\) se consideră punctele \\(A(4,0)\\), \\(B(0,3)\\) și \\(M\\)\n    un punct variabil pe segmentul \\((AB)\\). Fie \\(P\\) proiecția lui \\(M\\)\n    pe \\(Ox\\) și \\(N\\) proiecția lui \\(M\\) pe \\(Oy\\).",
+            "question": "Ecuația dreptei \\(AB\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(3x+4y=12\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(4x+3y=12\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(4x-3y=12\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3x-4y=12\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(4x+3y=7\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 26,
+            "category": "geometrie",
+            "groupId": 8,
+            "context": "În planul \\(xOy\\) se consideră punctele \\(A(4,0)\\), \\(B(0,3)\\) și \\(M\\)\n    un punct variabil pe segmentul \\((AB)\\). Fie \\(P\\) proiecția lui \\(M\\)\n    pe \\(Ox\\) și \\(N\\) proiecția lui \\(M\\) pe \\(Oy\\).",
+            "question": "Panta bisectoarei unghiului \\(OAB\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-\\dfrac{1}{3}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-\\dfrac{1}{2}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-\\dfrac{3}{8}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-\\dfrac{1}{4}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(1\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 27,
+            "category": "geometrie",
+            "groupId": 8,
+            "context": "În planul \\(xOy\\) se consideră punctele \\(A(4,0)\\), \\(B(0,3)\\) și \\(M\\)\n    un punct variabil pe segmentul \\((AB)\\). Fie \\(P\\) proiecția lui \\(M\\)\n    pe \\(Ox\\) și \\(N\\) proiecția lui \\(M\\) pe \\(Oy\\).",
+            "question": "Aria maximă a dreptunghiului \\(MNOP\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2\\sqrt{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2\\sqrt{3}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 28,
+            "category": "trigonometrie",
+            "groupId": 9,
+            "context": "Fie funcția \\(f:\\mathbb{R}\\to\\mathbb{R}\\), definită prin\n    \\(f(x)=\\cos x\\cdot\\cos 2x\\cdot\\cos 3x\\cdot\\cos 4x\\),\n    pentru orice \\(x\\in\\mathbb{R}\\).",
+            "question": "\\(f(\\pi)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac14\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 29,
+            "category": "trigonometrie",
+            "groupId": 9,
+            "context": "Fie funcția \\(f:\\mathbb{R}\\to\\mathbb{R}\\), definită prin\n    \\(f(x)=\\cos x\\cdot\\cos 2x\\cdot\\cos 3x\\cdot\\cos 4x\\),\n    pentru orice \\(x\\in\\mathbb{R}\\).",
+            "question": "Perioada principală a funcției \\(f\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\pi\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\pi\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{\\pi}{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{\\pi}{4}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(8\\pi\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 30,
+            "category": "trigonometrie",
+            "groupId": 9,
+            "context": "Fie funcția \\(f:\\mathbb{R}\\to\\mathbb{R}\\), definită prin\n    \\(f(x)=\\cos x\\cdot\\cos 2x\\cdot\\cos 3x\\cdot\\cos 4x\\),\n    pentru orice \\(x\\in\\mathbb{R}\\).",
+            "question": "Numărul soluțiilor ecuației \\(f(x)=1\\) din intervalul \\([0,4\\pi]\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(5\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(11\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(4\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        }
+    ]
+}

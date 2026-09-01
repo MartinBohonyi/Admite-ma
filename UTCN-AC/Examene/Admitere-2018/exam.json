@@ -1,0 +1,936 @@
+{
+    "examTitle": "Admitere 2018",
+    "type": "single-choice",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "category": "analiza",
+            "groupId": 1,
+            "context": "Calculați:",
+            "question": "\\(\\displaystyle\\int_1^5\\frac{dx}{x+3}\\)",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\ln 2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\ln 3\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\ln 4\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\ln 5\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\ln 8\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 2,
+            "category": "analiza",
+            "groupId": 1,
+            "context": "Calculați:",
+            "question": "\\(\\displaystyle\\int_0^1\\frac{dx}{e^x+e^{-x}}\\)",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\operatorname{arctg}\\frac{e}{e+1}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\operatorname{arctg} e-\\frac{\\pi}{4}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\operatorname{arctg}\\frac{e}{e^2+1}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\ln\\frac{e}{e+1}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\ln(2e)\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 3,
+            "category": "analiza",
+            "groupId": 1,
+            "context": "Calculați:",
+            "question": "\\(\\displaystyle\\int_0^{\\frac{\\pi}{4}}\\frac{\\sin(4x)}{\\cos^4x+\\sin^4x}\\,dx\\)",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\ln 2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\pi\\ln 4\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\pi\\ln 8\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\ln\\left(\\frac{\\pi}{4}\\right)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\ln(\\pi e)\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 4,
+            "category": "analiza",
+            "groupId": 1,
+            "context": "Calculați:",
+            "question": "Fie \\(\\{x\\}\\) partea fracționară a numărului real \\(x\\). Atunci \\(\\displaystyle\\lim_{n\\to\\infty}n\\int_0^\\pi\\{x\\}^n\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{2}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\pi\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(3\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 5,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "\\(\\displaystyle\\lim_{x\\to+\\infty}\\frac{2\\cdot9^x+5^x+4}{9^{x+1}-5^x+2^x}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac{2}{9}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{1}{9}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(+\\infty\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 6,
+            "category": "analiza",
+            "groupId": 2,
+            "context": "Fie \\(f:\\mathbb{R}\\to\\mathbb{R},\\quad f(x)=x^3+ax\\), unde \\(a\\) este un parametru real.",
+            "question": "\\(f'(0)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1+a\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(a\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1-a\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 7,
+            "category": "analiza",
+            "groupId": 2,
+            "context": "Fie \\(f:\\mathbb{R}\\to\\mathbb{R},\\quad f(x)=x^3+ax\\), unde \\(a\\) este un parametru real.",
+            "question": "Graficul lui \\(f\\) este tangent axei \\(Ox\\) dacă:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(a=2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(a=-1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(a=1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(a=0\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(a=3\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 8,
+            "category": "analiza",
+            "groupId": 2,
+            "context": "Fie \\(f:\\mathbb{R}\\to\\mathbb{R},\\quad f(x)=x^3+ax\\), unde \\(a\\) este un parametru real.",
+            "question": "Pentru \\(a=-3\\), numărul punctelor de extrem local ale funcției \\(g(x)=|f(x)|,\\ x\\in\\mathbb{R}\\), este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(5\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 9,
+            "category": "analiza",
+            "groupId": 2,
+            "context": "Fie \\(f:\\mathbb{R}\\to\\mathbb{R},\\quad f(x)=x^3+ax\\), unde \\(a\\) este un parametru real.",
+            "question": "Pentru \\(a=1\\), \\((f^{-1})'(2)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac12\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac14\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac13\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(+\\infty\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 10,
+            "category": "geometrie",
+            "groupId": 3,
+            "context": "Se consideră în plan punctul \\(A(0,-1)\\), dreptele \\(d_1:x-y+1=0,\\ d_2:2x-y=0\\) și punctele \\(B\\in d_1,\\ C\\in d_2\\), astfel încât \\(d_1\\) și \\(d_2\\) sunt mediane în triunghiul \\(ABC\\).",
+            "question": "Intersecția dreptelor \\(d_1\\) și \\(d_2\\) are coordonatele:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((-1,2)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((2,3)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((1,2)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((-1,0)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\left(-\\frac12,-1\\right)\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 11,
+            "category": "geometrie",
+            "groupId": 3,
+            "context": "Se consideră în plan punctul \\(A(0,-1)\\), dreptele \\(d_1:x-y+1=0,\\ d_2:2x-y=0\\) și punctele \\(B\\in d_1,\\ C\\in d_2\\), astfel încât \\(d_1\\) și \\(d_2\\) sunt mediane în triunghiul \\(ABC\\).",
+            "question": "Punctul \\(B\\) are coordonatele:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((3,6)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((0,1)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((1,2)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((-1,0)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\((-2,-1)\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 12,
+            "category": "geometrie",
+            "groupId": null,
+            "context": null,
+            "question": "Se consideră punctele \\(A(2,3)\\) și \\(B(4,5)\\). Mediatoarea segmentului \\([AB]\\) are ecuația:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2x-y=2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2x+y=10\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(x+2y=11\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-x+y=1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(x+y=7\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 13,
+            "category": "algebra",
+            "groupId": 4,
+            "context": "Se consideră polinomul \\(P(X)=X^{20}+X^{10}+X^5+2\\), având rădăcinile \\(x_1,x_2,\\ldots,x_{20}\\). Notăm cu \\(R(X)\\) restul împărțirii polinomului \\(P(X)\\) prin \\(X^3+X\\).",
+            "question": "\\(P(i)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2+i\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1+i\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(i\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 14,
+            "category": "algebra",
+            "groupId": 4,
+            "context": "Se consideră polinomul \\(P(X)=X^{20}+X^{10}+X^5+2\\), având rădăcinile \\(x_1,x_2,\\ldots,x_{20}\\). Notăm cu \\(R(X)\\) restul împărțirii polinomului \\(P(X)\\) prin \\(X^3+X\\).",
+            "question": "\\(R(X)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2+X+X^2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2+X\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2+X-X^2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(X\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(1\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 15,
+            "category": "algebra",
+            "groupId": 4,
+            "context": "Se consideră polinomul \\(P(X)=X^{20}+X^{10}+X^5+2\\), având rădăcinile \\(x_1,x_2,\\ldots,x_{20}\\). Notăm cu \\(R(X)\\) restul împărțirii polinomului \\(P(X)\\) prin \\(X^3+X\\).",
+            "question": "\\(\\displaystyle\\sum_{k=1}^{20}\\frac{1}{x_k-x_k^2}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac{15}{2}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(5\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(6\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(8\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(7\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 16,
+            "category": "algebra",
+            "groupId": 5,
+            "context": "Se consideră matricea \\(\\displaystyle A=\\begin{pmatrix}1&amp;-1\\\\1&amp;1\\end{pmatrix}\\) și fie \\(\\displaystyle A^n=\\begin{pmatrix}x_n&amp;-y_n\\\\y_n&amp;x_n\\end{pmatrix},\\ n\\in\\mathbb{N}^*\\). Notăm \\(\\displaystyle O_2=\\begin{pmatrix}0&amp;0\\\\0&amp;0\\end{pmatrix}\\) și \\(\\displaystyle I_2=\\begin{pmatrix}1&amp;0\\\\0&amp;1\\end{pmatrix}\\).",
+            "question": "\\(2A-A^2\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(A+I_2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(I_2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2I_2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(O_2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(A-I_2\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 17,
+            "category": "algebra",
+            "groupId": 5,
+            "context": "Se consideră matricea \\(\\displaystyle A=\\begin{pmatrix}1&amp;-1\\\\1&amp;1\\end{pmatrix}\\) și fie \\(\\displaystyle A^n=\\begin{pmatrix}x_n&amp;-y_n\\\\y_n&amp;x_n\\end{pmatrix},\\ n\\in\\mathbb{N}^*\\). Notăm \\(\\displaystyle O_2=\\begin{pmatrix}0&amp;0\\\\0&amp;0\\end{pmatrix}\\) și \\(\\displaystyle I_2=\\begin{pmatrix}1&amp;0\\\\0&amp;1\\end{pmatrix}\\).",
+            "question": "\\(A^{48}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(O_2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2^{12}I_2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2^{48}I_2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2^{48}A\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2^{24}I_2\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 18,
+            "category": "algebra",
+            "groupId": 5,
+            "context": "Se consideră matricea \\(\\displaystyle A=\\begin{pmatrix}1&amp;-1\\\\1&amp;1\\end{pmatrix}\\) și fie \\(\\displaystyle A^n=\\begin{pmatrix}x_n&amp;-y_n\\\\y_n&amp;x_n\\end{pmatrix},\\ n\\in\\mathbb{N}^*\\). Notăm \\(\\displaystyle O_2=\\begin{pmatrix}0&amp;0\\\\0&amp;0\\end{pmatrix}\\) și \\(\\displaystyle I_2=\\begin{pmatrix}1&amp;0\\\\0&amp;1\\end{pmatrix}\\).",
+            "question": "\\(\\displaystyle\\frac{x_{10}^2+y_{10}^2}{x_8^2+y_8^2}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(16\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(8\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(1\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 19,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "Perechea \\((a,b)\\in\\mathbb{R}^2\\), pentru care \\(\\displaystyle\\lim_{x\\to\\infty}\\left(\\sqrt{x^2+x+1}+\\sqrt{x^2+2x+2}-ax-b\\right)=0\\), este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\left(2,\\frac32\\right)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((-2,-1)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((-2,-2)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((2,-2)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\left(-2,-\\frac32\\right)\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 20,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "\\(\\displaystyle\\lim_{x\\to0} e^{\\frac{1}{x}}\\cdot\\sin x\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "nu există"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(+\\infty\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-\\infty\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(1\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 21,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "Se consideră șirul cu termeni pozitivi \\((a_n)_{n\\geq0}\\), \\(a_0=1,\\ a_1=a,\\ a_{n+1}^3=a_n^2a_{n-1},\\ n\\geq1\\). Valoarea lui \\(a\\), pentru care \\(\\displaystyle\\lim_{n\\to\\infty}a_n=8\\), este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(16\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(8\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(32\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(4\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 22,
+            "category": "trigonometrie",
+            "groupId": 6,
+            "context": "Se consideră ecuația \\(\\displaystyle\\cos^3x\\cdot\\sin x-\\sin^3x\\cdot\\cos x=m,\\quad m\\in\\mathbb{R}.\\)",
+            "question": "Ecuația admite soluția \\(\\displaystyle x=\\frac{\\pi}{2}\\) pentru:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle m=\\frac14\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(m=1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(m=0\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(m=-1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle m=-\\frac14\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 23,
+            "category": "trigonometrie",
+            "groupId": 6,
+            "context": "Se consideră ecuația \\(\\displaystyle\\cos^3x\\cdot\\sin x-\\sin^3x\\cdot\\cos x=m,\\quad m\\in\\mathbb{R}.\\)",
+            "question": "Ecuația are soluție dacă și numai dacă \\(m\\) aparține intervalului:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\([-1,1]\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\([-4,4]\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\left[-\\frac12,\\frac12\\right]\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\left[-\\frac14,\\frac14\\right]\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\([-2,2]\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 24,
+            "category": "trigonometrie",
+            "groupId": null,
+            "context": null,
+            "question": "Dacă \\(x\\in(\\pi,2\\pi)\\) și \\(\\displaystyle\\cos x=\\frac35\\), atunci \\(\\sin x\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac34\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac45\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle-\\frac45\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle-\\frac34\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 25,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Dacă \\(\\lg5=a\\) și \\(\\lg6=b\\), atunci \\(\\log_3 2\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac{1+a}{a+b+1}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{1+a}{a-b+1}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{1-a}{a+b+1}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{1-a}{a+b-1}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{1-a}{b-1}\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 26,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Dacă \\(x,y\\in\\mathbb{R}\\) verifică relația \\(\\displaystyle2\\lg(x-2y)=\\lg x+\\lg y\\), atunci mulțimea valorilor expresiei \\(\\displaystyle\\frac{x}{y}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\{4\\}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\{1\\}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\{1,4\\}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\{1,2,4\\}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\varnothing\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 27,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Dacă \\(\\alpha\\in\\mathbb{C}\\setminus\\mathbb{R}\\), \\(\\alpha^3=1\\), atunci \\((1+\\alpha)(1+\\alpha^2)(1+\\alpha^3)(1+\\alpha^4)(1+\\alpha^5)(1+\\alpha^6)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(64\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(16\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(8i\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 28,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "Pe intervalul \\((-1,1)\\) se definește legea de compoziție \\(*\\) prin \\(\\displaystyle x*y=\\frac{2xy+3(x+y)+2}{3xy+2(x+y)+3},\\quad x,y\\in(-1,1).\\)",
+            "question": "Elementul neutru al legii \\(*\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac23\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle -\\frac23\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac13\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle -\\frac23\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 29,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "Pe intervalul \\((-1,1)\\) se definește legea de compoziție \\(*\\) prin \\(\\displaystyle x*y=\\frac{2xy+3(x+y)+2}{3xy+2(x+y)+3},\\quad x,y\\in(-1,1).\\)",
+            "question": "Dacă funcția \\(f:(-1,1)\\to(0,\\infty),\\quad \\displaystyle f(x)=a\\frac{1-x}{1+x}\\) verifică relația \\(f(x*y)=f(x)f(y)\\), \\(\\forall x,y\\in(-1,1)\\), atunci \\(a\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle-\\frac23\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac23\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle-\\frac13\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac15\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle -\\frac15\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 30,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "Pe intervalul \\((-1,1)\\) se definește legea de compoziție \\(*\\) prin \\(\\displaystyle x*y=\\frac{2xy+3(x+y)+2}{3xy+2(x+y)+3},\\quad x,y\\in(-1,1).\\)",
+            "question": "Numărul soluțiilor ecuației \\(\\displaystyle\\underbrace{x*x*\\cdots*x}_{x\\text{ de 10 ori}}=\\frac{1}{10}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(10\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(5\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        }
+    ]
+}

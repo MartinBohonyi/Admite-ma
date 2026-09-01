@@ -1,0 +1,936 @@
+{
+    "examTitle": "Admitere 2019",
+    "type": "single-choice",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Se consideră mulțimea \\(A=\\{0,1,2,\\ldots,8\\}\\). Care este numărul submulțimilor lui \\(A\\) care au cel puțin \\(5\\) și cel puțin un element mai mare decât \\(5\\)?",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(224\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(217\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(64\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(192\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(240\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 2,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Pentru orice \\(m\\in\\mathbb{R}^*\\) se definește funcția \\(\\displaystyle f_m:\\mathbb{R}\\to\\mathbb{R},\\quad f_m(x)=mx^2+2(m+1)x+m+2.\\)",
+            "question": "Numărul punctelor din plan comune tuturor graficelor funcțiilor \\(f_m\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "infinit"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 3,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Pentru orice \\(m\\in\\mathbb{R}^*\\) se definește funcția \\(\\displaystyle f_m:\\mathbb{R}\\to\\mathbb{R},\\quad f_m(x)=mx^2+2(m+1)x+m+2.\\)",
+            "question": "Mulțimea valorilor \\(m\\) pentru care funcția \\(f_m\\) are ambele rădăcini reale și strict negative este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((-\\infty,-1)\\cup(0,\\infty)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((-\\infty,-2)\\cup(-2,0)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\varnothing\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((0,\\infty)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\((-\\infty,-2)\\cup(0,\\infty)\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 4,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Pe mulțimea \\(\\mathbb{Z}\\) se definește legea de compoziție „\\(*\\)” prin \\(x*y=x+y+axy\\), unde \\(a\\in\\mathbb{Z}\\) este fixat.",
+            "question": "Numărul valorilor lui \\(a\\) pentru care legea de compoziție are element neutru este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(5\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "infinit"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 5,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Pe mulțimea \\(\\mathbb{Z}\\) se definește legea de compoziție „\\(*\\)” prin \\(x*y=x+y+axy\\), unde \\(a\\in\\mathbb{Z}\\) este fixat.",
+            "question": "Dacă \\(a=-2\\), atunci numărul elementelor simetrizabile este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(5\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "infinit"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 6,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Pe mulțimea \\(\\mathbb{Z}\\) se definește legea de compoziție „\\(*\\)” prin \\(x*y=x+y+axy\\), unde \\(a\\in\\mathbb{Z}\\) este fixat.",
+            "question": "Dacă \\(a=-2\\), atunci \\(\\displaystyle 1*1*\\cdots*1\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{3^{2019}-1}{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{3^{2019}+1}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 7,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Fie \\(A\\in M_2(\\mathbb{C})\\) inversabilă astfel încât \\(A+A^{-1}=I_2\\). Atunci matricea \\(I_2+A+A^2+\\cdots+A^{2020}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2A-I_2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2A+I_2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-2A+I_2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-2A-I_2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(A+I_2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 8,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Fie \\(\\displaystyle z=\\cos\\frac{2\\pi}{3}+i\\sin\\frac{2\\pi}{3}\\). Atunci \\((1-z)(1-z^2)(1-z^4)(1-z^5)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(9\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(i\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(z\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 9,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Se consideră sistemul \\(\\displaystyle\\begin{cases}2x+y+z=1\\\\x+2y+bz=1\\\\x+y+az=1\\end{cases}\\), cu \\(a,b\\in\\mathbb{R}\\).",
+            "question": "Sistemul este compatibil determinat dacă și numai dacă:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(a\\neq\\displaystyle\\frac{2}{3}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(a=\\displaystyle\\frac{2}{3}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(a\\neq\\displaystyle\\frac{3}{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(a=\\displaystyle\\frac{3}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(a\\neq2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 10,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Se consideră sistemul \\(\\displaystyle\\begin{cases}2x+y+z=1\\\\x+2y+bz=1\\\\x+y+az=1\\end{cases}\\), cu \\(a,b\\in\\mathbb{R}\\).",
+            "question": "Sistemul este compatibil nedeterminat dacă și numai dacă:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle a=\\frac{2}{3},\\,b=2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle a=\\frac{2}{3},\\,b\\neq2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle a=2,\\,b=2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle a=\\frac{2}{3},\\,b=3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle a\\neq\\frac{2}{3},\\,b=2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 11,
+            "category": "algebra",
+            "groupId": 4,
+            "context": "Se consideră polinomul \\(P(X)=X^4+X^3+X^2+X+1\\), cu rădăcinile \\(x_1,x_2,x_3,x_4\\).",
+            "question": "\\(x_1+x_2+x_3+x_4\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-2\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 12,
+            "category": "algebra",
+            "groupId": 4,
+            "context": "Se consideră polinomul \\(P(X)=X^4+X^3+X^2+X+1\\), cu rădăcinile \\(x_1,x_2,x_3,x_4\\).",
+            "question": "\\(\\displaystyle x_1^{2019}+x_2^{2019}+x_3^{2019}+x_4^{2019}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-4\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 13,
+            "category": "analiza",
+            "groupId": 5,
+            "context": "Se consideră șirul \\((x_n)_{n\\geq0}\\) definit prin \\(\\displaystyle x_{n+1}=x_n-x_n^2,\\quad x_0\\in\\mathbb{R}.\\)",
+            "question": "Dacă \\(x_{100}=1\\), atunci valoarea lui \\(x_0\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "nu există"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 14,
+            "category": "analiza",
+            "groupId": 5,
+            "context": "Se consideră șirul \\((x_n)_{n\\geq0}\\) definit prin \\(\\displaystyle x_{n+1}=x_n-x_n^2,\\quad x_0\\in\\mathbb{R}.\\)",
+            "question": "Șirul este convergent dacă și numai dacă \\(x_0\\) aparține mulțimii:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\([-1,1]\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((-\\infty,0]\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\([0,1]\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\([1,\\infty)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\((-1,1)\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 15,
+            "category": "analiza",
+            "groupId": 5,
+            "context": "Se consideră șirul \\((x_n)_{n\\geq0}\\) definit prin \\(\\displaystyle x_{n+1}=x_n-x_n^2,\\quad x_0\\in\\mathbb{R}.\\)",
+            "question": "Dacă \\(x_0=\\displaystyle\\frac{1}{2}\\), atunci \\(\\displaystyle\\lim_{n\\to\\infty}\\sqrt[n]{x_n}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{1}{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "nu există"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(+\\infty\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 16,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "Numărul punctelor de extrem ale funcției \\(\\displaystyle f:\\mathbb{R}\\to\\mathbb{R},\\quad f(x)=(x^2-1)^2(x^2-9)^3,\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(5\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(6\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 17,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Fie \\(\\displaystyle f:(-1,1)\\to\\mathbb{R},\\quad f(x)=e^x(x^2+x+m),\\quad m\\in\\mathbb{R}.\\)",
+            "question": "\\(f(0)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(m-1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(m\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(m+1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(m+2\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 18,
+            "category": "analiza",
+            "groupId": 6,
+            "context": "Fie \\(\\displaystyle f:(-1,1)\\to\\mathbb{R},\\quad f(x)=e^x(x^2+x+m),\\quad m\\in\\mathbb{R}.\\)",
+            "question": "Funcția \\(f\\) are un singur punct de extrem local dacă și numai dacă \\(m\\) aparține mulțimii:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((-5,1)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\{-5,1\\}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\([-5,1]\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((-5,2)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\left\\{\\frac{5}{4}\\right\\}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 19,
+            "category": "analiza",
+            "groupId": 7,
+            "context": "Fie \\(\\displaystyle f:\\mathbb{R}\\to\\mathbb{R},\\quad f(x)=\\frac{e^x-1}{e^{2x}+1}.\\)",
+            "question": "Numărul asimptotelor la graficul funcției \\(f\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "alt răspuns"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 20,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "Fie \\(\\displaystyle f:\\mathbb{R}\\to\\mathbb{R},\\quad f(x)=\\frac{e^x-1}{e^{2x}+1}.\\)",
+            "question": "Imaginea funcției \\(f\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\left(-1,\\frac{\\sqrt2-1}{2}\\right]\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\([-1,0)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((-1,0)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\left(-1,\\frac{1}{2}\\right)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\([-1,\\sqrt2]\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 21,
+            "category": "analiza",
+            "groupId": 8,
+            "context": "",
+            "question": "\\(\\displaystyle\\int_0^2\\frac{1}{x^2+4}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\ln 1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\ln 2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{8}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\ln 3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{2}\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 22,
+            "category": "analiza",
+            "groupId": 8,
+            "context": "",
+            "question": "\\(\\displaystyle\\int_1^9\\frac{1}{x+\\sqrt{x}}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\ln 1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\ln 2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\pi\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\ln 4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-\\ln 2\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 23,
+            "category": "analiza",
+            "groupId": 9,
+            "context": "",
+            "question": "\\(\\displaystyle\\lim_{n\\to\\infty}\\int_0^n\\frac{x-x^2}{(x^2+1)(x^3+1)}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\log\\frac{3}{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\log\\frac{2}{3}\\)&lt;"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-1\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 24,
+            "category": "analiza",
+            "groupId": 9,
+            "context": "",
+            "question": "\\(\\displaystyle\\lim_{n\\to\\infty}\\int_{\\frac1n}^{n}\\frac{1}{(x^2+1)(x^7+1)}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{3}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{4}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{\\pi}{8}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "alt răspuns"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 25,
+            "category": "geometrie",
+            "groupId": 10,
+            "context": "În planul \\(xOy\\) se consideră punctele \\(A(8,0)\\) și \\(B(0,6)\\), iar \\(M\\) este un punct variabil pe segmentul \\([AB]\\). Fie \\(P\\) și \\(N\\) proiecțiile lui \\(M\\) pe axele \\(Ox\\), respectiv \\(Oy\\).",
+            "question": "Ecuația dreptei \\(AB\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(3x+4y=24\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(3x+2y=24\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(x+y=10\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2x+y=22\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(x-y=1\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 26,
+            "category": "geometrie",
+            "groupId": 10,
+            "context": "În planul \\(xOy\\) se consideră punctele \\(A(8,0)\\) și \\(B(0,6)\\), iar \\(M\\) este un punct variabil pe segmentul \\([AB]\\). Fie \\(P\\) și \\(N\\) proiecțiile lui \\(M\\) pe axele \\(Ox\\), respectiv \\(Oy\\).",
+            "question": "Lungimea minimă a lui \\(OM\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(6\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(5\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{24}{5}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{16}{3}\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 27,
+            "category": "geometrie",
+            "groupId": 10,
+            "context": "În planul \\(xOy\\) se consideră punctele \\(A(8,0)\\) și \\(B(0,6)\\), iar \\(M\\) este un punct variabil pe segmentul \\([AB]\\). Fie \\(P\\) și \\(N\\) proiecțiile lui \\(M\\) pe axele \\(Ox\\), respectiv \\(Oy\\).",
+            "question": "Valoarea maximă a ariei dreptunghiului \\(MNOP\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(10\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(12\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(13\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(14\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(15\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 28,
+            "category": "trigonometrie",
+            "groupId": 11,
+            "context": "Se dă ecuația \\(\\cos^2x-2\\sin x\\cos x=a+\\sin^2x,\\quad a\\in\\mathbb{R}.\\)",
+            "question": "Ecuația are soluția \\(\\displaystyle\\frac{\\pi}{4}\\) dacă \\(a\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{\\sqrt2}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle-\\frac{\\sqrt2}{2}\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 29,
+            "category": "trigonometrie",
+            "groupId": 11,
+            "context": "Se dă ecuația \\(\\cos^2x-2\\sin x\\cos x=a+\\sin^2x,\\quad a\\in\\mathbb{R}.\\)",
+            "question": "Ecuația admite soluții dacă și numai dacă \\(a\\) aparține mulțimii:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\([-\\sqrt5,\\sqrt5]\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\([-2,2]\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\([-1,1]\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\([-\\sqrt3,\\sqrt3]\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\([-\\sqrt2,\\sqrt2]\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 30,
+            "category": "trigonometrie",
+            "groupId": null,
+            "context": null,
+            "question": "Dacă \\(\\sin x+\\cos x=1,\\quad x\\in\\mathbb{R}\\), atunci valoarea minimă pe care o poate lua expresia \\(\\sin^{2019}x+\\cos^{2019}x\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2^{\\frac{1}{2019}}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{1}{4}\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        }
+    ]
+}

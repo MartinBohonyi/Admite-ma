@@ -1,0 +1,397 @@
+{
+    "examTitle" : "Admitere 2021 (sesiunea Septembrie)" ,
+    "questions" : [
+  {
+    "questionNumber": 1,
+    "points": 0.3,
+    "question": "Fie ecuaţia \\(x^2 + ax + 3 = 0\\) cu soluţiile pozitive \\(x_1\\) şi \\(x_2\\) astfel încât \\(x_1^2, x_2, 1\\) sunt în progresie geometrică (în această ordine). Atunci valoarea lui \\(a \\in \\mathbb{R}\\) poate fi",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(2\\sqrt3\\)"},
+      {"answer": "B", "text": "\\(-2\\sqrt3\\)"},
+      {"answer": "C", "text": "\\(\\sqrt3\\)"},
+      {"answer": "D", "text": "\\(-\\sqrt3\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 2,
+    "points": 0.3,
+    "question": "Fie \\((x_n)_{n \\ge 1}\\) şirul de termen general \\(x_n = \\dfrac{1}{4^n}C_{2n}^n\\). Să se indice care dintre următoarele afirmaţii sunt adevărate:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "Şirul \\((x_n)_{n \\ge 1}\\) este strict crescător."},
+      {"answer": "B", "text": "Şirul \\((x_n)_{n \\ge 1}\\) este strict descrescător."},
+      {"answer": "C", "text": "Şirul \\((x_n)_{n \\ge 1}\\) este mărginit."},
+      {"answer": "D", "text": "Şirul \\((x_n)_{n \\ge 1}\\) este convergent."}
+    ],
+    "correctAnswer": ["B","C","D"]
+  },
+  {
+    "questionNumber": 3,
+    "points": 0.3,
+    "question": "Valoarea limitei \\(\\displaystyle\\lim_{x \\to \\infty} \\left(\\dfrac{x - \\sqrt{x}}{x + \\sqrt{x}}\\right)^{\\sqrt{x}}\\) este",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(1\\)"},
+      {"answer": "B", "text": "\\(e^2\\)"},
+      {"answer": "C", "text": "\\(\\dfrac{1}{e^2}\\)"},
+      {"answer": "D", "text": "\\(0\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 4,
+    "points": 0.3,
+    "question": "Valoarea limitei \\(\\displaystyle\\lim_{x \\to 0} \\dfrac{x\\sin x}{e^x + e^{-x} - 2}\\) este",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(1\\)"},
+      {"answer": "B", "text": "\\(2\\)"},
+      {"answer": "C", "text": "\\(\\dfrac{1}{2}\\)"},
+      {"answer": "D", "text": "\\(0\\)"}
+    ],
+    "correctAnswer": ["A"]
+  },
+  {
+    "questionNumber": 5,
+    "points": 0.3,
+    "question": "Se consideră vectorii \\(\\vec{u} = a\\vec{i} + 3\\vec{j}\\) şi \\(\\vec{v} = 2\\vec{i} + b\\vec{j}\\), unde vectorii unitari \\(\\vec{i}\\) şi \\(\\vec{j}\\) sunt perpendiculari. Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "Pentru \\(a = -1\\) şi \\(b = -6\\) vectorii \\(\\vec{u}\\) şi \\(\\vec{v}\\) sunt coliniari."},
+      {"answer": "B", "text": "Vectorii \\(\\vec{u}\\) şi \\(\\vec{v}\\) au aceeaşi lungime doar dacă \\(a = 2\\) şi \\(b = 3\\)."},
+      {"answer": "C", "text": "Există o infinitate de numere reale \\(a, b\\) pentru care vectorii \\(\\vec{u}\\) şi \\(\\vec{v}\\) au aceeaşi lungime."},
+      {"answer": "D", "text": "Vectorii \\(\\vec{u}\\) şi \\(\\vec{v}\\) sunt perpendiculari , dacă \\(2a = 3b\\)."}
+    ],
+    "correctAnswer": ["A","C"]
+  },
+  {
+    "questionNumber": 6,
+    "points": 0.3,
+    "question": "Fie hexagonul regulat \\(ABCDEF\\). Notăm \\(\\overrightarrow{AB} = \\vec{u}\\) şi \\(\\overrightarrow{AE} = \\vec{v}\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(\\overrightarrow{AC} = \\dfrac{3}{2}\\vec{u} + \\vec{v}\\)"},
+      {"answer": "B", "text": "\\(\\overrightarrow{AC} = \\dfrac{3}{2}\\vec{u} + \\dfrac{1}{2}\\vec{v}\\)"},
+      {"answer": "C", "text": "\\(\\overrightarrow{AC} = \\dfrac{1}{2}\\vec{u} + \\dfrac{3}{2}\\vec{v}\\)"},
+      {"answer": "D", "text": "\\(\\overrightarrow{AC} = \\dfrac{3}{2}\\vec{u} - \\dfrac{1}{2}\\vec{v}\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 7,
+    "points": 0.3,
+    "question": "Dacă \\(S\\) este mulţimea soluţiilor ecuaţiei \\(\\dfrac{2\\lg(x+3)}{\\lg(5x+11)} = 1\\), atunci:",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(S \\subseteq [-2, 0]\\)"},
+      {"answer": "B", "text": "\\(S \\subseteq [-2, 1]\\)"},
+      {"answer": "C", "text": "\\(S \\subseteq [0, 1]\\)"},
+      {"answer": "D", "text": "\\(S \\subseteq [-2, -1]\\)"}
+    ],
+    "correctAnswer": ["B","C"]
+  },
+  {
+    "questionNumber": 8,
+    "points": 0.3,
+    "question": "Considerăm în \\(\\mathbb{R}\\) ecuaţia\n\\[\\sqrt{x + 3 - 4\\sqrt{x-1}} + \\sqrt{x + 8 - 6\\sqrt{x-1}} = 1.\\]\nMulţimea soluţiilor ecuaţiei este:",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(S = [3, 12]\\)"},
+      {"answer": "B", "text": "\\(S = [1, \\infty)\\)"},
+      {"answer": "C", "text": "\\(S = [5, 10]\\)"},
+      {"answer": "D", "text": "\\(S = \\{4, 11\\}\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 9,
+    "points": 0.3,
+    "question": "Fie \\(n \\in \\mathbb{N}\\), \\(n \\ge 3\\). În planul \\(xOy\\) considerăm o mulţime \\(\\mathcal{M}\\) formată din \\(n\\) puncte distincte diferite de \\(O\\). Numărul tuturor triunghiurilor care au două vârfuri în mulţimea \\(\\mathcal{M}\\) şi un vârf în punctul \\(O\\) este:",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(A_n^2\\)"},
+      {"answer": "B", "text": "\\(2^n\\)"},
+      {"answer": "C", "text": "\\(C_{n+1}^3\\)"},
+      {"answer": "D", "text": "cel mult \\(C_n^2\\)"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 10,
+    "points": 0.3,
+    "question": "Considerăm sistemul de ecuaţii\n\\[\\begin{cases} (a-1)x + 2y + 3z = 1 \\\\ x + 2y + 3z = 1 \\\\ x + 2y + (a+1)z = 1, \\end{cases}\\]\nunde \\(a\\) este parametru real. Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "Există mai multe valori ale lui \\(a\\) pentru care determinantul sistemului este \\(0\\)."},
+      {"answer": "B", "text": "Există o singură valoare a lui \\(a\\) pentru care sistemul este compatibil."},
+      {"answer": "C", "text": "Există mai multe valori ale lui \\(a\\) pentru care sistemul este compatibil."},
+      {"answer": "D", "text": "Dacă sistemul este compatibil, atunci admite o unică soluţie."}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 11,
+    "points": 0.3,
+    "question": "Dacă \\(\\sin x = a\\) şi \\(x \\in \\left(\\dfrac{3\\pi}{2}, 2\\pi\\right)\\), atunci:",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(\\sin 2x = 2a\\)"},
+      {"answer": "B", "text": "\\(\\sin 2x = 2a\\sqrt{1-a^2}\\)"},
+      {"answer": "C", "text": "\\(\\sin 2x = -2a\\sqrt{1-a^2}\\)"},
+      {"answer": "D", "text": "\\(\\cos 2x = 1 - 2a^2\\)"}
+    ],
+    "correctAnswer": ["B","D"]
+  },
+  {
+    "questionNumber": 12,
+    "points": 0.3,
+    "question": "Dacă \\(A(-2,-1)\\), \\(B(2,1)\\) şi \\(C(-1,2)\\) sunt puncte într-un sistem de coordonate carteziene, atunci triunghiul \\(ABC\\) este:",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "obtuzunghic"},
+      {"answer": "B", "text": "isoscel"},
+      {"answer": "C", "text": "dreptunghic"},
+      {"answer": "D", "text": "echilateral"}
+    ],
+    "correctAnswer": ["B","C"]
+  },
+  {
+    "questionNumber": 13,
+    "points": 0.3,
+    "question": "Într-un reper cartezian se consideră dreptele\n\\[d_1 : (m-1)x + (3m-7)y - 5 = 0 \\quad \\text{şi} \\quad d_2 : (m-2)x + (2m-5)y = 0,\\]\nunde \\(m\\) este un parametru real. Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "Dreptele sunt paralele pentru \\(m = 3\\)."},
+      {"answer": "B", "text": "Există o valoare a parametrului \\(m\\) pentru care dreptele coincid."},
+      {"answer": "C", "text": "Dreptele sunt perpendiculare pentru o singură valoare a lui \\(m\\)."},
+      {"answer": "D", "text": "Dreptele nu sunt perpendiculare pentru nicio valoare a lui \\(m\\)."}
+    ],
+    "correctAnswer": ["A","D"]
+  },
+  {
+    "questionNumber": 14,
+    "points": 0.3,
+    "question": "Într-un reper cartezian \\(xOy\\) se consideră punctele \\(A(0,1)\\) şi \\(H(3,2)\\), unde \\(H\\) este ortocentrul triunghiului \\(ABC\\). Panta dreptei \\(BC\\) este egală cu:",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(3\\)"},
+      {"answer": "B", "text": "\\(-3\\)"},
+      {"answer": "C", "text": "\\(\\dfrac{1}{3}\\)"},
+      {"answer": "D", "text": "\\(-\\dfrac{1}{3}\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 15,
+    "points": 0.3,
+    "question": "Fie funcţia \\(f : \\mathbb{R} \\setminus \\{0\\} \\rightarrow \\mathbb{R}\\), definită prin \\(f(x) = (x+2)e^{1/x}\\). Ecuaţia asimptotei oblice spre \\(+\\infty\\) la graficul lui \\(f\\) este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(y = x\\)"},
+      {"answer": "B", "text": "\\(y = x + 1\\)"},
+      {"answer": "C", "text": "\\(y = x + 2\\)"},
+      {"answer": "D", "text": "\\(y = x + 3\\)"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 16,
+    "points": 0.3,
+    "question": "Fie \\(a \\in \\mathbb{R}\\) şi fie funcţia \\(f : (-1, 1) \\rightarrow \\mathbb{R}\\), definită prin \\(f(x) = \\dfrac{x+a}{\\sqrt{1-x^2}}\\). Valoarea lui \\(a\\) pentru care tangenta la graficul lui \\(f\\) în punctul de abscisă \\(0\\) trece prin punctul \\((-2, 5)\\) este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(9\\)"},
+      {"answer": "B", "text": "\\(7\\)"},
+      {"answer": "C", "text": "\\(-5\\)"},
+      {"answer": "D", "text": "\\(5\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 17,
+    "points": 0.3,
+    "question": "Valoarea integralei \\(\\displaystyle\\int_0^{\\frac{\\pi}{2}} \\dfrac{\\sin 2x}{3 - \\cos 2x}\\, dx\\) este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(\\ln 2\\)"},
+      {"answer": "B", "text": "\\(\\dfrac{1}{4}\\ln 2\\)"},
+      {"answer": "C", "text": "\\(\\dfrac{1}{2}\\ln 2\\)"},
+      {"answer": "D", "text": "\\(\\dfrac{1}{2}\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 18,
+    "points": 0.3,
+    "question": "Valoarea integralei \\(\\displaystyle\\int_1^{e^2} \\dfrac{\\ln x}{\\sqrt{x}}\\, dx\\) este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(4\\)"},
+      {"answer": "B", "text": "\\(4e\\)"},
+      {"answer": "C", "text": "\\(8e - 4\\)"},
+      {"answer": "D", "text": "\\(2e + 2\\)"}
+    ],
+    "correctAnswer": ["A"]
+  },
+  {
+    "questionNumber": 19,
+    "points": 0.3,
+    "question": "În corpul \\((\\mathbb{Z}_5, +, \\cdot)\\) sistemul de ecuaţii\n\\[\\begin{cases} x + \\hat{2}y = \\hat{3} \\\\ \\hat{2}x + \\hat{4}y = \\hat{2} \\end{cases}\\]",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "nu are soluţii"},
+      {"answer": "B", "text": "are soluţie unică"},
+      {"answer": "C", "text": "are exact cinci soluţii distincte"},
+      {"answer": "D", "text": "are exact zece soluţii distincte"}
+    ],
+    "correctAnswer": ["A"]
+  },
+  {
+    "questionNumber": 20,
+    "points": 0.3,
+    "question": "Considerăm funcţia \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\), \\(f(x) = x - [x] - \\dfrac{1}{2}\\), unde \\([x]\\) reprezintă partea întreagă a numărului real \\(x\\). Stabiliţi valoarea de adevăr a următoarelor afirmaţii.",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "Graficul funcţiei \\(f\\) intersectează axa \\(Oy\\) în cel puţin \\(2\\) puncte."},
+      {"answer": "B", "text": "Graficul funcţiei \\(f\\) nu intersectează axa \\(Ox\\)."},
+      {"answer": "C", "text": "Graficul funcţiei \\(f\\) intersectează axa \\(Ox\\) într-o infinitate de puncte."},
+      {"answer": "D", "text": "Graficul funcţiei \\(f\\) nu intersectează axa \\(Oy\\)."}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 21,
+    "points": 0.3,
+    "question": "Considerăm ecuaţia matriceală \\(X^2 = \\begin{pmatrix} 2 & 2 \\\\ 2 & 2 \\end{pmatrix}\\) în \\(\\mathcal{M}_2(\\mathbb{Z})\\). Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "Ecuaţia are soluţie unică."},
+      {"answer": "B", "text": "Ecuaţia are exact două soluţii."},
+      {"answer": "C", "text": "Ecuaţia are mai mult de două soluţii."},
+      {"answer": "D", "text": "Suma tuturor soluţiilor ecuaţiei este \\(O_2\\)."}
+    ],
+    "correctAnswer": ["B","D"]
+  },
+  {
+    "questionNumber": 22,
+    "points": 0.3,
+    "question": "Punctele \\(A(0,2)\\), \\(B(2,1)\\) sunt vârfuri ale paralelogramului \\(ABCD\\) şi \\(G(2,0)\\) este centrul de greutate al triunghiului \\(ABD\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "Aria triunghiului \\(ABD\\) este egală cu \\(3\\)."},
+      {"answer": "B", "text": "Aria triunghiului \\(ABD\\) este egală cu \\(6\\)."},
+      {"answer": "C", "text": "Aria paralelogramului \\(ABCD\\) este egală cu \\(6\\)."},
+      {"answer": "D", "text": "Aria paralelogramului \\(ABCD\\) este egală cu \\(12\\)."}
+    ],
+    "correctAnswer": ["A","C"]
+  },
+  {
+    "questionNumber": 23,
+    "points": 0.3,
+    "question": "Numerele reale \\(a\\) şi \\(b\\) satisfac egalitatea \\((\\cos a + \\cos b)^2 + (\\sin a + \\sin b)^2 = 2\\cos^2\\dfrac{a-b}{2}\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(a - b \\in \\{2k\\pi \\mid k \\in \\mathbb{Z}\\}\\)"},
+      {"answer": "B", "text": "\\(a - b \\in \\{(2k+1)\\pi \\mid k \\in \\mathbb{Z}\\}\\)"},
+      {"answer": "C", "text": "\\(a - b \\in \\left\\{\\dfrac{\\pi}{2} + 2k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"},
+      {"answer": "D", "text": "\\(a - b \\in \\left\\{\\dfrac{\\pi}{2} + k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 24,
+    "points": 0.3,
+    "question": "Folosind notaţiile obişnuite în triunghiul \\(ABC\\) avem \\(b = 5\\), \\(c = 7\\) şi \\(m(\\widehat{B}) = 45^\\circ\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "Există un singur triunghi \\(ABC\\) cu aceste date."},
+      {"answer": "B", "text": "Există două triunghiuri \\(ABC\\) cu aceste date."},
+      {"answer": "C", "text": "\\(\\sin A \\in \\left\\{\\dfrac{3}{4}, \\dfrac{4}{5}\\right\\}\\)"},
+      {"answer": "D", "text": "\\(a \\in \\{2\\sqrt2, 3\\sqrt2, 4\\sqrt2\\}\\)"}
+    ],
+    "correctAnswer": ["B","C","D"]
+  },
+  {
+    "questionNumber": 25,
+    "points": 0.3,
+    "question": "Mulţimea valorilor parametrului real \\(m\\) pentru care funcţia \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\), \\(f(x) = \\ln(1+x^2) - mx\\) este crescătoare pe \\(\\mathbb{R}\\) este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\((0, \\infty)\\)"},
+      {"answer": "B", "text": "\\((-\\infty, -1]\\)"},
+      {"answer": "C", "text": "\\([-1, 1]\\)"},
+      {"answer": "D", "text": "\\([-1, \\infty)\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 26,
+    "points": 0.3,
+    "question": "Pentru o matrice \\(X = \\begin{pmatrix} x & y \\\\ z & t \\end{pmatrix}\\) notăm \\(\\operatorname{tr}(X) = x+t\\), suma elementelor de pe diagonala principală a lui \\(X\\). Pentru matricea \\(A = \\begin{pmatrix} 1 & 2 \\\\ 0 & 2 \\end{pmatrix}\\) limita \\(\\displaystyle\\lim_{n \\to \\infty} \\dfrac{\\operatorname{tr}(A^n)}{\\det(A^n)}\\) este egală cu:",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(0\\)"},
+      {"answer": "B", "text": "\\(2\\)"},
+      {"answer": "C", "text": "\\(1\\)"},
+      {"answer": "D", "text": "\\(+\\infty\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 27,
+    "points": 0.3,
+    "question": "Fie \\(a\\) un parametru real şi legea de compoziţie\n\\[x * y = xy + ax + ay + 1\\]\npe \\(\\mathbb{R}\\). Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "Dacă \\(*\\) admite element neutru, atunci \\(a\\) este unic determinat."},
+      {"answer": "B", "text": "Există mai multe valori ale lui \\(a\\) pentru care \\(*\\) admite element neutru."},
+      {"answer": "C", "text": "Dacă \\(e\\) este element neutru pentru \\(*\\), atunci \\(e = \\dfrac{1}{a}\\)"},
+      {"answer": "D", "text": "Dacă \\(e\\) este element neutru pentru \\(*\\), atunci \\(e = -\\dfrac{1}{a}\\)"}
+    ],
+    "correctAnswer": ["B","D"]
+  },
+  {
+    "questionNumber": 28,
+    "points": 0.3,
+    "question": "Fie funcţia \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\), definită prin \\(f(x) = e^x + e^{-x} - x^2\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(f'(0) = f''(0) = 0\\)"},
+      {"answer": "B", "text": "\\(0\\) nu este punct de extrem local al funcţiei \\(f\\)."},
+      {"answer": "C", "text": "Funcţia \\(f'\\) este strict monotonă."},
+      {"answer": "D", "text": "\\(0\\) este punct de extrem global al funcţiei \\(f''\\)."}
+    ],
+    "correctAnswer": ["A","C","D"]
+  },
+  {
+    "questionNumber": 29,
+    "points": 0.3,
+    "question": "Pentru fiecare \\(n \\in \\mathbb{N}^*\\) se notează \\(I_n = \\displaystyle\\int_1^{e} (\\ln x)^n\\, dx\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(I_{n+1} + (n+1)I_n = e\\)"},
+      {"answer": "B", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} I_n = 0\\)"},
+      {"answer": "C", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} nI_n = e\\)"},
+      {"answer": "D", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} nI_n = 1\\)"}
+    ],
+    "correctAnswer": ["A","B","C"]
+  },
+  {
+    "questionNumber": 30,
+    "points": 0.3,
+    "question": "Diagonalele unui pătrat \\(P_\\alpha\\) de latură \\(\\alpha\\) se află pe axele de coordonate ale unui sistem de coordonate carteziene \\((\\alpha \\in (0,+\\infty))\\). Fie \\(N_\\alpha\\) numărul de puncte din interiorul pătratului \\(P_\\alpha\\) având coordonatele numere întregi. Să se indice care dintre următoarele afirmații sunt adevărate.",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "Pentru \\(\\alpha = 3\\) avem \\(N_3 = 5\\)."},
+      {"answer": "B", "text": "Pentru \\(\\alpha = 3\\) avem \\(N_3 = 13\\)."},
+      {"answer": "C", "text": "Există \\(\\alpha\\) astfel încât \\(N_\\alpha = 41\\)."},
+      {"answer": "D", "text": "Există \\(\\alpha\\) astfel încât \\(N_\\alpha = 67\\)."}
+    ],
+    "correctAnswer": [
+      "B","C"
+    ]
+  }
+]
+}

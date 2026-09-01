@@ -1,0 +1,395 @@
+{
+    "examTitle" : "Admitere 2021 (sesiunea Iulie)" ,
+    "questions" : [
+  {
+    "questionNumber": 1,
+    "points": 0.3,
+    "question": "Într-un reper cartezian \\(xOy\\) se consideră punctele \\(A(-1,1)\\), \\(B(1,3)\\), \\(C(3,2)\\). Ecuaţia dreptei \\(OG\\), unde \\(G\\) este centrul de greutate al triunghiului \\(ABC\\) , este:",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(y = -2x\\)"},
+      {"answer": "B", "text": "\\(y = -\\dfrac{x}{2}\\)"},
+      {"answer": "C", "text": "\\(y = 2x\\)"},
+      {"answer": "D", "text": "\\(y = \\dfrac{x}{2}\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 2,
+    "points": 0.3,
+    "question": "Relativ la un reper cartezian considerăm vectorul \\(\\vec{v}(t, t^2)\\) cu \\(t \\in \\mathbb{R} \\setminus \\{0\\}\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "Pentru \\(t = 2\\) vectorul \\(\\vec{v}\\) este perpendicular pe vectorul \\(\\vec{a}\\left(-1, \\dfrac{1}{2}\\right)\\)"},
+      {"answer": "B", "text": "Există \\(t\\) astfel încât \\(\\vec{v}\\) să fie coliniar cu vectorul \\(\\vec{b}(17, 19)\\)"},
+      {"answer": "C", "text": "Există \\(t\\) astfel încât \\(\\vec{v}\\) să fie coliniar cu vectorul \\(\\vec{c}(-1, -1)\\)"},
+      {"answer": "D", "text": "Există \\(t\\) astfel încât \\(\\vec{v}\\) să fie coliniar cu vectorul \\(\\vec{d}(0, 1)\\)"}
+    ],
+    "correctAnswer": ["A","B","C"]
+  },
+  {
+    "questionNumber": 3,
+    "points": 0.3,
+    "question": "Dacă \\((-4, 0)\\) şi \\((1, -1)\\) sunt două vârfuri ale unui triunghi de arie \\(4\\), atunci cel de-al treilea vârf poate să afle pe dreapta:",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(x + 5y = 0\\)"},
+      {"answer": "B", "text": "\\(x + 5y + 8 = 0\\)"},
+      {"answer": "C", "text": "\\(x + 5y - 4 = 0\\)"},
+      {"answer": "D", "text": "\\(x + 5y + 12 = 0\\)"}
+    ],
+    "correctAnswer": ["C","D"]
+  },
+  {
+    "questionNumber": 4,
+    "points": 0.3,
+    "question": "Dacă dreapta de ecuaţie \\(ax + cy - 2b = 0\\), cu \\(a, b, c > 0\\), formează un triunghi de arie \\(2\\) cu axele de coordonate, atunci:",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(a, b, c\\) sunt în progresie geometrică"},
+      {"answer": "B", "text": "\\(a, -b, c\\) sunt în progresie geometrică"},
+      {"answer": "C", "text": "\\(a, 2b, c\\) sunt în progresie geometrică"},
+      {"answer": "D", "text": "\\(a, -2b, c\\) sunt în progresie geometrică"}
+    ],
+    "correctAnswer": ["A","B"]
+  },
+  {
+    "questionNumber": 5,
+    "points": 0.3,
+    "question": "Considerăm funcţia\n\\[f : \\mathbb{R} \\rightarrow \\mathbb{R}, \\quad f(x) = \\begin{cases} \\left|\\dfrac{1}{2}x - 3\\right|, & \\text{dacă } x \\in (-\\infty, -2] \\\\ x + 3, & \\text{dacă } x \\in (-2, 1) \\\\ 3 - 2x, & \\text{dacă } x \\in [1, \\infty). \\end{cases}\\]\nFolosind eventual graficul funcţiei, stabiliţi care din următoarele afirmaţii sunt adevărate.",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(f\\) este surjectivă, dar nu este injectivă."},
+      {"answer": "B", "text": "\\(f\\) este bijectivă."},
+      {"answer": "C", "text": "\\(f\\) este injectivă, dar nu este surjectivă."},
+      {"answer": "D", "text": "\\(f\\) nu este nici surjectivă, nici injectivă."}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 6,
+    "points": 0.3,
+    "question": "Fie familia de funcţii de gradul al doilea \\(f_m : \\mathbb{R} \\rightarrow \\mathbb{R}\\), \\(f_m(x) = mx^2 - (2m+1)x + m + 1\\), \\(\\forall x \\in \\mathbb{R},\\) unde \\(m \\in \\mathbb{R} \\setminus \\{0\\}\\). Valoarea lui \\(m \\in \\mathbb{R} \\setminus \\{0\\}\\) pentru care vârful parabolei asociate funcţiei \\(f_m\\) se găseşte pe dreapta de ecuaţie \\(2x + 3y + 6 = 0\\) este:",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(\\dfrac{1}{16}\\)"},
+      {"answer": "B", "text": "\\(-\\dfrac{1}{32}\\)"},
+      {"answer": "C", "text": "\\(-\\dfrac{1}{24}\\)"},
+      {"answer": "D", "text": "\\(-\\dfrac{5}{32}\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 7,
+    "points": 0.3,
+    "question": "Considerăm sistemul de ecuaţii\n\\[\\begin{cases} ax + y + z = 1 \\\\ x + ay + z = 2 \\\\ x + y + z = 4, \\end{cases}\\]\nunde \\(a\\) este parametru real. Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "Determinantul sistemului nu depinde de parametrul \\(a\\)."},
+      {"answer": "B", "text": "Pentru \\(a < 0\\) sistemul este compatibil determinat."},
+      {"answer": "C", "text": "Pentru \\(a = 1\\) sistemul este compatibil nedeterminat."},
+      {"answer": "D", "text": "Pentru \\(a = 1\\) sistemul este incompatibil."}
+    ],
+    "correctAnswer": ["B","D"]
+  },
+  {
+    "questionNumber": 8,
+    "points": 0.3,
+    "question": "Fie \\(A = \\begin{pmatrix} 1 & a \\\\ a & 1 \\end{pmatrix}\\), unde \\(a \\in \\mathbb{R}\\). Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "Există \\(a \\in \\mathbb{R}\\) astfel încât \\(A^2 = O_2\\)."},
+      {"answer": "B", "text": "Există \\(a \\in \\mathbb{R}\\) astfel încât \\(A^2 = I_2\\)."},
+      {"answer": "C", "text": "Există \\(a \\in \\mathbb{R}\\) astfel încât \\(A^2 = A\\)."},
+      {"answer": "D", "text": "Există \\(a, b \\in \\mathbb{R}\\) astfel încât \\(A^2 = \\begin{pmatrix} b & b \\\\ b & b \\end{pmatrix}\\)."}
+    ],
+    "correctAnswer": ["B","C","D"]
+  },
+  {
+    "questionNumber": 9,
+    "points": 0.3,
+    "question": "Fie \\((x_n)_{n \\ge 1}\\) şirul de termen general \\(x_n = \\dfrac{3^n}{(n+1)!}\\). Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "Şirul \\((x_n)_{n \\ge 1}\\) este descrescător."},
+      {"answer": "B", "text": "\\(0 < x_n < 1\\) pentru orice \\(n \\ge 1\\)"},
+      {"answer": "C", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} \\dfrac{x_{n+1}}{x_n} = 0\\)"},
+      {"answer": "D", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} x_n = 0\\)"}
+    ],
+    "correctAnswer": ["A","C","D"]
+  },
+  {
+    "questionNumber": 10,
+    "points": 0.3,
+    "question": "Fiind dat \\(a \\in \\mathbb{R} \\setminus \\{0\\}\\), valoarea limitei \\(\\displaystyle\\lim_{x \\to \\infty} \\left(\\dfrac{x+a}{x-a}\\right)^x\\) este",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(e^{-2a}\\)"},
+      {"answer": "B", "text": "\\(1\\)"},
+      {"answer": "C", "text": "\\(e^{2a}\\)"},
+      {"answer": "D", "text": "\\(\\infty\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 11,
+    "points": 0.3,
+    "question": "Fie \\(L = \\displaystyle\\lim_{x \\to \\infty} \\int_0^a x e^{-x}\\, dt\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(L = -\\infty\\)"},
+      {"answer": "B", "text": "\\(L = 1\\)"},
+      {"answer": "C", "text": "\\(L < e\\)"},
+      {"answer": "D", "text": "\\(L\\) nu există"}
+    ],
+    "correctAnswer": ["B","C"]
+  },
+  {
+    "questionNumber": 12,
+    "points": 0.3,
+    "question": "Fie funcţia \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\), definită prin\n\\[f(x) = \\begin{cases} x^4 + ax + 1, & \\text{dacă } x < 1 \\\\ b + \\ln x, & \\text{dacă } x \\ge 1. \\end{cases}\\]\nValorile parametrilor reali \\(a\\) şi \\(b\\) pentru care funcţia \\(f\\) este derivabilă pe \\(\\mathbb{R}\\) sunt:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(a = 3, b = 1\\)"},
+      {"answer": "B", "text": "\\(a = -3, b = 1\\)"},
+      {"answer": "C", "text": "\\(a = -3, b = -1\\)"},
+      {"answer": "D", "text": "\\(a = 1, b = 3\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 13,
+    "points": 0.3,
+    "question": "Dacă \\(r\\) şi \\(R\\) sunt razele cercului înscris, respectiv cercului circumscris, unui triunghi care are lungimile laturilor \\(3\\), \\(4\\) şi \\(5\\), atunci raportul \\(\\dfrac{r}{R}\\) este:",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(\\dfrac{2}{5}\\)"},
+      {"answer": "B", "text": "\\(\\dfrac{5}{2}\\)"},
+      {"answer": "C", "text": "\\(\\dfrac{4}{5}\\)"},
+      {"answer": "D", "text": "\\(\\dfrac{1}{5}\\)"}
+    ],
+    "correctAnswer": ["A"]
+  },
+  {
+    "questionNumber": 14,
+    "points": 0.3,
+    "question": "Se consideră triunghiul \\(ABC\\) şi punctele \\(M, N, P\\) astfel încât \\(M\\) este mijlocul laturii \\(AB\\), \\(\\overrightarrow{AP} = 2\\overrightarrow{AC}\\) şi \\(\\overrightarrow{BN} = k\\overrightarrow{BC}\\). Valoarea parametrului real \\(k\\), pentru care \\(\\overrightarrow{MP} = 3\\overrightarrow{MN}\\), este:",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(\\dfrac{3}{2}\\)"},
+      {"answer": "B", "text": "\\(\\dfrac{1}{3}\\)"},
+      {"answer": "C", "text": "\\(\\dfrac{1}{2}\\)"},
+      {"answer": "D", "text": "\\(\\dfrac{2}{3}\\)"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 15,
+    "points": 0.3,
+    "question": "Considerăm în \\(\\mathbb{R}\\) ecuaţia\n\\[\\log_3\\sqrt{3+x} + \\log_9(3-x) = \\dfrac{1}{2}.\\]\nMulţimea soluţiilor ecuaţiei este:",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(S = \\{0\\}\\)"},
+      {"answer": "B", "text": "\\(S = \\{-\\sqrt3, \\sqrt3\\}\\)"},
+      {"answer": "C", "text": "\\(S = \\{-\\sqrt6, \\sqrt6\\}\\)"},
+      {"answer": "D", "text": "\\(S = \\{-\\sqrt{12}, \\sqrt{12}\\}\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 16,
+    "points": 0.3,
+    "question": "Produsul soluţiilor reale ale ecuaţiei \\(x^2 + x + 4 = 2\\sqrt{x^2+x+7}\\) este:",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(12\\)"},
+      {"answer": "B", "text": "\\(-12\\)"},
+      {"answer": "C", "text": "\\(2\\)"},
+      {"answer": "D", "text": "\\(-2\\)"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 17,
+    "points": 0.3,
+    "question": "Fie funcţia \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\), definită prin\n\\[f(x) = x + |x^3 - x^2| + max\\{x^3,x^4\\}\\]\nSă se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(f(x) = x^4 - x^3 + x^2 + x\\) oricare ar fi \\(x \\in (-\\infty, 0)\\)"},
+      {"answer": "B", "text": "\\(f(x) = x^2 - x\\) oricare ar fi \\(x \\in [0, 1]\\)"},
+      {"answer": "C", "text": "Funcţia \\(f\\) nu este derivabilă în \\(0\\)."},
+      {"answer": "D", "text": "Tangenta la graficul lui \\(f\\) în punctul \\(O(0,0)\\) este prima bisectoare."}
+    ],
+    "correctAnswer": ["A","D"]
+  },
+  {
+    "questionNumber": 18,
+    "points": 0.3,
+    "question": "Se consideră mulţimea\n\\[A := \\{a \\in \\mathbb{R} \\mid \\text{funcţia } f : [a, \\infty) \\rightarrow \\mathbb{R}, f(x) = x^4 - 10x^2 + 2021 \\text{ este strict crescătoare}\\}.\\]\nSă se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(A = \\emptyset\\)"},
+      {"answer": "B", "text": "\\([3, \\infty) \\subseteq A\\)"},
+      {"answer": "C", "text": "Mulţimea \\(A\\) are un singur element."},
+      {"answer": "D", "text": "\\(2 \\notin A\\)"}
+    ],
+    "correctAnswer": ["B","C","D"]
+  },
+  {
+    "questionNumber": 19,
+    "points": 0.3,
+    "question": "Mulțimea valorilor parametrului real \\(a\\) pentru care ecuaţia \\(x^2(1 - \\ln x) = a\\) are două soluţii reale distincte este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\((\\sqrt{e}, e)\\)"},
+      {"answer": "B", "text": "\\(\\left(-\\infty, \\dfrac{e}{2}\\right)\\)"},
+      {"answer": "C", "text": "\\(\\left(0, \\dfrac{e}{2}\\right)\\)"},
+      {"answer": "D", "text": "\\(\\left[0, \\dfrac{e}{2}\\right]\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 20,
+    "points": 0.3,
+    "question": "Dacă \\(\\cos x = -\\dfrac{7}{25}\\) şi \\(x \\in \\left(\\dfrac{5\\pi}{2}, 3\\pi\\right)\\), atunci:",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(\\cos\\dfrac{x}{2} = -\\dfrac{3}{5}\\)"},
+      {"answer": "B", "text": "\\(\\cos\\dfrac{x}{2} = \\dfrac{4}{5}\\)"},
+      {"answer": "C", "text": "\\(\\cos\\dfrac{x}{2} = -\\dfrac{3}{5}\\)"},
+      {"answer": "D", "text": "\\(\\cos\\dfrac{x}{2} = -\\dfrac{4}{5}\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 21,
+    "points": 0.3,
+    "question": "Folosind notaţiile obişnuite în triunghiul \\(ABC\\) avem \\(a = 13\\), \\(b = 1\\), şi \\(\\operatorname{tg}\\dfrac{C}{2} = \\dfrac{2}{3}\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(c = 4\\sqrt{10}\\)"},
+      {"answer": "B", "text": "\\(c = 6\\sqrt5\\)"},
+      {"answer": "C", "text": "\\(\\sin C = \\dfrac{12}{13}\\)"},
+      {"answer": "D", "text": "Aria\\((ABC) = 6\\)"}
+    ],
+    "correctAnswer": ["A","C","D"]
+  },
+  {
+    "questionNumber": 22,
+    "points": 0.3,
+    "question": "Dacă \\(a\\) este un parametru şi ecuaţia \\(\\cos 2x + a\\sin x - 2a + 7 = 0\\) are soluţii, atunci:",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(0 < a \\le 5\\)"},
+      {"answer": "B", "text": "\\(2 \\le a \\le 6\\)"},
+      {"answer": "C", "text": "pentru \\(a = 5\\) mulţimea soluţiilor este \\(S = \\left\\{(-1)^k\\dfrac{\\pi}{6} + k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"},
+      {"answer": "D", "text": "pentru \\(a = 5\\) mulţimea soluţiilor este \\(S = \\left\\{(-1)^k\\dfrac{\\pi}{3} + k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"}
+    ],
+    "correctAnswer": ["B","C"]
+  },
+  {
+    "questionNumber": 23,
+    "points": 0.3,
+    "question": "Fie \\(\\alpha \\ne 1\\) o rădăcină a ecuaţiei \\(z^3 = 1\\). Stabiliţi care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(|\\alpha| = 1\\)"},
+      {"answer": "B", "text": "\\(1 + \\dfrac{1}{\\alpha} + \\dfrac{1}{\\alpha^2} \\notin \\mathbb{R}\\)"},
+      {"answer": "C", "text": "\\(\\alpha^{2021} = -\\alpha - 1\\)"},
+      {"answer": "D", "text": "Numărul \\(-\\alpha\\) este rădăcină a ecuaţiei \\(z^2 - z + 1 = 0\\)"}
+    ],
+    "correctAnswer": ["A","C","D"]
+  },
+  {
+    "questionNumber": 24,
+    "points": 0.3,
+    "question": "În inelul \\((\\mathbb{Z}_{12}, +, \\cdot)\\) ecuaţia \\(x^2 + \\hat4x + \\hat3 = \\hat0\\)",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "nu are soluţii"},
+      {"answer": "B", "text": "nu are soluţie unică"},
+      {"answer": "C", "text": "are exact două soluţii distincte"},
+      {"answer": "D", "text": "are exact patru soluţii distincte"}
+    ],
+    "correctAnswer": ["B","D"]
+  },
+  {
+    "questionNumber": 25,
+    "points": 0.3,
+    "question": "Considerăm expresia\n\\[x * y = \\dfrac{xy - 2}{x + y - 4}.\\]\nCare dintre următoarele afirmaţii sunt adevărate?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(*\\) este lege de compoziţie pe \\(\\mathbb{R}\\)"},
+      {"answer": "B", "text": "\\(*\\) este lege de compoziţie pe \\((2, +\\infty)\\)"},
+      {"answer": "C", "text": "\\(3 * (3 * 3) = \\dfrac{18}{5}\\)"},
+      {"answer": "D", "text": "\\(x * 4 = x\\), pentru orice \\(x > 3\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 26,
+    "points": 0.3,
+    "question": "Valoarea integralei \\(\\displaystyle\\int_{-\\frac{\\pi}{3}}^{\\frac{\\pi}{3}} \\sqrt{(1-\\cos x)(1-\\cos 2x)}\\, dx\\) este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(0\\)"},
+      {"answer": "B", "text": "\\(\\dfrac{4}{3}\\)"},
+      {"answer": "C", "text": "\\(\\dfrac{2}{3}\\)"},
+      {"answer": "D", "text": "\\(\\dfrac{4\\sqrt2}{3}\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 27,
+    "points": 0.3,
+    "question": "Fie funcţia \\(f : (-1, \\infty) \\rightarrow \\mathbb{R}\\), definită prin \\(f(x) = e^x - 1 - \\ln(1+x)\\) şi fie \\(a, b \\in (-1, \\infty)\\) cu \\(a < b\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "Funcţia \\(f\\) are un singur punct de minim global."},
+      {"answer": "B", "text": "Funcţia \\(f\\) este injectivă."},
+      {"answer": "C", "text": "\\(\\displaystyle\\int_a^b (1 + \\ln(1+x))\\, dx < \\int_a^b e^x\\, dx\\)"},
+      {"answer": "D", "text": "Funcţia \\(f\\) are cel puţin un punct de maxim global."}
+    ],
+    "correctAnswer": ["A","C"]
+  },
+  {
+    "questionNumber": 28,
+    "points": 0.3,
+    "question": "În sistemul de coordonate \\(xOy\\) se consideră punctele \\(A(-6, 2)\\), \\(B(4, -3)\\), \\(M(\\alpha, 0)\\) şi \\(N(0, \\beta)\\). Dacă suma \\(AM + MB + BN + NA\\) este minimă, atunci:",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(MN = 0\\)"},
+      {"answer": "B", "text": "\\(MN = 1\\)"},
+      {"answer": "C", "text": "\\(MN = \\sqrt2\\)"},
+      {"answer": "D", "text": "\\(MN = \\sqrt5\\)"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 29,
+    "points": 0.3,
+    "question": "Fie \\(A = \\{1, 2, \\ldots,99, 100\\}\\). Câte sume egale cu \\(5044\\) se pot forma cu elementele mulţimii \\(A\\) (sumele neconţinând repetiţii de elemente)?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(3\\)"},
+      {"answer": "B", "text": "\\(4\\)"},
+      {"answer": "C", "text": "\\(5\\)"},
+      {"answer": "D", "text": "\\(6\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 30,
+    "points": 0.3,
+    "question": "Pentru fiecare \\(n \\in \\mathbb{N}^*\\) notăm \\(I_n = \\displaystyle\\int_0^1 \\dfrac{x^{2n}}{1+x^2}\\, dx\\). Să se indice care dintre următoarele afirmaţii sunt adevărate.",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(I_n + I_{n+1} = \\dfrac{1}{2n+1}\\), \\(\\forall n \\in \\mathbb{N}^*\\)"},
+      {"answer": "B", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} I_n = 0\\)"},
+      {"answer": "C", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} nI_n = \\dfrac{1}{2}\\)"},
+      {"answer": "D", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} nI_n = \\dfrac{1}{4}\\)"}
+    ],
+    "correctAnswer": ["A","B","D"]
+  }
+]
+}

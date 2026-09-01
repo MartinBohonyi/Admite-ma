@@ -1,0 +1,318 @@
+{
+    "examTitle": "Concurs Mate-Info UBB 2026",
+   
+    "questions": [
+    {
+        "questionNumber": 1,
+        "points": 0.375,
+        "question": "Dacă \\(z=\\dfrac{7+24i}{4+3i}\\), atunci",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(\\text{Re}(z)=\\dfrac{7}{4}\\)"},
+            {"answer": "B", "text": "\\(\\text{Re}(z)=4\\)"},
+            {"answer": "C", "text": "\\(\\text{Im}(z)=3\\)"},
+            {"answer": "D", "text": "\\(|z|=5\\)"}
+        ],
+        "correctAnswer": ["B","C","D"]
+    },
+    {
+        "questionNumber": 2,
+        "points": 0.375,
+        "question": "Valoarea lui \\(p>0\\) pentru care \\(\\displaystyle\\int_0^1 x^p\\,dx=\\dfrac{p+2}{6p}\\) poate fi",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(\\dfrac{1}{2}\\)"},
+            {"answer": "B", "text": "\\(1\\)"},
+            {"answer": "C", "text": "\\(\\dfrac{3}{2}\\)"},
+            {"answer": "D", "text": "\\(2\\)"}
+        ],
+        "correctAnswer": ["B","D"]
+    },
+    {
+        "questionNumber": 3,
+        "points": 0.375,
+        "question": "Dacă \\(x\\in\\mathbb{R}\\) satisface egalitatea \\(2^{x+1}-2^{x-2}=21\\), atunci",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(x\\leq 2\\)"},
+            {"answer": "B", "text": "\\(x\\in(2,3]\\)"},
+            {"answer": "C", "text": "\\(x\\in(3,4]\\)"},
+            {"answer": "D", "text": "\\(x>4\\)"}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 4,
+        "points": 0.375,
+        "question": "În reperul cartezian \\(xOy\\) se consideră punctele \\(A(1,-1)\\) și \\(B(2,3)\\). Știind că \\(x+ay+b=0\\) este ecuația dreptei \\(AB\\), atunci valoarea lui \\(a-b\\) poate fi",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(-1\\)"},
+            {"answer": "B", "text": "\\(-\\dfrac{1}{2}\\)"},
+            {"answer": "C", "text": "\\(-\\dfrac{1}{4}\\)"},
+            {"answer": "D", "text": "\\(1\\)"}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 5,
+        "points": 0.375,
+        "question": "Fie \\(\\vec{i}\\) și \\(\\vec{j}\\) versorii unui sistem cartezian. Dacă vectorii \\(\\vec{u}=a\\vec{i}+8\\vec{j}\\) și \\(\\vec{v}=3\\vec{i}-(a-10)\\vec{j}\\) sunt coliniari, atunci care dintre următoarele afirmații pot fi adevărate?",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(a=-4\\)"},
+            {"answer": "B", "text": "\\(a=4\\)"},
+            {"answer": "C", "text": "\\(a=-6\\)"},
+            {"answer": "D", "text": "\\(a=6\\)"}
+        ],
+        "correctAnswer": ["B","D"]
+    },
+    {
+        "questionNumber": 6,
+        "points": 0.375,
+        "question": "Valoarea ariei mulțimii plane cuprinse între axa \\(Ox\\), dreptele \\(x=0\\) respectiv \\(x=\\dfrac{\\pi}{2}\\) și graficului funcției \\(f:\\left[0,\\dfrac{\\pi}{2}\\right]\\to\\mathbb{R}, f(x)=\\sin^2 x,\\ \\forall x\\in\\left[0,\\dfrac{\\pi}{2}\\right]\\), este",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(1\\)"},
+            {"answer": "B", "text": "\\(\\dfrac{\\pi}{4}\\)"},
+            {"answer": "C", "text": "\\(\\pi\\)"},
+            {"answer": "D", "text": "\\(\\dfrac{\\pi}{2}\\)"}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 7,
+        "points": 0.375,
+        "question": "Fie \\(f:\\mathbb{R}\\to\\mathbb{R}\\) funcția definită prin \\(f(x)=\\dfrac{x}{\\sqrt{1+x^2}},\\ \\forall x\\in\\mathbb{R}\\). Dreapta \\(d\\) tangentă la graficul lui \\(f\\) în punctul de abscisă \\(0\\) are ecuația",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(d: y=0\\)"},
+            {"answer": "B", "text": "\\(d: y=x\\)"},
+            {"answer": "C", "text": "\\(d: y=-x\\)"},
+            {"answer": "D", "text": "\\(d: x=0\\)"}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 8,
+        "points": 0.375,
+        "question": "Valoarea limitei \\(\\displaystyle\\lim_{n\\to\\infty}\\left(\\sqrt{n^2+2n}-n\\right)\\) este",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(0\\)"},
+            {"answer": "B", "text": "\\(\\dfrac{1}{2}\\)"},
+            {"answer": "C", "text": "\\(1\\)"},
+            {"answer": "D", "text": "\\(\\infty\\)"}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 9,
+        "points": 0.375,
+        "question": "Fie \\(f:(0,+\\infty)\\to\\mathbb{R}\\) funcția definită prin \\[f(x)=\\ln(1+x)-\\ln(x)+x,\\ \\forall x>0.\\] Graficul lui \\(f\\)",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "are asimptotă oblică spre \\(+\\infty\\)."},
+            {"answer": "B", "text": "are asimptotă orizontală spre \\(+\\infty\\)."},
+            {"answer": "C", "text": "are asimptota verticală \\(x=0\\) la dreapta."},
+            {"answer": "D", "text": "nu are asimptote."}
+        ],
+        "correctAnswer": ["A","C"]
+    },
+    {
+        "questionNumber": 10,
+        "points": 0.375,
+        "question": "Pentru orice \\(n\\in\\mathbb{N}, n\\geq 2\\), suma \\(C_2^2+C_3^2+\\ldots+C_n^2\\) este egală cu",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(C_{n+1}^3\\)"},
+            {"answer": "B", "text": "\\(C_{n+1}^2\\)"},
+            {"answer": "C", "text": "\\(4^{n-2}\\)"},
+            {"answer": "D", "text": "\\(C_{n+1}^{n-1}\\)"}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 11,
+        "points": 0.375,
+        "question": "Ecuația \\(\\dfrac{mx-4}{x-2}=2,\\ x\\in\\mathbb{R}\\setminus\\{2\\}\\), are:",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "o infinitate de soluții pentru \\(m\\in\\mathbb{R}\\setminus\\{2\\}\\)"},
+            {"answer": "B", "text": "o infinitate de soluții pentru \\(m=2\\)"},
+            {"answer": "C", "text": "soluție unică pentru \\(m\\in\\mathbb{R}\\setminus\\{2\\}\\)"},
+            {"answer": "D", "text": "soluție unică pentru \\(m=2\\)"}
+        ],
+        "correctAnswer": ["B","C"]
+    },
+    {
+        "questionNumber": 12,
+        "points": 0.375,
+        "question": "Lungimea razei cercului înscris în triunghiul de laturi \\(4,5,7\\) este",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(4\\sqrt{6}\\)"},
+            {"answer": "B", "text": "\\(2\\sqrt{6}\\)"},
+            {"answer": "C", "text": "\\(\\sqrt{6}\\)"},
+            {"answer": "D", "text": "\\(\\dfrac{\\sqrt{6}}{2}\\)"}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 13,
+        "points": 0.375,
+        "question": "Se consideră un triunghi \\(ABC\\), cu \\(AB=4, AC=6, BC=8\\). Atunci valoarea produsului scalar \\(\\overrightarrow{AB}\\cdot\\overrightarrow{AC}\\) este",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(-6\\)"},
+            {"answer": "B", "text": "\\(0\\)"},
+            {"answer": "C", "text": "\\(6\\)"},
+            {"answer": "D", "text": "\\(24\\)"}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 14,
+        "points": 0.375,
+        "question": "Se consideră rombul \\(ABCD\\), unde \\(O\\) este punctul de intersecție a diagonalelor. Care dintre următoarele afirmații sunt adevărate?",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(\\overrightarrow{AB}=\\overrightarrow{AD}\\)"},
+            {"answer": "B", "text": "\\(\\overrightarrow{AB}=\\overrightarrow{DC}\\)"},
+            {"answer": "C", "text": "\\(\\overrightarrow{BO}=\\dfrac{1}{2}(\\overrightarrow{BC}+\\overrightarrow{BA})\\)"},
+            {"answer": "D", "text": "\\(\\overrightarrow{BO}=\\dfrac{1}{2}(\\overrightarrow{BC}-\\overrightarrow{BA})\\)"}
+        ],
+        "correctAnswer": ["B","C"]
+    },
+    {
+        "questionNumber": 15,
+        "points": 0.375,
+        "question": "Fie \\(f:\\mathbb{R}\\to\\mathbb{R}\\) funcția definită prin \\(f(x)=\\dfrac{x^2-1}{e^{x-1}},\\ \\forall x\\in\\mathbb{R}\\). Tangenta la graficul funcției \\(f\\) în punctul de abscisă \\(1\\)",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "este perpendiculară pe dreapta de ecuație \\(x+2y=1\\)."},
+            {"answer": "B", "text": "este paralelă cu dreapta de ecuație \\(x+2y=2\\)."},
+            {"answer": "C", "text": "trece prin punctul \\((3,4)\\)."},
+            {"answer": "D", "text": "intersectează axa \\(Ox\\) în \\((0,-2)\\)."}
+        ],
+        "correctAnswer": ["A","C"]
+    },
+    {
+        "questionNumber": 16,
+        "points": 0.375,
+        "question": "Pentru fiecare \\(n\\in\\mathbb{N}^*\\) se notează cu \\(a_n\\) coeficientul lui \\(x^n\\) în dezvoltarea binomului \\(\\left(x^2+\\dfrac{1}{2x}\\right)^{2n}\\). \\(\\displaystyle\\lim_{n\\to\\infty}\\dfrac{a_{n+1}}{a_n}\\) este",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(0\\)"},
+            {"answer": "B", "text": "\\(\\dfrac{1}{2}\\)"},
+            {"answer": "C", "text": "\\(1\\)"},
+            {"answer": "D", "text": "\\(2\\)"}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 17,
+        "points": 0.375,
+        "question": "Fie \\((a_n)_{n\\in\\mathbb{N}^*}\\) un șir, ai cărui termeni sunt în progresie aritmetică. Dacă \\(a_5+a_9+a_{13}+a_{17}=24\\), atunci suma primilor 21 de termeni consecutivi ai șirului este:",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(216\\)"},
+            {"answer": "B", "text": "\\(162\\)"},
+            {"answer": "C", "text": "\\(261\\)"},
+            {"answer": "D", "text": "\\(126\\)"}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 18,
+        "points": 0.375,
+        "question": "Fie \\(m\\in\\mathbb{R}\\) și considerăm sistemul de ecuații \\[\\begin{cases}x+2y+4z=m+2\\\\ x+3y+9z=m+3\\\\ x+my+m^2z=2m\\end{cases}\\] Care dintre următoarele afirmații sunt adevărate?",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "Pentru \\(m=2\\) sistemul este incompatibil."},
+            {"answer": "B", "text": "Pentru \\(m=3\\) sistemul este incompatibil."},
+            {"answer": "C", "text": "Pentru orice \\(m\\in\\mathbb{R}\\setminus\\{2,3\\}\\) sistemul este compatibil determinat."},
+            {"answer": "D", "text": "Pentru orice \\(m\\in\\mathbb{R}\\) sistemul este compatibil."}
+        ],
+        "correctAnswer": ["C","D"]
+    },
+    {
+        "questionNumber": 19,
+        "points": 0.375,
+        "question": "Dacă \\(x\\in\\left(0,\\dfrac{\\pi}{2}\\right)\\), \\(y\\in\\left(\\dfrac{\\pi}{2},\\pi\\right)\\) și \\(\\sin x=\\dfrac{\\sqrt5}{3}\\), \\(\\cos y=-\\dfrac{\\sqrt5}{5}\\), atunci \\(\\sin(x-y)\\) egală cu",
+        "category": "trigonometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(\\dfrac{-5-4\\sqrt5}{15}\\)"},
+            {"answer": "B", "text": "\\(\\dfrac{-5+4\\sqrt5}{15}\\)"},
+            {"answer": "C", "text": "\\(\\dfrac{5+4\\sqrt5}{15}\\)"},
+            {"answer": "D", "text": "\\(\\dfrac{5-4\\sqrt5}{15}\\)"}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 20,
+        "points": 0.375,
+        "question": "Se consideră ecuația \\(2\\cos(2x)-4\\sin x+1=0\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "trigonometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(\\dfrac{\\pi}{6}\\) este o soluție a ecuației."},
+            {"answer": "B", "text": "În intervalul \\([0,\\pi]\\) ecuația are o singură soluție."},
+            {"answer": "C", "text": "În intervalul \\([0,\\pi]\\) ecuația are două soluții."},
+            {"answer": "D", "text": "În intervalul \\([0,2\\pi]\\) ecuația are patru soluții."}
+        ],
+        "correctAnswer": ["A","C"]
+    },
+    {
+        "questionNumber": 21,
+        "points": 0.375,
+        "question": "Pe mulțimea \\((0,\\infty)\\) se definește legea de compoziție „∘” prin \\(x\\circ y=x^{\\ln y}\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "Mulțimea \\((0,\\infty)\\setminus\\{1\\}\\) este parte stabilă în raport cu legea de compoziție dată."},
+            {"answer": "B", "text": "Legea de compoziție „∘” este comutativă pe \\((0,\\infty)\\)."},
+            {"answer": "C", "text": "Legea de compoziție „∘” determină o structură de grup pe mulțimea \\((0,\\infty)\\)."},
+            {"answer": "D", "text": "\\(e^0\\circ e^1\\circ\\ldots\\circ e^n=1,\\ \\forall n\\in\\mathbb{N}^*\\)."}
+        ],
+        "correctAnswer": ["A","B","D"]
+    },
+    {
+        "questionNumber": 22,
+        "points": 0.375,
+        "question": "Două laturi ale unui pătrat se află pe dreptele de ecuațiile \\(2x-3y+1=0\\) și \\(3x+2y-5=0\\). Pe care din dreptele de mai jos poate fi situată o diagonală a pătratului?",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(x+5y-6=0\\)"},
+            {"answer": "B", "text": "\\(5x-y-4=0\\)"},
+            {"answer": "C", "text": "\\(x-y=0\\)"},
+            {"answer": "D", "text": "\\(x-2y+2=0\\)"}
+        ],
+        "correctAnswer": ["A","B"]
+    },
+    {
+        "questionNumber": 23,
+        "points": 0.375,
+        "question": "Fie \\(S=\\{(x,y)\\in\\mathbb{N}\\times\\mathbb{N}\\mid y^2=x^2+91\\}\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(xy\\leq 20,\\ \\forall (x,y)\\in S\\)"},
+            {"answer": "B", "text": "\\(x\\) este număr par și \\(y\\) este număr impar, \\(\\forall(x,y)\\in S\\)."},
+            {"answer": "C", "text": "\\(x\\) este număr impar și \\(y\\) este număr par, \\(\\forall(x,y)\\in S\\)."},
+            {"answer": "D", "text": "Mulțimea \\(S\\) are două elemente."}
+        ],
+        "correctAnswer": ["C","D"]
+    },
+    {
+        "questionNumber": 24,
+        "points": 0.375,
+        "question": "Valoarea integralei \\(\\displaystyle\\int_{-\\frac{\\pi}{2}}^{\\frac{\\pi}{2}}\\dfrac{\\cos x}{1+e^x}\\,dx\\) este",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(e\\)"},
+            {"answer": "B", "text": "\\(\\dfrac{e\\pi}{2}\\)"},
+            {"answer": "C", "text": "\\(1\\)"},
+            {"answer": "D", "text": "\\(\\pi\\)"}
+        ],
+        "correctAnswer": ["C"]
+    }
+    ]
+}

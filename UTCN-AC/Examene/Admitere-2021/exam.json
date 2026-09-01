@@ -1,0 +1,936 @@
+{
+    "examTitle": "Admitere 2021",
+    "type": "single-choice",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Numărul complex \\(1-i+i^2-i^3+\\cdots-i^{2021}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1-i\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1+i\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-i\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 2,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Dacă \\(a=\\lg 5\\), atunci \\(\\log_3 5\\cdot\\log_{20}9\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\frac{2a}{2-a}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\frac{2-a}{2a}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\frac{1-a}{2a}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{a}{2-a}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\frac{2-a}{a}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 3,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Câte numere naturale de patru cifre (în baza 10) se pot scrie, dacă se pot folosi doar cifrele 1, 2, 3, 4 iar cifra 1 se folosește obligatoriu?",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(256\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(252\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(110\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(192\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(175\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 4,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Pe \\(\\mathbb{C}\\) se definește legea de compoziție \\(z_1*z_2=z_1z_2-i(z_1+z_2)-1+i,\\quad z_1,z_2\\in\\mathbb{C}\\).",
+            "question": "\\(i*i\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(i\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-i\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 5,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Pe \\(\\mathbb{C}\\) se definește legea de compoziție \\(z_1*z_2=z_1z_2-i(z_1+z_2)-1+i,\\quad z_1,z_2\\in\\mathbb{C}\\).",
+            "question": "Elementul neutru al legii \"\\(*\\)\" este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-i\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-1+i\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-1-i\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(1+i\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(1-i\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 6,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Pe \\(\\mathbb{C}\\) se definește legea de compoziție \\(z_1*z_2=z_1z_2-i(z_1+z_2)-1+i,\\quad z_1,z_2\\in\\mathbb{C}\\).",
+            "question": "Mulțimea elementelor inversabile în monoidul \\((\\mathbb{C},*)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\mathbb{C}\\setminus\\{i\\}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\{-1+i,1+i\\}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\{1-i,-1-i\\}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\{i\\}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\mathbb{C}\\setminus\\{i,-i\\}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 7,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Pe \\(\\mathbb{C}\\) se definește legea de compoziție \\(z_1*z_2=z_1z_2-i(z_1+z_2)-1+i,\\quad z_1,z_2\\in\\mathbb{C}\\).",
+            "question": "Dacă \\(\\displaystyle\\varepsilon=\\frac{-1+i\\sqrt{3}}{2}\\), atunci valoarea expresiei \\((\\varepsilon+i)*(\\varepsilon+i)*\\cdots*(\\varepsilon+i)\\), unde \\(\\varepsilon+i\\) apare de 2022 ori, este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1+i\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-1+i\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1-i\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(i\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-i\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 8,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Fie \\(a,b\\in\\mathbb{R}\\) și fie sistemul \\((S)\\) în necunoscutele \\(x,y,z\\): \\(\\displaystyle (S):\\begin{cases}x-2y-3z=b\\\\2x+y-z=2\\\\3x+y+az=4\\end{cases}\\)",
+            "question": "Sistemul \\((S)\\) este compatibil nedeterminat dacă și numai dacă:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(a\\neq-2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(a=-2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(a\\neq2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(a\\neq-1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(a=2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 9,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Fie \\(a,b\\in\\mathbb{R}\\) și fie sistemul \\((S)\\) în necunoscutele \\(x,y,z\\): \\(\\displaystyle (S):\\begin{cases}x-2y-3z=b\\\\2x+y-z=2\\\\3x+y+az=4\\end{cases}\\)",
+            "question": "Sistemul \\((S)\\) este compatibil nedeterminat dacă și numai dacă perechea \\((a,b)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((-2,6)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((-2,-6)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((-2,5)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((2,5)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\((2,-6)\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 10,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Fie matricea \\(\\displaystyle A=\\begin{pmatrix}2&amp;-4\\\\-1&amp;2\\end{pmatrix}\\).",
+            "question": "\\(A^{2022}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(4^{2021}A\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(4^{-2022}A\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(4A\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(4^{2022}I_2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(O_2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 11,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Fie matricea \\(\\displaystyle A=\\begin{pmatrix}2&amp;-4\\\\-1&amp;2\\end{pmatrix}\\).",
+            "question": "Numărul matricelor \\(X\\in M_2(\\mathbb{R})\\) care verifică ecuația \\(X^{2022}=A\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2022\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(1\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 12,
+            "category": "algebra",
+            "groupId": 4,
+            "context": "Fie funcția \\(f:(0,\\infty)\\to\\mathbb{R}\\), \\(f(x)=x-\\dfrac{1}{x}\\) pentru orice \\(x&gt;0\\).",
+            "question": "Numărul soluțiilor ecuației \\(f(x^2)=f(x)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(4\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 13,
+            "category": "algebra",
+            "groupId": 4,
+            "context": "Fie funcția \\(f:(0,\\infty)\\to\\mathbb{R}\\), \\(f(x)=x-\\dfrac{1}{x}\\) pentru orice \\(x&gt;0\\).",
+            "question": "Mulțimea valorilor \\(a\\in\\mathbb{R}\\) pentru care ecuația \\(f(x)=a\\) are soluție este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\mathbb{R}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((0,\\infty)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((-1,1)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((-1,\\infty)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\mathbb{R}^*\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 14,
+            "category": "analiza",
+            "groupId": 4,
+            "context": "Fie funcția \\(f:(0,\\infty)\\to\\mathbb{R}\\), \\(f(x)=x-\\dfrac{1}{x}\\) pentru orice \\(x&gt;0\\).",
+            "question": "Numărul asimptotelor la graficul funcției \\(f\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(4\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 15,
+            "category": "analiza",
+            "groupId": 4,
+            "context": "Fie funcția \\(f:(0,\\infty)\\to\\mathbb{R}\\), \\(f(x)=x-\\dfrac{1}{x}\\) pentru orice \\(x&gt;0\\).",
+            "question": "\\(f'(x)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle 1+\\dfrac{1}{x^2}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1-\\ln x\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\dfrac{x^2}{2}-\\ln x\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle 1-\\dfrac{1}{x^2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle x^2+\\dfrac{1}{x^2}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 16,
+            "category": "analiza",
+            "groupId": 4,
+            "context": "Fie funcția \\(f:(0,\\infty)\\to\\mathbb{R}\\), \\(f(x)=x-\\dfrac{1}{x}\\) pentru orice \\(x&gt;0\\).",
+            "question": "Ecuația tangentei la graficul funcției \\(f\\) în punctul de intersecție al graficului cu axa \\(Ox\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(x+2y=1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(x-y=1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2x-y=2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2x+y=2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(y=0\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 17,
+            "category": "analiza",
+            "groupId": 4,
+            "context": "Fie funcția \\(f:(0,\\infty)\\to\\mathbb{R}\\), \\(f(x)=x-\\dfrac{1}{x}\\) pentru orice \\(x&gt;0\\).",
+            "question": "\\(\\displaystyle\\int_1^{\\sqrt{e}}f(x)\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\dfrac{e}{2}-1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\dfrac{e}{2}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle 1-\\dfrac{1}{e}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\dfrac{e-1}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle 1+\\dfrac{1}{e}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 18,
+            "category": "analiza",
+            "groupId": 4,
+            "context": "Fie funcția \\(f:(0,\\infty)\\to\\mathbb{R}\\), \\(f(x)=x-\\dfrac{1}{x}\\) pentru orice \\(x&gt;0\\).",
+            "question": "\\(\\displaystyle\\lim_{n\\to\\infty}\\int_{\\frac{1}{n}}^n e^{-|f(x)|}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle\\dfrac{1}{e}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(e\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle e-\\dfrac{1}{e}\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 19,
+            "category": "analiza",
+            "groupId": 5,
+            "context": "",
+            "question": "\\(\\displaystyle\\int_0^1 2^{-x}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\displaystyle\\dfrac{1}{2\\ln 2}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\displaystyle\\dfrac{\\ln 2}{2}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\displaystyle-\\dfrac{1}{2\\ln 2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle-\\dfrac{\\ln 2}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle 2^{\\ln 2}-1\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 20,
+            "category": "analiza",
+            "groupId": 5,
+            "context": "",
+            "question": "\\(\\displaystyle\\int_0^{\\frac{\\pi}{2}}\\sqrt{1-\\cos x}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\sqrt{2}-2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\sqrt{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2+\\sqrt{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2-\\sqrt{2}\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 21,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Fie funcția continuă \\(f:(0,\\infty)\\to\\mathbb{R}\\) cu \\(\\displaystyle f(x)=\\frac{x-e}{\\ln x-1}\\) pentru orice \\(x\\in(0,\\infty)\\setminus\\{e\\}\\).",
+            "question": "\\(f(e)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(e\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{1}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 22,
+            "category": "analiza",
+            "groupId": 6,
+            "context": "Fie funcția continuă \\(f:(0,\\infty)\\to\\mathbb{R}\\) cu \\(\\displaystyle f(x)=\\frac{x-e}{\\ln x-1}\\) pentru orice \\(x\\in(0,\\infty)\\setminus\\{e\\}\\).",
+            "question": "\\(f'(e)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(e\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{1}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{e}2\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 23,
+            "category": "analiza",
+            "groupId": 7,
+            "context": "Fie șirul \\((x_n)_{n\\geq 0}\\) definit prin relația de recurență \\(\\displaystyle x_{n+1}=x_n^2+2x_n\\) pentru orice \\(n\\in\\mathbb{N}\\), unde \\(x_0\\in\\mathbb{R}\\).",
+            "question": "Dacă \\(x_0\\in(0,1)\\), atunci \\(\\displaystyle\\lim_{n\\to\\infty}x_n\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\infty\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "nu există"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(1+\\sqrt{5}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(e^2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 24,
+            "category": "analiza",
+            "groupId": 7,
+            "context": "Fie șirul \\((x_n)_{n\\geq 0}\\) definit prin relația de recurență \\(\\displaystyle x_{n+1}=x_n^2+2x_n\\) pentru orice \\(n\\in\\mathbb{N}\\), unde \\(x_0\\in\\mathbb{R}\\).",
+            "question": "Șirul \\((x_n)_{n\\geq 0}\\) este convergent dacă și numai dacă \\(x_0\\) aparține mulțimii:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\([-2,0]\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\([-1,0]\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\([-1,1)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\{-1,0\\}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\((-\\infty,1)\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 25,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "\\(\\displaystyle\\lim_{x\\to0}\\frac{(2^x-1)\\cdot\\ln(1+\\sin^2x)}{(\\sqrt{1+x^2}-1)\\cdot\\tan x}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\ln 2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\ln 2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\frac{\\ln 2}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(1\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 26,
+            "category": "geometrie",
+            "groupId": 8,
+            "context": "În planul \\(xOy\\) se consideră punctele \\(A(2,3)\\), \\(B(-2,-3)\\) și \\(C(3,-3)\\).",
+            "question": "Centrul de greutate al triunghiului \\(ABC\\) are coordonatele:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((1,-1)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((0,0)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((0,-1)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\displaystyle\\left(\\frac{3}{2},\\frac{3}{2}\\right)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\displaystyle\\left(\\frac{7}{3},3\\right)\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 27,
+            "category": "geometrie",
+            "groupId": 8,
+            "context": "În planul \\(xOy\\) se consideră punctele \\(A(2,3)\\), \\(B(-2,-3)\\) și \\(C(3,-3)\\).",
+            "question": "Dacă \\(D\\) este un punct din plan cu proprietatea că \\(COAD\\) este paralelogram, atunci \\(CD\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(5\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\sqrt{13}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(3\\sqrt{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2\\sqrt{3}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2\\sqrt{3}\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 28,
+            "category": "geometrie",
+            "groupId": 8,
+            "context": "În planul \\(xOy\\) se consideră punctele \\(A(2,3)\\), \\(B(-2,-3)\\) și \\(C(3,-3)\\).",
+            "question": "Dacă \\(M\\) este un punct oarecare din plan, atunci valoarea minimă a expresiei \\(MA^2+MB^2+MC^2\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(35\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(44\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(48\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(41\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(53\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 29,
+            "category": "trigonometrie",
+            "groupId": 9,
+            "context": "Fie \\(a\\in\\mathbb{R}\\) și fie funcția \\(f:\\mathbb{R}\\to\\mathbb{R}\\), \\(f(x)=\\cos x+\\cos(ax)\\).",
+            "question": "\\(f(0)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\pi\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 30,
+            "category": "trigonometrie",
+            "groupId": 9,
+            "context": "Fie \\(a\\in\\mathbb{R}\\) și fie funcția \\(f:\\mathbb{R}\\to\\mathbb{R}\\), \\(f(x)=\\cos x+\\cos(ax)\\).",
+            "question": "Ecuația \\(f(x)=2\\) are soluție unică dacă și numai dacă \\(a\\) aparține mulțimii:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\mathbb{R}\\setminus\\mathbb{Q}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\mathbb{R}\\setminus\\mathbb{Z}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\{-\\pi,\\pi\\}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\mathbb{R}^*\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\((-1,1)\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        }
+    ]
+}

@@ -1,0 +1,321 @@
+{
+    "examTitle" : "Concurs Mate-Info UBB 2024",
+    "questions" : [
+    {
+        "questionNumber": 1,
+        "points": 0.375,
+        "question": "În paralelogramul \\(ABCD\\) avem \\(AB=1\\), \\(AD=2\\) și \\(m(\\widehat{B})=60^\\circ\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(\\overrightarrow{AB}\\cdot\\overrightarrow{AD}=1\\)"},
+            {"answer": "B", "text": "\\(\\overrightarrow{BA}\\cdot\\overrightarrow{BC}=1\\)"},
+            {"answer": "C", "text": "\\(\\overrightarrow{BA}\\cdot\\overrightarrow{AD}=-1\\)"},
+            {"answer": "D", "text": "\\(\\overrightarrow{BA}\\cdot\\overrightarrow{CD}=1\\)"}
+        ],
+        "correctAnswer": ["B","D"]
+    },
+    {
+        "questionNumber": 2,
+        "points": 0.375,
+        "question": "Dacă punctele \\(A(1,2)\\) și \\(B(4,6)\\) sunt vârfurile dreptunghiului \\(ABCD\\), atunci ecuația dreptei \\(AD\\) este:",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(4x+3y-11=0\\)"},
+            {"answer": "B", "text": "\\(3x+4y-11=0\\)"},
+            {"answer": "C", "text": "\\(4x-3y+2=0\\)"},
+            {"answer": "D", "text": "\\(4x+3y+2=0\\)"}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 3,
+        "points": 0.375,
+        "question": "Fie \\(\\vec{i}\\), \\(\\vec{j}\\) versorii unui sistem cartezian. Dacă vectorii \\(\\vec{v}=2\\vec{i}+b\\vec{j}\\) și \\(\\vec{w}=(b+4)\\vec{i}+2\\vec{j}\\) sunt perpendiculari, atunci valoarea parametrului \\(b\\in\\mathbb{R}\\) este:",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(-2\\)"},
+            {"answer": "B", "text": "\\(-1\\)"},
+            {"answer": "C", "text": "\\(1\\)"},
+            {"answer": "D", "text": "\\(2\\)"}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 4,
+        "points": 0.375,
+        "question": "Dacă matricea \\(X\\in M_2(\\mathbb{R})\\) satisface relația \\(\\begin{pmatrix}2&0\\\\2&4\\end{pmatrix}X=\\begin{pmatrix}2&2\\\\0&4\\end{pmatrix}\\), atunci suma elementelor lui \\(X\\) este:",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(-2\\)"},
+            {"answer": "B", "text": "\\(0\\)"},
+            {"answer": "C", "text": "\\(2\\)"},
+            {"answer": "D", "text": "\\(4\\)"}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 5,
+        "points": 0.375,
+        "question": "Considerăm sistemul de ecuații \\[\\begin{cases}x+2y+3z=1\\\\x-2y+\\alpha z=\\alpha\\\\3x+2y+z=2,\\end{cases}\\] unde \\(\\alpha\\) este un parametru real. Care dintre următoarele afirmații sunt adevărate?",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "Există un singur \\(\\alpha\\in\\mathbb{R}\\) pentru care sistemul este incompatibil."},
+            {"answer": "B", "text": "Sistemul este compatibil pentru orice \\(\\alpha\\in\\mathbb{R}\\)."},
+            {"answer": "C", "text": "Dacă determinantul sistemului este 16, atunci soluția sistemului este \\(x=\\dfrac{7}{8},\\ y=-\\dfrac{1}{2},\\ z=\\dfrac{3}{8}\\)."},
+            {"answer": "D", "text": "Dacă determinantul sistemului este 16, atunci soluția sistemului este \\(x=\\dfrac{1}{4},\\ y=\\dfrac{3}{4},\\ z=-\\dfrac{1}{4}\\)."}
+        ],
+        "correctAnswer": ["A", "D"]
+    },
+    {
+        "questionNumber": 6,
+        "points": 0.375,
+        "question": "Valoarea limitei \\(\\displaystyle\\lim_{x\\to0}(1+x^2e^x)^{\\frac{1}{1-cosx}}\\) este:",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(\\sqrt{e}\\)"},
+            {"answer": "B", "text": "\\(1\\)"},
+            {"answer": "C", "text": "\\(e\\)"},
+            {"answer": "D", "text": "\\(e^2\\)"}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+    "questionNumber": 7,
+    "points": 0.375,
+    "question" : "Fie $a,b,c \\in \\mathbb{R}$ și fie $f:\\mathbb{R}\\to\\mathbb{R}$ funcția definită prin \\[f(x)=\\begin{cases}1, & \\text{dacă } x\\leq 0 \\\\ ae^{-x}+be^x+cx(e^x-e^{-x}), & \\text{dacă } 0 < x <1 \\\\ e^{2-x}, & \\text{dacă } x\\geq 1.\\end{cases}\\] Dacă $f$ este continuă pe $\\mathbb{R}$, atunci valoarea sumei $a+2b+c$ este:",
+    "category": "analiza",
+    "answers": [
+        {"answer": "A", "text": "\\(0\\)"},
+        {"answer": "B", "text": "\\(2\\)"},
+        {"answer": "C", "text": "\\(1\\)"},
+        {"answer": "D", "text": "\\(\\dfrac{1}{2}\\)"}
+    ],
+    "correctAnswer": ["B"]
+},
+    {
+        "questionNumber": 8,
+        "points": 0.375,
+        "question": "Fie \\(x\\in\\left(\\dfrac{\\pi}{2},\\dfrac{3\\pi}{2}\\right)\\) cu \\(\\sin(x)=\\dfrac{1}{3}\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "trigonometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(\\cos(x)=-\\dfrac{2\\sqrt{2}}{3}\\)"},
+            {"answer": "B", "text": "\\(\\sin(2x)=-\\dfrac{4\\sqrt{2}}{9}\\)"},
+            {"answer": "C", "text": "\\(\\cos(2x)=\\dfrac{7}{9}\\)"},
+            {"answer": "D", "text": "\\(\\operatorname{tg}(x)=-2\\sqrt{2}\\)"}
+        ],
+        "correctAnswer": ["B", "C"]
+    },
+    {
+        "questionNumber": 9,
+        "points": 0.375,
+        "question": "În triunghiul \\(ABC\\) avem \\(D\\in(AB)\\), \\(DB=2\\cdot AD\\), \\(E\\in(AC)\\) și \\(AC=3\\cdot EC\\). Dacă punctele \\(A,D\\) și \\(E\\) au coordonatele \\(A(0,6)\\), \\(D(4,4)\\) și \\(E(-4,2)\\), atunci coordonatele centrului de greutate \\(G\\) al triunghiului \\(ABC\\) sunt:",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(G(2,2)\\)"},
+            {"answer": "B", "text": "\\(G\\left(\\dfrac{20}{9},\\dfrac{20}{9}\\right)\\)"},
+            {"answer": "C", "text": "\\(G(0,0)\\)"},
+            {"answer": "D", "text": "\\(G\\left(-\\dfrac{4}{3},\\dfrac{2}{3}\\right)\\)"}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 10,
+        "points": 0.375,
+        "question": "Numerele reale \\(a_1,a_2,a_3,\\ldots,a_{98},a_{99},a_{100}\\) sunt în progresie aritmetică și \\(a_1+a_2+a_3+\\ldots+a_{98}+a_{99}+a_{100}=a_2+a_4+a_6+\\ldots+a_{96}+a_{98}+a_{100}=200\\). Notăm cu \\(d\\) rația progresiei aritmetice. Care dintre următoarele afirmații sunt adevărate?",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(d>0\\)"},
+            {"answer": "B", "text": "\\(d<0\\)"},
+            {"answer": "C", "text": "Progresia aritmetică este unic determinată de condițiile date."},
+            {"answer": "D", "text": "Nu există astfel de progresie aritmetică."}
+        ],
+        "correctAnswer": ["A","C"]
+    },
+    {
+        "questionNumber": 11,
+        "points": 0.375,
+        "question": "Dacă \\(x>0\\) și al treilea termen al dezvoltării \\(\\left(\\dfrac{1}{x}+ (\\sqrt{x})^{1+lgx}\\right)^5\\) este \\(10000\\), atunci:",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(x\\in\\left\\{\\dfrac{1}{10},10\\right\\}\\)"},
+            {"answer": "B", "text": "\\(x\\in\\left\\{\\dfrac{1}{1000},1000\\right\\}\\)"},
+            {"answer": "C", "text": "\\(x\\in\\left\\{\\dfrac{1}{10},1000\\right\\}\\)"},
+            {"answer": "D", "text": "\\(x\\in\\left\\{\\dfrac{1}{1000},10\\right\\}\\)"}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 12,
+        "points": 0.375,
+        "question": "Dacă notăm cu \\(S\\) mulțimea soluțiilor reale ale ecuației \\[\\sqrt{x-6\\sqrt{x+1}+10}+\\sqrt{x+6\\sqrt{x+1}+10}=6,\\] atunci",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(3\\in S\\)"},
+            {"answer": "B", "text": "\\(15\\in S\\)"},
+            {"answer": "C", "text": "mulțimea \\(S\\) este finită"},
+            {"answer": "D", "text": "mulțimea \\(S\\) este infinită"}
+        ],
+        "correctAnswer": ["A","D"]
+    },
+    {
+        "questionNumber": 13,
+        "points": 0.375,
+        "question": "Fie \\(f:[-1,1]\\to\\mathbb{R}\\) funcția definită prin \\(f(x)=3x+4\\sqrt{1-x^2}\\). Notăm cu \\(a\\) cea mai mică valoare a lui \\(f\\) și cu \\(b\\) cea mai mare valoare a lui \\(f\\). Atunci lungimea intervalului \\([a,b]\\) este:",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(2\\)"},
+            {"answer": "B", "text": "\\(6\\)"},
+            {"answer": "C", "text": "\\(8\\)"},
+            {"answer": "D", "text": "\\(10\\)"}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 14,
+        "points": 0.375,
+        "question": "Notăm cu \\(I\\) valoarea integralei \\(\\displaystyle\\int_0^1\\dfrac{dx}{x^3+x^2+x+1}\\). Să se precizeze care dintre următoarele afirmații sunt adevărate:",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(I>\\dfrac{\\pi}{8}\\)"},
+            {"answer": "B", "text": "\\(I<\\dfrac{\\pi}{8}\\)"},
+            {"answer": "C", "text": "\\(I<\\dfrac{1}{4}\\ln 2\\)"},
+            {"answer": "D", "text": "\\(I>\\dfrac{1}{4}\\ln 2\\)"}
+        ],
+        "correctAnswer": ["A", "D"]
+    },
+    {
+        "questionNumber": 15,
+        "points": 0.375,
+        "question": "În triunghiul \\(ABC\\) avem \\(A(3,4)\\) și \\(B(2,1)\\), iar \\(D(0,2)\\) este mijlocul segmentului \\(BC\\). Aria triunghiului \\(ABC\\) este egală cu:",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(1\\)"},
+            {"answer": "B", "text": "\\(3\\)"},
+            {"answer": "C", "text": "\\(5\\)"},
+            {"answer": "D", "text": "\\(7\\)"}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 16,
+        "points": 0.375,
+        "question": "Dacă \\(f:\\mathbb{R}\\to\\mathbb{R}\\), \\(f(x)=x^2-x\\) și \\(S=\\{x\\in\\mathbb{R}\\mid f(f(x))=0\\}\\), atunci",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(1\\in S\\)"},
+            {"answer": "B", "text": "\\(-1\\in S\\)"},
+            {"answer": "C", "text": "există exact două numere iraționale în \\(S\\)"},
+            {"answer": "D", "text": "există un singur număr irațional în \\(S\\)"}
+        ],
+        "correctAnswer": ["A", "C"]
+    },
+    {
+        "questionNumber": 17,
+        "points": 0.375,
+        "question": "Dacă \\(z\\) este un număr complex astfel încât \\(z^2=i\\), atunci \\((z^3+\\overline{z})^2\\) este egal cu",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(-2i\\)"},
+            {"answer": "B", "text": "\\(2i\\)"},
+            {"answer": "C", "text": "\\(2\\)"},
+            {"answer": "D", "text": "\\(0\\)"}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 18,
+        "points": 0.375,
+        "question": "Valoarea limitei \\(\\displaystyle\\lim_{n\\to\\infty}n\\left(\\dfrac{1}{(n+1)^2}+\\dfrac{1}{(n+2)^2}+\\cdots+\\dfrac{1}{(n+n)^2}\\right)\\) este:",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(0\\)"},
+            {"answer": "B", "text": "\\(1\\)"},
+            {"answer": "C", "text": "\\(\\dfrac{1}{2}\\)"},
+            {"answer": "D", "text": "\\(\\dfrac{1}{4}\\)"}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 19,
+        "points": 0.375,
+        "question": "Fie funcția \\(f:\\mathbb{R}\\to\\mathbb{R}\\) definită prin \\(f(x)=\\dfrac{x^2}{\\sqrt{x^2+1}}\\). Aria mulțimii plane cuprinse între graficul lui \\(f\\), axa \\(Ox\\) și dreptele de ecuații \\(x=-1\\) și \\(x=1\\) este:",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(\\sqrt{2}-\\ln(1+\\sqrt{2})\\)"},
+            {"answer": "B", "text": "\\(\\sqrt{2}\\)"},
+            {"answer": "C", "text": "\\(\\sqrt{2}+\\ln(1+\\sqrt{2})\\)"},
+            {"answer": "D", "text": "\\(2\\sqrt{2}-\\ln(1+\\sqrt{2})\\)"}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 20,
+        "points": 0.375,
+        "question": "În rombul \\(ABCD\\) avem \\(E\\in(BC)\\), \\(BE=2\\cdot EC\\), \\(F\\in(DC)\\) și \\(FD=3\\cdot FC\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(\\overrightarrow{BD}=\\overrightarrow{AD}-\\overrightarrow{AB}\\)"},
+            {"answer": "B", "text": "\\(\\overrightarrow{BE}=\\dfrac{2}{3}\\overrightarrow{AD}\\)"},
+            {"answer": "C", "text": "\\(\\overrightarrow{DF}=\\dfrac{1}{4}\\overrightarrow{AB}\\)"},
+            {"answer": "D", "text": "\\(\\overrightarrow{EF}=\\dfrac{1}{3}\\overrightarrow{AD}-\\dfrac{1}{4}\\overrightarrow{AB}\\)"}
+        ],
+        "correctAnswer": ["A", "B", "D"]
+    },
+    {
+        "questionNumber": 21,
+        "points": 0.375,
+        "question": "În triunghiul \\(ABC\\) avem \\(A(2,13)\\), \\(B(-7,1)\\) și \\(C(7,1)\\). Știind că \\(AD\\) este bisectoare cu \\(D\\in(BC)\\), lungimea segmentului \\(BD\\) este:",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(\\dfrac{13}{2}\\)"},
+            {"answer": "B", "text": "\\(7\\)"},
+            {"answer": "C", "text": "\\(\\dfrac{15}{2}\\)"},
+            {"answer": "D", "text": "\\(8\\)"}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+    "questionNumber": 22,
+    "points": 0.375,
+    "question": "Dacă funcția \\(f: (\\mathbb{Z}_8, +) \\rightarrow (\\mathbb{Z}_{12}, +)\\) este morfism de grupuri și \\(f(\\hat{5}) = \\hat{9}\\), atunci",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(f(\\hat{1}) = \\hat{0}\\)"},
+      {"answer": "B", "text": "\\(f(\\hat{1}) = \\hat{9}\\)"},
+      {"answer": "C", "text": "\\(f(\\hat{1})\\) nu este unic determinat de condițiile date"},
+      {"answer": "D", "text": "nu există astfel de morfism."}
+    ],
+    "correctAnswer": [
+        "B"
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "points": 0.375,
+    "question": "Notăm cu \\(A\\) mulțimea tuturor perechilor de numere reale \\((x,y)\\) cu proprietatea că \\(0 \\le x < y\\) și \\(\\dfrac{x}{2024^x} = \\dfrac{y}{2024^y}\\). Care dintre următoarele afirmații sunt adevărate?",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "Mulțimea \\(A\\) este vidă"},
+      {"answer": "B", "text": "Mulțimea \\(A\\) conține un singur element"},
+      {"answer": "C", "text": "Mulțimea \\(A\\) conține o infinitate de elemente"},
+      {"answer": "D", "text": "Mulțimea \\(A\\) conține un element de forma \\((x, 1)\\)"}
+    ],
+    "correctAnswer": [
+        "C","D"
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "points": 0.375,
+    "question": "Fie \\(a \\in \\mathbb{R}\\) și fie \\((x_n)_{n \\ge 0}\\) șirul definit prin \\(x_0 = a\\) și \\(x_{n+1} = x_n + x_n^2\\) oricare ar fi \\(n \\ge 0\\). Mulțimea tuturor valorilor lui \\(a\\) pentru care șirul este convergent este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(\\{-1, 0\\}\\)"},
+      {"answer": "B", "text": "\\([-1, 0]\\)"},
+      {"answer": "C", "text": "\\([0, 1]\\)"},
+      {"answer": "D", "text": "\\((-\\infty, 0]\\)"}
+    ],
+    "correctAnswer": ["B"]
+  }
+]
+}

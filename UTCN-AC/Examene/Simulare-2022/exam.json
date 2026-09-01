@@ -1,0 +1,936 @@
+{
+    "examTitle": "Simulare 2022",
+    "type": "single-choice",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Se consideră mulțimea \\(M=\\{0,1,2,\\ldots,8\\}\\). Care este numărul submulțimilor lui \\(M\\) ce conțin ...",
+            "question": "cel puțin un element mai mic decât \\(5\\)?",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(496\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(480\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(448\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(248\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(240\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 2,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Se consideră mulțimea \\(M=\\{0,1,2,\\ldots,8\\}\\). Care este numărul submulțimilor lui \\(M\\) ce conțin ...",
+            "question": "cel puțin un element mai mic decât \\(5\\)\n    și cel puțin un element  mai mare decât \\(5\\)?",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(434\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(448\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(217\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(224\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(248\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 3,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Pe \\(\\mathbb Z\\) se definește legea de compoziție\n    \\(x*y=x+(-1)^x y\\), pentru orice \\(x,y\\in\\mathbb Z\\). Care este ...",
+            "question": "elementul neutru în raport cu legea \"\\(*\\)\"?",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\text{nu există element neutru}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 4,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Pe \\(\\mathbb Z\\) se definește legea de compoziție\n    \\(x*y=x+(-1)^x y\\), pentru orice \\(x,y\\in\\mathbb Z\\). Care este ...",
+            "question": "simetricul lui \\(2022\\) în raport cu legea \"\\(*\\)\"?",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-2023\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2022\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2022\\) nu are element simetric"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2021\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-2022\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 5,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Pe \\(\\mathbb Z\\) se definește legea de compoziție\n    \\(x*y=x+(-1)^x y\\), pentru orice \\(x,y\\in\\mathbb Z\\). Care este ...",
+            "question": "numărul soluțiilor ecuației \\(x*x=2022\\), \\((x\\in\\mathbb Z)\\)?",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2022\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2023\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 6,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Numărul soluțiilor complexe ale ecuației\n    \\(z^2=-2\\overline z\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(3\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 7,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Pentru orice \\(m\\in\\mathbb R\\) se definește funcția\n    \\(f_m:\\mathbb R\\to\\mathbb R\\),\n    \\(f_m(x)=mx^2-(2m+1)x+m+1\\), pentru orice \\(x\\in\\mathbb R\\).",
+            "question": "Valoarea lui \\(m\\) pentru care \\(x=2\\) este soluție a ecuației\n    \\(f_m(x)=0\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(3\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 8,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Pentru orice \\(m\\in\\mathbb R\\) se definește funcția\n    \\(f_m:\\mathbb R\\to\\mathbb R\\),\n    \\(f_m(x)=mx^2-(2m+1)x+m+1\\), pentru orice \\(x\\in\\mathbb R\\).",
+            "question": "Vârfurile parabolelor reprezentate de graficele funcțiilor \\(f_m\\)\n    se află pe dreapta de ecuație:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(x+2y=1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2x+y=1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(x-2y=1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2x-y=1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(x-2y=2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 9,
+            "category": "algebra",
+            "groupId": 4,
+            "context": "Fie matricea\n    \\(A=\\begin{pmatrix}1&amp;4\\\\0&amp;-1\\end{pmatrix}\\).",
+            "question": "\\(A^2\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-A\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(A\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(I_2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-4I_2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(O_2\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 10,
+            "category": "algebra",
+            "groupId": 4,
+            "context": "Fie matricea\n    \\(A=\\begin{pmatrix}1&amp;4\\\\0&amp;-1\\end{pmatrix}\\).",
+            "question": "Numărul soluțiilor \\(X\\in M_2(\\mathbb R)\\) ale ecuației\n                            \\(X^2=A\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\text{infinit}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 11,
+            "category": "algebra",
+            "groupId": 4,
+            "context": "Fie matricea\n    \\(A=\\begin{pmatrix}1&amp;4\\\\0&amp;-1\\end{pmatrix}\\).",
+            "question": "Dacă \\(X\\in M_2(\\mathbb C)\\) verifică ecuația\n    \\(X^2=A\\), atunci \\(X^{2022}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(A\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2022\\cdot I_2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-A\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(i\\cdot I_2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(i\\cdot A\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 12,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "Valoarea expresiei\n    \\(\\displaystyle\n    \\int_0^{\\frac{\\pi}{3}}\\operatorname{tg}x\\,dx\n    +\n    \\displaystyle\\int_0^{\\sqrt3}\\operatorname{arctg}x\\,dx\n    \\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{\\pi}{\\sqrt3}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{2\\pi}{3}-\\ln2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{\\sqrt3\\pi}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{\\pi}{6}+\\dfrac{1}{2}\\ln2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 13,
+            "category": "algebra",
+            "groupId": 5,
+            "context": "Fie funcția continuă \\(f:\\mathbb R\\to\\mathbb R\\), cu\n    \\(\n    f(x)=\\dfrac{\\sqrt{1+x^2}-1}{x},\n    \\)\n    pentru orice \\(x\\in\\mathbb R^*\\).",
+            "question": "\\(f(0)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{1}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\sqrt2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 14,
+            "category": "algebra",
+            "groupId": 5,
+            "context": "Fie funcția continuă \\(f:\\mathbb R\\to\\mathbb R\\), cu\n    \\(\n    f(x)=\\dfrac{\\sqrt{1+x^2}-1}{x},\n    \\)\n    pentru orice \\(x\\in\\mathbb R^*\\).",
+            "question": "Mulțimea soluțiilor ecuației\n    \\(\n    f(x)=\\dfrac{1}{\\sqrt{1+x^2}+1}\n    \\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\{1\\}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\{0,1\\}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\varnothing\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\left\\{\\dfrac12\\right\\}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\{0\\}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 15,
+            "category": "analiza",
+            "groupId": 5,
+            "context": "Fie funcția continuă \\(f:\\mathbb R\\to\\mathbb R\\), cu\n    \\(\n    f(x)=\\dfrac{\\sqrt{1+x^2}-1}{x},\n    \\)\n    pentru orice \\(x\\in\\mathbb R^*\\).",
+            "question": "\\(f'(0)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac12\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\sqrt 2\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 16,
+            "category": "algebra",
+            "groupId": 5,
+            "context": "Fie funcția continuă \\(f:\\mathbb R\\to\\mathbb R\\), cu\n    \\(\n    f(x)=\\dfrac{\\sqrt{1+x^2}-1}{x},\n    \\)\n    pentru orice \\(x\\in\\mathbb R^*\\).",
+            "question": "Mulțimea valorilor funcției \\(f\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((-1,1)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\mathbb R\\setminus\\{-1,1\\}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\mathbb R\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\([-2,2]\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\([1-\\sqrt2,\\sqrt2-1]\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 17,
+            "category": "trigonometrie",
+            "groupId": 5,
+            "context": "Fie funcția continuă \\(f:\\mathbb R\\to\\mathbb R\\), cu\n    \\(\n    f(x)=\\dfrac{\\sqrt{1+x^2}-1}{x},\n    \\)\n    pentru orice \\(x\\in\\mathbb R^*\\).",
+            "question": "Numărul soluțiilor ecuației\n    \\(\n    f(\\operatorname{tg}x)=\\operatorname{tg}\\dfrac{x}{2}\n    \\)\n    din intervalul \\([0,4\\pi]\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(6\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\text{infinit}\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 18,
+            "category": "analiza",
+            "groupId": 5,
+            "context": "Fie funcția continuă \\(f:\\mathbb R\\to\\mathbb R\\), cu\n    \\(\n    f(x)=\\dfrac{\\sqrt{1+x^2}-1}{x},\n    \\)\n    pentru orice \\(x\\in\\mathbb R^*\\).",
+            "question": "\\(\\displaystyle\n    \\int_0^{2\\sqrt2}f(x)\\,dx\n    \\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1+\\sqrt2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\sqrt2-\\dfrac12\\ln2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(1-\\ln\\dfrac32\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2-\\ln2\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 19,
+            "category": "analiza",
+            "groupId": 6,
+            "context": null,
+            "question": "\\(\\displaystyle\n    \\int_1^e \\dfrac{\\ln x}{x}\\,dx\n    \\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{1}{2}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(e\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{e^2}{2}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 20,
+            "category": "analiza",
+            "groupId": 6,
+            "context": null,
+            "question": "\\(\\displaystyle\n    \\int_0^2\n    \\dfrac{\\sqrt{x}}\n    {\\sqrt{x}+\\sqrt{2-x}}\n    \\cdot\\sin\\frac{\\pi x}{2}\\,dx\n    \\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{2}{\\pi}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac{\\pi}{2}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\sqrt2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{\\pi}{\\sqrt2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{\\sqrt2}{\\pi}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 21,
+            "category": "analiza",
+            "groupId": 6,
+            "context": null,
+            "question": "\\(\\displaystyle\n    \\int_0^{\\frac{\\pi}{2}}\n    \\dfrac{1}\n    {\\sin\\left(x+\\frac{\\pi}{6}\\right)\n    \\cdot\\sin\\left(x+\\frac{\\pi}{3}\\right)}\n    \\,dx\n    \\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\ln3\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac{\\pi}{2\\sqrt3}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\sqrt3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{\\pi}{\\sqrt3}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{\\pi\\ln3}{2}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 22,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "\\(\\displaystyle\n                            \\lim_{x\\to0}\n                            \\frac{1-\\cos x\\cdot\\cos2x\\cdot\\cos3x}{x^2}\n                            \\)\n                            este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(7\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(6\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{11}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{15}{2}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 23,
+            "category": "analiza",
+            "groupId": 7,
+            "context": "Fie șirul \\((x_n)_{n\\ge0}\\) definit prin\n    \\(\n    x_{n+1}=x_n^2+x_n,\n    \\)\n    pentru orice \\(n\\in\\mathbb N\\), unde \\(x_0\\in\\mathbb R\\).",
+            "question": "\\(x_3=0\\) dacă și numai dacă \\(x_0\\) aparține mulțimii:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\{-1,0\\}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\{0\\}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\{1\\}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\{-1,0,1\\}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\([-1,1]\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 24,
+            "category": "analiza",
+            "groupId": 7,
+            "context": "Fie șirul \\((x_n)_{n\\ge0}\\) definit prin\n    \\(\n    x_{n+1}=x_n^2+x_n,\n    \\)\n    pentru orice \\(n\\in\\mathbb N\\), unde \\(x_0\\in\\mathbb R\\).",
+            "question": "Dacă șirul \\((x_n)_{n\\ge0}\\) este convergent, atunci limita sa este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac12\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-\\dfrac{\\sqrt2}{2}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 25,
+            "category": "analiza",
+            "groupId": 7,
+            "context": "Fie șirul \\((x_n)_{n\\ge0}\\) definit prin\n    \\(\n    x_{n+1}=x_n^2+x_n,\n    \\)\n    pentru orice \\(n\\in\\mathbb N\\), unde \\(x_0\\in\\mathbb R\\).",
+            "question": "Dacă \\(x_0=-\\dfrac12\\), atunci\n                            \\(\\displaystyle\n                            \\lim_{n\\to\\infty}nx_n\n                            \\)\n                            este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac12\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-\\dfrac{\\sqrt2}{2}\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 26,
+            "category": "geometrie",
+            "groupId": 8,
+            "context": "În planul \\(xOy\\) se consideră pătratul \\(ABCD\\), astfel încât\n    vârfurile lui sunt ordonate în sens trigonometric,\n    \\(A(2,7)\\), iar \\(M(-2,1)\\) este punctul de intersecție al diagonalelor.",
+            "question": "Panta dreptei \\(BD\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-\\dfrac{2}{3}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac{3}{2}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-\\dfrac{3}{5}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{5}{3}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-\\dfrac{1}{2}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 27,
+            "category": "geometrie",
+            "groupId": 8,
+            "context": "În planul \\(xOy\\) se consideră pătratul \\(ABCD\\), astfel încât\n    vârfurile lui sunt ordonate în sens trigonometric,\n    \\(A(2,7)\\), iar \\(M(-2,1)\\) este punctul de intersecție al diagonalelor.",
+            "question": "Aria pătratului \\(ABCD\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(104\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(61\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(85\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(101\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(122\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 28,
+            "category": "geometrie",
+            "groupId": 8,
+            "context": "În planul \\(xOy\\) se consideră pătratul \\(ABCD\\), astfel încât\n    vârfurile lui sunt ordonate în sens trigonometric,\n    \\(A(2,7)\\), iar \\(M(-2,1)\\) este punctul de intersecție al diagonalelor.",
+            "question": "Punctul \\(B\\) are coordonatele:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((-8,5)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((-9,5)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((-8,6)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((-9,6)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\((-7,5)\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 29,
+            "category": "trigonometrie",
+            "groupId": null,
+            "context": null,
+            "question": "Numărul soluțiilor ecuației\n    \\(\n    \\sin x\\cdot\\sin 2x=1\n    \\)\n    din intervalul \\([0,4\\pi]\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(4\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 30,
+            "category": "trigonometrie",
+            "groupId": null,
+            "context": null,
+            "question": "Dacă\n    \\(\n    \\sin x+\\cos x=\\sqrt2,\n    \\)\n    atunci\n    \\(\n    \\sin^6x+\\cos^6x\n    \\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac14\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac18\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac12\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac32\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        }
+    ]
+}

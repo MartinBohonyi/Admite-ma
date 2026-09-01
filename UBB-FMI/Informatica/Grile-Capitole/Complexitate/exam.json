@@ -1,0 +1,117 @@
+{
+    "examTitle" : "Probleme si Teste Grilă de Informatică pentru Admiterea la Facultatea de Matematică și Informatică Universitatea Babeș-Bolyai 2025",
+    "questions" : [
+        {
+            "questionNumber": 127,
+            "points": 0.3,
+            "author" : "Mihai Gheorgheș",
+            "questionImage": "images/Q127.png",
+            "category": "complexitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["D"]
+        },
+        {
+            "questionNumber": 128,
+            "points": 0.3,
+            "author" : "Rareș Cotoi",
+            "questionImage": "images/Q128.png",
+            "category": "complexitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["D"]
+        },
+        {
+            "questionNumber": 129,
+            "points": 0.3,
+            "author" : "Mihai Gheorgheș",
+            "questionImage": "images/Q129.png",
+            "category": "complexitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 130,
+            "points": 0.3,
+            "author" : "Mihai Gheorgheș",
+            "questionImage": "images/Q130.png",
+            "category": "complexitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","C","D"]
+        },
+        {
+            "questionNumber": 131,
+            "points": 0.3,
+            "author" : "Mihai Gheorgheș",
+            "questionImage": "images/Q131.png",
+            "category": "complexitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","D"]
+        },
+        {
+            "questionNumber": 132,
+            "points": 0.3,
+            "author" : "Mihai Gheorgheș",
+            "questionImage": "images/Q132.png",
+            "category": "complexitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["D"]
+        },
+        {
+            "questionNumber": 133,
+            "points": 0.3,
+            "author" : "Mihai Gheorgheș",
+            "questionImage": "images/Q133.png",
+            "category": "complexitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 134,
+            "points": 0.3,
+            "author" : "Rareș Cotoi",
+            "questionImage": "images/Q134.png",
+            "category": "complexitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A"]
+        }
+    ]
+}

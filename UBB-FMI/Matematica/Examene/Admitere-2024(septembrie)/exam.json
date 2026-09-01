@@ -1,0 +1,317 @@
+{
+    "examTitle" : "Admitere 2024 (sesiunea Septembrie)" , 
+    "questions" : [
+    {
+        "questionNumber": 1,
+        "points": 0.375,
+        "question": "Dacă \\(f:\\mathbb{R}\\to\\mathbb{R}\\), \\[f(x)=3^{x+1}-9^x,\\] atunci valoarea expresiei \\(f(\\log_3 4)\\) este",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "4"},
+            {"answer": "B", "text": "\\(-4\\)"},
+            {"answer": "C", "text": "\\(-11\\)"},
+            {"answer": "D", "text": "\\(-3\\)"}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 2,
+        "points": 0.375,
+        "question": "În paralelogramul \\(ABCD\\) avem \\(AB=2\\), \\(AD=1\\) și \\(\\widehat{C}=60°\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "trigonometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(BC=1\\)"},
+            {"answer": "B", "text": "\\(CD=1\\)"},
+            {"answer": "C", "text": "\\(AC=\\sqrt3\\)"},
+            {"answer": "D", "text": "\\(BD=\\sqrt3\\)"}
+        ],
+        "correctAnswer": ["A","D"]
+    },
+    {
+        "questionNumber": 3,
+        "points": 0.375,
+        "question": "Valoarea limitei \\(\\displaystyle\\lim_{n\\to\\infty}\\sqrt{n}\\left(\\sqrt{n+2^n}-\\sqrt{n}\\right)\\) este",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "0"},
+            {"answer": "B", "text": "2"},
+            {"answer": "C", "text": "1"},
+            {"answer": "D", "text": "\\(+\\infty\\)"}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 4,
+        "points": 0.375,
+        "question": "Fie \\(A\\) o mulțime cu \\(n\\) elemente. Dacă numărul submulțimilor lui \\(A\\) cu 2 elemente este 21, atunci",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(n\\in(2,6]\\)"},
+            {"answer": "B", "text": "\\(n\\in(6,10]\\)"},
+            {"answer": "C", "text": "\\(n\\in(10,14]\\)"},
+            {"answer": "D", "text": "nu există astfel de valori ale lui \\(n\\)"}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 5,
+        "points": 0.375,
+        "question": "Fie \\(S\\) mulțimea soluțiilor reale ale ecuației \\[4^x-2^x\\cdot3^{x+1}=4\\cdot9^x.\\] Care dintre următoarele afirmații sunt corecte?",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(S\\) are exact două elemente"},
+            {"answer": "B", "text": "\\(S\\) are exact un element"},
+            {"answer": "C", "text": "\\(\\dfrac{2}{1-\\log_2 3}\\in S\\)"},
+            {"answer": "D", "text": "\\(\\dfrac{2}{1+\\log_2 3}\\in S\\)"}
+        ],
+        "correctAnswer": ["B","C"]
+    },
+    {
+        "questionNumber": 6,
+        "points": 0.375,
+        "question": "În triunghiul \\(ABC\\) avem \\(E\\in(AB)\\), \\(EB=3\\cdot EA\\), \\(F\\in(AC)\\) și \\(FC=2\\cdot FA\\). Ştiind că punctele \\(A,E\\) și \\(F\\) au coordonatele \\(A(1,3)\\), \\(E(3,6)\\), respectiv \\(F(4,18)\\), coordonatele centrului de greutate \\(G\\) al triunghiului \\(ABC\\) sunt:",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(G\\left(\\dfrac{31}{6},\\dfrac{89}{6}\\right)\\)"},
+            {"answer": "B", "text": "\\(G\\left(\\dfrac{20}{3},22\\right)\\)"},
+            {"answer": "C", "text": "\\(G\\left(\\dfrac{61}{18},\\dfrac{73}{6}\\right)\\)"},
+            {"answer": "D", "text": "\\(G\\left(\\dfrac{50}{9},22\\right)\\)"}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 7,
+        "points": 0.375,
+        "question": "Punctele \\(D(2,1)\\), \\(E(-2,5)\\) și \\(F(1,4)\\) sunt mijloacele laturilor \\(AB\\), \\(BC\\) și \\(AC\\) în triunghiul \\(ABC\\). Aria triunghiului \\(ABC\\) este:",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "2"},
+            {"answer": "B", "text": "4"},
+            {"answer": "C", "text": "8"},
+            {"answer": "D", "text": "16"}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 8,
+        "points": 0.375,
+        "question": "Valoarea integralei \\(\\displaystyle\\int_0^{\\pi/3}\\dfrac{\\cos x}{1+4\\sin^2x}\\,dx\\) este:",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(\\dfrac{\\pi}{6}\\)"},
+            {"answer": "B", "text": "\\(\\dfrac{\\pi}{3}\\)"},
+            {"answer": "C", "text": "\\(\\dfrac{\\pi}{12}\\)"},
+            {"answer": "D", "text": "\\(\\dfrac{\\pi}{2}\\)"}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 9,
+        "points": 0.375,
+        "question": "Se consideră numărul real \\(a\\), funcția \\(f:\\mathbb{R}\\to\\mathbb{R}\\), definită prin \\(f(x)=\\dfrac{x^2+ax+1}{\\sqrt{x^2+1}}\\) și punctele \\(A(0,1)\\) și \\(B(2,7)\\). Valoarea lui \\(a\\) pentru care dreapta \\(AB\\) este tangentă la graficul lui \\(f\\) în punctul \\(A\\) este:",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "5"},
+            {"answer": "B", "text": "3"},
+            {"answer": "C", "text": "0"},
+            {"answer": "D", "text": "\\(-3\\)"}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 10,
+        "points": 0.375,
+        "question": "În paralelogramul \\(ABCD\\) avem \\(A(2,1)\\), \\(B(4,3)\\) și \\(C(7,2)\\). Ecuația dreptei \\(BD\\) este:",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(x-y-1=0\\)"},
+            {"answer": "B", "text": "\\(x+3y-13=0\\)"},
+            {"answer": "C", "text": "\\(x-5y+3=0\\)"},
+            {"answer": "D", "text": "\\(3x+y=15\\)"}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 11,
+        "points": 0.375,
+        "question": "Fie \\(\\alpha\\in(\\pi,2\\pi)\\) cu \\(\\operatorname{tg}(\\alpha)=\\dfrac{1}{2}\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "trigonometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(\\sin(\\alpha)=-\\dfrac{\\sqrt5}{5}\\)"},
+            {"answer": "B", "text": "\\(\\cos(\\alpha)=-\\dfrac{2\\sqrt5}{5}\\)"},
+            {"answer": "C", "text": "\\(\\sin(2\\alpha)=-\\dfrac{4}{5}\\)"},
+            {"answer": "D", "text": "\\(\\cos(2\\alpha)=\\dfrac{3}{5}\\)"}
+        ],
+        "correctAnswer": ["A","B","D"]
+    },
+    {
+        "questionNumber": 12,
+        "points": 0.375,
+        "question": "Fie \\(ABCD\\) un pătrat cu latura 1. Care dintre următoarele afirmații sunt adevărate?",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(\\overrightarrow{AB}\\cdot\\overrightarrow{BC}=0\\)"},
+            {"answer": "B", "text": "\\(\\overrightarrow{AB}\\cdot\\overrightarrow{CD}=1\\)"},
+            {"answer": "C", "text": "\\(\\overrightarrow{AB}\\cdot\\overrightarrow{BD}=\\dfrac{\\sqrt2}{2}\\)"},
+            {"answer": "D", "text": "\\(\\overrightarrow{AB}\\cdot\\overrightarrow{DB}=\\dfrac{\\sqrt2}{2}\\)"}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 13,
+        "points": 0.375,
+        "question": "Numerele întregi \\(b_1,b_2,b_3,\\ldots,b_9,b_{10}\\) sunt în progresie geometrică cu rația \\(q=2\\) și \\[S=b_1+b_2+b_3+\\ldots+b_{10}.\\] Care dintre următoarele afirmații sunt corecte?",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(S\\) este divizibil cu 11"},
+            {"answer": "B", "text": "dacă \\(S\\) este pătrat perfect, atunci \\(b_1\\) este divizibil cu 31"},
+            {"answer": "C", "text": "dacă \\(b_1\\) este număr impar, atunci \\(S\\) este număr par"},
+            {"answer": "D", "text": "dacă \\(b_1\\) este număr impar, atunci \\(S\\) este număr impar"}
+        ],
+        "correctAnswer": ["A","B","D"]
+    },
+    {
+        "questionNumber": 14,
+        "points": 0.375,
+        "question": "Fie \\(a\\) un parametru real și considerăm sistemul de ecuații: \\[\\begin{cases}x+3y-z=1\\\\-x-2y+z=a\\\\x+ay+2z=-2\\end{cases}.\\] Care dintre următoarele afirmații sunt corecte?",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "Există \\(a\\in\\mathbb{R}\\) pentru care determinantul matricii sistemului este 0"},
+            {"answer": "B", "text": "Pentru orice \\(a\\in\\mathbb{R}\\) sistemul admite soluție unică"},
+            {"answer": "C", "text": "Dacă \\(a=1\\), atunci \\(x+y+2z=1\\)"},
+            {"answer": "D", "text": "Pentru orice \\(a\\in\\mathbb{R}\\) avem \\(x+y+2z<0\\)"}
+        ],
+        "correctAnswer": ["B","D"]
+    },
+    {
+        "questionNumber": 15,
+        "points": 0.375,
+        "question": "În grupul de permutări \\(S_4\\) considerăm elementele \\[\\sigma=\\begin{pmatrix}1&2&3&4\\\\4&3&1&2\\end{pmatrix}\\quad\\text{și}\\quad\\tau=\\begin{pmatrix}1&2&3&4\\\\3&1&4&2\\end{pmatrix}.\\] Dacă \\(x\\in S_4\\) este o permutare astfel încât \\(x\\sigma=\\tau\\), atunci",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(x\\) nu este unic determinat"},
+            {"answer": "B", "text": "\\(x\\) este unic determinat"},
+            {"answer": "C", "text": "\\(x^2=\\tau\\)"},
+            {"answer": "D", "text": "\\(x^2=\\sigma\\)"}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 16,
+        "points": 0.375,
+        "question": "Fie funcțiile \\(f,g:\\mathbb{R}\\to\\mathbb{R}\\) definite prin \\(f(x)=|x|\\) și \\(g(x)=x\\) pentru orice \\(x\\in\\mathbb{R}\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "Funcția \\(f+g\\) este continuă pe \\(\\mathbb{R}\\)"},
+            {"answer": "B", "text": "Funcția \\(f+g\\) este strict monotonă pe \\(\\mathbb{R}\\)"},
+            {"answer": "C", "text": "Funcția \\(f\\) este derivabilă pe \\(\\mathbb{R}\\)"},
+            {"answer": "D", "text": "Funcția \\(f\\cdot g\\) este derivabilă în punctul 0"}
+        ],
+        "correctAnswer": ["A","D"]
+    },
+    {
+        "questionNumber": 17,
+        "points": 0.375,
+        "question": "Fie \\(a,b\\in\\mathbb{R}\\) și fie \\(f:D\\to\\mathbb{R}\\) funcția definită prin \\(f(x)=\\dfrac{x}{ax^2+bx+8}\\), unde \\(D\\subseteq\\mathbb{R}\\) este domeniul maxim de definiție al lui \\(f\\). Dacă \\(x=-2\\) este punct de extrem local al lui \\(f\\), iar dreapta de ecuație \\(x=2\\) este asimptotă verticală pentru graficul lui \\(f\\), atunci valoarea sumei \\(a+b\\) este:",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(-6\\)"},
+            {"answer": "B", "text": "\\(-10\\)"},
+            {"answer": "C", "text": "10"},
+            {"answer": "D", "text": "\\(-2\\)"}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 18,
+        "points": 0.375,
+        "question": "Fie \\(m\\in\\mathbb{R}\\) un parametru, iar \\(f:\\mathbb{R}\\to\\mathbb{R}\\) funcția definită prin \\(f(x)=(x^2+mx)e^{-x}\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "Graficul funcției \\(f\\) are asimptotă spre \\(+\\infty\\)"},
+            {"answer": "B", "text": "Dacă \\(m=2024\\), atunci funcția \\(f\\) are un punct de maxim global"},
+            {"answer": "C", "text": "Oricare ar fi \\(m\\in\\mathbb{R}\\), funcția \\(f\\) are exact două puncte de extrem local"},
+            {"answer": "D", "text": "Există \\(m\\in\\mathbb{R}\\) pentru care funcția \\(f\\) să aibă exact un punct de extrem local"}
+        ],
+        "correctAnswer": ["A","C"]
+    },
+    {
+        "questionNumber": 19,
+        "points": 0.375,
+        "question": "Fie \\(\\vec{i}\\) și \\(\\vec{j}\\) versorii unui sistem cartezian. Dacă vectorii \\(\\vec{u}=(p+5)\\vec{i}+2\\vec{j}\\) și \\(\\vec{v}=4\\vec{i}+10\\vec{j}\\) sunt perpendiculari, atunci parametrul \\(p\\in\\mathbb{R}\\) poate să fie:",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(-10\\)"},
+            {"answer": "B", "text": "\\(-\\dfrac{21}{5}\\)"},
+            {"answer": "C", "text": "0"},
+            {"answer": "D", "text": "\\(\\dfrac{29}{5}\\)"}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 20,
+        "points": 0.375,
+        "question": "În triunghiul \\(ABC\\) avem \\(A(1,0)\\), \\(B\\left(5,\\dfrac{4\\sqrt3}{3}\\right)\\), iar \\(\\widehat{A}=60°\\). Ecuația dreptei \\(AC\\) poate să fie:",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(3y+\\sqrt3x=\\sqrt3\\)"},
+            {"answer": "B", "text": "\\(3y-\\sqrt3x=-\\sqrt3\\)"},
+            {"answer": "C", "text": "\\(y-\\sqrt3x=-\\sqrt3\\)"},
+            {"answer": "D", "text": "\\(x=1\\)"}
+        ],
+        "correctAnswer": ["A","D"]
+    },
+    {
+        "questionNumber": 21,
+        "points": 0.375,
+        "question": "Pentru orice matrice \\(X\\in\\mathcal{M}_3(\\mathbb{R})\\) notăm cu \\(\\operatorname{Tr}(X)\\) suma elementelor de pe diagonala principală a matricei \\(X\\). Dacă \\[A=\\begin{pmatrix}1&0&0\\\\-2&-1&0\\\\-4&-3&-2\\end{pmatrix},\\] atunci valoarea expresiei \\(\\operatorname{Tr}(A^3)+\\det(A^3)\\) este",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(-1\\)"},
+            {"answer": "B", "text": "1"},
+            {"answer": "C", "text": "0"},
+            {"answer": "D", "text": "2"}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 22,
+        "points": 0.375,
+        "question": "Dacă \\(x_1,x_2\\) și \\(x_3\\) sunt rădăcinile polinomului \\[f=X^3+X^2+10X+2,\\] atunci valoarea expresiei \\[\\dfrac{x_1}{x_2+x_3}+\\dfrac{x_2}{x_1+x_3}+\\dfrac{x_3}{x_1+x_2}\\] este egală cu",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "0"},
+            {"answer": "B", "text": "\\(\\dfrac{13}{8}\\)"},
+            {"answer": "C", "text": "\\(\\dfrac{13}{7}\\)"},
+            {"answer": "D", "text": "\\(-\\dfrac{13}{8}\\)"}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 23,
+        "points": 0.375,
+        "question": "Fie \\(f:\\mathbb{R}\\to\\mathbb{R}\\) funcția definită prin \\(f(x)=\\dfrac{x^2}{1+e^x}\\). Aria mulțimii plane cuprinse între graficul lui \\(f\\), axa \\(Ox\\) și dreptele de ecuații \\(x=-1\\) și \\(x=1\\) este:",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "0"},
+            {"answer": "B", "text": "\\(\\dfrac{2}{3}\\)"},
+            {"answer": "C", "text": "\\(\\dfrac{1}{3}\\)"},
+            {"answer": "D", "text": "\\(\\dfrac{1}{6}\\)"}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 24,
+        "points": 0.375,
+        "question": "Valoarea limitei \\(\\displaystyle\\lim_{x\\to+\\infty}\\left(1-\\cos\\dfrac{1}{x}\\right)^{1/\\ln x}\\) este:",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(e\\)"},
+            {"answer": "B", "text": "\\(\\dfrac{1}{e}\\)"},
+            {"answer": "C", "text": "\\(\\dfrac{1}{e^2}\\)"},
+            {"answer": "D", "text": "\\(\\dfrac{1}{\\sqrt e}\\)"}
+        ],
+        "correctAnswer": ["C"]
+    }
+]
+}

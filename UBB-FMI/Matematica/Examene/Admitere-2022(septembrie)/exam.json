@@ -1,0 +1,396 @@
+{
+    "examTitle" : "Admitere 2022 (sesiunea Septembrie)" ,
+    "questions" : [
+  {
+    "questionNumber": 1,
+    "points": 0.3,
+    "question": "Valoarea limitei \\(\\displaystyle\\lim_{n \\to \\infty} \\left(\\dfrac{n^2 - 3n + 1}{n^2 + 3n + 2}\\right)^{n/3}\\) este",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(e^2\\)"},
+      {"answer": "B", "text": "\\(e - 2\\)"},
+      {"answer": "C", "text": "\\(\\dfrac{1}{e}\\)"},
+      {"answer": "D", "text": "\\(e^{-2}\\)"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 2,
+    "points": 0.3,
+    "question": "Valoarea limitei \\(\\displaystyle\\lim_{x \\to 0} \\dfrac{e^x - 1 - \\operatorname{arctg} x}{x^2}\\) este",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(0\\)"},
+      {"answer": "B", "text": "\\(\\dfrac{1}{2}\\)"},
+      {"answer": "C", "text": "\\(1\\)"},
+      {"answer": "D", "text": "\\(\\dfrac{3}{2}\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 3,
+    "points": 0.3,
+    "question": "Ecuaţia tangentei la graficul funcţiei \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\), \\(f(x) = e^{3x} + 2x + 1\\), în punctul de abscisă \\(x = 0\\) este",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(5x - y + 2 = 0\\)"},
+      {"answer": "B", "text": "\\(5x + y - 2 = 0\\)"},
+      {"answer": "C", "text": "\\(x - 5y + 2 = 0\\)"},
+      {"answer": "D", "text": "\\(x + 5y - 2 = 0\\)"}
+    ],
+    "correctAnswer": ["A"]
+  },
+  {
+    "questionNumber": 4,
+    "points": 0.3,
+    "question": "În reperul cartezian \\(xOy\\) se consideră punctul \\(M(1, -1)\\). Ecuaţia dreptei ce trece prin punctul \\(M\\) şi are panta \\(3\\) este",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(3x - y + 4 = 0\\)"},
+      {"answer": "B", "text": "\\(3x - y - 4 = 0\\)"},
+      {"answer": "C", "text": "\\(3x + y + 4 = 0\\)"},
+      {"answer": "D", "text": "\\(-3x + y - 4 = 0\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 5,
+    "points": 0.3,
+    "question": "Dacă măsura unghiului \\(A\\) este cuprinsă între \\(540^\\circ\\) şi \\(720^\\circ\\), iar \\(\\cos A = -\\dfrac{7}{25}\\), atunci care dintre următoarele afirmaţii sunt corecte?",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(\\sin \\dfrac{A}{2} = -\\dfrac{4}{5}\\)"},
+      {"answer": "B", "text": "\\(\\cos \\dfrac{A}{2} = \\dfrac{3}{5}\\)"},
+      {"answer": "C", "text": "\\(\\sin \\dfrac{A}{2} = \\dfrac{4}{5}\\)"},
+      {"answer": "D", "text": "\\(\\cos \\dfrac{A}{2} = -\\dfrac{3}{5}\\)"}
+    ],
+    "correctAnswer": ["A","B"]
+  },
+  {
+    "questionNumber": 6,
+    "points": 0.3,
+    "question": "Considerăm vectorii \\(\\vec{u} = \\vec{i} - (a + 2)\\vec{j}\\) şi \\(\\vec{v} = a\\vec{i} - 3\\vec{j}\\), unde \\(\\vec{i}\\) şi \\(\\vec{j}\\) sunt versorii axelor de coordonate \\(Ox\\) respectiv \\(Oy\\) în sistemul cartezian \\(xOy\\). Dacă vectorii \\(\\vec{u}\\) şi \\(\\vec{v}\\) sunt coliniari, atunci valoarea parametrului \\(a \\in \\mathbb{R}\\) poate fi",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(a = -3\\)"},
+      {"answer": "B", "text": "\\(a = 1\\)"},
+      {"answer": "C", "text": "\\(a = -1\\)"},
+      {"answer": "D", "text": "\\(a = 3\\)"}
+    ],
+    "correctAnswer": ["A","B"]
+  },
+  {
+    "questionNumber": 7,
+    "points": 0.3,
+    "question": "Suma coeficienţilor puterilor impare ale lui \\(x\\) din dezvoltarea binomului \\((1 + x)^{1011}\\) este",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(2^{2022}\\)"},
+      {"answer": "B", "text": "\\(2^{505}\\)"},
+      {"answer": "C", "text": "\\(2^{1010}\\)"},
+      {"answer": "D", "text": "\\(2^{1011}\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 8,
+    "points": 0.3,
+    "question": "Dacă \\(1 + 5 + 9 + \\ldots + x = 496\\), unde termenii care se însumează în membrul stâng sunt în progresie aritmetică, atunci",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(x = 21\\)"},
+      {"answer": "B", "text": "\\(x = 41\\)"},
+      {"answer": "C", "text": "\\(x = 61\\)"},
+      {"answer": "D", "text": "\\(x = 81\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 9,
+    "points": 0.3,
+    "question": "Numărul complex \\((1 - i)^{2022}\\) este egal cu",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(2^{1011}\\)"},
+      {"answer": "B", "text": "\\(-2^{1011}\\)"},
+      {"answer": "C", "text": "\\(-2^{1011}i\\)"},
+      {"answer": "D", "text": "\\(2^{1011}i\\)"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 10,
+    "points": 0.3,
+    "question": "Valoarea integralei \\(\\displaystyle\\int_0^{\\frac{\\pi}{2}} \\dfrac{\\cos x}{\\sqrt{\\sin^2 x + 1}}\\, dx\\) este",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(0\\)"},
+      {"answer": "B", "text": "\\(\\dfrac{\\pi}{2}\\)"},
+      {"answer": "C", "text": "\\(\\ln\\left(1 + \\sqrt{2}\\right)\\)"},
+      {"answer": "D", "text": "\\(1 + \\sqrt{2}\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 11,
+    "points": 0.3,
+    "question": "Funcţia \\(f : [0, \\infty) \\rightarrow \\mathbb{R}\\), definită prin \\(f(x) = x + \\sqrt{x^2 + 2x}\\), are ca asimptotă spre \\(+\\infty\\) dreapta de ecuaţie",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(y = -1\\)"},
+      {"answer": "B", "text": "\\(y = 2x + 1\\)"},
+      {"answer": "C", "text": "\\(y = 0\\)"},
+      {"answer": "D", "text": "\\(y = 2x + 2\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 12,
+    "points": 0.3,
+    "question": "Valoarea limitei \\(\\displaystyle\\lim_{n \\to \\infty} \\dfrac{1}{n^2}\\left(e^{\\frac{1}{n}} + 2e^{\\frac{2}{n}} + \\ldots + ne^{\\frac{n}{n}}\\right)\\) este",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(1\\)"},
+      {"answer": "B", "text": "\\(e\\)"},
+      {"answer": "C", "text": "\\(\\dfrac{1}{e}\\)"},
+      {"answer": "D", "text": "\\(e - 1\\)"}
+    ],
+    "correctAnswer": ["A"]
+  },
+  {
+    "questionNumber": 13,
+    "points": 0.3,
+    "question": "Fie \\(ABCD\\) un paralelogram. Considerăm punctele \\(E\\) şi \\(F\\) astfel încât \\(\\overrightarrow{AE} = \\dfrac{3}{2}\\overrightarrow{AB}\\) şi \\(\\overrightarrow{AF} = 3\\overrightarrow{AD}\\). Care dintre următoarele relaţii sunt adevărate?",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(\\overrightarrow{FE} = 3\\overrightarrow{CE}\\)"},
+      {"answer": "B", "text": "\\(\\overrightarrow{FE} = 2\\overrightarrow{CE}\\)"},
+      {"answer": "C", "text": "\\(\\overrightarrow{FC} = 2\\overrightarrow{CE}\\)"},
+      {"answer": "D", "text": "\\(\\overrightarrow{FC} = \\dfrac{3}{2}\\overrightarrow{CE}\\)"}
+    ],
+    "correctAnswer": ["A","C"]
+  },
+  {
+    "questionNumber": 14,
+    "points": 0.3,
+    "question": "Fie \\(ABC\\) un triunghi oarecare cu proprietatea că \\(a > b > c\\), unde am notat \\(BC = a\\), \\(CA = b\\), \\(AB = c\\). Care dintre următoarele relaţii sunt adevărate?",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(\\dfrac{\\sin(A - B)}{\\sin(A + B)} = \\dfrac{a - b}{a + b}\\)"},
+      {"answer": "B", "text": "\\(\\dfrac{\\sin(A - B)}{\\sin(A + B)} = \\dfrac{a^2 - b^2}{a^2 + b^2}\\)"},
+      {"answer": "C", "text": "\\(\\dfrac{\\sin(A - B)}{\\sin(A + B)} = \\dfrac{a^2 - b^2}{c^2}\\)"},
+      {"answer": "D", "text": "\\(\\dfrac{\\sin(A - B)}{\\sin(A + B)} = \\dfrac{a - b}{c}\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 15,
+    "points": 0.3,
+    "question": "Într-un triunghi \\(ABC\\) ştim că măsurile unghiurilor \\(\\widehat{A}, \\widehat{B}\\) şi \\(\\widehat{C}\\) (în această ordine) sunt în progresie aritmetică, iar, dacă notăm cu \\(a, b, c\\) lungimile laturilor opuse acestor unghiuri, avem \\(3a^2 = 2b^2\\). Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(\\widehat{A} = 45^\\circ\\)"},
+      {"answer": "B", "text": "\\(\\widehat{C} = 75^\\circ\\)"},
+      {"answer": "C", "text": "\\(\\widehat{C} = 45^\\circ\\)"},
+      {"answer": "D", "text": "\\(\\widehat{A} = 60^\\circ\\)"}
+    ],
+    "correctAnswer": ["A","B"]
+  },
+  {
+    "questionNumber": 16,
+    "points": 0.3,
+    "question": "Fie în \\(\\mathbb{R}\\) ecuaţia \\(2\\sqrt[3]{(x^2 + a)^2} - 3\\sqrt[3]{x^2 + a} - 2 = 0\\), unde \\(a \\in \\mathbb{R}\\). Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "Dacă \\(a = 8\\), atunci \\(x = 0\\) este o soluţie a ecuaţiei."},
+      {"answer": "B", "text": "Ecuaţia are soluţii pentru orice \\(a \\le -\\dfrac{1}{8}\\)"},
+      {"answer": "C", "text": "Ecuaţia are soluţii pentru orice \\(a \\ge -8\\)"},
+      {"answer": "D", "text": "Ecuaţia are soluţii pentru orice \\(a \\le 8\\)"}
+    ],
+    "correctAnswer": ["A","B","D"]
+  },
+  {
+    "questionNumber": 17,
+    "points": 0.3,
+    "question": "Fie sistemul de ecuaţii\n\\[\\begin{cases} 3x + 2y - z = 1 \\\\ x + ay + z = 2 \\\\ -4x + y = 3, \\end{cases}\\]\nunde \\(a \\in \\mathbb{R}\\). Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "Sistemul este compatibil determinat pentru orice \\(a > 0\\)."},
+      {"answer": "B", "text": "Când sistemul este compatibil determinat, soluţia sa nu depinde de \\(a\\)."},
+      {"answer": "C", "text": "Există o valoare \\(a\\) pentru care sistemul este compatibil nedeterminat."},
+      {"answer": "D", "text": "Există o valoare \\(a\\) pentru care sistemul este incompatibil."}
+    ],
+    "correctAnswer": ["A","D"]
+  },
+  {
+    "questionNumber": 18,
+    "points": 0.3,
+    "question": "Un grup de \\(11\\) copii vrea să joace fotbal. Pentru aceasta, copiii aleg un arbitru dintre ei, apoi dintre ceilalţi \\(10\\) formează două echipe denumite \\(X\\) şi \\(Y\\), fiecare având câte \\(5\\) jucători. În câte moduri pot face acest lucru?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(462\\)"},
+      {"answer": "B", "text": "\\(2310\\)"},
+      {"answer": "C", "text": "\\(2772\\)"},
+      {"answer": "D", "text": "\\(5082\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 19,
+    "points": 0.3,
+    "question": "Fie \\(m \\in \\mathbb{R}\\) un parametru, iar \\(f : (0, \\infty) \\rightarrow \\mathbb{R}\\) funcţia definită prin \\(f(x) = x^2 - 2\\ln x + m\\). Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "Funcţia \\(f\\) are exact un punct de maxim global."},
+      {"answer": "B", "text": "Dacă \\(m = -2022\\), atunci ecuaţia \\(f(x) = 0\\) are exact două soluţii reale."},
+      {"answer": "C", "text": "Există \\(m \\in \\mathbb{R}\\) astfel încat funcţia \\(f\\) este injectivă."},
+      {"answer": "D", "text": "Există \\(m \\in \\mathbb{R}\\) minim cu proprietatea că \\(f(x) \\ge 0\\) oricare ar fi \\(x \\in (0, \\infty)\\)."}
+    ],
+    "correctAnswer": ["B","D"]
+  },
+  {
+    "questionNumber": 20,
+    "points": 0.3,
+    "chapterContext": "Fie \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\) funcţia definită prin \\(f(x) = ax^3 + bx + c\\), unde \\(a, b, c \\in \\mathbb{R}\\).",
+    "question": "Fie \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\) funcţia definită prin \\(f(x) = ax^3 + bx + c\\), unde \\(a, b, c \\in \\mathbb{R}\\). Se ştie că tabelul de variaţie al lui \\(f\\) este cel prezentat mai jos.\n\n\\[\\begin{array}{c|ccccccc}\nx & -\\infty & & -1 & & 1 & & +\\infty \\\\\n\\hline\nf(x) & -\\infty & \\nearrow & 10 & \\searrow & 2 & \\nearrow & +\\infty\n\\end{array}\\]\n\nAtunci valoarea sumei \\(|a| + |b| + |c|\\) este",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(11\\)"},
+      {"answer": "B", "text": "\\(13\\)"},
+      {"answer": "C", "text": "\\(20\\)"},
+      {"answer": "D", "text": "\\(14\\)"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 21,
+    "points": 0.3,
+    "question": "Valoarea limitei \\(\\displaystyle\\lim_{x \\searrow 0} \\dfrac{\\int_0^{x^2} \\ln\\left(1 - \\sqrt{t}\\right)\\, dt}{x^3}\\) este",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(0\\)"},
+      {"answer": "B", "text": "\\(-\\dfrac{1}{3}\\)"},
+      {"answer": "C", "text": "\\(-\\dfrac{2}{3}\\)"},
+      {"answer": "D", "text": "\\(-\\infty\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 22,
+    "points": 0.3,
+    "question": "Fie \\(ABCDEF\\) un hexagon regulat, iar \\(a\\) şi \\(b\\) două numere reale astfel încât \\(\\overrightarrow{AD} = a\\overrightarrow{BE} + b\\overrightarrow{CF}\\). Atunci numărul \\(b - 2a\\) este egal cu",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(-3\\)"},
+      {"answer": "B", "text": "\\(3\\)"},
+      {"answer": "C", "text": "\\(-1\\)"},
+      {"answer": "D", "text": "\\(1\\)"}
+    ],
+    "correctAnswer": ["A"]
+  },
+  {
+    "questionNumber": 23,
+    "points": 0.3,
+    "question": "Considerăm triunghiul \\(ABC\\) cu vârfurile \\(A(1, 3)\\), \\(B(-1, -5)\\) şi \\(C(2, 1)\\). Fie \\(D\\) punctul situat pe segmentul \\(BC\\) astfel încât \\(\\dfrac{BD}{DC} = 2\\). Notăm cu \\(d\\) distanţa de la punctul \\(D\\) la înălţimea din vârful \\(B\\) al triunghiului \\(ABC\\). Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "Coordonatele punctului \\(D\\) sunt \\((1, -1)\\)."},
+      {"answer": "B", "text": "Coordonatele punctului \\(D\\) sunt \\((0, -3)\\)."},
+      {"answer": "C", "text": "\\(d = \\dfrac{6\\sqrt{5}}{5}\\)"},
+      {"answer": "D", "text": "\\(d = \\dfrac{3\\sqrt{5}}{5}\\)"}
+    ],
+    "correctAnswer": ["A","C"]
+  },
+  {
+    "questionNumber": 24,
+    "points": 0.3,
+    "question": "Fie funcţia \\(f : \\mathbb{R} \\rightarrow \\mathbb{R}\\) definită prin\n\\[f(x) = \\begin{vmatrix} x & 1 & 4 \\\\ 2 & x & 2 \\\\ 2 & 2 & x \\end{vmatrix}, \\quad \\forall x \\in \\mathbb{R}.\\]\nŞtiind că \\(x = 2\\) este o soluţie a ecuaţiei \\(f(x) = 0\\), care dintre numerele următoare sunt de asemenea soluţii ale acestei ecuaţiei?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(-1 - \\sqrt{11}\\)"},
+      {"answer": "B", "text": "\\(-1 + \\sqrt{11}\\)"},
+      {"answer": "C", "text": "\\(1 - \\sqrt{13}\\)"},
+      {"answer": "D", "text": "\\(1 + \\sqrt{13}\\)"}
+    ],
+    "correctAnswer": ["A","B"]
+  },
+  {
+    "questionNumber": 25,
+    "points": 0.3,
+    "question": "Considerăm în \\(\\mathbb{R}\\) ecuaţia\n\\[\\left[\\dfrac{x + 2}{3}\\right] = \\dfrac{x + 1}{4},\\]\nunde \\([a]\\) reprezintă partea întreagă a numărului real \\(a\\). Dacă notăm cu \\(S\\) mulţimea soluţiilor acestei ecuaţii, care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(S = [-9, 3]\\)"},
+      {"answer": "B", "text": "\\(S = \\{-9, -5, -1, 3\\}\\)"},
+      {"answer": "C", "text": "\\(S = [-5, 3]\\)"},
+      {"answer": "D", "text": "\\(S = \\{-5, -1, 3\\}\\)"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 26,
+    "points": 0.3,
+    "question": "Pe mulţimea \\(\\mathbb{Z}\\) a numerelor întregi definim legea de compoziţie \\(x * y = xy - x - y + 2\\). Ştiind că legea este asociativă, care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\((1 * 2) * 4 = 8\\)"},
+      {"answer": "B", "text": "Operaţia admite element neutru."},
+      {"answer": "C", "text": "Există exact două elemente simetrizabile în \\((\\mathbb{Z}, *)\\)."},
+      {"answer": "D", "text": "\\((\\mathbb{Z}, *)\\) este grup."}
+    ],
+    "correctAnswer": ["B","C"]
+  },
+  {
+    "questionNumber": 27,
+    "points": 0.3,
+    "question": "Pe mulţimea \\(\\mathbb{R}\\) a numerelor reale definim operaţiile \\(x \\perp y = x + y - 1\\), \\(x * y = x + y - xy\\). Ştiind că \\((\\mathbb{R}, \\perp, *)\\) este corp şi funcţia \\(f : (\\mathbb{R}, +, \\cdot) \\rightarrow (\\mathbb{R}, \\perp, *)\\), \\(f(x) = ax + b\\), unde \\(a, b \\in \\mathbb{R}\\), este izomorfism de corpuri, care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(a = b = 1\\)"},
+      {"answer": "B", "text": "\\(a = -1, b = 1\\)"},
+      {"answer": "C", "text": "\\(a = 1, b = -1\\)"},
+      {"answer": "D", "text": "\\(a = 0, b = 1\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 28,
+    "points": 0.3,
+    "question": "Pentru fiecare \\(n \\in \\mathbb{N}^*\\), fie \\(I_n = \\displaystyle\\int_0^1 x^n e^{-x}\\, dx\\). Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "Şirul \\((I_n)_{n \\in \\mathbb{N}^*}\\) este monoton."},
+      {"answer": "B", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} I_n = 0\\)"},
+      {"answer": "C", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} nI_n = 0\\)"},
+      {"answer": "D", "text": "\\(\\displaystyle\\lim_{n \\to \\infty} \\dfrac{I_n}{I_{n+1}} = 1\\)"}
+    ],
+    "correctAnswer": ["A","B","D"]
+  },
+  {
+    "questionNumber": 29,
+    "points": 0.3,
+    "question": "Într-un paralelogram lungimile laturilor sunt egale cu \\(5\\), respectiv \\(3\\), iar produsul lungimilor diagonalelor este \\(32\\). Notăm cu \\(\\alpha\\) măsura unghiului ascuţit al paralelogramului. Care dintre următoarele afirmaţii sunt adevărate?",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "Suma pătratelor lungimilor diagonalelor este \\(68\\)."},
+      {"answer": "B", "text": "\\(\\cos \\alpha = \\dfrac{\\sqrt{33}}{15}\\)"},
+      {"answer": "C", "text": "Suma pătratelor lungimilor diagonalelor este \\(34\\)."},
+      {"answer": "D", "text": "\\(\\cos \\alpha = \\dfrac{\\sqrt{33}}{20}\\)"}
+    ],
+    "correctAnswer": ["A","B"]
+  },
+  {
+    "questionNumber": 30,
+    "points": 0.3,
+    "question": "Considerăm dreapta \\((d)\\): \\(ax + by + c = 0\\) \\((abc \\neq 0)\\) şi punctele\n\\[M_1\\left(\\dfrac{b - c}{a}, 0\\right), \\quad M_2\\left(-\\dfrac{b + c}{a}, 0\\right), \\quad N\\left(0, -\\dfrac{c}{b}\\right).\\]\nCare dintre următoarele afirmaţii sunt adevărate?",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "Punctul de intersecţie al dreptei \\(d\\) cu axa \\(Ox\\) este mijlocul segmentului \\([M_1M_2]\\)."},
+      {"answer": "B", "text": "Dreapta \\(d\\) este paralelă cu axa \\(Ox\\)."},
+      {"answer": "C", "text": "Punctul de intersecţie al dreptei \\(d\\) cu axa \\(Oy\\) este \\(N\\)."},
+      {"answer": "D", "text": "Aria triunghiului \\(M_1M_2N\\) este \\(\\left|\\dfrac{c}{a}\\right|\\)."}
+    ],
+    "correctAnswer": ["A","C","D"]
+  }
+]
+}

@@ -1,0 +1,328 @@
+{
+    "examTitle" : "Admitere 2023 (sesiunea Septembrie)" , 
+    "questions" : [
+  {
+    "questionNumber": 1,
+    "points": 0.375,
+    "question": "Dacă \\(f, g: \\mathbb{R} \\rightarrow \\mathbb{R}\\), \\(f(x) = x^2 + x + 1\\), și \\(g(x) = 2x + 1\\), atunci \\(g(f(1))\\) este egală cu",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "6"},
+      {"answer": "B", "text": "7"},
+      {"answer": "C", "text": "8"},
+      {"answer": "D", "text": "9"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 2,
+    "points": 0.375,
+    "question": "Dacă rădăcinile ecuației de gradul doi cu parametrul \\(m \\in \\mathbb{R}\\)\n\\[x^2 - mx + m = 0\\]\nnu sunt numere reale, atunci",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(m \\in (-\\infty, -4]\\)"},
+      {"answer": "B", "text": "\\(m \\in (-4, 0]\\)"},
+      {"answer": "C", "text": "\\(m \\in (0, 4)\\)"},
+      {"answer": "D", "text": "nu există astfel de \\(m \\in \\mathbb{R}\\)"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 3,
+    "points": 0.375,
+    "question": "Valoarea limitei \\(\\displaystyle\\lim_{n \\to \\infty} (\\sqrt{n^2 + 2n} - n)\\) este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(\\dfrac{1}{2}\\)"},
+      {"answer": "B", "text": "1"},
+      {"answer": "C", "text": "2"},
+      {"answer": "D", "text": "\\(+\\infty\\)"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 4,
+    "points": 0.375,
+    "question": "Vârfurile triunghiului \\(ABC\\) sunt \\(A(-2, -1)\\), \\(B(-1, 2)\\) și \\(C(6, -3)\\). Mediana care aparține vârfului \\(B\\), are lungimea",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "4"},
+      {"answer": "B", "text": "2\\(\\sqrt{3}\\)"},
+      {"answer": "C", "text": "3\\(\\sqrt{2}\\)"},
+      {"answer": "D", "text": "5"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 5,
+    "points": 0.375,
+    "question": "Considerăm vectorii \\(\\vec{x} = 2\\vec{i} + a\\vec{j}\\) și \\(\\vec{y} = b\\vec{i} + 3\\vec{j}\\), unde \\(a, b \\in \\mathbb{R}\\) și vectorii unitari \\(\\vec{i}\\) și \\(\\vec{j}\\) sunt perpendiculari. Care dintre următoarele enunțuri implică coliniaritatea vectorilor \\(\\vec{x}\\) și \\(\\vec{y}\\)?",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(a = 1, b = 6\\)"},
+      {"answer": "B", "text": "\\(a \\cdot b = 6\\)"},
+      {"answer": "C", "text": "\\(\\vec{x} \\cdot \\vec{y} = 0\\)"},
+      {"answer": "D", "text": "\\(\\vec{x} \\cdot \\vec{y} = \\sqrt{a^2 + 4} \\cdot \\sqrt{b^2 + 9}\\)"}
+    ],
+    "correctAnswer": ["A","B","D"]
+  },
+  {
+    "questionNumber": 6,
+    "points": 0.375,
+    "question": "Valoarea expresiei \\(a = \\sqrt{2 + \\sqrt{3}} - \\sqrt{2 - \\sqrt{3}}\\) este egală cu",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(\\sqrt{3}\\)"},
+      {"answer": "B", "text": "\\(\\sqrt{2}\\)"},
+      {"answer": "C", "text": "\\(2(\\sqrt{3} - \\sqrt{2})\\)"},
+      {"answer": "D", "text": "2"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 7,
+    "points": 0.375,
+    "question": "Fie \\(f: \\mathbb{R} \\rightarrow \\mathbb{R}\\),\n\\[f(x) = \\begin{cases} |x|^3, & x < 0 \\\\ 2x^2, & x \\ge 0. \\end{cases}\\]\nCare dintre următoarele afirmații sunt adevărate?",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(f(-2) = f(2)\\)"},
+      {"answer": "B", "text": "\\(f\\) este injectivă"},
+      {"answer": "C", "text": "\\(f\\) este surjectivă"},
+      {"answer": "D", "text": "\\(\\text{Im} f = [0, +\\infty)\\)"}
+    ],
+    "correctAnswer": ["A","D"]
+  },
+  {
+    "questionNumber": 8,
+    "points": 0.375,
+    "question": "Se consideră dreapta \\(d : x - 2y = 0\\) și punctele \\(M(3, 4)\\), \\(O(0, 0)\\). Cordonatele punctului \\(N\\) de pe dreapta \\(d\\), pentru care triunghiul \\(MNO\\) este dreptunghic în \\(N\\), pot fi",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(N(4, 2)\\)"},
+      {"answer": "B", "text": "\\(N(6, 3)\\)"},
+      {"answer": "C", "text": "\\(N\\left(5, \\dfrac{5}{2}\\right)\\)"},
+      {"answer": "D", "text": "\\(N(2\\sqrt{5}, 2\\sqrt{5})\\)"}
+    ],
+    "correctAnswer": ["A"]
+  },
+  {
+    "questionNumber": 9,
+    "points": 0.375,
+    "context": "Problemele 9 și 10 se referă la funcția \\(f : [0, 2\\pi] \\rightarrow \\mathbb{R}\\), \\(f(x) = 3\\cos x + \\cos(2x)\\).",
+    "chapterContext": "Fie funcția \\(f : [0, 2\\pi] \\rightarrow \\mathbb{R}\\), \\(f(x) = 3\\cos x + \\cos(2x)\\).",
+    "question": "\\(f(\\pi)\\) este",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "-3"},
+      {"answer": "B", "text": "-2"},
+      {"answer": "C", "text": "2"},
+      {"answer": "D", "text": "3"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 10,
+    "points": 0.375,
+    
+    "chapterContext": "Fie funcția \\(f : [0, 2\\pi] \\rightarrow \\mathbb{R}\\), \\(f(x) = 3\\cos x + \\cos(2x)\\).",
+    "question": "Numărul soluțiilor ecuației \\(f(x) = 1\\) este",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "0"},
+      {"answer": "B", "text": "1"},
+      {"answer": "C", "text": "2"},
+      {"answer": "D", "text": "4"}
+    ],
+    "correctAnswer": ["C"]
+  },
+  {
+    "questionNumber": 11,
+    "points": 0.375,
+    "question": "Valoarea limitei \\(\\displaystyle\\lim_{x \\to \\frac{\\pi}{2}} \\dfrac{\\ln(\\sin x)}{(\\pi - 2x)^2}\\) este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(+\\infty\\);"},
+      {"answer": "B", "text": "\\(-\\dfrac{1}{4}\\)"},
+      {"answer": "C", "text": "\\(\\dfrac{1}{8}\\)"},
+      {"answer": "D", "text": "\\(-\\dfrac{1}{8}\\)"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 12,
+    "points": 0.375,
+    "question": "Fie \\(S\\) mulțimea soluțiilor ecuației\n\\[\\bar{z} z^2 = 2 + 2i,\\]\nunde \\(z\\) este număr complex. Care dintre următoarele afirmații sunt adevărate?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "\\(1 + i \\in S\\)"},
+      {"answer": "B", "text": "Dacă \\(w \\in S\\), atunci \\(|w| = \\sqrt{2}\\)"},
+      {"answer": "C", "text": "Dacă \\(w \\in S\\), atunci \\(\\bar{w} \\in S\\)"},
+      {"answer": "D", "text": "Numărul elementelor în \\(S\\) este 2"}
+    ],
+    "correctAnswer": ["A","B"]
+  },
+  {
+    "questionNumber": 13,
+    "points": 0.375,
+    "question": "Fie \\(a\\) un parametru real și considerăm sistemul de ecuații\n\\[\\begin{cases} x - y + z = 0 \\\\ -x + ay + az = 0 \\\\ x - y + az = 0. \\end{cases}\\]\nCare dintre următoarele afirmații sunt corecte?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "Sistemul este compatibil pentru orice valoare a lui \\(a\\)."},
+      {"answer": "B", "text": "Există \\(a \\in \\mathbb{R}\\) pentru care sistemul este incompatibil."},
+      {"answer": "C", "text": "Există un singur număr \\(a\\) pentru care determinantul matricei sistemului este 0."},
+      {"answer": "D", "text": "\\(z\\) ia aceeași valoare pentru orice \\(a\\) pentru care sistemul este compatibil."}
+    ],
+    "correctAnswer": ["A","C","D"]
+  },
+  {
+    "questionNumber": 14,
+    "points": 0.375,
+    "question": "În triunghiul ascuțitunghic \\(ABC\\) cunoaștem laturile \\(a = BC = 2\\), \\(b = AC = \\sqrt{6}\\) și raza cercului circumscris triunghiului \\(R = \\sqrt{2}\\). Care dintre următoarele afirmații sunt adevărate?",
+    "category": "trigonometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(A = 45^\\circ\\)"},
+      {"answer": "B", "text": "\\(B = 30^\\circ\\)"},
+      {"answer": "C", "text": "\\(B = 60^\\circ\\)"},
+      {"answer": "D", "text": "\\(C = 75^\\circ\\)"}
+    ],
+    "correctAnswer": ["A","C","D"]
+  },
+  {
+    "questionNumber": 15,
+    "points": 0.375,
+    "question": "Dreapta care trece prin \\(C(3, -1)\\) și față de care punctele \\(A(2, 3)\\) și \\(B(6, 1)\\) sunt egal depărtate poate avea ecuația:",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(4x + y - 11 = 0\\)"},
+      {"answer": "B", "text": "\\(x + 2y - 1 = 0\\)"},
+      {"answer": "C", "text": "\\(x - 4y = 7\\)"},
+      {"answer": "D", "text": "\\(3x - y - 10 = 0\\)"}
+    ],
+    "correctAnswer": ["B","D"]
+  },
+  {
+    "questionNumber": 16,
+    "points": 0.375,
+    "question": "Fie triunghiul \\(ABC\\) și \\(D\\) un punct pe latura \\(BC\\) astfel încât \\(AD\\) să fie bisectoarea unghiului \\(BAC\\). Dacă laturile triunghiului au lungimile \\(BC = 4\\), \\(CA = 5\\), \\(AB = 6\\), atunci care dintre următoarele afirmații sunt adevărate?",
+    "category": "geometrie",
+    "answers": [
+      {"answer": "A", "text": "\\(\\overrightarrow{BD} = \\dfrac{5}{6}\\overrightarrow{DC}\\)"},
+      {"answer": "B", "text": "\\(\\overrightarrow{BD} = \\dfrac{6}{5}\\overrightarrow{DC}\\)"},
+      {"answer": "C", "text": "\\(\\overrightarrow{AD} = \\dfrac{5}{11}\\vec{AB} + \\dfrac{6}{11}\\overrightarrow{AC}\\)"},
+      {"answer": "D", "text": "\\(\\overrightarrow{AD} = \\dfrac{6}{11}\\overrightarrow{AB} + \\dfrac{5}{11}\\overrightarrow{AC}\\)"}
+    ],
+    "correctAnswer": ["B","C"]
+  },
+  {
+    "questionNumber": 17,
+    "points": 0.375,
+    "question": "Valoarea integralei \\(\\displaystyle\\int_0^{\\pi/3} \\sin x \\cdot \\ln(\\cos x) \\, dx\\) este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(\\ln\\sqrt{2} - \\dfrac{1}{2}\\)"},
+      {"answer": "B", "text": "\\(\\ln 2 - \\dfrac{1}{2}\\)"},
+      {"answer": "C", "text": "\\(\\ln\\sqrt{3} - \\dfrac{1}{2}\\)"},
+      {"answer": "D", "text": "\\(\\ln\\sqrt{2} + \\dfrac{1}{2}\\)"}
+    ],
+    "correctAnswer": ["A"]
+  },
+  {
+    "questionNumber": 18,
+    "points": 0.375,
+    "question": "Fie \\(S\\) mulțimea numerelor de patru cifre. Numărul elementelor din \\(S\\) divizibile cu 3 este",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "2999"},
+      {"answer": "B", "text": "3000"},
+      {"answer": "C", "text": "3001"},
+      {"answer": "D", "text": "3333"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 19,
+    "points": 0.375,
+    "question": "Pe mulțimea \\(G = (0, +\\infty)\\) se dă operația \\(x * y = x + y + |x - y|\\). Care dintre următoarele afirmații sunt adevărate?",
+    "category": "algebra",
+    "answers": [
+      {"answer": "A", "text": "operația \"\\(*\\)\" este comutativă"},
+      {"answer": "B", "text": "\\(1 * (2 * 3) = (1 * 2) * 3\\)"},
+      {"answer": "C", "text": "\\(x * y \\ge 1\\) pentru orice \\(x, y \\in G\\)"},
+      {"answer": "D", "text": "operația \"\\(*\\)\" admite element neutru"}
+    ],
+    "correctAnswer": ["A"]
+  },
+  {
+    "questionNumber": 20,
+    "points": 0.375,
+    "context": "Problemele 20, 21, 22 și 23 se referă la funcția \\(f : (0, +\\infty) \\rightarrow \\mathbb{R}\\), definită prin \\(f(x) = -x \\ln x\\).",
+    "chapterContext": "Fie funcția \\(f : (0, +\\infty) \\rightarrow \\mathbb{R}\\), definită prin \\(f(x) = -x \\ln x\\).",
+    "question": "Care dintre următoarele afirmații sunt adevărate?",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(f\\) are limită laterală finită în punctul \\(x_0 = 0\\)"},
+      {"answer": "B", "text": "\\(f\\) este strict crescătoare pe intervalul \\((0, 1]\\)"},
+      {"answer": "C", "text": "\\(f\\) este strict descrescătoare pe intervalul \\([1, +\\infty)\\)"},
+      {"answer": "D", "text": "\\(f\\) este concavă"}
+    ],
+    "correctAnswer": ["A","C","D"]
+  },
+  {
+    "questionNumber": 21,
+    "points": 0.375,
+    "chapterContext": "Fie funcția \\(f : (0, +\\infty) \\rightarrow \\mathbb{R}\\), definită prin \\(f(x) = -x \\ln x\\).",
+    "question": "Numărul soluțiilor ecuației \\(f(x) = \\dfrac{1}{3}\\) este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "3"},
+      {"answer": "B", "text": "2"},
+      {"answer": "C", "text": "1"},
+      {"answer": "D", "text": "0"}
+    ],
+    "correctAnswer": ["B"]
+  },
+  {
+    "questionNumber": 22,
+    "points": 0.375,
+    "chapterContext": "Fie funcția \\(f : (0, +\\infty) \\rightarrow \\mathbb{R}\\), definită prin \\(f(x) = -x \\ln x\\).",
+    
+    "question": "Dacă \\(d\\) este tangenta la graficul lui \\(f\\) care trece prin punctul \\((0, 1)\\), iar \\(m\\) este panta dreptei \\(d\\), care dintre următoarele afirmații sunt adevărate?",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(m \\in [-2, 0]\\)"},
+      {"answer": "B", "text": "\\(m \\in (-\\infty, -2]\\)"},
+      {"answer": "C", "text": "\\(d\\) trece prin punctul \\(\\left(\\dfrac{1}{2}, \\dfrac{1}{2}\\right)\\)"},
+      {"answer": "D", "text": "\\(d\\) trece prin punctul \\(\\left(\\dfrac{1}{e}, \\dfrac{1}{e}\\right)\\)"}
+    ],
+    "correctAnswer": ["A","C"]
+  },
+  {
+    "questionNumber": 23,
+    "points": 0.375,
+    "chapterContext": "Fie funcția \\(f : (0, +\\infty) \\rightarrow \\mathbb{R}\\), definită prin \\(f(x) = -x \\ln x\\).",
+    
+    "question": "Cel mai mic număr real \\(a\\) pentru care inegalitatea \\(f(x) \\le a - x\\) are loc oricare ar fi \\(x \\in (0, +\\infty)\\) este:",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(\\dfrac{1}{e}\\)"},
+      {"answer": "B", "text": "\\(\\dfrac{2}{e}\\)"},
+      {"answer": "C", "text": "2"},
+      {"answer": "D", "text": "1"}
+    ],
+    "correctAnswer": ["D"]
+  },
+  {
+    "questionNumber": 24,
+    "points": 0.375,
+    "question": "Fie \\(f : [-1, 1] \\rightarrow \\mathbb{R}\\) o funcție continuă cu proprietatea că\n\\[6 + f(x) = 2f(-x) + 3x^2 \\left( \\int_{-1}^1 f(t) \\, dt \\right) \\quad \\text{oricare ar fi } x \\in [-1, 1].\\]\nCare dintre următoarele afirmații sunt adevărate?",
+    "category": "analiza",
+    "answers": [
+      {"answer": "A", "text": "\\(\\displaystyle\\int_{-1}^1 f(x) \\, dx = 6\\)"},
+      {"answer": "B", "text": "\\(\\displaystyle\\int_{-1}^1 f(x) \\, dx = 4\\)"},
+      {"answer": "C", "text": "\\(f\\left(\\dfrac{1}{2}\\right) = 3\\)"},
+      {"answer": "D", "text": "\\(f(-1) = -6\\)"}
+    ],
+    "correctAnswer": ["B","C","D"]
+  }
+]
+}

@@ -1,0 +1,936 @@
+{
+    "examTitle": "Admitere 2026",
+    "type": "single-choice",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Fie polinomul \\(P\\in\\mathbb{C}[X],\\)\n                \\(P=X^4-X^3+X^2-X+1\\),\n                cu rădăcinile\n                \\(x_1,x_2,x_3,x_4\\in\\mathbb C\\).",
+            "question": "\\(x_1+x_2+x_3+x_4\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "1"
+                },
+                {
+                    "answer": "B",
+                    "text": "4"
+                },
+                {
+                    "answer": "C",
+                    "text": "-1"
+                },
+                {
+                    "answer": "D",
+                    "text": "4"
+                },
+                {
+                    "answer": "E",
+                    "text": "0"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 2,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Fie polinomul \\(P\\in\\mathbb{C}[X],\\)\n                \\(P=X^4-X^3+X^2-X+1\\),\n                cu rădăcinile\n                \\(x_1,x_2,x_3,x_4\\in\\mathbb C\\).",
+            "question": "\\(x_1^{2026}+x_2^{2026}+x_3^{2026}+x_4^{2026}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "-1"
+                },
+                {
+                    "answer": "B",
+                    "text": "4"
+                },
+                {
+                    "answer": "C",
+                    "text": "-4"
+                },
+                {
+                    "answer": "D",
+                    "text": "1"
+                },
+                {
+                    "answer": "E",
+                    "text": "2026"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 3,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Numărul soluțiilor \\(x\\in\\mathbb{R}\\) ale ecuației\n    \\(\\log_{3}x+\\log_{3}(x-8)=2\\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "2"
+                },
+                {
+                    "answer": "B",
+                    "text": "1"
+                },
+                {
+                    "answer": "C",
+                    "text": "4"
+                },
+                {
+                    "answer": "D",
+                    "text": "infinit"
+                },
+                {
+                    "answer": "E",
+                    "text": "0"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 4,
+            "category": "trigonometrie",
+            "groupId": null,
+            "context": null,
+            "question": "Valoarea expresiei\n    \\(\\dfrac{\\cos\\dfrac{3\\pi}{7}\\cdot\\sin\\dfrac{4\\pi}{7}}{\\sin\\dfrac{\\pi}{7}}\\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "2"
+                },
+                {
+                    "answer": "B",
+                    "text": "1"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac14\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-\\dfrac14\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac12\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 5,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Câte submulțimi cu 3 elemente ale mulțimii\n    \\(\\{1,2,3,\\ldots,12\\}\\)\n    au suma elementelor un număr par?",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "110"
+                },
+                {
+                    "answer": "B",
+                    "text": "90"
+                },
+                {
+                    "answer": "C",
+                    "text": "120"
+                },
+                {
+                    "answer": "D",
+                    "text": "84"
+                },
+                {
+                    "answer": "E",
+                    "text": "100"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 6,
+            "category": "analiza",
+            "groupId": 2,
+            "context": "",
+            "question": "\\(\\displaystyle \\lim_{x\\to1}\\dfrac{x^5-1}{x^3-1}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "1"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\infty\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "2"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac53\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac35\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 7,
+            "category": "analiza",
+            "groupId": 2,
+            "context": "",
+            "question": "\\(\\displaystyle\\lim_{x\\to0}\\dfrac{\\ln(\\cos x)}{x^2}\\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac12\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-\\dfrac{\\sqrt2}{2}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{\\sqrt2}{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-\\dfrac12\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-1\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 8,
+            "category": "analiza",
+            "groupId": 3,
+            "context": null,
+            "question": "\\(\\displaystyle \\lim_{n\\to\\infty}\\left(1+\\frac{1}{n+3}\\right)^{n+5}\\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{e^5}{3}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(e\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(e^2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{5e}{3}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(e^5\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 9,
+            "category": "analiza",
+            "groupId": 3,
+            "context": null,
+            "question": "\\(\\displaystyle \\lim_{n\\to\\infty}\n                            \\sum_{k=0}^{n}\n                            \\left(\\frac1{3^k}-\\frac1{5^k}\\right)\\)\n                            este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{2}{15}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac14\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac1{15}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac1{5}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac3{5}\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 10,
+            "category": "analiza",
+            "groupId": 3,
+            "context": null,
+            "question": "\\(\\displaystyle \\lim_{n\\to\\infty}\\sqrt[n]{3^n+5^n}\\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "8"
+                },
+                {
+                    "answer": "B",
+                    "text": "3"
+                },
+                {
+                    "answer": "C",
+                    "text": "5"
+                },
+                {
+                    "answer": "D",
+                    "text": "15"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\sqrt{15}\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 11,
+            "category": "trigonometrie",
+            "groupId": null,
+            "context": null,
+            "question": "Numărul soluțiilor ecuației\n    \\(\\sin2x=2\\sin x\\)\n    în intervalul\n    \\([0,2\\pi]\\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "2"
+                },
+                {
+                    "answer": "B",
+                    "text": "4"
+                },
+                {
+                    "answer": "C",
+                    "text": "5"
+                },
+                {
+                    "answer": "D",
+                    "text": "1"
+                },
+                {
+                    "answer": "E",
+                    "text": "3"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 12,
+            "category": "algebra",
+            "groupId": 4,
+            "context": "Fie funcția \\(f:\\mathbb{R}\\rightarrow\\mathbb{R}\\),\n\n\\(f(x)=|x-1|+|x+2|,\\;x\\in\\mathbb{R}.\\)",
+            "question": "Valoarea expresiei\n\\(f(0)+f(1)\\)\neste:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "2"
+                },
+                {
+                    "answer": "B",
+                    "text": "3"
+                },
+                {
+                    "answer": "C",
+                    "text": "6"
+                },
+                {
+                    "answer": "D",
+                    "text": "4"
+                },
+                {
+                    "answer": "E",
+                    "text": "5"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 13,
+            "category": "algebra",
+            "groupId": 4,
+            "context": "Fie funcția \\(f:\\mathbb{R}\\rightarrow\\mathbb{R}\\),\n\n\\(f(x)=|x-1|+|x+2|,\\;x\\in\\mathbb{R}.\\)",
+            "question": "Suma soluțiilor ecuației\n\n\\(f(x)=5\\)\n\neste:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "1"
+                },
+                {
+                    "answer": "B",
+                    "text": "-1"
+                },
+                {
+                    "answer": "C",
+                    "text": "-2"
+                },
+                {
+                    "answer": "D",
+                    "text": "2"
+                },
+                {
+                    "answer": "E",
+                    "text": "0"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 14,
+            "category": "geometrie",
+            "groupId": 5,
+            "context": "Fie \\(a \\in \\mathbb{R}\\). În reperul cartezian \\(xOy\\) se consideră dreptele\n\\((d_1):\\,2x+y=3\\)\nși\n\\((d_2):\\,x+ay=2\\).",
+            "question": "Dacă dreptele sunt paralele, atunci \\(a\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "2"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-\\dfrac12\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "-3"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac12\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "-2"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 15,
+            "category": "geometrie",
+            "groupId": 5,
+            "context": "Fie \\(a \\in \\mathbb{R}\\). În reperul cartezian \\(xOy\\) se consideră dreptele\n\\((d_1):\\,2x+y=3\\)\nși\n\\((d_2):\\,x+ay=2\\).",
+            "question": "Dacă dreptele sunt perpendiculare, atunci \\(a\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac12\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-\\dfrac12\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "-3"
+                },
+                {
+                    "answer": "D",
+                    "text": "2"
+                },
+                {
+                    "answer": "E",
+                    "text": "-2"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 16,
+            "category": "geometrie",
+            "groupId": 5,
+            "context": "Fie \\(a \\in \\mathbb{R}\\). În reperul cartezian \\(xOy\\) se consideră dreptele\n\\((d_1):\\,2x+y=3\\)\nși\n\\((d_2):\\,x+ay=2\\).",
+            "question": "Distanța maximă la care se poate afla originea \\(O\\)\nfață de dreapta \\(d_2\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac32\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\sqrt3\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\sqrt5\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "3"
+                },
+                {
+                    "answer": "E",
+                    "text": "2"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 17,
+            "category": "analiza",
+            "groupId": 6,
+            "context": "Pentru \\(a\\in\\mathbb{R}\\) se consideră funcția\n    \\(f:\\mathbb{R}\\to\\mathbb{R},\\;\n    f(x)=e^x(x^2-ax+1),\\;\n    x\\in\\mathbb{R}\\).",
+            "question": "Asimptota funcției la \\(-\\infty\\) are ecuația:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(y=0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(y=2x+a\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(y=2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(y=x+a\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(y=x-a\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 18,
+            "category": "analiza",
+            "groupId": 6,
+            "context": "Pentru \\(a\\in\\mathbb{R}\\) se consideră funcția\n    \\(f:\\mathbb{R}\\to\\mathbb{R},\\;\n    f(x)=e^x(x^2-ax+1),\\;\n    x\\in\\mathbb{R}\\).",
+            "question": "\\(f'(-1)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{2a-2}{e}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac{4-2a}{e}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{2}{e}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{4+2a}{e}\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 19,
+            "category": "analiza",
+            "groupId": 6,
+            "context": "Pentru \\(a\\in\\mathbb{R}\\) se consideră funcția\n    \\(f:\\mathbb{R}\\to\\mathbb{R},\\;\n    f(x)=e^x(x^2-ax+1),\\;\n    x\\in\\mathbb{R}\\).",
+            "question": "Mulțimea valorilor lui \\(a\\) pentru care axa \\(Ox\\) este tangentă la graficul funcției \\(f\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\{-2,\\,2\\}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\{0,\\,2\\}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\{-2,\\,0\\}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\{-2,\\,0,\\,2\\}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\{2\\}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 20,
+            "category": "analiza",
+            "groupId": 6,
+            "context": "Pentru \\(a\\in\\mathbb{R}\\) se consideră funcția\n    \\(f:\\mathbb{R}\\to\\mathbb{R},\\;\n    f(x)=e^x(x^2-ax+1),\\;\n    x\\in\\mathbb{R}\\).",
+            "question": "Mulțimea valorilor lui \\(a\\) pentru care funcția \\(f\\) are exact două puncte de extrem local este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\([2,\\infty)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\mathbb{R}^{*}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\varnothing\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\mathbb{R}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\((0,\\infty)\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 21,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "<div class=\"question-context\">\nPentru \\(a,b\\in\\mathbb{R}\\) se consideră sistemul de ecuații\n<span class=\"inline-system\">\n\\(\n\\begin{cases}\nx+2y+z=1\\\\\n2x+y+az=b\\\\\nx-y+2z=3\n\\end{cases}\n\\)\n</span>\ncu necunoscutele \\(x,y,z\\in\\mathbb{R}\\).\n</div>",
+            "question": "Sistemul este compatibil determinat dacă și numai dacă:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(a=7\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(a\\neq3\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(a\\neq-3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(a=3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(a\\neq7\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 22,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "<div class=\"question-context\">\nPentru \\(a,b\\in\\mathbb{R}\\) se consideră sistemul de ecuații\n<span class=\"inline-system\">\n\\(\n\\begin{cases}\nx+2y+z=1\\\\\n2x+y+az=b\\\\\nx-y+2z=3\n\\end{cases}\n\\)\n</span>\ncu necunoscutele \\(x,y,z\\in\\mathbb{R}\\).\n</div>",
+            "question": "Sistemul este compatibil nedeterminat dacă și numai dacă:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(a\\neq-3,\\; b=1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(a=3,\\; b=-4\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(a=-3,\\; b=4\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(a=3,\\; b=4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(a\\neq3,\\; b=4\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 23,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Numărul complex<span class=\"inline-system\">\n\\(\\displaystyle\n\\dfrac{(1+i)^4}{(1-i)^2}\\)\neste:</span>",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2i\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-2i\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-4i\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 24,
+            "category": "analiza",
+            "groupId": 8,
+            "context": "",
+            "question": "\\(\\displaystyle \\int_{-1}^{1}(3x+5)\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(8\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(13\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(10\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(5\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 25,
+            "category": "analiza",
+            "groupId": 8,
+            "context": "",
+            "question": "\\(\\displaystyle \\int_{e}^{e^2}\\dfrac{1}{x\\ln x}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(ln2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(e\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{1}{2e}\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 26,
+            "category": "analiza",
+            "groupId": 8,
+            "context": "",
+            "question": "\\(\\displaystyle \\int_{1}^{3}\\dfrac{\\ln x}{x^2+3}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{\\pi\\ln3}{12}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac{\\pi\\ln3}{24}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{\\pi\\sqrt3\\,\\ln3}{12}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{\\pi\\sqrt3\\,\\ln3}{36}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{\\pi\\sqrt3\\,\\ln3}{18}\\)"
+                }
+            ],
+            "correctAnswer": "E",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 27,
+            "category": "algebra",
+            "groupId": 9,
+            "context": "Pe mulțimea \\(\\mathbb{R}\\) se definește legea de compoziție\n\"\\(\\ast\\)\"\nprin\n\\(x\\ast y=xy+3x+3y+6,\\quad x,y\\in\\mathbb{R}\\).",
+            "question": "\\((-2)\\ast1\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(-2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(5\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(13\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(1\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 28,
+            "category": "algebra",
+            "groupId": 9,
+            "context": "Pe mulțimea \\(\\mathbb{R}\\) se definește legea de compoziție\n\"\\(\\ast\\)\"\nprin\n\\(x\\ast y=xy+3x+3y+6,\\quad x,y\\in\\mathbb{R}\\).",
+            "question": "Elementul neutru în raport cu legea \"\\(\\ast\\)\" este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "nu există element neutru"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "0"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-2\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 29,
+            "category": "algebra",
+            "groupId": 9,
+            "context": "Pe mulțimea \\(\\mathbb{R}\\) se definește legea de compoziție\n\"\\(\\ast\\)\"\nprin\n\\(x\\ast y=xy+3x+3y+6,\\quad x,y\\in\\mathbb{R}\\).",
+            "question": "Valoarea expresiei\n                       \\(\\displaystyle\n(-2026)\\ast(-2025)\\ast\\cdots\\ast(-1)\\ast0\\ast1\\ast\\cdots\\ast2025\\ast2026\n\\)\n                            este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2026^2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-2\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 30,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Numărul matricelor\n    <span class=\"inline-formula\">\n        \\(\\displaystyle\n        A=\n        \\begin{pmatrix}\n        -a &amp; b\\\\\n        b &amp; a\n        \\end{pmatrix},\n        \\)\n    </span>\n    cu \\(a,b\\in\\mathbb{Z}\\),\n    care verifică relația\n    \\(\\displaystyle A^3=4A\\)\n    este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "infinit"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(5\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(3\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        }
+    ]
+}

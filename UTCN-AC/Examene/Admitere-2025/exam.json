@@ -1,0 +1,936 @@
+{
+    "examTitle": "Admitere 2025",
+    "type": "single-choice",
+    "questions": [
+        {
+            "questionNumber": 1,
+            "category": "algebra",
+            "groupId": null,
+            "context": null,
+            "question": "Câte submulțimi nevide ale mulțimii \\(\\{0,1,2,\\ldots,9\\}\\) au numărul elementelor pare egal cu numărul elementelor impare?",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(251\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(195\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(62\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(31\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(126\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 2,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Fie polinomul \\(P\\in\\mathbb{C}[X]\\), \\(\\displaystyle P=(1+X)(1+X^2)(1+X^3)\\cdots(1+X^9)\\).",
+            "question": "Restul împărțirii lui \\(P\\) la \\(X^2+X\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(X+1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(X-1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-X+1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 3,
+            "category": "algebra",
+            "groupId": 1,
+            "context": "Fie polinomul \\(P\\in\\mathbb{C}[X]\\), \\(\\displaystyle P=(1+X)(1+X^2)(1+X^3)\\cdots(1+X^9)\\).",
+            "question": "Dacă \\(\\displaystyle z=\\cos\\frac{2\\pi}{3}+i\\sin\\frac{2\\pi}{3}\\), atunci \\(P(z)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(2^3\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2^9\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(2^6\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 4,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Fie matricea \\(\\displaystyle A=\\begin{pmatrix}-a&amp;b\\\\ b&amp;a\\end{pmatrix}\\), cu \\(a,b\\in\\mathbb{Z}\\).",
+            "question": "\\(\\det A\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(a^2+b^2\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(-a^2+b^2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(a^2b^2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-a^2-b^2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(a^2-b^2\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 5,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Fie matricea \\(\\displaystyle A=\\begin{pmatrix}-a&amp;b\\\\ b&amp;a\\end{pmatrix}\\), cu \\(a,b\\in\\mathbb{Z}\\).",
+            "question": "Numărul matricelor \\(A\\) care verifică relația \\(A^3=3A\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(5\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(6\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 6,
+            "category": "algebra",
+            "groupId": 2,
+            "context": "Fie matricea \\(\\displaystyle A=\\begin{pmatrix}-a&amp;b\\\\ b&amp;a\\end{pmatrix}\\), cu \\(a,b\\in\\mathbb{Z}\\).",
+            "question": "Numărul matricelor \\(A\\) care verifică relația \\(A^{2024}=I_2\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "infinit"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(2024\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 7,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Fie \\(m\\in\\mathbb{R}\\). Pe mulțimea \\(\\mathbb{R}\\) se definește legea de compoziție \"\\(*\\)\" prin \\(x*y=xy-4x-4y+m,\\quad (x,y\\in\\mathbb{R})\\).",
+            "question": "Dacă \\(1*1=1\\), atunci \\(m\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(8\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(6\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(9\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(7\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 8,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Fie \\(m\\in\\mathbb{R}\\). Pe mulțimea \\(\\mathbb{R}\\) se definește legea de compoziție \"\\(*\\)\" prin \\(x*y=xy-4x-4y+m,\\quad (x,y\\in\\mathbb{R})\\).",
+            "question": "Dacă legea \"\\(*\\)\" are element neutru, atunci acesta este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(5\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-1\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 9,
+            "category": "algebra",
+            "groupId": 3,
+            "context": "Fie \\(m\\in\\mathbb{R}\\). Pe mulțimea \\(\\mathbb{R}\\) se definește legea de compoziție \"\\(*\\)\" prin \\(x*y=xy-4x-4y+m,\\quad (x,y\\in\\mathbb{R})\\).",
+            "question": "Dacă legea \"\\(*\\)\" are element neutru, atunci simetricul lui \\(2\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{7}{2}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac{5}{2}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-2\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "alt răspuns"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 10,
+            "category": "analiza",
+            "groupId": 4,
+            "context": null,
+            "question": "\\(\\displaystyle \\lim_{n\\to\\infty}\\frac{1+2+\\cdots+n}{n^2}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{1}{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\infty\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 11,
+            "category": "analiza",
+            "groupId": 4,
+            "context": null,
+            "question": "\\(\\displaystyle \\lim_{n\\to\\infty}\\frac{1}{n^3}\\sum_{k=1}^{n^2}\\sqrt{k}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac{1}{3}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{1}{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{2}{3}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{3}{2}\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 12,
+            "category": "analiza",
+            "groupId": 4,
+            "context": null,
+            "question": "Dacă \\(\\left\\lfloor t\\right\\rfloor\\) notează partea întreagă a numărului real \\(t\\), atunci\n\\(\\displaystyle \\lim_{n\\to\\infty}\\int_0^1\\frac{1}{1+\\left\\lfloor nx\\right\\rfloor^2}\\,dx\\)\neste:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac14\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac12\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{\\pi}{4}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac{\\sqrt2}{2}\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 13,
+            "category": "analiza",
+            "groupId": 5,
+            "context": null,
+            "question": "\\(\\displaystyle \\lim_{x\\to0}\\frac{\\sqrt{x+4}-2}{\\sqrt{x+9}-3}\\)\neste:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac23\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac49\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac32\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "limita nu există"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 14,
+            "category": "analiza",
+            "groupId": 5,
+            "context": null,
+            "question": "\\(\\displaystyle \\lim_{x\\to0}\\frac{3\\text{arctg}\\,x-\\text{arctg}(3x)}{x^3}\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(8\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(9\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(6\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{3\\pi}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac13\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 15,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Fie \\(D\\subseteq\\mathbb{R}\\) domeniul maxim de definiție al funcției\n\\(\\displaystyle f:D\\to\\mathbb{R},\\quad f(x)=x\\sqrt{\\,1-2\\ln x\\,}.\\)",
+            "question": "\\(f(1)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-1\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\sqrt{1-2e}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "alt răspuns"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 16,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Fie \\(D\\subseteq\\mathbb{R}\\) domeniul maxim de definiție al funcției\n\\(\\displaystyle f:D\\to\\mathbb{R},\\quad f(x)=x\\sqrt{\\,1-2\\ln x\\,}.\\)",
+            "question": "\\(D\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((0,\\sqrt{e}]\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\((-\\infty,\\sqrt{e}]\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\([\\sqrt{e},\\infty)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\([1,\\sqrt{e}]\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\([-\\sqrt{e},\\sqrt{e}]\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 17,
+            "category": "analiza",
+            "groupId": 6,
+            "context": "Fie \\(D\\subseteq\\mathbb{R}\\) domeniul maxim de definiție al funcției\n\\(\\displaystyle f:D\\to\\mathbb{R},\\quad f(x)=x\\sqrt{\\,1-2\\ln x\\,}.\\)",
+            "question": "\\(f'(1)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac12\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac32\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 18,
+            "category": "algebra",
+            "groupId": 6,
+            "context": "Fie \\(D\\subseteq\\mathbb{R}\\) domeniul maxim de definiție al funcției\n\\(\\displaystyle f:D\\to\\mathbb{R},\\quad f(x)=x\\sqrt{\\,1-2\\ln x\\,}.\\)",
+            "question": "Mulțimea valorilor funcției \\(f\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\([0,1]\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\mathbb{R}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\([1,\\infty)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((-\\infty,1]\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\([0,\\infty)\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 19,
+            "category": "algebra",
+            "groupId": 7,
+            "context": "Fie funcția \\(f:\\mathbb{R}\\rightarrow\\mathbb{R},\\;f(x)=x^3+2x,\\) iar \\(g\\) inversa ei.",
+            "question": "\\(f(1)\\cdot g(3)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(5\\)"
+                }
+            ],
+            "correctAnswer": "C",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 20,
+            "category": "analiza",
+            "groupId": 7,
+            "context": "Fie funcția \\(f:\\mathbb{R}\\rightarrow\\mathbb{R},\\;f(x)=x^3+2x,\\) iar \\(g\\) inversa ei.",
+            "question": "\\(f'(1)\\cdot g'(3)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(5\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 21,
+            "category": "analiza",
+            "groupId": 7,
+            "context": "Fie funcția \\(f:\\mathbb{R}\\rightarrow\\mathbb{R},\\;f(x)=x^3+2x,\\) iar \\(g\\) inversa ei.",
+            "question": "\\(\\displaystyle \\int_{-1}^{1} f(x)\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac52\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac54\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 22,
+            "category": "analiza",
+            "groupId": 7,
+            "context": "Fie funcția \\(f:\\mathbb{R}\\rightarrow\\mathbb{R},\\;f(x)=x^3+2x,\\) iar \\(g\\) inversa ei.",
+            "question": "\\(\\displaystyle \\int_{0}^{3} g(x)\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{7}{4}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac{5}{4}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{7}{2}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{5}{2}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(0\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 23,
+            "category": "algebra",
+            "groupId": 8,
+            "context": "Fie funcția \\(f:(1,\\infty)\\setminus\\{3\\}\\rightarrow\\mathbb{R},\\;\n                            f(x)=\\dfrac{x+1}{x^2-4x+3}\\).",
+            "question": "\\(f(2)\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{3}{2}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-\\dfrac{3}{2}\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 24,
+            "category": "analiza",
+            "groupId": 8,
+            "context": "Fie funcția \\(f:(1,\\infty)\\setminus\\{3\\}\\rightarrow\\mathbb{R},\\;\n                            f(x)=\\dfrac{x+1}{x^2-4x+3}\\).",
+            "question": "Numărul asimptotelor la graficul funcției \\(f\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(0\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(4\\)"
+                }
+            ],
+            "correctAnswer": "D",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 25,
+            "category": "analiza",
+            "groupId": null,
+            "context": null,
+            "question": "\\(\\displaystyle \\int_{1}^{2} \\sqrt{x-1}\\,dx\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac23\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(1\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\sqrt2\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac12\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\dfrac32\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 26,
+            "category": "geometrie",
+            "groupId": 9,
+            "context": "În reperul cartezian \\(xOy\\) se consideră dreptunghiul \\(ABCD\\), unde \\(A\\) are coordonatele \\((2,6)\\), ecuația dreptei \\(BC\\) este \\(2x-y+4=0\\), iar ecuația dreptei \\(CD\\) este \\(x+2y-3=0\\).",
+            "question": "\\(C\\) are coordonatele:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\((-1,2)\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\left(-2,\\dfrac{5}{2}\\right)\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\((-2,0)\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\((-1,1)\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\left(0,\\dfrac{3}{2}\\right)\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 27,
+            "category": "geometrie",
+            "groupId": 9,
+            "context": "În reperul cartezian \\(xOy\\) se consideră dreptunghiul \\(ABCD\\), unde \\(A\\) are coordonatele \\((2,6)\\), ecuația dreptei \\(BC\\) este \\(2x-y+4=0\\), iar ecuația dreptei \\(CD\\) este \\(x+2y-3=0\\).",
+            "question": "Lungimea diagonalei \\(BD\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(5\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(11\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\sqrt17\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\sqrt{20}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(4\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 28,
+            "category": "geometrie",
+            "groupId": 9,
+            "context": "În reperul cartezian \\(xOy\\) se consideră dreptunghiul \\(ABCD\\), unde \\(A\\) are coordonatele \\((2,6)\\), ecuația dreptei \\(BC\\) este \\(2x-y+4=0\\), iar ecuația dreptei \\(CD\\) este \\(x+2y-3=0\\).",
+            "question": "Aria lui \\(ABCD\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(\\dfrac{22}{5}\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(\\dfrac{22}{\\sqrt5}\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\dfrac{11}{5}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(\\dfrac{11}{\\sqrt5}\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(4\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 29,
+            "category": "trigonometrie",
+            "groupId": 10,
+            "context": "Fie \\(m\\in\\mathbb{R}\\) și ecuația \\(3\\sin x-4\\cos x=m\\), cu necunoscuta \\(x\\in\\mathbb{R}\\).",
+            "question": "Dacă \\(x=\\dfrac{\\pi}{2}\\) este soluție a ecuației, atunci \\(m\\) este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\(3\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\(4\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(-3\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\(-4\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(-1\\)"
+                }
+            ],
+            "correctAnswer": "A",
+            "points": 0.2
+        },
+        {
+            "questionNumber": 30,
+            "category": "algebra",
+            "groupId": 10,
+            "context": "Fie \\(m\\in\\mathbb{R}\\) și ecuația \\(3\\sin x-4\\cos x=m\\), cu necunoscuta \\(x\\in\\mathbb{R}\\).",
+            "question": "Mulțimea valorilor lui m pentru care ecuația are soluții este:",
+            "answers": [
+                {
+                    "answer": "A",
+                    "text": "\\([-7,7]\\)"
+                },
+                {
+                    "answer": "B",
+                    "text": "\\([-5,5]\\)"
+                },
+                {
+                    "answer": "C",
+                    "text": "\\(\\mathbb{R}\\)"
+                },
+                {
+                    "answer": "D",
+                    "text": "\\([-4,4]\\)"
+                },
+                {
+                    "answer": "E",
+                    "text": "\\(\\left[-\\dfrac{\\sqrt2}{2},\\dfrac{\\sqrt2}{2}\\right]\\)"
+                }
+            ],
+            "correctAnswer": "B",
+            "points": 0.2
+        }
+    ]
+}

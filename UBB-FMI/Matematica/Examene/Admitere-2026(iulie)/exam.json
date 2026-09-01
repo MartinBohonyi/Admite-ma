@@ -1,0 +1,606 @@
+{
+    "examTitle": "Admitere 2026 (sesiunea Iulie)",
+   
+    "questions": [
+    {
+        "questionNumber": 1,
+        "points": 0.375,
+        "question": "Se dă funcția de gradul al doilea \\(f:\\mathbb{R}\\to\\mathbb{R}\\), \\(f(x)=x^2-2(a+1)x+2a+4\\). Pentru ce valori ale lui \\(a\\in\\mathbb{R}\\) parabola asociată lui \\(f\\) are ordonata vârfului strict mai mare decât abscisa vârfului?",
+        "category": "algebra",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(a\\in(-2,1)\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(a\\in\\mathbb{R}\\setminus(-2,1)\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(a\\in[-2,1]\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(a\\in\\mathbb{R}\\setminus[-2,1]\\)"
+            }
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 2,
+        "points": 0.375,
+        "question": "Pentru care valoare a parametrului \\(p\\) dreptele \\(d_1:(1+\\sqrt{3})y=px+5\\) și \\(d_2:y=(2-\\sqrt{3})x+8\\) sunt paralele?",
+        "category": "algebra",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(-1-\\sqrt{3}\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(-1+\\sqrt{3}\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(1-\\sqrt{3}\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(1+\\sqrt{3}\\)"
+            }
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 3,
+        "points": 0.375,
+        "question": "Dacă \\(f:\\mathbb{R}\\to\\mathbb{R}\\), \\(f(x)=|x+1|-2\\), atunci valoarea lui \\(f(f(-4))\\) este egală cu",
+        "category": "analiza",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(-1\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(0\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(1\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(2\\)"
+            }
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 4,
+        "points": 0.375,
+        "question": "Dacă \\(z=\\dfrac{\\sqrt{3}+i}{\\sqrt{3}-i}\\), atunci",
+        "category": "algebra",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(|z|=1\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(\\operatorname{Re}(z)=\\dfrac{1}{2}\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(\\operatorname{Im}(z)=\\dfrac{1}{2}\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(\\operatorname{Re}(z)=\\operatorname{Im}(z)\\)"
+            }
+        ],
+        "correctAnswer": ["A", "B"]
+    },
+    {
+        "questionNumber": 5,
+        "points": 0.375,
+        "question": "Care este valoarea expresiei \\(E(a)=\\sin\\left(a+\\dfrac{\\pi}{2}\\right)-\\sin\\left(a-\\dfrac{\\pi}{2}\\right)\\), unde \\(a\\) este un număr real arbitrar?",
+        "category": "trigonometrie",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(2\\sin a\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(-2\\cos a\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(2\\cos a\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(0\\)"
+            }
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 6,
+        "points": 0.375,
+        "question": "În sistemul cartezian de coordonate \\(xOy\\) se dau trei puncte: \\(A(1,2)\\), \\(B(7,-1)\\) și \\(C(m,5)\\). Numărul real \\(m\\) pentru care vectorii \\(\\overrightarrow{AB}\\) și \\(\\overrightarrow{AC}\\) sunt perpendiculari este",
+        "category": "geometrie",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(-\\dfrac{1}{2}\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(\\dfrac{2}{3}\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(\\dfrac{4}{5}\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(\\dfrac{5}{2}\\)"
+            }
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 7,
+        "points": 0.375,
+        "question": "Fie funcția \\(f:(0,\\infty)\\to\\mathbb{R}\\), \\(f(x)=x\\ln x\\). Tangenta la graficul lui \\(f\\) în punctul de abscisă \\(1\\) intersectează axa \\(Oy\\) în punctul de ordonată",
+        "category": "analiza",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(-2\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(-1\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(1\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(2\\)"
+            }
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 8,
+        "points": 0.375,
+        "question": "Valoarea lui \\(a\\in\\mathbb{R}\\), pentru care funcția \\(f:\\mathbb{R}\\setminus\\{-1\\}\\to\\mathbb{R}\\), \\(f(x)=\\dfrac{x^2+ax+1}{x+1}\\), are spre \\(\\infty\\) asimptota oblică de ecuație \\(y=x+3\\), poate fi",
+        "category": "analiza",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(1\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(2\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(3\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(4\\)"
+            }
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 9,
+        "points": 0.375,
+        "question": "Punctul \\((11,a)\\) aparține mediatoarei segmentului care unește punctele \\((3,-5)\\) și \\((1,1)\\). Valoarea lui \\(a\\) este",
+        "category": "geometrie",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(\\dfrac{2}{3}\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(1\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(\\dfrac{3}{2}\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(3\\)"
+            }
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 10,
+        "points": 0.375,
+        "question": "Fie numerele \\(a=\\cos(-20^\\circ)\\), \\(b=\\cos10^\\circ\\), \\(c=\\cos375^\\circ\\) și \\(d=\\sin75^\\circ\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "trigonometrie",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "Dintre aceste numere, \\(a\\) este cel mai mic."
+            },
+            {
+                "answer": "B",
+                "text": "Dintre aceste numere, \\(b\\) este cel mai mare."
+            },
+            {
+                "answer": "C",
+                "text": "Dintre aceste numere, \\(c\\) este cel mai mare."
+            },
+            {
+                "answer": "D",
+                "text": "Două dintre aceste numere sunt egale."
+            }
+        ],
+        "correctAnswer": ["A","B", "D"]
+    },
+    {
+        "questionNumber": 11,
+        "points": 0.375,
+        "question": "Valoarea lui \\(a\\in\\mathbb{R}\\) pentru care funcția \\(f:\\mathbb{R}\\to\\mathbb{R}\\), \\[f(x)=\\begin{cases}e^{x-2},&x\\le 2\\\\\\dfrac{a}{x+1}+2\\cos(x-2),&x>2\\end{cases}\\] este continuă poate fi",
+        "category": "analiza",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(a=-3\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(a=-2\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(a=0\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(a=1\\)"
+            }
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 12,
+        "points": 0.375,
+        "question": "Dacă \\(x_0\\) este un punct de extrem local al funcției \\(f:\\mathbb{R}\\to\\mathbb{R}\\), \\(f(x)=x^3-3x+3-45\\operatorname{arctg} x\\), atunci valoarea lui \\(x_0\\) poate fi",
+        "category": "analiza",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(-2\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(-1\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(1\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(2\\)"
+            }
+        ],
+        "correctAnswer": ["A", "D"]
+    },
+    {
+        "questionNumber": 13,
+        "points": 0.375,
+        "question": "Valoarea integralei \\(\\displaystyle\\int_1^e\\dfrac{\\ln x}{\\sqrt{x}}\\,dx\\) este",
+        "category": "analiza",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(1+\\sqrt e\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(4-2\\sqrt e\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(2+\\sqrt e\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(4-\\sqrt e\\)"
+            }
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 14,
+        "points": 0.375,
+        "question": "Pe mulțimea \\(\\mathbb{R}^*\\) se dă legea de compoziție \\(x\\ast y=\\dfrac{x}{y} \\ast\\dfrac{y}{x}\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "algebra",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(x\\ast x=2,\\ \\forall x\\in\\mathbb{R}^*\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(2\\ast x=2,\\ \\forall x\\in\\mathbb{R}^*\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\((1\\ast 1)\\ast 2=1\\ast (1\\ast 2)\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(x\\ast y=y\\ast x,\\ \\forall x,y\\in\\mathbb{R}^*\\)"
+            }
+        ],
+        "correctAnswer": ["A", "D"]
+    },
+    {
+        "questionNumber": 15,
+        "points": 0.375,
+        "question": "Fie \\(A=\\begin{pmatrix}1&1\\\\1&1\\end{pmatrix}\\) și \\(M=\\{X\\in M_2(\\mathbb{R})\\mid AX+XA=O_2\\}\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "algebra",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(I_2\\in M\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(AX=O_2\\), pentru orice \\(X\\in M\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(AX=XA\\), pentru orice \\(X\\in M\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(M=\\left\\{\\begin{pmatrix}a&a\\\\a&a\\end{pmatrix}\\mid a\\in\\mathbb{R}\\right\\}\\)"
+            }
+        ],
+        "correctAnswer": ["B","C"]
+    },
+    {
+        "questionNumber": 16,
+        "points": 0.375,
+        "question": "Fie \\((\\mathbb{Z}_7,+,\\cdot)\\) corpul claselor de resturi modulo 7. Atunci",
+        "category": "algebra",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "Ecuația \\(\\hat{3}x^2+\\hat{6}=\\hat{0}\\) are soluție unică în \\(\\mathbb{Z}_7\\)."
+            },
+            {
+                "answer": "B",
+                "text": "\\(\\hat{5}^6=\\hat{1}\\)"
+            },
+            {
+                "answer": "C",
+                "text": "Ecuația \\(\\hat{3}x^2+\\hat{6}=\\hat{0}\\) nu are nicio soluție în \\(\\mathbb{Z}_7\\)."
+            },
+            {
+                "answer": "D",
+                "text": "\\(\\hat{5}^3=\\hat{1}\\)"
+            }
+        ],
+        "correctAnswer": ["B", "C"]
+    },
+    {
+        "questionNumber": 17,
+        "points": 0.375,
+        "question": "Se dă ecuația \\((m+1)x^2-(2m-1)x+m-2=0\\), unde \\(m\\in\\mathbb{R}\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "algebra",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "Ecuația are două soluții reale distincte pentru orice \\(m\\in\\mathbb{R}\\)."
+            },
+            {
+                "answer": "B",
+                "text": "Ecuația are două soluții reale strict pozitive pentru orice \\(m\\in(-\\infty,-1)\\cup(2,\\infty)\\)."
+            },
+            {
+                "answer": "C",
+                "text": "Ecuația are două soluții reale strict negative pentru orice \\(m\\in(-1,2)\\)."
+            },
+            {
+                "answer": "D",
+                "text": "Ecuația are două soluții reale distincte pentru orice \\(m\\in\\mathbb{R}\\setminus\\{-1\\}\\)."
+            }
+        ],
+        "correctAnswer": ["B", "D"]
+    },
+    {
+        "questionNumber": 18,
+        "points": 0.375,
+        "question": "Dacă \\(s=1+\\dfrac12+\\dfrac1{2^2}+\\cdots+\\dfrac1{2^{2026}}\\), atunci:",
+        "category": "algebra",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(s=2\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(s=2-\\dfrac{1}{2^{2026}}\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(s=2-\\dfrac{1}{2^{2027}}\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(s\\in(1,2)\\)"
+            }
+        ],
+        "correctAnswer": ["B", "D"]
+    },
+    {
+        "questionNumber": 19,
+        "points": 0.375,
+        "question": "Fie \\(ABCD\\) un dreptunghi cu vârfurile \\(A(0,-1)\\), \\(B(8,5)\\) și aria egală cu 50. Care dintre următoarele afirmații pot fi adevărate?",
+        "category": "geometrie",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "Lungimea laturii \\(AD\\) este 5."
+            },
+            {
+                "answer": "B",
+                "text": "Ecuația dreptei \\(CD\\) poate fi \\(3x-4y+21=0\\)."
+            },
+            {
+                "answer": "C",
+                "text": "Ecuația dreptei \\(CD\\) poate fi \\(3x-4y-29=0\\)."
+            },
+            {
+                "answer": "D",
+                "text": "Ecuația dreptei \\(CD\\) poate fi \\(3x+4y+8=0\\)."
+            }
+        ],
+        "correctAnswer": ["A", "B", "C"]
+    },
+    {
+        "questionNumber": 20,
+        "points": 0.375,
+        "question": "Dacă \\(x_0\\) este un punct de inflexiune al funcției \\(f:\\mathbb{R}\\to\\mathbb{R}\\), \\(f(x)=e^x(x^2-4x+5)\\), atunci valoarea lui \\(x_0\\) poate fi",
+        "category": "analiza",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(-1\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(0\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(1\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(3\\)"
+            }
+        ],
+        "correctAnswer": ["A", "C"]
+    },
+    {
+        "questionNumber": 21,
+        "points": 0.375,
+        "question": "În planul triunghiului \\(ABC\\) considerăm punctele \\(M,N\\) și \\(P\\) astfel încât \\(\\overrightarrow{BM}=\\dfrac14\\overrightarrow{BC}\\), \\(N\\) este mijlocul laturii \\(AB\\) și \\(\\overrightarrow{AP}=\\dfrac47\\overrightarrow{AM}\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "geometrie",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(\\overrightarrow{AM}=\\dfrac{3\\overrightarrow{AB}+\\overrightarrow{AC}}{4}\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(\\overrightarrow{CN}=\\dfrac12\\overrightarrow{AB}-\\overrightarrow{AC}\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(\\overrightarrow{CP}=\\dfrac67\\overrightarrow{CN}\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(\\overrightarrow{CP}=\\dfrac45\\overrightarrow{CN}\\)"
+            }
+        ],
+        "correctAnswer": ["A", "B", "C"]
+    },
+    {
+        "questionNumber": 22,
+        "points": 0.375,
+        "question": "Valoarea integralei \\(\\displaystyle\\int_0^1 e^{x^2+2x}(x+1)\\,dx\\) este",
+        "category": "analiza",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(\\dfrac{e^2-1}{2}\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(\\dfrac{e^3-1}{2}\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(\\dfrac{e^2+1}{2}\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(\\dfrac{e^3+1}{2}\\)"
+            }
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 23,
+        "points": 0.375,
+        "question": "Valoarea limitei \\(\\displaystyle\\lim_{x\\to\\infty}\\left(\\frac{x^2-x}{x^2+1}\\right)^{x-1}\\) este",
+        "category": "analiza",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(e^{-1}\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(e\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(1\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(e^{-2}\\)"
+            }
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 24,
+        "points": 0.375,
+        "question": "Se consideră triunghiul ABC cu \\(AB = 10\\) \\(cm\\) și \\(\\widehat{BAC} = 30^\\circ\\). Dacă D este mijlocul laturii \\(AC\\) si \\(BC = BD = k\\) \\(cm\\) , atunci valoarea lui k este:",
+        "category": "trigonometrie",
+        "answers": [
+            {
+                "answer": "A",
+                "text": "\\(\\dfrac{10\\sqrt3}{3}\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(\\dfrac{10}3\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(10\\sqrt3\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(\\sqrt3\\)"
+            }
+        ],
+        "correctAnswer": ["A"]
+    }
+   ]
+}

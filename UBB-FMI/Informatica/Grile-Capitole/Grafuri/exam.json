@@ -1,0 +1,464 @@
+{
+    "examTitle" : "Probleme si Teste Grilă de Informatică pentru Admiterea la Facultatea de Matematică și Informatică Universitatea Babeș-Bolyai 2025",
+    "questions" : [
+        {
+            "questionNumber": 240,
+            "points": 0.3,
+            "author" : "Luca Tudor",
+            "questionImage": "images/Q240.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["D"]
+        },
+        {
+            "questionNumber": 241,
+            "points": 0.3,
+            "author" : "Luca Tudor",
+
+            "questionImage": "images/Q241.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 242,
+            "points": 0.3,
+            "author" : "Luca Tudor",
+
+            "questionImage": "images/Q242.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","D"]
+        },
+        {
+            "questionNumber": 243,
+            "points": 0.3,
+            "author" : "Luca Tudor",
+
+            "questionImage": "images/Q243.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 244,
+            "points": 0.3,
+            "author" : "Luca Tudor",
+
+            "questionImage": "images/Q244.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 245,
+            "points": 0.3,
+            "author" : "Luca Tudor",
+
+            "questionImage": "images/Q245.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 246,
+            "author" : "Luca Tudor",
+            "points": 0.3,
+            "questionImage": "images/Q246.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 247,
+            "author" : "Luca Tudor",
+            "points": 0.3,
+            "questionImage": "images/Q247.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 248,
+            "author" : "Luca Tudor",
+            "points": 0.3,
+            "questionImage": "images/Q248.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 249,
+            "author" : "Luca Tudor",
+            "points": 0.3,
+            "questionImage": "images/Q249.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 250,
+            "author" : "Luca Tudor",
+            "points": 0.3,
+            "questionImage": "images/Q250.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 251,
+            "author" : "Luca Tudor",
+            "points": 0.3,
+            "questionImage": "images/Q251.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 252,
+            "author" : "Luca Crețu",
+            "points": 0.3,
+            "questionImage": "images/Q252.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["D"]
+        },
+        {
+            "questionNumber": 253,
+            "author" : "Luca Crețu",
+            "points": 0.3,
+            "questionImage": "images/Q253.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 254,
+            "author" : "Luca Crețu",
+            "points": 0.3,
+            "questionImage": "images/Q254.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 255,
+            "author" : "Luca Crețu",
+            "points": 0.3,
+            "questionImage": "images/Q255.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["C","D"]
+        },
+        {
+            "questionNumber": 256,
+            "author" : "Mihai Gheorgheș",
+            "points": 0.3,
+            "questionImage": "images/Q256.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","D"]
+        },
+        {
+            "questionNumber": 257,
+            "points": 0.3,
+            "questionImage": "images/Q257.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["B","C"]
+        },
+        {
+            "questionNumber": 258,
+            "author" : "Mihai Gheorgheș",
+            "points": 0.3,
+            "questionImage": "images/Q258.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","B","C"]
+        },
+        {
+            "questionNumber": 259,
+            "author" : "Rareș Cotoi",
+            "points": 0.3,
+            "questionImage": "images/Q259.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["B","C"]
+        },
+        {
+            "questionNumber": 260,
+            "author" : "Luca Tudor",
+            "points": 0.3,
+            "questionImage": "images/Q260.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["D"]
+        },
+        {
+            "questionNumber": 261,
+            "author" : "Luca Tudor",
+            "points": 0.3,
+            "questionImage": "images/Q261.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 262,
+            "author" : "Rareș Cotoi",
+            "points": 0.3,
+            "questionImage": "images/Q262.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["D"]
+        },
+        {
+            "questionNumber": 263,
+            "points": 0.3,
+            "author" : "Luca Tudor",
+
+            "questionImage": "images/Q263.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 264,
+            "points": 0.3,
+            "author" : "Luca Tudor",
+
+            "questionImage": "images/Q264.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["B","C","D"]
+        },
+        {
+            "questionNumber": 265,
+            "points": 0.3,
+            "author" : "Luca Tudor",
+
+            "questionImage": "images/Q265.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["B","C","D"]
+        },
+        {
+            "questionNumber": 266,
+            "author" : "Luca Tudor",
+
+            "points": 0.3,
+            "questionImage": "images/Q266.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","B","D"]
+        },
+        {
+            "questionNumber": 267,
+            "author" : "Luca Tudor",
+
+            "points": 0.3,
+            "questionImage": "images/Q267.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","B","D"]
+        },
+        {
+            "questionNumber": 268,
+            "author" : "Daniel Pop",
+            "points": 0.3,
+            "questionImage": "images/Q268.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","D"]
+        },
+        {
+            "questionNumber": 269,
+            "points": 0.3,
+            "author" : "Luca Crețu",
+
+            "questionImage": "images/Q269.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 270,
+            "author" : "Luca Crețu",
+            "points": 0.3,
+            "questionImage": "images/Q270.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 271,
+            "author" : "Luca Crețu",
+            "points": 0.3,
+            "questionImage": "images/Q271.png",
+            "category": "grafuri",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["B"]
+        }
+
+    ]
+}

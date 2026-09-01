@@ -1,0 +1,322 @@
+{
+ "examTitle" : "Concurs Mate-Info UBB 2025",
+ "questions" : [
+    {
+        "questionNumber": 1,
+        "points": 0.375,
+        "question": "Dacă funcția \\(f:(1,+\\infty)\\to\\mathbb{R}\\) este definită prin expresia \\[f(x)=\\log_x\\dfrac{1}{2}+\\log_2\\dfrac{1}{x},\\ \\forall x>1,\\] atunci valoarea expresiei \\(f(8)\\) este",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(-6\\)"},
+            {"answer": "B", "text": "\\(-\\dfrac{8}{3}\\)"},
+            {"answer": "C", "text": "\\(-\\dfrac{10}{3}\\)"},
+            {"answer": "D", "text": "\\(\\dfrac{8}{3}\\)"}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 2,
+        "points": 0.375,
+        "question": "Dacă \\(S\\) este mulțimea soluțiilor reale ale ecuației \\(|x+1|+|x-1|=4\\), atunci suma elementelor mulțimii \\(S\\) este",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "2"},
+            {"answer": "B", "text": "4"},
+            {"answer": "C", "text": "\\(-4\\)"},
+            {"answer": "D", "text": "0"}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 3,
+        "points": 0.375,
+        "question": "Punctul \\(A(2,3)\\) este vârful unui triunghi \\(ABC\\) al cărui ortocentru este punctul \\(H(1,-1).\\) Care dintre următoarele afirmații sunt adevărate?",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "Panta dreptei \\(AH\\) este \\(\\dfrac{1}{4}\\)"},
+            {"answer": "B", "text": "Panta dreptei \\(AH\\) este 4"},
+            {"answer": "C", "text": "Panta dreptei \\(BC\\) este \\(-4\\)"},
+            {"answer": "D", "text": "Panta dreptei \\(BC\\) este \\(-\\dfrac{1}{4}\\)"}
+        ],
+        "correctAnswer": ["B","D"]
+    },
+    {
+        "questionNumber": 4,
+        "points": 0.375,
+        "question": "Valoarea lui \\(\\cos\\dfrac{2025\\pi}{6}\\) este",
+        "category": "trigonometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(-1\\)"},
+            {"answer": "B", "text": "\\(-\\dfrac{1}{2}\\)"},
+            {"answer": "C", "text": "0"},
+            {"answer": "D", "text": "\\(\\dfrac{1}{2}\\)"}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 5,
+        "points": 0.375,
+        "question": "Fie \\(\\vec{i}\\) și \\(\\vec{j}\\) versorii axelor de coordonate într-un sistem cartezian. Dacă vectorii \\(\\vec{a}=2\\vec{i}-x\\vec{j}\\) și \\(\\vec{b}=x\\vec{i}-8\\vec{j}\\) sunt coliniari, atunci valoarea parametrului \\(x\\in\\mathbb{R}\\) poate fi:",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(-4\\)"},
+            {"answer": "B", "text": "0"},
+            {"answer": "C", "text": "4"},
+            {"answer": "D", "text": "8"}
+        ],
+        "correctAnswer": ["A","C"]
+    },
+    {
+        "questionNumber": 6,
+        "points": 0.375,
+        "question": "Termenii unei progresii geometrice sunt numerele naturale \\(a\\) \\(<\\) \\(b\\) \\(<\\) \\(c\\) care satisfac relația \\(a+b+c=21\\). Care dintre următoarele afirmații sunt adevărate, dacă și rația progresiei este un număr natural?",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "Există cel puțin o progresie geometrică cu această proprietate"},
+            {"answer": "B", "text": "Există exact două progresii geometrice cu această proprietate"},
+            {"answer": "C", "text": "Rația progresiei este număr par"},
+            {"answer": "D", "text": "Rația progresiei este număr impar"}
+        ],
+        "correctAnswer": ["A","B","C"]
+    },
+    {
+        "questionNumber": 7,
+        "points": 0.375,
+        "question": "Pentru fiecare \\(n\\in\\mathbb{N}^*\\) se notează \\(a_n=\\displaystyle\\lim_{x\\to\\frac{\\pi}{2}}\\dfrac{1-\\sin^n x}{\\cos^2 x}\\). Valoarea limitei \\(\\displaystyle\\lim_{n\\to\\infty}\\sqrt{n}\\left(\\sqrt{a_{n+1}}-\\sqrt{a_n}\\right)\\) este:",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(\\dfrac{1}{2}\\)"},
+            {"answer": "B", "text": "\\(\\dfrac{1}{\\sqrt{2}}\\)"},
+            {"answer": "C", "text": "\\(\\dfrac{1}{2\\sqrt{2}}\\)"},
+            {"answer": "D", "text": "\\(2\\sqrt{2}\\)"}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 8,
+        "points": 0.375,
+        "question": "Valoarea limitei \\(\\displaystyle\\lim_{x\\to0}\\left(\\dfrac{\\operatorname{tg}x}{x}\\right)^{1/x^2}\\) este:",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "1"},
+            {"answer": "B", "text": "\\(e^{1/3}\\)"},
+            {"answer": "C", "text": "\\(e^{2/3}\\)"},
+            {"answer": "D", "text": "\\(e^{1/6}\\)"}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 9,
+        "points": 0.375,
+        "question": "Fie \\(a,b\\in\\mathbb{R}\\) și fie \\(f:\\mathbb{R}\\to\\mathbb{R}\\) funcția definită prin \\[f(x)=\\begin{cases}-1+\\operatorname{arctg}x, & \\text{dacă }x<0\\\\ ax+b, & \\text{dacă }x\\geq0\\end{cases}.\\] Dacă \\(f\\) este derivabilă pe \\(\\mathbb{R}\\), atunci valoarea sumei \\(a+b\\) este",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "0"},
+            {"answer": "B", "text": "\\(\\dfrac{\\pi}{4}\\)"},
+            {"answer": "C", "text": "\\(\\dfrac{\\pi}{2}\\)"},
+            {"answer": "D", "text": "\\(-2\\)"}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 10,
+        "points": 0.375,
+        "question": "Se dă pătratul \\(MNPQ\\) cu latura \\(MN=2\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(\\overrightarrow{MN}\\cdot\\overrightarrow{MQ}=0\\)"},
+            {"answer": "B", "text": "\\(\\overrightarrow{MP}\\cdot\\overrightarrow{NQ}=0\\)"},
+            {"answer": "C", "text": "\\(\\overrightarrow{MN}\\cdot\\overrightarrow{MP}=4\\)"},
+            {"answer": "D", "text": "\\(\\overrightarrow{MN}\\cdot\\overrightarrow{MP}=4\\sqrt{2}\\)"}
+        ],
+        "correctAnswer": ["A","B","C"]
+    },
+    {
+        "questionNumber": 11,
+        "points": 0.375,
+        "question": "Fie \\(ABCD\\) un patrulater oarecare și punctele \\(G_1\\) respectiv \\(G_2\\) centrele de greutate ale triunghiurilor \\(ABD\\) respectiv \\(BCD\\). Notăm cu \\(M\\) mijlocul diagonalei \\(BD\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "\\(\\overrightarrow{AG_1}=\\dfrac{1}{2}\\overrightarrow{AM}\\)"},
+            {"answer": "B", "text": "\\(\\overrightarrow{AG_1}=\\dfrac{2}{3}\\overrightarrow{AM}\\)"},
+            {"answer": "C", "text": "\\(\\overrightarrow{G_1G_2}=\\dfrac{1}{3}\\overrightarrow{AC}\\)"},
+            {"answer": "D", "text": "\\(\\overrightarrow{G_1G_2}=\\dfrac{1}{2}\\overrightarrow{AC}\\)"}
+        ],
+        "correctAnswer": ["B","C"]
+    },
+    {
+        "questionNumber": 12,
+        "points": 0.375,
+        "question": "Fie \\(M=\\left\\{z\\in\\mathbb{C}^*\\mid z+\\dfrac{2025}{z}\\in\\mathbb{R}\\right\\}\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(\\mathbb{R}^*\\subseteq M\\)"},
+            {"answer": "B", "text": "Dacă \\(z\\in M\\), atunci \\(\\dfrac{2025}{z}\\in M\\)"},
+            {"answer": "C", "text": "Dacă \\(z\\in M\\setminus\\mathbb{R}^*\\), atunci \\(|z|\\) este unic determinat"},
+            {"answer": "D", "text": "Mulțimea \\(M\\setminus\\mathbb{R}^*\\) este vidă"}
+        ],
+        "correctAnswer": ["A","B","C"]
+    },
+    {
+        "questionNumber": 13,
+        "points": 0.375,
+        "question": "Numărul numerelor întregi strict pozitive \\(m\\) pentru care ecuația de gradul doi \\[mx^2+20x+m=0\\] admite două soluții reale distincte este",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "0"},
+            {"answer": "B", "text": "9"},
+            {"answer": "C", "text": "10"},
+            {"answer": "D", "text": "11"}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 14,
+        "points": 0.375,
+        "question": "Fie \\(S\\) mulțimea soluțiilor reale ale ecuației \\[3^{x-2}+3^{x-1}+3^x+3^{x+1}=2^{x+1}+2^{x+3}.\\] Care dintre următoarele afirmații sunt adevărate?",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "\\(S\\) are exact un element"},
+            {"answer": "B", "text": "Există cel puțin un număr irațional în mulțimea \\(S\\)"},
+            {"answer": "C", "text": "\\(S\\) are exact două elemente"},
+            {"answer": "D", "text": "Există cel puțin un număr rațional în mulțimea \\(S\\)"}
+        ],
+        "correctAnswer": ["A","D"]
+    },
+    {
+        "questionNumber": 15,
+        "points": 0.375,
+        "question": "Valoarea integralei \\(\\displaystyle\\int_0^{\\pi/3}\\dfrac{dx}{\\cos x}\\) este:",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(\\ln(2-\\sqrt3)\\)"},
+            {"answer": "B", "text": "\\(\\ln(2+\\sqrt3)\\)"},
+            {"answer": "C", "text": "\\(\\ln(3-\\sqrt3)\\)"},
+            {"answer": "D", "text": "\\(\\ln(4+\\sqrt3)\\)"}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 16,
+        "points": 0.375,
+        "question": "Numărul soluțiilor ecuației \\(\\sin^2(2x)+\\cos^2(x)=1\\) în intervalul \\([0,\\pi]\\) este:",
+        "category": "trigonometrie",
+        "answers": [
+            {"answer": "A", "text": "4"},
+            {"answer": "B", "text": "3"},
+            {"answer": "C", "text": "2"},
+            {"answer": "D", "text": "1"}
+        ],
+        "correctAnswer": ["A"]
+    },
+    {
+        "questionNumber": 17,
+        "points": 0.375,
+        "question": "Fie \\(f:[0,\\infty)\\to\\mathbb{R}\\) funcția definită prin \\[f(x)=\\begin{cases}x, & \\text{dacă }x\\in[0,1]\\\\ \\dfrac{1}{x^2}, & \\text{dacă }x>1\\end{cases}.\\] Fiind dat un număr real \\(t\\in(0,1)\\), dreapta de ecuație \\(y=t\\) intersectează graficul lui \\(f\\) în punctele \\(A\\) și \\(B\\). Fie \\(A'\\) și \\(B'\\) proiecțiile pe axa \\(Ox\\) ale punctelor \\(A\\) și respectiv \\(B\\). Atunci când \\(t\\) variază în \\((0,1)\\), valoarea maximă a ariei dreptunghiului \\(AA'B'B\\) este:",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(\\dfrac{\\sqrt[3]{2}}{2}\\)"},
+            {"answer": "B", "text": "\\(\\dfrac{3\\sqrt[3]{2}}{8}\\)"},
+            {"answer": "C", "text": "\\(\\dfrac{\\sqrt[3]{2}}{4}\\)"},
+            {"answer": "D", "text": "\\(\\dfrac{\\sqrt[3]{2}}{8}\\)"}
+        ],
+        "correctAnswer": ["B"]
+    },
+    {
+        "questionNumber": 18,
+        "points": 0.375,
+        "question": "Dreptele de ecuații \\(11x+3y-7=0\\) și \\(12x+y-19=0\\) se intersectează într-un punct \\(M\\). Dreptele \\(d_1\\) și \\(d_2\\) prin punctul \\(M\\) sunt situate la distanța \\(\\sqrt2\\) față de punctul \\(A(3,-2)\\). Care dintre următoarele afirmații sunt adevărate?",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "Suma coordonatelor punctului \\(M\\) este \\(-7\\)"},
+            {"answer": "B", "text": "Suma coordonatelor punctului \\(M\\) este \\(-3\\)"},
+            {"answer": "C", "text": "Dreptele \\(d_1\\) și \\(d_2\\) au ecuațiile: \\(7x+y-9=0\\) și \\(x-y-7=0\\)"},
+            {"answer": "D", "text": "Dreptele \\(d_1\\) și \\(d_2\\) au ecuațiile: \\(x+7y-9=0\\) și \\(x+y+7=0\\)"}
+        ],
+        "correctAnswer": ["B","C"]
+    },
+    {
+        "questionNumber": 19,
+        "points": 0.375,
+        "question": "Se dă un romb \\(ABCD\\) cu vârful \\(A(1,0)\\) și cu latura \\(AB\\) pe axa \\(Ox\\) . Dacă intersecția diagonalelor se află în punctul \\(M(3,4)\\), atunci rombului este",
+        "category": "geometrie",
+        "answers": [
+            {"answer": "A", "text": "20"},
+            {"answer": "B", "text": "40"},
+            {"answer": "C", "text": "60"},
+            {"answer": "D", "text": "80"}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 20,
+        "context": "Problemele 20, 21 și 22 se referă la funcția \\(f:[0,4]\\to\\mathbb{R}\\), definită prin \\(f(x)=(2-x)\\sqrt{4x-x^2}\\).",
+        "points": 0.375,
+        "question": "Care dintre următoarele afirmații sunt adevărate?",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "Graficul lui \\(f\\) posedă o axă de simetrie paralelă cu axa \\(Oy\\)"},
+            {"answer": "B", "text": "Graficul lui \\(f\\) admite un centru de simetrie"},
+            {"answer": "C", "text": "Graficul lui \\(f\\) nu admite nici centru de simetrie, nici axă de simetrie paralelă cu axa \\(Oy\\)"},
+            {"answer": "D", "text": "Graficul lui \\(f\\) admite un centru de simetrie, dar nu posedă axă de simetrie paralelă cu axa \\(Oy\\)"}
+        ],
+        "correctAnswer": ["B","D"]
+    },
+    {
+        "questionNumber": 21,
+        "chapterContext": "Fie funcția $f:[0,4]\\to\\mathbb{R}$, definită prin \\(f(x)=(2-x)\\sqrt{4x-x^2}\\).",
+        "context": null,
+        "points": 0.375,
+        "question": "Numărul punctelor de extrem local ale lui \\(f\\) este:",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "0"},
+            {"answer": "B", "text": "2"},
+            {"answer": "C", "text": "3"},
+            {"answer": "D", "text": "4"}
+        ],
+        "correctAnswer": ["D"]
+    },
+    {
+        "questionNumber": 22,
+        "chapterContext": "Fie funcția $f:[0,4]\\to\\mathbb{R}$, definită prin \\(f(x)=(2-x)\\sqrt{4x-x^2}\\).",
+        "context": null,
+        "points": 0.375,
+        "question": "Valoarea integralei \\(\\displaystyle\\int_0^4|f(x)|\\,dx\\) este:",
+        "category": "analiza",
+        "answers": [
+            {"answer": "A", "text": "\\(\\dfrac{8}{3}\\)"},
+            {"answer": "B", "text": "\\(\\dfrac{4}{3}\\)"},
+            {"answer": "C", "text": "\\(\\dfrac{16}{3}\\)"},
+            {"answer": "D", "text": "4"}
+        ],
+        "correctAnswer": ["C"]
+    },
+    {
+        "questionNumber": 23,
+        "points": 0.375,
+        "question": "Fie \\(a\\in\\mathbb{C}\\) și considerăm sistemul de ecuații \\[\\begin{cases}x+y-z=1\\\\2x+ay+z=1\\\\2x-y+az=1\\end{cases}.\\] Care dintre următoarele afirmații sunt adevărate?",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "Pentru orice \\(a\\in\\mathbb{R}\\) sistemul admite soluție unică"},
+            {"answer": "B", "text": "Dacă sistemul este incompatibil, atunci \\(|a|=\\sqrt5\\)"},
+            {"answer": "C", "text": "Există \\(a\\in\\mathbb{C}\\) pentru care sistemul admite o infinitate de soluții"},
+            {"answer": "D", "text": "Dacă pentru o soluție \\((x,y,z)\\) avem \\(x+y+z=0\\), atunci \\(a\\notin\\mathbb{R}\\)"}
+        ],
+        "correctAnswer": ["A","B","D"]
+    },
+    {
+        "questionNumber": 24,
+        "points": 0.375,
+        "question": "Fie \\(f:(\\mathbb{Z}_{10},+)\\to(\\mathbb{Z}_5,+)\\) un morfism de grupuri. Care dintre următoarele afirmații sunt adevărate?",
+        "category": "algebra",
+        "answers": [
+            {"answer": "A", "text": "Dacă \\(\\mathrm{Im}(f)\\) are un singur element, atunci acesta este \\(\\hat{1}\\)"},
+            {"answer": "B", "text": "\\(\\hat{0}\\in\\mathrm{Im}(f)\\)"},
+            {"answer": "C", "text": "Dacă \\(\\mathrm{Im}(f)\\) are cel puțin două elemente, atunci \\(f\\) este surjectiv"},
+            {"answer": "D", "text": "Există un singur morfism \\(f:(\\mathbb{Z}_{10},+)\\to(\\mathbb{Z}_5,+)\\)"}
+        ],
+        "correctAnswer": ["B","C"]
+    }
+]
+}
