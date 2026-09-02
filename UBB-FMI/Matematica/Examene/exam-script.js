@@ -276,24 +276,31 @@ function initExam(data) {
 
             let questionScore = 0;
 
+            if (selectedAnswers.length === options.length && correctAnswers.length !== options.length) {
 
-            selectedAnswers.forEach(answer => {
+                  questionScore = 0;
+ 
+            }
+            else{
 
-                if (
-                    correctAnswers.includes(answer)
-                ) {
+                selectedAnswers.forEach(answer => {
 
-                    questionScore +=
-                        pointsPerCorrect;
+                    if (
+                        correctAnswers.includes(answer)
+                    ) {
 
-                } else {
+                        questionScore +=
+                            pointsPerCorrect;
 
-                    questionScore +=
-                        penaltyPerWrong;
+                    } else {
 
-                }
+                        questionScore +=
+                            penaltyPerWrong;
 
-            });
+                    }
+
+                });
+            }
 
 
             // Punctajul unei grile nu poate fi negativ
