@@ -34,9 +34,9 @@ body {
 }
 
 .container {
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
+    width: min(1200px, 100%);
+    margin: 0 auto;
+    padding: 30px 40px;
 }
 
 .footer-space{
@@ -46,7 +46,7 @@ body {
 .site-footer {
     height : 500px;
     margin-top: max(100,auto);
-    width: min(1200px, 100%);
+    width : 100%;
     justify-content: center;
     margin : 0 auto;
     padding: 30px 20px;

@@ -26,6 +26,8 @@
     color: white;
 
     margin-bottom:40px;
+ 
+    
 }
 
 .main-left h2{
@@ -52,6 +54,48 @@
     font-style: italic;
 
     color:#1F3A5F;
+
+}
+
+.main-left h1,
+.main-left h2,
+.main-left > p,
+.main-right {
+    opacity: 0;
+    animation: dropIn 0.8s cubic-bezier(.22, 1.2, .36, 1) forwards;
+}
+
+.main-left h1 {
+    animation-delay: 0s;
+}
+
+.main-left h2 {
+    animation-delay: 0.15s;
+}
+
+.main-left > p {
+    animation-delay: 0.3s;
+}
+
+.main-right {
+    animation-delay: 0.45s;
+}
+
+@keyframes dropIn {
+    from {
+        opacity: 0;
+        transform: translateY(-80px);
+    }
+
+    70% {
+        opacity: 1;
+        transform: translateY(8px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 .result-card{
