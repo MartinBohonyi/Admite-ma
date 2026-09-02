@@ -58,3 +58,12 @@
     background:#274a78;
 }
 
+@media (max-width: 768px) {
+    .header-button {
+        padding: 14px 26px;
+        font-size: 21px;
+        min-height: 44px;
+        box-sizing: border-box;
+    }
+}
+

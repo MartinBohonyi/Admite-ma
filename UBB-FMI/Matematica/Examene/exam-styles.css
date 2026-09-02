@@ -255,15 +255,17 @@ body{
     transition : 0.3s;
 }
 
-.answer-letter:hover{
+@media (hover: hover) and (pointer: fine) {
+    .answer-letter:hover{
 
-    background:#1F3A5F;
+        background:#1F3A5F;
 
-    color:white;
+        color:white;
 
-    transform:translateY(-3px);
+        transform:translateY(-3px);
 
-    transition:0.3s;
+        transition:0.3s;
+    }
 }
 
 .question-divider{
