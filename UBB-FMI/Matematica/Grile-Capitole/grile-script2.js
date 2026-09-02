@@ -332,24 +332,46 @@ Promise.all(
                 answerData.answer;
 
 
-            const answerText =
-                document.createElement("p");
+           const answerText =
+    document.createElement("p");
 
-            answerText.classList.add(
-                "answer-text"
+        answerText.classList.add(
+            "answer-text"
+        );
+
+        if (answerData.image) {
+
+            const answerImage =
+                document.createElement("img");
+
+            answerImage.src =
+                "../../Examene/" + answerData.image;
+
+            answerImage.alt =
+                "Varianta " + answerData.answer;
+
+            answerImage.classList.add(
+                "answer-image"
             );
+
+            answerText.appendChild(
+                answerImage
+            );
+
+        } else {
 
             answerText.innerHTML =
                 answerData.text;
 
+        }
 
-            answerOption.appendChild(
-                answerLetter
-            );
+        answerOption.appendChild(
+            answerLetter
+        );
 
-            answerOption.appendChild(
-                answerText
-            );
+        answerOption.appendChild(
+            answerText
+        );
 
             answers.appendChild(
                 answerOption

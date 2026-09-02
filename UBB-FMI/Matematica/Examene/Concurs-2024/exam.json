@@ -148,7 +148,7 @@
         "questionNumber": 12,
         "points": 0.375,
         "question": "Dacă notăm cu \\(S\\) mulțimea soluțiilor reale ale ecuației \\[\\sqrt{x-6\\sqrt{x+1}+10}+\\sqrt{x+6\\sqrt{x+1}+10}=6,\\] atunci",
-        "category": "analiza",
+        "category": "algebra",
         "answers": [
             {"answer": "A", "text": "\\(3\\in S\\)"},
             {"answer": "B", "text": "\\(15\\in S\\)"},

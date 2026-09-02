@@ -110,7 +110,7 @@
         "questionNumber": 9,
         "points": 0.375,
         "question": "Pentru fiecare \\(a\\in[-2,2]\\) se consideră șirul definit prin \\[S_n(a)=\\dfrac{a}{2}+\\dfrac{a^2}{2^2}+\\cdots+\\dfrac{a^n}{2^n},\\quad n\\in\\mathbb{N}^*.\\] Care dintre următoarele afirmații sunt adevărate?",
-        "category": "algebra",
+        "category": "analiza",
         "answers": [
             {"answer": "A", "text": "\\(\\displaystyle\\lim_{n\\to\\infty}S_n(a)=\\dfrac{a}{2-a}\\), oricare ar fi \\(a\\in(-2,2)\\)"},
             {"answer": "B", "text": "\\((S_n(a))_{n\\geq1}\\) este un șir mărginit, oricare ar fi \\(a\\in[-2,2]\\)"},

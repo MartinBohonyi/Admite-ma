@@ -31,7 +31,7 @@
         "questionNumber": 2,
         "points": 0.375,
         "question": "Pentru care valoare a parametrului \\(p\\) dreptele \\(d_1:(1+\\sqrt{3})y=px+5\\) și \\(d_2:y=(2-\\sqrt{3})x+8\\) sunt paralele?",
-        "category": "algebra",
+        "category": "geometrie",
         "answers": [
             {
                 "answer": "A",

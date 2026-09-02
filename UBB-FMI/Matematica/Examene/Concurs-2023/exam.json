@@ -287,7 +287,7 @@
     "questionNumber": 22,
     "points": 0.375,
     "question": "Care dintre graficele de mai jos poate fi graficul funcției definite prin \\(f(x) = \\cos\\dfrac{\\pi}{x^2 + 2x + 3}\\)?",
-    "category": "analiza",
+    "category": "algebra",
     "answers": [
       {"answer": "A", "text" : "" , "image": "Concurs-2023/imagini/Q22A.png"},
       {"answer": "B", "text": "" , "image" : "Concurs-2023/imagini/Q22B.png"},
