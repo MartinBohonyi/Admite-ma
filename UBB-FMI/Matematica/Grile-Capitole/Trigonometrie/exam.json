@@ -1,0 +1,135 @@
+{
+    "examTitle" : "Probleme si Teste Grilă de Matematică pentru Admiterea la Facultatea de Matematică și Informatică Universitatea Babeș-Bolyai 2026",
+    "questions" : [
+        {
+        "questionNumber": 535,
+        "points": 0.3,
+        "author" : "Mihai Iancu",
+        "question": "Dacă r și R sunt razele cercului înscris, respectiv cercului circumscris, unui triunghi cu laturile \\(3\\), \\(4\\) și \\(5\\), atunci:",
+        "category": "trigonometrie",
+        "answers": [
+            {
+            "answer": "A",
+            "text": "\\(2R = 5r\\)"
+            },
+            {
+            "answer": "B",
+            "text": "\\(2Rr = 5\\)"
+            },
+            {
+            "answer": "C",
+            "text": "\\(R + r = Rr\\)"
+            },
+            {
+            "answer": "D",
+            "text": "\\(r < R < 2r\\)"
+            }
+        ],
+        "correctAnswer": ["A", "B"]
+        },
+        {
+        "questionNumber": 536,
+        "points": 0.3,
+        "question": "Dacă \\(x\\) este lungimea laturii unui pătrat care are vârfurile pe laturile unui triunghi cu lungimile \\(3\\), \\(4\\) și \\(5\\). Să se indice care dintre următoarele afirmații sunt adevărate.",
+        "category": "trigonometrie",
+        "author": "Mihai Iancu",
+        "answers": [
+            {
+            "answer": "A",
+            "text": "\\(x \\in \\left\\{\\dfrac{50}{27},\\dfrac{35}{16},\\dfrac{60}{37}\\right\\}\\)"
+            },
+            {
+            "answer": "B",
+            "text": "\\(x \\in \\left\\{\\dfrac{13}{7},2,\\dfrac{15}{7}\\right\\}\\)"
+            },
+            {
+            "answer": "C",
+            "text": "\\(x \\in \\left\\{\\dfrac{12}{7},2,\\dfrac{60}{37}\\right\\}\\)"
+            },
+            {
+            "answer": "D",
+            "text": "\\(x \\in \\left\\{\\dfrac{12}{7},\\dfrac{60}{37}\\right\\}\\)"
+            }
+        ],
+        "correctAnswer": ["C","D"]
+        },
+        {
+        "questionNumber": 537,
+        "points": 0.3,
+        "question": "Fie \\(ABC\\) un triunghi nedegenarat astfel încât lungimea segmentului \\([BC]\\) este \\(\\sqrt{3}\\), măsura unghiului \\(\\widehat{B}\\) este \\(60^\\circ\\) și lungimea razei cercului circumscris  \\(\\triangle ABC\\) este \\(1\\). Care dintre următoarele variante de răspuns sunt adevărate?",
+        "category": "trigonometrie",
+        "author": "Mihai Iancu",
+        "answers": [
+            {
+            "answer": "A",
+            "text": "aria \\(\\triangle ABC\\) este \\(\\dfrac{3\\sqrt{3}}{2}\\)"
+            },
+            {
+            "answer": "B",
+            "text": "perimetrul \\(\\triangle ABC\\) este \\(3\\sqrt{3}\\)"
+            },
+            {
+            "answer": "C",
+            "text": "\\(\\triangle ABC\\) este echilateral"
+            },
+            {
+            "answer": "D",
+            "text": "lungimea razei cercului înscris \\(\\triangle ABC\\) este \\(\\dfrac{\\sqrt{3}}{2}\\)"
+            }
+        ],
+        "correctAnswer": ["B", "C"]
+        },
+        {
+        "questionNumber": 538,
+        "points": 0.3,
+        "question": "Fie triunghiul \\(ABC\\), ale cărui laturi au lungimile \\(BC = 6\\), \\(CA = 10\\), \\(AB = 8\\). Fie \\(I\\) centrul cercului înscris în triunghiul \\(ABC\\) și fie \\(r\\) raza cercului înscris. Să se indice care dintre următoarele afirmații sunt adevărate.",
+        "category": "trigonometrie",
+        "author": "Tudor Micu",
+        "answers": [
+            {
+            "answer": "A",
+            "text": "Triunghiul este ascuțitunghic"
+            },
+            {
+            "answer": "B",
+            "text": "Lungimea înălțimii din A este 4"
+            },
+            {
+            "answer": "C",
+            "text": "\\(\\mathcal{A}[\\triangle BIC] = 6\\)"
+            },
+            {
+            "answer": "D",
+            "text": "\\(\\dfrac{\\mathcal{A}[\\triangle AIB]}{\\mathcal{A}[\\triangle AIC]} = \\dfrac{3}{5}\\)"
+            }
+        ],
+        "correctAnswer": ["C"]
+        },
+        {
+        "questionNumber": 539,
+        "points": 0.3,
+        "question": "Știind că unghiurile triunghiului \\(ABC\\) formează în ordine alfabetică o progresie aritmetică cu rația \\(r \\in \\left(0,\\dfrac{\\pi}{3}\\right)\\) fixată arbitrar, este ce valoarea expresiei trigonometrice \\(\\dfrac{a}{c}\\cdot\\sin(2\\gamma)+\\dfrac{c}{a}\\cdot\\sin(2\\alpha)\\), unde \\(a>0\\) și \\(c>0\\) denotă lungimea laturii opuse unghiurilor \\(\\alpha = \\widehat{BAC}=\\dfrac{\\pi}{3}-r\\), respectiv \\(\\gamma=\\widehat{ACB}\\)?",
+        "category": "trigonometrie",
+        "author": "Róth Ágoston",
+        "answers": [
+            {
+            "answer": "A",
+            "text": "\\(\\dfrac{\\sqrt{3}}{2}\\)"
+            },
+            {
+            "answer": "B",
+            "text": "\\(\\dfrac{1}{2}\\)"
+            },
+            {
+            "answer": "C",
+            "text": "\\(\\dfrac{2\\sqrt{3}}{2}\\)"
+            },
+            {
+            "answer": "D",
+            "text": "\\(\\dfrac{\\sqrt{2}}{2}\\)"
+            }
+        ],
+        "correctAnswer": ["C"]
+        }
+    ]
+}

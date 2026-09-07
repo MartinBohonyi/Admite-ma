@@ -16,6 +16,8 @@ const examene = [
     "../Examene/Admitere-2021(septembrie)/exam.json",
     "../Examene/Admitere-2021(septembrie)/exam.json",
     "../Examene/Concurs-2021/exam.json",
+    
+    "../Grile-Capitole/Trigonometrie/exam.json"
 ];
 
 /// "../Examene/Admitere-2022(septembrie)/exam.json",

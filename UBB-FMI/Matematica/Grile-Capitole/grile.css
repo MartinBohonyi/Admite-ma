@@ -37,3 +37,11 @@
     color :#1F3A5F;
     font-style: italic;
 }
+
+.question-author {
+    margin: 0 0 12px 5px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif ;
+    color :#1F3A5F;
+    font-style: italic;
+}

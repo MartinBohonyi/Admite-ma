@@ -22,7 +22,6 @@ const examene = [
     "../../Examene/Concurs-2021/exam.json",
 ];
 
-
 // ==================================================
 // CATEGORIA SELECTATĂ
 // ==================================================
@@ -49,13 +48,21 @@ Promise.all(
             );
         }
 
-        return await response.json();
+        const data = await response.json();
+
+        return {
+            data: data,
+            basePath: new URL(
+                "./",
+                new URL(path, window.location.href)
+            ).href
+        };
 
     })
 
 )
 
-.then(exameneData => {
+.then(async exameneData => {
 
     const analysisQuestions = [];
 
@@ -64,7 +71,9 @@ Promise.all(
     // EXTRAGEM GRILELE DIN TOATE EXAMENELE
     // ==================================================
 
-    exameneData.forEach(examenData => {
+    exameneData.forEach(examen => {
+
+        const examenData = examen.data;
 
         examenData.questions.forEach(questionData => {
 
@@ -82,13 +91,72 @@ Promise.all(
                 source: examenData.examTitle,
 
                 correctAnswer:
-                    questionData.correctAnswer
+                    questionData.correctAnswer,
+
+                basePath: examen.basePath
 
             });
 
         });
 
     });
+
+
+    // ==================================================
+    // ÎNCERCĂM SĂ ÎNCĂRCĂM exam.json DIN CAPITOL
+    // ==================================================
+
+    try {
+
+        const response =
+            await fetch("./exam.json");
+
+
+        if (response.ok) {
+
+            const capitolData =
+                await response.json();
+
+
+            capitolData.questions.forEach(questionData => {
+
+                // Luăm doar categoria selectată
+
+                if (questionData.category !== category) {
+                    return;
+                }
+
+
+                analysisQuestions.push({
+
+                    question: questionData,
+
+                    source:
+                        capitolData.examTitle,
+
+                    correctAnswer:
+                        questionData.correctAnswer,
+
+                    basePath:
+                        new URL(
+                            "./",
+                            window.location.href
+                        ).href
+
+                });
+
+            });
+
+        }
+
+    }
+
+    catch (error) {
+
+        // Nu există exam.json în acest capitol.
+        // Nu facem nimic și continuăm normal.
+
+    }
 
 
     console.log(
@@ -165,6 +233,22 @@ Promise.all(
 
 
         questionsList.appendChild(source);
+
+        if (question.author) {
+
+            const author =
+                document.createElement("p");
+
+            author.classList.add(
+                "question-author"
+            );
+
+            author.textContent =
+                `Autor: ${question.author}`;
+
+            questionsList.appendChild(author);
+
+        }
 
 
         // ==================================================
