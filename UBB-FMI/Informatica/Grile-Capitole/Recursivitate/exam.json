@@ -140,6 +140,76 @@
             {"answer": "D" , "text" : ""}
             ],
             "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 161,
+            "points": 0.3,
+            "author" : "Luca Tudor",
+            "questionImage": "images/Q161.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","B"]
+        },
+        {
+            "questionNumber": 162,
+            "points": 0.3,
+            "author" : "Luca Tudor",
+            "questionImage": "images/Q162.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 163,
+            "points": 0.3,
+            "author" : "Mihai Gheorgheș",
+            "questionImage": "images/Q163.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","C","D"]
+        },
+        {
+            "questionNumber": 164,
+            "points": 0.3,
+            "author" : "Cristian Crețu",
+            "questionImage": "images/Q164.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","D"]
+        },
+        {
+            "questionNumber": 165,
+            "points": 0.3,
+            "author" : "Cristian Crețu",
+            "questionImage": "images/Q165.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["C"]
         }
     ]
 }
