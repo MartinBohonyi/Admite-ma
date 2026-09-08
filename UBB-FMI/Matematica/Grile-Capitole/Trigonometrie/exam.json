@@ -130,6 +130,314 @@
             }
         ],
         "correctAnswer": ["C"]
+        },
+        {
+        "questionNumber": 540,
+        "points": 0.3,
+        "question": "În triunghiul \\(MNP\\) avem \\(m(\\widehat{M}) = \\dfrac{\\pi}{3}\\) și \\(\\sin N + \\cos N = \\sin P + \\cos P\\). Atunci, triunghiul \\(MNP\\) este:",
+        "category": "trigonometrie",
+        "author": "Rareș Cotoi",
+        "answers": [
+            {
+            "answer": "A",
+            "text": "dreptunghic"
+            },
+            {
+            "answer": "B",
+            "text": "echilateral"
+            },
+            {
+            "answer": "C",
+            "text": "dreptunghic isoscel"
+            },
+            {
+            "answer": "D",
+            "text": "nu există un astfel de triunghi."
+            }
+        ],
+        "correctAnswer": ["B"]
+        },
+        {
+        "questionNumber": 541,
+        "points": 0.3,
+        "question": "Se consideră punctul \\(P\\left(\\dfrac{1}{5},\\dfrac{2\\sqrt{6}}{5}\\right)\\). Știind că punctul \\(P'\\) este simetricul său față de dreapta \\(y=3x+1\\), care dintre următoarele afirmații sunt adevărate?",
+        "category": "trigonometrie",
+        "author": "Ioana Gavrilă",
+        "answers": [
+            {
+            "answer": "A",
+            "text": "\\(P\\) se află pe cercul trigonometric;"
+            },
+            {
+            "answer": "B",
+            "text": "\\(P'\\) nu se află pe cercul trigonometric;"
+            },
+            {
+            "answer": "C",
+            "text": "\\(P\\) nu se află pe cercul trigonometric;"
+            },
+            {
+            "answer": "D",
+            "text": "\\(x_{P'} < 2\\)."
+            }
+        ],
+        "correctAnswer": ["A", "B", "D"]
+        },
+        {
+        "questionNumber": 542,
+        "points": 0.3,
+        "question": "Punctul \\(M\\left(\\dfrac{1}{2},\\dfrac{\\sqrt{3}}{2}\\right)\\) situat pe cercul trigonometric se rotește în sens orar în jurul originii cu 90°. Fie \\(x_{M'}\\) și \\(y_{M'}\\) coordonatele sale după exact o rotire. Valoarea expresiei \\(x_{M'}\\cdot y_{M'}\\) este:",
+        "category": "trigonometrie",
+        "author": "Ioana Gavrilă",
+        "answers": [
+            {
+            "answer": "A",
+            "text": "\\(-\\dfrac{\\sqrt{3}}{4}\\)"
+            },
+            {
+            "answer": "B",
+            "text": "\\(\\dfrac{\\sqrt{3}}{4}\\)"
+            },
+            {
+            "answer": "C",
+            "text": "\\(-\\dfrac{1}{4}\\)"
+            },
+            {
+            "answer": "D",
+            "text": "\\(\\dfrac{1}{4}\\)"
+            }
+        ],
+        "correctAnswer": ["A"]
+        },
+        {
+        "questionNumber": 543,
+        "points": 0.3,
+        "question": "Fie triunghiul \\(ABC\\) cu laturile \\(a,b,c\\). Știind că unghiurile \\(A,B,C\\) sunt în progresie aritmetică, \\(a+b+c=3\\sqrt{2}+2\\sqrt{3}+\\sqrt{6}\\) și \\(\\sin A+\\sin B+\\sin C=\\dfrac{1}{4}(a+b+c)\\), valoarea lui \\(\\cos C\\) este:",
+        "category": "trigonometrie",
+        "author": "Rareș Răhăian",
+        "answers": [
+            {
+            "answer": "A",
+            "text": "1"
+            },
+            {
+            "answer": "B",
+            "text": "\\(\\dfrac{\\sqrt{3}}{2}\\)"
+            },
+            {
+            "answer": "C",
+            "text": "\\(\\dfrac{\\sqrt{2}}{2}\\)"
+            },
+            {
+            "answer": "D",
+            "text": "\\(\\dfrac{1}{2}\\)"
+            }
+        ],
+        "correctAnswer": ["C"]
+        },
+        {
+        "questionNumber": 544,
+        "points": 0.3,
+        "question": "Fie triunghiul \\(ABC\\) cu \\(\\operatorname{tg} A=3\\) și \\(\\operatorname{tg} B=2\\). Atunci \\(\\sin C\\) este egal cu:",
+        "category": "trigonometrie",
+        "author": "Rareș Răhăian",
+        "answers": [
+            {
+            "answer": "A",
+            "text": "1"
+            },
+            {
+            "answer": "B",
+            "text": "\\(\\dfrac{\\sqrt{2}}{2}\\)"
+            },
+            {
+            "answer": "C",
+            "text": "0"
+            },
+            {
+            "answer": "D",
+            "text": "\\(\\dfrac{1}{2}\\)"
+            }
+        ],
+        "correctAnswer": ["B"]
+        },
+        {
+        "questionNumber": 545,
+        "points": 0.3,
+        "question": "Fie triunghiul \\(ABC\\) în care are loc relația \\(\\sin A\\sin B=\\cos^2\\dfrac{C}{2}\\). Fie \\(a,b,c\\) lungimile laturilor triunghiului. Să se indice care dintre următoarele afirmații sunt adevărate.",
+        "category": "trigonometrie",
+        "author": "Rareș Răhăian",
+        "answers": [
+            {
+            "answer": "A",
+            "text": "\\(a=b\\);"
+            },
+            {
+            "answer": "B",
+            "text": "\\(a^2+b^2=c^2\\);"
+            },
+            {
+            "answer": "C",
+            "text": "\\(a=b=c\\);"
+            },
+            {
+            "answer": "D",
+            "text": "\\(2c=a+b\\)."
+            }
+        ],
+        "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 546,
+            "points": 0.3,
+            "question": "Fie un șir de triunghiuri \\((\\triangle A_nB_nC_n)_{n\\in\\mathbb{N}}\\). Știind că \\(\\forall n\\in\\mathbb{N}\\), \\(\\dfrac{r_n}{R_n}=\\dfrac{1}{2^n}\\), unde \\(r_n\\) și \\(R_n\\) sunt raza cercului înscris, respectiv circumscris triunghiului \\(A_nB_nC_n\\), care dintre următoarele afirmații sunt corecte:",
+            "category": "trigonometrie",
+            "author": "Rareș Răhăian",
+            "answers": [
+            {
+                "answer": "A",
+                "text": "\\(\\displaystyle\\lim_{n\\to\\infty} 2^n \\sin\\dfrac{A_n}{2}\\sin\\dfrac{B_n}{2}\\sin\\dfrac{C_n}{2}=\\infty\\)"
+            },
+            {
+                "answer": "B",
+                "text": "\\(\\displaystyle\\lim_{n\\to\\infty} \\sin\\dfrac{A_n}{2}\\sin\\dfrac{B_n}{2}\\sin\\dfrac{C_n}{2}=1\\)"
+            },
+            {
+                "answer": "C",
+                "text": "\\(\\displaystyle\\lim_{n\\to\\infty} 2^n \\sin\\dfrac{A_n}{2}\\sin\\dfrac{B_n}{2}\\sin\\dfrac{C_n}{2}\\in\\mathbb{Q}\\)"
+            },
+            {
+                "answer": "D",
+                "text": "\\(\\displaystyle\\lim_{n\\to\\infty} \\sin\\dfrac{A_n}{2}\\sin\\dfrac{B_n}{2}\\sin\\dfrac{C_n}{2}=0\\)"
+            }
+            ],
+            "correctAnswer": ["C", "D"]
+        },
+        {
+            "questionNumber": 547,
+            "points": 0.3,
+            "question": "Fie triunghiul \\(\\triangle ABC\\) cu laturile \\(a,b,c\\). Dacă \\(a^2+b^2=xc^2\\), atunci mulțimea valorilor lui \\(x\\) este:",
+            "category": "trigonometrie",
+            "author": "Rareș Răhăian",
+            "answers": [
+            { "answer": "A", "text": "\\([1,\\infty)\\)" },
+            { "answer": "B", "text": "\\(\\left(\\dfrac{1}{2},\\infty\\right)\\)" },
+            { "answer": "C", "text": "\\(\\{1\\}\\)" },
+            { "answer": "D", "text": "\\((0,\\infty)\\)" }
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 548,
+            "points": 0.3,
+            "question": "Dacă în triunghiul \\(ABC\\) are loc relația \\(\\dfrac{\\sin A+\\sin C}{\\sin B}=\\operatorname{ctg}\\dfrac{B}{2}\\), atunci:",
+            "category": "trigonometrie",
+            "author": "Rareș Răhăian",
+            "answers": [
+            { "answer": "A", "text": "\\(\\triangle ABC\\) isoscel" },
+            { "answer": "B", "text": "\\(\\triangle ABC\\) dreptunghic în \\(A\\) sau \\(C\\)" },
+            { "answer": "C", "text": "\\(\\triangle ABC\\) dreptunghic în \\(B\\)" },
+            { "answer": "D", "text": "niciuna dintre variantele anterioare" }
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 549,
+            "points": 0.3,
+            "question": "În triunghiul \\(ABC\\) are loc relația \\(a\\cos B+b\\cos C+c\\cos A=p\\), unde \\(a,b,c\\) sunt lungimile laturilor triunghiului, \\(A,B,C\\) sunt unghiurile, iar \\(p\\) este semiperimetrul. Triunghiul \\(ABC\\) este:",
+            "category": "trigonometrie",
+            "author": "Rareș Răhăian",
+            "answers": [
+            { "answer": "A", "text": "degenerat" },
+            { "answer": "B", "text": "dreptunghic" },
+            { "answer": "C", "text": "oarecare" },
+            { "answer": "D", "text": "isoscel" }
+            ],
+            "correctAnswer": ["A","D"]
+        },
+        {
+            "questionNumber": 550,
+            "points": 0.3,
+            "question": "Fie triunghiul \\(ABC\\) în care \\(\\sin^2A+\\sin^2B=\\sin^2C\\). Care dintre următoarele afirmații sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "Gabriela Petrușel",
+            "answers": [
+            { "answer": "A", "text": "Triunghiul \\(ABC\\) este isoscel" },
+            { "answer": "B", "text": "Triunghiul \\(ABC\\) este obtuzunghic" },
+            { "answer": "C", "text": "Triunghiul \\(ABC\\) este dreptunghic" },
+            { "answer": "D", "text": "Triunghiul \\(ABC\\) este echilateral" }
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 551,
+            "points": 0.3,
+            "question": "În triunghiul \\(ABC\\) considerăm \\(M, N, P\\) mijloacele laturilor \\(BC, AC\\), respectiv \\(AB\\). Fie \\(Q\\) centrul de greutate al triunghiului \\(MNP\\) și \\(K\\) mijlocul segmentului \\(MP\\). Să se indice care dintre următoarele variante de răspuns sunt adevărate:",
+            "category": "trigonometrie",
+            "author": "George Lung",
+            "answers": [
+            { "answer": "A", "text": "punctele \\(B, K, Q\\) sunt coliniare" },
+            { "answer": "B", "text": "\\(\\mathcal{A}[PMCN]=\\dfrac{\\mathcal{A}[\\triangle ABC]}{2}\\)" },
+            { "answer": "C", "text": "\\(\\dfrac{\\mathcal{A}[\\triangle PMN]}{\\mathcal{A}[\\triangle ABC]}=\\dfrac{1}{3}\\)" },
+            { "answer": "D", "text": "\\(\\dfrac{KQ}{BN}=\\dfrac{1}{4}\\)" }
+            ],
+            "correctAnswer": ["A", "B"]
+        },
+        {
+            "questionNumber": 552,
+            "points": 0.3,
+            "question": "Notăm cu \\(H\\) ortocentrul triunghiului \\(ABC\\) și cu \\(D\\) piciorul înălțimii duse din vârful \\(A\\) pe latura \\(BC\\). Care dintre următoarele afirmații nu sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "George Lung",
+            "answers": [
+            { "answer": "A", "text": "\\(D\\) este ortocentrul triunghiului \\(BHC\\)" },
+            { "answer": "B", "text": "\\(C\\) este ortocentrul triunghiului \\(BDA\\)" },
+            { "answer": "C", "text": "\\(A\\) este ortocentrul triunghiului \\(BHC\\)" },
+            { "answer": "D", "text": "dacă \\(D=C\\), atunci punctele \\(A, H\\) și \\(B\\) sunt coliniare" }
+            ],
+            "correctAnswer": ["A", "B", "D"]
+        },
+        {
+            "questionNumber": 553,
+            "points": 0.3,
+            "question": "Pe un cerc de centru \\(O\\) și rază \\(R>0\\) se iau 12 puncte echidistante \\(A_1, A_2, \\ldots, A_{12}\\), în această ordine. Să se indice care dintre următoarele variante de răspuns sunt adevărate.",
+            "category": "trigonometrie",
+            "author": "George Lung",
+            "answers": [
+            { "answer": "A", "text": "\\(\\mathcal{A}[A_9A_8A_{12}A_{11}]=\\dfrac{R^2}{2}\\)" },
+            { "answer": "B", "text": "\\(d(A_1,A_6A_7)=R\\cdot\\dfrac{4+\\sqrt{2}}{2}\\)" },
+            { "answer": "C", "text": "\\(\\mathcal{A}[A_9A_8A_{12}A_{11}]=\\dfrac{R^2(\\sqrt{3}-1)}{2}\\)" },
+            { "answer": "D", "text": "\\(d(A_1,A_6A_7)=R\\cdot\\dfrac{\\sqrt{2}+\\sqrt{6}}{2}\\)" }
+            ],
+            "correctAnswer": ["A", "D"]
+        },
+        {
+            "questionNumber": 554,
+            "points": 0.3,
+            "question": "Fie triunghiul \\(ABC\\) cu lungimile laturilor \\(a,b,c\\). Știind că produsul \\(bc\\) este constant, în care dintre următoarele cazuri \\(ABC\\) are aria maximă?",
+            "category": "trigonometrie",
+            "author": "Rareș Răhăian",
+            "answers": [
+            { "answer": "A", "text": "\\(ABC\\) isoscel" },
+            { "answer": "B", "text": "\\(ABC\\) echilateral" },
+            { "answer": "C", "text": "\\(ABC\\) dreptunghic" },
+            { "answer": "D", "text": "\\(ABC\\) degenerat" }
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 555,
+            "points": 0.3,
+            "question": "Fie triunghiul \\(ABC\\) dreptunghic în \\(A\\). Dacă \\(BC=6\\) și \\(\\operatorname{tg} C=\\dfrac{1}{2}\\), atunci aria lui \\(ABC\\) este:",
+            "category": "trigonometrie",
+            "author": "Rareș Răhăian",
+            "answers": [
+            { "answer": "A", "text": "\\(7\\)" },
+            { "answer": "B", "text": "\\(\\dfrac{36}{5}\\)" },
+            { "answer": "C", "text": "\\(6\\)" },
+            { "answer": "D", "text": "\\(\\dfrac{34}{5}\\)" }
+            ],
+            "correctAnswer": ["B"]
         }
     ]
 }

@@ -210,6 +210,323 @@
             {"answer": "D" , "text" : ""}
             ],
             "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 166,
+            "points": 0.3,
+            "author" : "Luca Tudor",
+            "questionImage": "images/Q166.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 167,
+            "points": 0.3,
+            "author" : "Luca Tudor",
+            "questionImage": "images/Q167.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 168,
+            "points": 0.3,
+            "author" : "Mihai Gheorgheș",
+            "questionImage": "images/Q168.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["B","C"]
+        },
+        {
+            "questionNumber": 169,
+            "points": 0.3,
+            "author" : "Luca Tudor",
+            "questionImage": "images/Q169.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 170,
+            "points": 0.3,
+            "author" : "Mihai Gheorgheș",
+            "questionImage": "images/Q170.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","C"]
+        },
+        {
+            "questionNumber": 171,
+            "points": 0.3,
+            "author" : "Mihai Gheorgheș",
+            "questionImage": "images/Q171.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 172,
+            "points": 0.3,
+            "questionContextImage" : "images/Q172-context.png",
+            "author" : "Mihai Gheorgheș",
+            "questionImage": "images/Q172.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["C","D"]
+        },
+        {
+            "questionNumber": 173,
+            "points": 0.3,
+            "questionContextImage" : "images/Q172-context.png",
+            "author" : "Mihai Gheorgheș",
+            "questionImage": "images/Q173.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","D"]
+        },
+        {
+            "questionNumber": 174,
+            "points": 0.3,
+            "author" : "Paul Dobrescu",
+            "questionImage": "images/Q174.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","B","D"]
+        },
+        {
+            "questionNumber": 175,
+            "points": 0.3,
+            "author" : "Mihai Gheorgheș",
+            "questionImage": "images/Q175.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 176,
+            "points": 0.3,
+            "author" : "Luca Tudor",
+            "questionImage": "images/Q176.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","C"]
+        },
+        {
+            "questionNumber": 177,
+            "points": 0.3,
+             
+            "author" : "Luca Tudor",
+            "questionImage": "images/Q177.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["B","C","D"]
+        },
+        {
+            "questionNumber": 178,
+            "points": 0.3,
+            
+            "author" : "Luca Tudor",
+            "questionImage": "images/Q178.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","B","C"]
+        },
+        {
+            "questionNumber": 179,
+            "points": 0.3,
+            
+            "author" : "Paul Dobrescu",
+            "questionImage": "images/Q179.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","B","D"]
+        },
+        {
+            "questionNumber": 180,
+            "points": 0.3,
+            "author" : "Paul Dobrescu",
+            "questionImage": "images/Q180.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","B","C"]
+        },
+        {
+            "questionNumber": 181,
+            "points": 0.3,
+            "author" : "Paul Dobrescu",
+            "questionImage": "images/Q181.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","B"]
+        },
+        {
+            "questionNumber": 182,
+            "points": 0.3,
+            "author" : "Paul Dobrescu",
+            "questionImage": "images/Q182.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["A","B"]
+        },
+        {
+            "questionNumber": 183,
+            "points": 0.3,
+             
+            "author" : "Cristian Crețu",
+            "questionImage": "images/Q183.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["C","D"]
+        },
+        {
+            "questionNumber": 184,
+            "points": 0.3,
+            
+            "author" : "Daniel Pop",
+            "questionImage": "images/Q184.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 185,
+            "points": 0.3,
+            "author" : "Daniel Pop",
+            "questionImage": "images/Q185.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 186,
+            "points": 0.3,
+             
+            "author" : "Luca Tudor",
+            "questionImage": "images/Q186.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 187,
+            "points": 0.3,
+            
+            "author" : "Daniel Pop",
+            "questionImage": "images/Q187.png",
+            "category": "recursivitate",
+            "answers": [
+            {"answer": "A" , "text" : ""},
+            {"answer": "B" , "text" : ""},
+            {"answer": "C" , "text" : ""},
+            {"answer": "D" , "text" : ""}
+            ],
+            "correctAnswer": ["D"]
         }
     ]
 }
