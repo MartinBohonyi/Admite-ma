@@ -420,7 +420,7 @@ body{
 
 .answer-letter.correct{
 
-    background:#79ff7f;
+    background: #1f9d42;
 
     border:2px solid #1f9d42;
 
@@ -431,7 +431,7 @@ body{
 
     background:#f44545;
 
-    border:2px solid #c62828;
+    border:2px solid #f44545;
 
     color:white;
 }
@@ -551,9 +551,9 @@ body{
 }
 
 .answer-letter.correct-unselected {
-    background-color: #b5ffaa;
+    background-color: #8afd79;
     color: white;
-    border-color:#1f9d42
+    border-color: #8afd79;
 }
 
 .answer-image {

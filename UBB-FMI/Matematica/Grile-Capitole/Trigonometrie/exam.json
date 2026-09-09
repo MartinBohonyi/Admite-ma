@@ -438,6 +438,1028 @@
             { "answer": "D", "text": "\\(\\dfrac{34}{5}\\)" }
             ],
             "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 556,
+            "points": "",
+            "question": "Fie triunghiul ascuțitunghic \\(ABC\\) și fie \\(H\\) ortocentrul triunghiului. Știind că \\(BC=6\\) și \\(\\cos A=\\dfrac{4}{5}\\), lungimea lui \\(AH\\) este:",
+            "category": "trigonometrie",
+            "author": "Rareș Răhăian",
+            "answers": [
+            { "answer": "A", "text": "\\(7\\)" },
+            { "answer": "B", "text": "\\(\\dfrac{9}{2}\\)" },
+            { "answer": "C", "text": "\\(4\\)" },
+            { "answer": "D", "text": "\\(8\\)" }
+            ],
+            "correctAnswer": ["D"]
+        },
+        {
+            "questionNumber": 557,
+            "points": "",
+            "question": "Fie triunghiul \\(ABC\\) înscris într-un cerc de rază \\(R=2\\). Știind că \\(m(\\hat{A})=\\dfrac{5\\pi}{12}\\) și \\(m(\\hat{B})=\\dfrac{\\pi}{4}\\), aria triunghiului \\(ABC\\) este:",
+            "category": "trigonometrie",
+            "author": "Rareș Răhăian",
+            "answers": [
+            { "answer": "A", "text": "\\(\\sqrt{3}+\\sqrt{2}\\)" },
+            { "answer": "B", "text": "\\(3+\\sqrt{3}\\)" },
+            { "answer": "C", "text": "\\(1+\\sqrt{5}\\)" },
+            { "answer": "D", "text": "\\(6\\)" }
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 558,
+            "points": "",
+            "question": "Fie ecuația \\(\\cos 2t=\\sin t\\) dată pe intervalul \\([0,2\\pi]\\). Să se indice care dintre următoarele afirmații sunt adevărate.",
+            "category": "trigonometrie",
+            "author": "Zsolt Szilágyi",
+            "answers": [
+            { "answer": "A", "text": "Ecuația nu are nicio soluție" },
+            { "answer": "B", "text": "Ecuația are două soluții" },
+            { "answer": "C", "text": "Ecuația are trei soluții" },
+            { "answer": "D", "text": "Ecuația are patru soluții" }
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 559,
+            "points": "",
+            "question": "Fie funcția \\(f:\\mathbb{R}\\to\\mathbb{R}\\), \\(f(x)=2\\cos^4 x+11\\sin^2 x-6\\). Valoarea minimă a funcției este:",
+            "category": "trigonometrie",
+            "author": "Mara Ielciu",
+            "answers": [
+            { "answer": "A", "text": "\\(\\dfrac{80}{8}\\)" },
+            { "answer": "B", "text": "\\(\\dfrac{81}{8}\\)" },
+            { "answer": "C", "text": "\\(-\\dfrac{81}{8}\\)" },
+            { "answer": "D", "text": "\\(-\\dfrac{80}{8}\\)" }
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 560,
+            "points": "",
+            "question": "Fie \\(x\\in\\left(0,\\dfrac{\\pi}{2}\\right)\\) și \\(\\alpha,\\beta\\in\\mathbb{Z}^{*}\\) astfel încât \\(\\log_{\\sin^{2e} x}\\cos x+\\log_{\\cos^{2e} x}\\sin x=\\dfrac{5}{4e}\\Rightarrow \\sin^{\\alpha} x=\\cos^{\\beta} x\\). Să se indice care dintre următoarele variante reprezintă perechile \\((\\alpha,\\beta)\\), pentru orice \\(x\\) soluție a ecuației.",
+            "category": "trigonometrie",
+            "author": "Cristian Crețu",
+            "answers": [
+            { "answer": "A", "text": "\\((2,1)\\)" },
+            { "answer": "B", "text": "\\((1,2)\\)" },
+            { "answer": "C", "text": "\\((1,3)\\)" },
+            { "answer": "D", "text": "\\((0,0)\\)" }
+            ],
+            "correctAnswer": ["A","B"]
+        },
+        {
+            "questionNumber": 561,
+            "points": "",
+            "question": "Care dintre următoarele afirmații sunt adevărate pentru orice \\(x\\in\\left(\\dfrac{\\pi}{2},\\pi\\right)\\)?",
+            "category": "trigonometrie",
+            "author": "Rareș Cotoi",
+            "answers": [
+            { "answer": "A", "text": "\\(\\sin 2x<0\\)" },
+            { "answer": "B", "text": "\\(2\\sin x\\le \\sin x+\\cos x\\)" },
+            { "answer": "C", "text": "\\(\\sin 2x-2\\sin x\\le 0\\)" },
+            { "answer": "D", "text": "\\(\\sin 2x+2\\sin x\\le 0\\)" }
+            ],
+            "correctAnswer": ["A","C"]
+        },
+        {
+            "questionNumber": 562,
+            "points": "",
+            "question": "Numărul de soluții pentru care \\(\\operatorname{tg} x=\\sin x\\), pentru \\(x\\in[0,2\\pi]\\) este:",
+            "category": "trigonometrie",
+            "author": "Cristian Crețu",
+            "answers": [
+            { "answer": "A", "text": "\\(0\\)" },
+            { "answer": "B", "text": "\\(1\\)" },
+            { "answer": "C", "text": "\\(2\\)" },
+            { "answer": "D", "text": "\\(3\\)" }
+            ],
+            "correctAnswer": ["D"]
+        },
+        {
+            "questionNumber": 563,
+            "points": "",
+            "question": "Dacă \\(\\sin A+\\sin^2 A=\\dfrac{3}{2}\\) și \\(a\\cdot \\cos^{8} A+b\\cdot \\cos^{6} A+c\\cdot \\cos^{4} A+d\\cdot \\cos^{2} A+e=0\\), atunci care dintre următoarele afirmații pot fi adevărate?",
+            "category": "trigonometrie",
+            "author": "Mara Ielciu",
+            "answers": [
+            { "answer": "A", "text": "\\(\\dfrac{b}{a}+\\dfrac{d}{c}-8e=-\\dfrac{21}{8}\\)" },
+            { "answer": "B", "text": "\\(\\dfrac{b}{a}+\\dfrac{d}{c}-8e=-\\dfrac{17}{10}\\)" },
+            { "answer": "C", "text": "\\(\\dfrac{a+b+2c}{16e-4d}=\\dfrac{10}{21}\\)" },
+            { "answer": "D", "text": "\\(\\dfrac{a+b+2c}{16e-4d}=\\dfrac{3}{20}\\)" }
+            ],
+            "correctAnswer": ["B","C"]
+        },
+        {
+            "questionNumber": 564,
+            "points": "",
+            "question": "Fie numerele \\(x,y\\in\\left(0,\\dfrac{\\pi}{2}\\right)\\), astfel încât \\((\\sin x+3\\cos y)^2+(\\cos x-3\\sin y)^2=10\\). Stabiliți care dintre următoarele afirmații pot fi adevărate.",
+            "category": "trigonometrie",
+            "author": "Rareș Cotoi",
+            "answers": [
+            { "answer": "A", "text": "\\(x=2y\\)" },
+            { "answer": "B", "text": "\\(\\sin(x-2y)=0\\)" },
+            { "answer": "C", "text": "\\(\\sin(x-y)=0\\)" },
+            { "answer": "D", "text": "\\(x=y\\)" }
+            ],
+            "correctAnswer": ["C","D"]
+        },
+        {
+            "questionNumber": 565,
+            "points": "",
+            "question": "Pe intervalul \\(\\left[0,\\dfrac{\\pi}{2}\\right]\\), ecuația \\(\\sin x+\\sin 3x+\\sin 5x+\\sin 7x=0\\) are:",
+            "category": "trigonometrie",
+            "author": "Rareș Cotoi",
+            "answers": [
+            { "answer": "A", "text": "0 soluții" },
+            { "answer": "B", "text": "o soluție" },
+            { "answer": "C", "text": "2 soluții" },
+            { "answer": "D", "text": "3 soluții" }
+            ],
+            "correctAnswer": ["D"]
+        },
+        {
+            "questionNumber": 566,
+            "points": "",
+            "question": "Considerăm ecuația \\(-\\sin 4x-\\sin 2x=\\cos^2 x+\\sin^2 3x\\). Stabiliți care dintre următoarele afirmații sunt adevărate.",
+            "category": "trigonometrie",
+            "author": "George Lung",
+            "answers": [
+            { "answer": "A", "text": "\\(-\\dfrac{\\pi}{4}\\) este o soluție a ecuației" },
+            { "answer": "B", "text": "Nu există soluții în intervalul \\(\\left[\\dfrac{\\pi}{3},\\dfrac{\\pi}{2}\\right]\\)" },
+            { "answer": "C", "text": "Soluțiile ecuației verifică \\(\\cos 8x=1\\)" },
+            { "answer": "D", "text": "În intervalul \\([0,2\\pi]\\) există 6 soluții ale ecuației" }
+            ],
+            "correctAnswer": ["A","D"]
+        },
+        {
+            "questionNumber": 567,
+            "points": "",
+            "question": "Fie \\(x,y\\) astfel încât \\(\\cos^7 x+\\sin^{14} x=1\\). Atunci expresia \\(\\sin x+\\cos x\\) ia toate valorile din mulțimea:",
+            "category": "trigonometrie",
+            "author": "George Lung",
+            "answers": [
+            { "answer": "A", "text": "\\(\\{0\\}\\)" },
+            { "answer": "B", "text": "\\(\\left\\{-1,-\\dfrac{\\sqrt{2}}{2},\\dfrac{\\sqrt{2}}{2},1\\right\\}\\)" },
+            { "answer": "C", "text": "\\(\\left\\{-1,-\\dfrac{1}{2},0,\\dfrac{1}{2},1\\right\\}\\)" },
+            { "answer": "D", "text": "\\(\\{-1,1\\}\\)" }
+            ],
+            "correctAnswer": ["D"]
+        },
+        {
+            "questionNumber": 568,
+            "points": "",
+            "question": "Fie \\(x\\in\\left(\\dfrac{83\\pi}{10},\\dfrac{42\\pi}{5}\\right)\\) cu proprietatea că \\(\\sin 5x=-\\dfrac{15}{17}\\), care dintre următoarele afirmații sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "George Lung",
+            "answers": [
+            { "answer": "A", "text": "\\(\\cos 5x=\\dfrac{8}{17}\\)" },
+            { "answer": "B", "text": "\\(\\cos 5x\\in\\left(-\\dfrac{1}{2},\\dfrac{1}{3}\\right)\\)" },
+            { "answer": "C", "text": "\\(\\operatorname{tg} x<0\\)" },
+            { "answer": "D", "text": "\\(\\cos 10x=-\\dfrac{161}{289}\\)" }
+            ],
+            "correctAnswer": ["A","D"]
+        },
+        {
+            "questionNumber": 569,
+            "points": "",
+            "question": "Fie \\(x\\in\\left(0,\\dfrac{\\pi}{2}\\right)\\) astfel încât \\(\\sin x<\\cos x\\). Dacă se cunoaște \\(\\sin 2x=m\\), care dintre următoarele variante de răspuns sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "George Lung",
+            "answers": [
+            { "answer": "A", "text": "\\(\\cos x=\\sqrt{\\dfrac{2-m^2}{2}}\\)" },
+            { "answer": "B", "text": "\\(\\operatorname{tg} x=\\dfrac{1+\\sqrt{1-m^2}}{m}\\)" },
+            { "answer": "C", "text": "\\(\\sin x=\\dfrac{1+\\sqrt{1-m^2}}{2m}\\)" },
+            { "answer": "D", "text": "\\(\\sin^2 x=\\dfrac{1-\\sqrt{1-m^2}}{2}\\)" }
+            ],
+            "correctAnswer": ["D"]
+        },
+        {
+            "questionNumber": 570,
+            "points": "",
+            "question": "Fie \\(x\\) o soluție a ecuației \\(3\\cos^2 2x-4\\cos 2x=0\\). Care dintre următoarele afirmații au loc?",
+            "category": "trigonometrie",
+            "author": "George Lung",
+            "answers": [
+            { "answer": "A", "text": "\\(|\\sin x|=|\\cos x|\\)" },
+            { "answer": "B", "text": "\\(\\dfrac{x}{\\pi}\\in\\mathbb{Z}\\)" },
+            { "answer": "C", "text": "\\(x\\in\\left\\{\\dfrac{(2k+1)\\pi}{4}\\,\\middle|\\,k\\in\\mathbb{Z}\\right\\}\\)" },
+            { "answer": "D", "text": "\\(|\\sin x|<\\dfrac{1}{2}\\)" }
+            ],
+            "correctAnswer": ["A","C"]
+        },
+        {
+            "questionNumber": 571,
+            "points": "",
+            "question": "Fie ecuația \\(\\sin x-\\cos x+\\sqrt{3}(\\sin x+\\cos x)=1+\\sqrt{3}\\) și \\(\\alpha\\) o soluție a acesteia. Atunci \\(\\sin\\alpha\\) poate lua valoarea:",
+            "category": "trigonometrie",
+            "author": "George Lung",
+            "answers": [
+            { "answer": "A", "text": "\\(\\dfrac{1}{2}\\)" },
+            { "answer": "B", "text": "\\(-1\\)" },
+            { "answer": "C", "text": "\\(\\dfrac{\\sqrt{3}}{2}\\)" },
+            { "answer": "D", "text": "\\(1\\)" }
+            ],
+            "correctAnswer": ["C","D"]
+        },
+        {
+            "questionNumber": 572,
+            "points": "",
+            "question": "Care din următoarele mulțimi conțin soluții ale ecuației \\(\\sin^2(2x)+\\sin^2(3x)=\\sin^2 x+\\sin^2(4x)\\)?",
+            "category": "trigonometrie",
+            "author": "George Lung",
+            "answers": [
+            { "answer": "A", "text": "\\(\\left\\{\\dfrac{(3k+2)\\pi}{5}\\,\\middle|\\,k\\in\\mathbb{Z}\\right\\}\\)" },
+            { "answer": "B", "text": "\\(\\left\\{\\dfrac{(4k+1)\\pi}{10}\\,\\middle|\\,k\\in\\mathbb{Z}\\right\\}\\)" },
+            { "answer": "C", "text": "\\(\\{k\\pi\\mid k\\in\\mathbb{Z}\\}\\)" },
+            { "answer": "D", "text": "\\(\\left\\{\\dfrac{k\\pi}{2}\\,\\middle|\\,k\\in\\mathbb{Z}\\right\\}\\)" }
+            ],
+            "correctAnswer": ["B","C","D"]
+        },
+        {
+            "questionNumber": 573,
+            "points": "",
+            "question": "Soluțiile ecuației \\((1-\\cos 2x)\\cdot \\operatorname{ctg} x=5\\sin x-2\\operatorname{tg} x\\) care se află în intervalul \\([0,10\\pi]\\) au suma:",
+            "category": "trigonometrie",
+            "author": "George Lung",
+            "answers": [
+            { "answer": "A", "text": "\\(55\\pi\\)" },
+            { "answer": "B", "text": "\\(55\\pi+\\dfrac{\\pi}{3}\\)" },
+            { "answer": "C", "text": "\\(105\\pi-\\dfrac{\\pi}{3}\\)" },
+            { "answer": "D", "text": "\\(105\\pi\\)" }
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 574,
+            "points": "",
+            "question": "Dacă \\(x,y\\in\\left(0,\\dfrac{\\pi}{2}\\right)\\) astfel încât \\(\\sin(x+y)\\le \\sqrt{\\sin 2x\\sin 2y}\\), atunci care dintre următoarele afirmații pot fi adevărate?",
+            "category": "trigonometrie",
+            "author": "George Lung",
+            "answers": [
+            { "answer": "A", "text": "\\(x=y\\)" },
+            { "answer": "B", "text": "\\(x-y=\\dfrac{\\pi}{4}\\)" },
+            { "answer": "C", "text": "\\(x=2y\\) sau \\(y=2x\\)" },
+            { "answer": "D", "text": "\\(\\sin x+\\sin y>\\sqrt{3}\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 575,
+            "points": "",
+            "question": "Numărul soluțiilor ecuației \\(\\sin x\\cdot \\sin 5x+\\cos 6x=\\operatorname{ctg} x\\), care se găsesc în intervalul \\([-2\\pi,2\\pi]\\) este:",
+            "category": "trigonometrie",
+            "author": "George Lung",
+            "answers": [
+            { "answer": "A", "text": "\\(4\\)" },
+            { "answer": "B", "text": "\\(15\\)" },
+            { "answer": "C", "text": "\\(24\\)" },
+            { "answer": "D", "text": "\\(9\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 576,
+            "points": "",
+            "question": "Pentru \\(a,b\\notin\\left\\{k\\pi+\\dfrac{\\pi}{2}\\,\\middle|\\,k\\in\\mathbb{Z}\\right\\}\\cup\\{k\\pi\\mid k\\in\\mathbb{Z}\\}\\), expresia \\(E(a,b)=4\\cdot \\dfrac{\\sin(a+b)\\cdot \\cos(a-b)}{\\sin 2a\\cdot \\sin 2b}\\) este egală cu:",
+            "category": "trigonometrie",
+            "author": "George Lung",
+            "answers": [
+            { "answer": "A", "text": "\\(\\operatorname{tg} a-\\operatorname{tg} b+\\operatorname{ctg} a-\\operatorname{ctg} b\\)" },
+            { "answer": "B", "text": "\\(\\operatorname{tg} a+\\operatorname{tg} b+\\operatorname{ctg} a+\\operatorname{ctg} b\\)" },
+            { "answer": "C", "text": "\\(-\\operatorname{tg} a+\\operatorname{tg} b-\\operatorname{ctg} a+\\operatorname{ctg} b\\)" },
+            { "answer": "D", "text": "\\(\\operatorname{tg} a+\\operatorname{tg} b-\\operatorname{ctg} a-\\operatorname{ctg} b\\)" }
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 577,
+            "points": "",
+            "question": "Dacă \\(\\sin a\\) și \\(\\cos 3b\\) sunt soluțiile ecuației \\(2x^2-(2+\\sqrt{3})x+\\sqrt{3}=0\\), atunci pot avea loc următoarele:",
+            "category": "trigonometrie",
+            "author": "George Lung",
+            "answers": [
+            { "answer": "A", "text": "\\(a=b\\)" },
+            { "answer": "B", "text": "\\(a\\in\\left\\{\\dfrac{\\pi}{2}+2k\\pi\\,\\middle|\\,k\\in\\mathbb{Z}\\right\\}\\)" },
+            { "answer": "C", "text": "\\(b\\in\\left\\{\\dfrac{\\pi}{3}+k\\pi\\,\\middle|\\,k\\in\\mathbb{Z}\\right\\}\\)" },
+            { "answer": "D", "text": "\\(a=3b\\)" }
+            ],
+            "correctAnswer": ["A","B"]
+        },
+        {
+            "questionNumber": 578,
+            "points": "",
+            "question": "Soluțiile ecuației \\(\\operatorname{tg} x\\cdot(1+\\operatorname{tg} x)=10-8\\cdot\\operatorname{ctg} x\\) aparțin următoarelor mulțimi:",
+            "category": "trigonometrie",
+            "author": "George Lung",
+            "answers": [
+            { "answer": "A", "text": "\\(\\left\\{\\dfrac{\\pi}{4}+k\\pi\\,\\middle|\\,k\\in\\mathbb{Z}\\right\\}\\)" },
+            { "answer": "B", "text": "\\(\\left\\{\\dfrac{\\pi}{2}+k\\pi\\,\\middle|\\,k\\in\\mathbb{Z}\\right\\}\\)" },
+            { "answer": "C", "text": "\\(\\{-\\operatorname{arctg} 4+k\\pi\\mid k\\in\\mathbb{Z}\\}\\)" },
+            { "answer": "D", "text": "\\(\\{\\operatorname{arctg} 2+2k\\pi\\mid k\\in\\mathbb{Z}\\}\\)" }
+            ],
+            "correctAnswer": ["A","C"]
+        },
+        {
+            "questionNumber": 579,
+            "points": "",
+            "question": "Se consideră inecuația \\(\\sin 4x<\\dfrac{\\sqrt{3}}{2}\\). Să se indice care dintre afirmațiile următoare sunt adevărate.",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\dfrac{k\\pi}{2}-\\dfrac{\\pi}{3}<x<\\dfrac{\\pi}{12}+\\dfrac{k\\pi}{2}\\), unde \\(k\\in\\mathbb{Z}\\)" },
+            { "answer": "B", "text": "\\(\\dfrac{k\\pi}{2}-\\dfrac{7\\pi}{24}<x<\\dfrac{\\pi}{24}+\\dfrac{k\\pi}{2}\\), unde \\(k\\in\\mathbb{Z}\\)" },
+            { "answer": "C", "text": "\\(x\\) poate lua valoarea \\(1\\)" },
+            { "answer": "D", "text": "\\(x\\) poate lua valoarea \\(\\dfrac{3\\pi}{8}\\)" }
+            ],
+            "correctAnswer": ["A","C","D"]
+        },
+        {
+            "questionNumber": 580,
+            "points": "",
+            "question": "Care dintre următoarele egalități sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "Hannelore Lisei",
+            "answers": [
+            { "answer": "A", "text": "\\(\\operatorname{tg}\\left(\\arcsin\\dfrac{1}{\\sqrt{3}}\\right)=\\dfrac{\\sqrt{2}}{2}\\)" },
+            { "answer": "B", "text": "\\(\\arcsin(\\sin 7)=2\\pi-7\\)" },
+            { "answer": "C", "text": "\\(\\operatorname{tg}\\left(2\\operatorname{arctg}\\dfrac{1}{2}\\right)=\\dfrac{4}{3}\\)" },
+            { "answer": "D", "text": "\\(\\arccos(\\sin 4)=4-\\pi\\)" }
+            ],
+            "correctAnswer": ["A","C"]
+        },
+        {
+            "questionNumber": 581,
+            "points": "",
+            "question": "Valoarea expresiei \\(\\sin\\left(2\\arcsin\\dfrac{3}{5}\\right)\\) este:",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\dfrac{24}{25}\\)" },
+            { "answer": "B", "text": "\\(\\dfrac{4}{5}\\)" },
+            { "answer": "C", "text": "\\(2\\dfrac{3}{5}\\)" },
+            { "answer": "D", "text": "\\(-\\dfrac{4}{25}\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 582,
+            "points": "",
+            "question": "Dacă \\(x\\in\\left(0,\\dfrac{\\pi}{2}\\right)\\), atunci care dintre următoarele egalități sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "Gabriela Petrușel",
+            "answers": [
+            { "answer": "A", "text": "\\(\\sqrt{1+\\sin x}-\\sqrt{1-\\sin x}=\\sin\\dfrac{x}{2}\\)" },
+            { "answer": "B", "text": "\\(\\sqrt{1+\\sin x}-\\sqrt{1-\\sin x}=2\\sin\\dfrac{x}{2}\\)" },
+            { "answer": "C", "text": "\\(\\sqrt{1+\\sin x}-\\sqrt{1-\\sin x}=\\cos\\dfrac{x}{2}\\)" },
+            { "answer": "D", "text": "\\(\\sqrt{1+\\sin x}-\\sqrt{1-\\sin x}=2\\cos\\dfrac{x}{2}\\)" }
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 583,
+            "points": "",
+            "question": "Valoarea minimă a expresiei \\(\\dfrac{12+48x^2\\sin^2 x}{x\\cdot \\sin x}\\), pentru \\(0<x<\\pi\\) este mai mică decât:",
+            "category": "trigonometrie",
+            "author": "Cristian Crețu",
+            "answers": [
+            { "answer": "A", "text": "\\(48\\)" },
+            { "answer": "B", "text": "\\(12\\)" },
+            { "answer": "C", "text": "\\(64\\)" },
+            { "answer": "D", "text": "\\(72\\)" }
+            ],
+            "correctAnswer": ["C","D"]
+        },
+        {
+            "questionNumber": 584,
+            "points": "",
+            "question": "Problemele 584 și 585 se referă la expresia \\(r\\sin x+t\\cos x\\), \\(x,r,t\\in\\mathbb{R}\\). Care este valoarea maximă a expresiei?",
+            "category": "trigonometrie",
+            "author": "Rareș Răhăian",
+            "answers": [
+            { "answer": "A", "text": "\\(1\\)" },
+            { "answer": "B", "text": "\\(\\sqrt{rt}\\)" },
+            { "answer": "C", "text": "\\(2\\sqrt{r^4+t^4}\\)" },
+            { "answer": "D", "text": "\\(\\sqrt{r^2+t^2}\\)" }
+            ],
+            "correctAnswer": ["D"]
+        },
+        {
+            "questionNumber": 585,
+            "points": "",
+            "question": "Pentru \\(x=\\dfrac{\\pi}{3}\\), în care caz se obține valoarea maximă a expresiei?",
+            "category": "trigonometrie",
+            "author": "Rareș Răhăian",
+            "answers": [
+            { "answer": "A", "text": "\\(r=\\sqrt{3}t\\)" },
+            { "answer": "B", "text": "\\(rt=1\\)" },
+            { "answer": "C", "text": "\\(r=t+1\\)" },
+            { "answer": "D", "text": "\\(r=\\dfrac{\\sqrt{3}}{3}t\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 586,
+            "points": "",
+            "question": "Fie expresia \\(S=16\\cos 6^{\\circ}\\cdot \\cos 42^{\\circ}\\cdot \\cos 66^{\\circ}\\cdot \\cos 78^{\\circ}\\). Care dintre următoarele afirmații sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "Ioana Gavrilă",
+            "answers": [
+            { "answer": "A", "text": "\\(S=-1\\)" },
+            { "answer": "B", "text": "\\(S=1\\)" },
+            { "answer": "C", "text": "\\(S=4\\)" },
+            { "answer": "D", "text": "\\(S=8\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 587,
+            "points": "",
+            "question": "Știind că \\(\\sin x+\\cos y=1\\) și \\(\\cos 2x-\\cos 2y=1\\), care dintre următoarele afirmații sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "Ioana Gavrilă",
+            "answers": [
+            { "answer": "A", "text": "\\(x=(-1)^{m}\\dfrac{\\pi}{6}+m\\pi, m\\in\\mathbb{Z}\\)" },
+            { "answer": "B", "text": "\\(x=(-1)^{m}\\dfrac{\\pi}{3}+m\\pi, m\\in\\mathbb{Z}\\)" },
+            { "answer": "C", "text": "\\(y=\\pm\\dfrac{\\pi}{3}+2n\\pi, n\\in\\mathbb{Z}\\)" },
+            { "answer": "D", "text": "niciuna dintre afirmații nu este adevărată" }
+            ],
+            "correctAnswer": ["A","C"]
+        },
+        {
+            "questionNumber": 588,
+            "points": "",
+            "question": "Fie \\(S=\\operatorname{tg}(1^{\\circ})\\cdot \\operatorname{tg}(2^{\\circ})\\cdot \\operatorname{tg}(3^{\\circ})\\cdot\\ldots\\cdot \\operatorname{tg}(89^{\\circ})\\). \\(S\\) este egal cu:",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(0\\)" },
+            { "answer": "B", "text": "\\(1\\)" },
+            { "answer": "C", "text": "\\(\\dfrac{1}{2}\\)" },
+            { "answer": "D", "text": "\\(\\dfrac{1}{4}\\)" }
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 589,
+            "points": "",
+            "question": "Care dintre următoarele afirmații sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\sin\\left(\\dfrac{3\\pi}{4}\\right)=\\dfrac{\\sqrt{2}}{2}\\)" },
+            { "answer": "B", "text": "\\(\\sin\\left(\\dfrac{3\\pi}{4}\\right)=-\\dfrac{\\sqrt{2}}{2}\\)" },
+            { "answer": "C", "text": "\\(\\cos\\left(\\dfrac{3\\pi}{4}\\right)=\\dfrac{\\sqrt{2}}{2}\\)" },
+            { "answer": "D", "text": "\\(\\cos\\left(\\dfrac{3\\pi}{4}\\right)=-\\dfrac{\\sqrt{2}}{2}\\)" }
+            ],
+            "correctAnswer": ["A","D"]
+        },
+        {
+            "questionNumber": 590,
+            "points": "",
+            "question": "Care dintre următoarele afirmații sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\sin(2)<0\\)" },
+            { "answer": "B", "text": "\\(\\sin(2)>0\\)" },
+            { "answer": "C", "text": "\\(\\sin(4)<0\\)" },
+            { "answer": "D", "text": "\\(\\sin(6)<0\\)" }
+            ],
+            "correctAnswer": ["B","C","D"]
+        },
+        {
+            "questionNumber": 591,
+            "points": "",
+            "question": "Care dintre următoarele afirmații sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\sin\\left(\\dfrac{13\\pi}{6}\\right)=\\dfrac{1}{2}\\)" },
+            { "answer": "B", "text": "\\(\\sin\\left(\\dfrac{13\\pi}{6}\\right)=\\dfrac{\\sqrt{3}}{2}\\)" },
+            { "answer": "C", "text": "\\(\\sin\\left(\\dfrac{7\\pi}{3}\\right)=\\dfrac{\\sqrt{3}}{2}\\)" },
+            { "answer": "D", "text": "\\(\\sin\\left(\\dfrac{7\\pi}{3}\\right)=\\dfrac{1}{2}\\)" }
+            ],
+            "correctAnswer": ["A","C"]
+        },
+        {
+            "questionNumber": 592,
+            "points": "",
+            "question": "Care dintre următoarele afirmații sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\cos\\left(\\dfrac{11\\pi}{4}\\right)=\\dfrac{\\sqrt{2}}{2}\\)" },
+            { "answer": "B", "text": "\\(\\cos\\left(\\dfrac{11\\pi}{4}\\right)=-\\dfrac{\\sqrt{2}}{2}\\)" },
+            { "answer": "C", "text": "\\(\\cos\\left(\\dfrac{5\\pi}{2}\\right)=0\\)" },
+            { "answer": "D", "text": "\\(\\cos\\left(\\dfrac{5\\pi}{2}\\right)=1\\)" }
+            ],
+            "correctAnswer": ["B","C"]
+        },
+        {
+            "questionNumber": 593,
+            "points": "",
+            "question": "Știind că \\(x\\in\\left(0,\\dfrac{\\pi}{2}\\right)\\) și \\(\\sin x=\\dfrac{2}{3}\\), care dintre afirmațiile următoare sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\sin(\\pi-x)=\\dfrac{2}{3}\\)" },
+            { "answer": "B", "text": "\\(\\sin(\\pi-x)=-\\dfrac{2}{3}\\)" },
+            { "answer": "C", "text": "\\(\\sin(\\pi+x)=\\dfrac{2}{3}\\)" },
+            { "answer": "D", "text": "\\(\\sin(2\\pi-x)=-\\dfrac{2}{3}\\)" }
+            ],
+            "correctAnswer": ["A","D"]
+        },
+        {
+            "questionNumber": 594,
+            "points": "",
+            "question": "Fie \\(x\\in\\left(0,\\dfrac{2\\pi}{3}\\right)\\). Atunci punctele \\(A,B,C\\) de pe cercul trigonometric, extremitățile arcelor de lungimi \\(x, x+\\dfrac{\\pi}{3}, x+\\dfrac{2\\pi}{3}\\), sunt vârfurile unui triunghi:",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "isoscel" },
+            { "answer": "B", "text": "echilateral" },
+            { "answer": "C", "text": "dreptunghic" },
+            { "answer": "D", "text": "nu se poate determina" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 595,
+            "points": "",
+            "question": "Pentru \\(x\\in\\left[0,\\dfrac{\\pi}{2}\\right]\\), se dă ecuația: \\(|\\sin x+\\cos x|=|\\sin x|+|\\cos x|\\). Soluția ecuației este:",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(x\\in\\left[0,\\dfrac{\\pi}{6}\\right]\\)" },
+            { "answer": "B", "text": "\\(x\\in\\left[0,\\dfrac{\\pi}{4}\\right]\\)" },
+            { "answer": "C", "text": "\\(x\\in\\left[0,\\dfrac{\\pi}{3}\\right]\\)" },
+            { "answer": "D", "text": "\\(x\\in\\left[0,\\dfrac{\\pi}{2}\\right]\\)" }
+            ],
+            "correctAnswer": ["D"]
+        },
+        {
+            "questionNumber": 596,
+            "points": "",
+            "question": "Știind că \\(x\\) aparține intervalului \\(\\left[\\pi,\\dfrac{3\\pi}{2}\\right]\\) și \\(\\sin x=-\\dfrac{3}{4}\\), care dintre următoarele afirmații sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\sin(x-\\pi)=\\dfrac{3}{4}\\)" },
+            { "answer": "B", "text": "\\(\\sin(x-\\pi)=\\dfrac{-3}{4}\\)" },
+            { "answer": "C", "text": "\\(\\sin(2\\pi-x)=\\dfrac{3}{4}\\)" },
+            { "answer": "D", "text": "\\(\\sin(2\\pi+x)=\\dfrac{3}{4}\\)" }
+            ],
+            "correctAnswer": ["A","C"]
+        },
+        {
+            "questionNumber": 597,
+            "points": "",
+            "question": "Care dintre următoarele afirmații sunt corecte?",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\cos(240^{\\circ})=-\\dfrac{1}{2}\\)" },
+            { "answer": "B", "text": "\\(\\cos(240^{\\circ})=-\\dfrac{\\sqrt{3}}{2}\\)" },
+            { "answer": "C", "text": "\\(\\cos(240^{\\circ})=\\dfrac{1}{2}\\)" },
+            { "answer": "D", "text": "\\(\\cos(240^{\\circ})=\\dfrac{\\sqrt{3}}{2}\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 598,
+            "points": "",
+            "question": "Care dintre următoarele afirmații sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\sin\\dfrac{11\\pi}{7}>0\\)" },
+            { "answer": "B", "text": "\\(\\sin\\dfrac{2\\pi}{9}>0\\)" },
+            { "answer": "C", "text": "\\(\\sin\\dfrac{5\\pi}{8}>0\\)" },
+            { "answer": "D", "text": "\\(\\sin\\dfrac{5\\pi}{8}<0\\)" }
+            ],
+            "correctAnswer": ["B","C"]
+        },
+        {
+            "questionNumber": 599,
+            "points": "",
+            "question": "Care dintre următoarele afirmații sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\cos(5)>0\\)" },
+            { "answer": "B", "text": "\\(\\cos(5)<0\\)" },
+            { "answer": "C", "text": "\\(\\cos(\\sqrt{8})>0\\)" },
+            { "answer": "D", "text": "\\(\\cos(\\sqrt{8})<0\\)" }
+            ],
+            "correctAnswer": ["A","D"]
+        },
+        {
+            "questionNumber": 600,
+            "points": "",
+            "question": "Pentru \\(\\sin x=\\dfrac{3}{5}\\), \\(x\\in\\left(\\dfrac{\\pi}{2},\\pi\\right)\\), care dintre următoarele afirmații sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\sin 2x=-\\dfrac{24}{25}\\)" },
+            { "answer": "B", "text": "\\(\\sin 2x=\\dfrac{24}{25}\\)" },
+            { "answer": "C", "text": "\\(\\operatorname{tg} x=-\\dfrac{3}{4}\\)" },
+            { "answer": "D", "text": "\\(\\operatorname{tg} x=\\dfrac{3}{4}\\)" }
+            ],
+            "correctAnswer": ["A","C"]
+        },
+        {
+            "questionNumber": 601,
+            "points": "",
+            "question": "Dacă \\(\\cos x=-\\dfrac{1}{5}\\) și \\(x\\in\\left(\\pi,\\dfrac{3\\pi}{2}\\right)\\), atunci:",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\sin x=\\dfrac{\\sqrt{24}}{5}\\)" },
+            { "answer": "B", "text": "\\(\\sin x=-\\dfrac{\\sqrt{24}}{5}\\)" },
+            { "answer": "C", "text": "\\(\\sin 2x=-\\dfrac{2\\sqrt{24}}{25}\\)" },
+            { "answer": "D", "text": "\\(\\sin 2x=\\dfrac{2\\sqrt{24}}{25}\\)" }
+            ],
+            "correctAnswer": ["B","D"]
+        },
+        {
+            "questionNumber": 602,
+            "points": "",
+            "question": "Care dintre următoarele afirmații sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\operatorname{tg}\\dfrac{13\\pi}{6}=\\sqrt{3}\\)" },
+            { "answer": "B", "text": "\\(\\operatorname{tg}\\dfrac{13\\pi}{6}=\\dfrac{1}{\\sqrt{3}}\\)" },
+            { "answer": "C", "text": "\\(\\cos\\dfrac{13\\pi}{6}=\\dfrac{\\sqrt{3}}{2}\\)" },
+            { "answer": "D", "text": "\\(\\cos\\dfrac{13\\pi}{6}=-\\dfrac{1}{\\sqrt{3}}\\)" }
+            ],
+            "correctAnswer": ["B","C"]
+        },
+        {
+            "questionNumber": 603,
+            "points": "",
+            "question": "Care dintre următoarele afirmații sunt adevărate?",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\cos 169^{\\circ}<0\\)" },
+            { "answer": "B", "text": "\\(\\cos 169^{\\circ}>0\\)" },
+            { "answer": "C", "text": "\\(\\cos 220^{\\circ}<0\\)" },
+            { "answer": "D", "text": "\\(\\cos 324^{\\circ}>0\\)" }
+            ],
+            "correctAnswer": ["A","C","D"]
+        },
+        {
+            "questionNumber": 604,
+            "points": "",
+            "question": "Care sunt funcțiile \\(f:\\mathbb{R}\\to\\mathbb{R}\\) care satisfac proprietatea \\(2f(x)+7f(\\pi-x)=8\\sin x\\)?",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(f(x)=\\dfrac{8}{9}\\sin x\\)" },
+            { "answer": "B", "text": "\\(f(x)=\\dfrac{4}{3}\\sin x\\)" },
+            { "answer": "C", "text": "\\(f(x)=-\\dfrac{8}{9}\\sin x\\)" },
+            { "answer": "D", "text": "\\(f(x)=\\dfrac{4}{3}\\cos x\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 605,
+            "points": "Ariana Ilieș",
+            "question": "Care sunt funcțiile \\(f:\\mathbb{R}\\to\\mathbb{R}\\) care satisfac proprietatea \\(5f(x)+f(2\\pi-x)=8\\cos x\\)?",
+            "category": "trigonometrie",
+            "author": "",
+            "answers": [
+            { "answer": "A", "text": "\\(f(x)=-\\dfrac{2}{3}\\cos x\\)" },
+            { "answer": "B", "text": "\\(f(x)=\\dfrac{2}{3}\\cos x\\)" },
+            { "answer": "C", "text": "\\(f(x)=-\\dfrac{4}{3}\\cos x\\)" },
+            { "answer": "D", "text": "\\(f(x)=\\dfrac{4}{3}\\cos x\\)" }
+            ],
+            "correctAnswer": ["D"]
+        },
+        {
+            "questionNumber": 606,
+            "points": "",
+            "question": "Care sunt funcțiile \\(f:\\mathbb{R}\\to\\mathbb{R}\\) care satisfac proprietatea \\(f(2\\pi+x)+4f(2\\pi-x)=5\\cos x?\\)",
+            "category": "trigonometrie",
+            "author": "",
+            "answers": [
+            { "answer": "A", "text": "\\(f(x)=\\cos x\\)" },
+            { "answer": "B", "text": "\\(f(x)=\\dfrac{1}{5}\\cos x\\)" },
+            { "answer": "C", "text": "\\(f(x)=-\\dfrac{1}{5}\\cos x\\)" },
+            { "answer": "D", "text": "\\(f(x)=\\dfrac{1}{15}\\cos x\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 607,
+            "points": "",
+            "question": "Fie \\(T>0\\) mai mic număr pentru care \\(\\cos(3x)=\\cos(3x+T), \\forall x\\in\\mathbb{R}\\). Atunci \\(T\\) este:",
+            "category": "trigonometrie",
+            "author": "Ildikó Mezei",
+            "answers": [
+            { "answer": "A", "text": "\\(\\dfrac{\\pi}{3}\\)" },
+            { "answer": "B", "text": "\\(\\dfrac{2\\pi}{3}\\)" },
+            { "answer": "C", "text": "\\(\\pi\\)" },
+            { "answer": "D", "text": "\\(2\\pi\\)" }
+            ],
+            "correctAnswer": ["D"]
+        },
+        {
+            "questionNumber": 608,
+            "points": "",
+            "question": "Se consideră expresia \\(E(x)=\\cos x+\\sin(2x)\\). Atunci cel mai mic număr \\(T>0\\) pentru care \\(E(x)=E(x+T), \\forall x\\in\\mathbb{R}\\) este:",
+            "category": "trigonometrie",
+            "author": "Ildikó Mezei",
+            "answers": [
+            { "answer": "A", "text": "\\(\\dfrac{\\pi}{2}\\)" },
+            { "answer": "B", "text": "\\(\\pi\\)" },
+            { "answer": "C", "text": "\\(2\\pi\\)" },
+            { "answer": "D", "text": "\\(4\\pi\\)" }
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 609,
+            "points": "",
+            "question": "Fie \\(a,b\\) astfel încât \\(a=b+\\dfrac{\\pi}{2}\\) și \\(n\\in\\mathbb{N}^{*}, n\\ge 2\\). Care este rezultatul calculului \\(S=\\displaystyle\\sum_{k=0}^{n}\\sin(a+k)\\cos(b+k)-\\sum_{k=0}^{n}\\sin(b+k)\\cos(a+k)\\)?",
+            "category": "trigonometrie",
+            "author": "Rareș Cotoi",
+            "answers": [
+            { "answer": "A", "text": "\\(0\\)" },
+            { "answer": "B", "text": "\\(\\dfrac{\\pi}{2}\\)" },
+            { "answer": "C", "text": "\\(n\\)" },
+            { "answer": "D", "text": "\\(n+1\\)" }
+            ],
+            "correctAnswer": ["D"]
+        },
+        {
+            "questionNumber": 610,
+            "points": "",
+            "question": "Dacă \\(x_1\\) și \\(x_2\\) sunt soluțiile ecuației \\(\\sin x+\\cos x=\\dfrac{\\sqrt{3}}{2}\\) în intervalul \\([0,\\pi]\\) și se știe că \\(x_1>x_2\\), atunci valoarea raportului \\(\\dfrac{x_1}{x_2}\\) este:",
+            "category": "trigonometrie",
+            "author": "Cristian Crețu",
+            "answers": [
+            { "answer": "A", "text": "\\(5\\)" },
+            { "answer": "B", "text": "\\(2\\)" },
+            { "answer": "C", "text": "\\(6\\)" },
+            { "answer": "D", "text": "\\(4\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 611,
+            "points": "",
+            "question": "Dacă \\(S_n=\\sin(x)\\cos((n-1)x)+\\sin(2x)\\cos((n-2)x)+\\cdots+\\sin((n-1)x)\\cos(x)\\), atunci:",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(S_n=\\dfrac{n-1}{2}\\sin(nx)\\)" },
+            { "answer": "B", "text": "\\(S_n=\\dfrac{n}{2}\\sin(nx)\\)" },
+            { "answer": "C", "text": "\\(S_n=\\dfrac{n-1}{2}\\sin((n-1)x)\\)" },
+            { "answer": "D", "text": "\\(S_n=\\dfrac{n-1}{4}\\sin(nx)\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 612,
+            "points": "",
+            "question": "Valoarea expresiei \\(\\displaystyle\\prod_{k=41}^{49}\\operatorname{ctg}(k^{\\circ})\\) este:",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(1\\)" },
+            { "answer": "B", "text": "\\(0\\)" },
+            { "answer": "C", "text": "\\(\\dfrac{1}{2}\\)" },
+            { "answer": "D", "text": "\\(\\dfrac{1}{4}\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 613,
+            "points": "",
+            "question": "Valoarea expresiei \\(16\\sin(10^{\\circ})\\sin(30^{\\circ})\\sin(50^{\\circ})\\sin(70^{\\circ})\\) este:",
+            "category": "trigonometrie",
+            "author": "",
+            "answers": [
+            { "answer": "A", "text": "\\(1\\)" },
+            { "answer": "B", "text": "\\(\\dfrac{1}{2}\\)" },
+            { "answer": "C", "text": "\\(\\dfrac{1}{4}\\)" },
+            { "answer": "D", "text": "\\(\\dfrac{1}{8}\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 614,
+            "points": "",
+            "question": "Care este rezultatul produsului \\(\\sin(-100^{\\circ})\\cdot \\sin(-99^{\\circ})\\cdot \\ldots \\cdot \\sin(99^{\\circ})\\cdot \\sin(100^{\\circ})\\)?",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(0\\)" },
+            { "answer": "B", "text": "\\(1\\)" },
+            { "answer": "C", "text": "\\(-1\\)" },
+            { "answer": "D", "text": "Nu este definit" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 615,
+            "points": "",
+            "question": "Care este rezultatul sumei \\(\\operatorname{tg}(1^{\\circ})+\\operatorname{tg}(2^{\\circ})+\\operatorname{tg}(3^{\\circ})+\\ldots+\\operatorname{tg}(89^{\\circ})+\\operatorname{tg}(91^{\\circ})+\\ldots+\\operatorname{tg}(179^{\\circ})\\)?",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(1\\)" },
+            { "answer": "B", "text": "\\(0\\)" },
+            { "answer": "C", "text": "\\(\\dfrac{\\sqrt{2}}{2}\\)" },
+            { "answer": "D", "text": "\\(\\dfrac{1}{8}\\)" }
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 616,
+            "points": "",
+            "question": "Fie \\(P=\\operatorname{tg}(1^{\\circ})\\cdot \\operatorname{tg}(2^{\\circ})\\cdot \\operatorname{tg}(3^{\\circ})\\cdot\\ldots\\cdot \\operatorname{tg}(89^{\\circ})\\). Valoarea lui \\(P\\) este:",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(1\\)" },
+            { "answer": "B", "text": "\\(0\\)" },
+            { "answer": "C", "text": "\\(\\dfrac{\\sqrt{2}}{2}\\)" },
+            { "answer": "D", "text": "\\(\\dfrac{1}{8}\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 617,
+            "points": "",
+            "question": "Care este rezultatul sumei \\(\\sin^4\\left(\\dfrac{\\pi}{8}\\right)+\\sin^4\\left(\\dfrac{3\\pi}{8}\\right)+\\sin^4\\left(\\dfrac{5\\pi}{8}\\right)+\\sin^4\\left(\\dfrac{7\\pi}{8}\\right)\\)?",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\dfrac{3}{2}\\)" },
+            { "answer": "B", "text": "\\(\\dfrac{3}{4}\\)" },
+            { "answer": "C", "text": "\\(0\\)" },
+            { "answer": "D", "text": "\\(3\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 618,
+            "points": "",
+            "question": "Care este rezultatul sumei \\(S=\\sin x+\\sin 2x+\\sin 3x+\\ldots+\\sin nx\\)?",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(S=\\dfrac{\\sin\\left(\\dfrac{n+1}{2}x\\right)}{\\sin\\left(\\dfrac{x}{2}\\right)}\\)" },
+            { "answer": "B", "text": "\\(S=\\dfrac{\\sin\\left(\\dfrac{n+1}{2}x\\right)}{\\sin x}\\)" },
+            { "answer": "C", "text": "\\(S=\\dfrac{\\sin\\left(\\dfrac{nx}{2}\\right)\\cdot \\sin\\left(\\dfrac{(n+1)x}{2}\\right)}{\\sin\\left(\\dfrac{x}{2}\\right)}\\)" },
+            { "answer": "D", "text": "\\(S=\\dfrac{\\sin\\left(\\dfrac{nx}{2}\\right)}{\\sin\\left(\\dfrac{(n+1)x}{2}\\right)}\\)" }
+            ],
+            "correctAnswer": ["C"]
+        },
+        {
+            "questionNumber": 619,
+            "points": "",
+            "question": "Valoarea expresiei \\(16\\cos 20^{\\circ}\\cos 40^{\\circ}\\cos 60^{\\circ}\\cos 80^{\\circ}\\) este:",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(1\\)" },
+            { "answer": "B", "text": "\\(0\\)" },
+            { "answer": "C", "text": "\\(\\dfrac{1}{2}\\)" },
+            { "answer": "D", "text": "\\(4\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 620,
+            "points": "",
+            "question": "Valoarea expresiei \\(S=\\sin 1^{\\circ}+\\sin 2^{\\circ}+\\sin 3^{\\circ}+\\cdots+\\sin 360^{\\circ}\\) este:",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(1\\)" },
+            { "answer": "B", "text": "\\(0\\)" },
+            { "answer": "C", "text": "\\(\\dfrac{1}{2}\\)" },
+            { "answer": "D", "text": "\\(-1\\)" }
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 621,
+            "points": "",
+            "question": "Valoarea expresiei \\(\\dfrac{1}{\\sin 10^{\\circ}}-\\dfrac{\\sqrt{3}}{\\cos 10^{\\circ}}\\) este:",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(2\\)" },
+            { "answer": "B", "text": "\\(4\\)" },
+            { "answer": "C", "text": "\\(\\dfrac{1}{\\sqrt{3}}\\)" },
+            { "answer": "D", "text": "\\(-4\\)" }
+            ],
+            "correctAnswer": ["B"]
+        },
+        {
+            "questionNumber": 622,
+            "points": "",
+            "question": "Expresia \\(\\cos x+\\sin x\\) se poate simplifica în forma:",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\sqrt{2}\\cos\\left(x-\\dfrac{\\pi}{4}\\right)\\)" },
+            { "answer": "B", "text": "\\(\\sqrt{2}\\cos\\left(x+\\dfrac{\\pi}{4}\\right)\\)" },
+            { "answer": "C", "text": "\\(\\sqrt{2}\\cos\\left(x-\\dfrac{\\pi}{2}\\right)\\)" },
+            { "answer": "D", "text": "\\(\\sqrt{2}\\cos\\left(x+\\dfrac{\\pi}{2}\\right)\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 623,
+            "points": "",
+            "question": "Valoarea expresiei \\(\\sin^3\\left(\\dfrac{x}{3}\\right)+3\\sin^3\\left(\\dfrac{x}{9}\\right)+3^2\\sin^3\\left(\\dfrac{x}{27}\\right)+\\cdots+3^{n-1}\\sin^3\\left(\\dfrac{x}{3^n}\\right)\\) este:",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\dfrac{1}{4}\\left(3^n\\sin\\left(\\dfrac{x}{3^n}\\right)-\\sin x\\right)\\)" },
+            { "answer": "B", "text": "\\(\\dfrac{1}{4}\\left(3^n\\sin\\left(\\dfrac{x}{3^{n-1}}\\right)-\\sin x\\right)\\)" },
+            { "answer": "C", "text": "\\(\\dfrac{1}{8}\\left(3^n\\sin\\left(\\dfrac{x}{3^n}\\right)-\\sin x\\right)\\)" },
+            { "answer": "D", "text": "\\(\\dfrac{1}{4}\\left(3^{(n-1)}\\sin\\left(\\dfrac{x}{3^n}\\right)-\\sin x\\right)\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 624,
+            "points": "",
+            "question": "Expresia \\(\\cos x-\\sqrt{3}\\sin x\\) se poate simplifica în forma:",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(2\\cos\\left(x+\\dfrac{\\pi}{3}\\right)\\)" },
+            { "answer": "B", "text": "\\(2\\cos\\left(x-\\dfrac{\\pi}{3}\\right)\\)" },
+            { "answer": "C", "text": "\\(2\\cos\\left(x+\\dfrac{\\pi}{6}\\right)\\)" },
+            { "answer": "D", "text": "\\(2\\cos\\left(x-\\dfrac{\\pi}{6}\\right)\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 625,
+            "points": "",
+            "question": "Valoarea expresiei \\(\\cos\\dfrac{x}{2}\\cdot \\cos\\dfrac{x}{4}\\cdot\\ldots\\cdot \\cos\\left(\\dfrac{x}{2^n}\\right)\\) este:",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\dfrac{\\sin x}{2^n\\sin\\left(\\dfrac{x}{2^n}\\right)}\\)" },
+            { "answer": "B", "text": "\\(\\dfrac{\\cos x}{2^n\\cos\\left(\\dfrac{x}{2^n}\\right)}\\)" },
+            { "answer": "C", "text": "\\(\\dfrac{\\sin x}{2^{n-1}\\sin\\left(\\dfrac{x}{2^n}\\right)}\\)" },
+            { "answer": "D", "text": "\\(\\dfrac{\\sin x}{2^n\\sin\\left(\\dfrac{x}{2^{n-1}}\\right)}\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 626,
+            "points": "",
+            "question": "Valoarea expresiei \\(\\cos x\\cdot \\cos 2x\\cdot\\ldots\\cdot \\cos(2^{n-1}x)\\) este:",
+            "category": "trigonometrie",
+            "author": "Ariana Ilieș",
+            "answers": [
+            { "answer": "A", "text": "\\(\\dfrac{\\sin(2^n x)}{2^n\\sin x}\\)" },
+            { "answer": "B", "text": "\\(\\dfrac{\\sin(2^{n-1}x)}{2^n\\sin x}\\)" },
+            { "answer": "C", "text": "\\(\\dfrac{\\sin(2^n x)}{2^{n-1}\\sin x}\\)" },
+            { "answer": "D", "text": "\\(\\dfrac{\\sin(2^{n-1}x)}{2^{n-1}\\sin x}\\)" }
+            ],
+            "correctAnswer": ["A"]
+        },
+        {
+            "questionNumber": 627,
+            "points": "",
+            "question": "Numărul soluțiilor ecuației trigonometrice \\(\\cos x\\cdot \\cos 2x\\cdot \\cos 4x\\cdot \\cos 8x=\\dfrac{1}{16\\sin x}\\) din \\([-2\\pi,2\\pi]\\) este:",
+            "category": "trigonometrie",
+            "author": "Gabriela Petrușel",
+            "answers": [
+            { "answer": "A", "text": "\\(8\\)" },
+            { "answer": "B", "text": "\\(12\\)" },
+            { "answer": "C", "text": "\\(16\\)" },
+            { "answer": "D", "text": "\\(32\\)" }
+            ],
+            "correctAnswer": ["D"]
+        },
+        {
+            "questionNumber": 628,
+            "points": "",
+            "question": "Fie ecuația \\(\\cos^2 x+\\cos^2 2x=1\\). Suma soluțiilor distincte ale ecuației în \\([0,\\pi]\\) este:",
+            "category": "trigonometrie",
+            "author": "Gabriela Petrușel",
+            "answers": [
+            { "answer": "A", "text": "\\(\\dfrac{\\pi}{2}\\)" },
+            { "answer": "B", "text": "\\(\\pi\\)" },
+            { "answer": "C", "text": "\\(\\dfrac{3\\pi}{2}\\)" },
+            { "answer": "D", "text": "\\(2\\pi\\)" }
+            ],
+            "correctAnswer": ["C"]
         }
     ]
 }
