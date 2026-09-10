@@ -1,0 +1,1016 @@
+{
+        "examTitle" : "Probleme si Teste Grilă de Matematică pentru Admiterea la Facultatea de Matematică și Informatică Universitatea Babeș-Bolyai 2026",
+        "questions" : [
+            {
+                "questionNumber": 1,
+                "question": "Notăm cu $A$ mulţimea numerelor naturale $n$ care au ultima cifră \\(6\\) şi au proprietatea că dacă mutăm această cifră în faţa numărului, obţinem un număr de \\(4\\) ori mai mare. Care dintre următoarele afirmaţii sunt adevărate?",
+                "category": "algebra",
+                "author": "Simion Breaz",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "Dacă $n \\in A$, atunci $3 \\mid n$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "Există $n \\in A$ astfel încât $12 \\mid n$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "Există $n \\in A$ care are 8 cifre"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "Există $n \\in A$ care are toate cifrele diferite două câte două"
+                    }
+                ],
+                "correctAnswer": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "questionNumber": 2,
+                "question": "Câte numere naturale $n$ nu au proprietatea că $\\sqrt{2n^3+13n+2} \\in \\mathbb{N}$?",
+                "category": "algebra",
+                "author": "Dorel Duca",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "5"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "o infinitate"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "niciunul"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "1"
+                    }
+                ],
+                "correctAnswer": [
+                    "C"
+                ]
+            },
+            {
+                "questionNumber": 3,
+                "question": "Pentru câte valori ale lui $n \\in \\mathbb{N}$, $n \\ge 2$, numărul $a_n = 1 + 2\\cdot3 + 4\\cdot5\\cdot6 + \\ldots + \\left(\\dfrac{(n-1)n}{2}+1\\right)\\left(\\dfrac{(n-1)n}{2}+2\\right)\\cdots\\left(\\dfrac{n(n+1)}{2}\\right)$ este pătrat perfect?",
+                "category": "algebra",
+                "author": "Dorel Duca",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "pentru niciuna"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "pentru o valoare"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "pentru două valori"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "pentru o infinitate de valori"
+                    }
+                ],
+                "correctAnswer": [
+                    "A"
+                ]
+            },
+            {
+                "questionNumber": 4,
+                "question": "Dacă $x = \\dfrac{\\sqrt{\\sqrt5+2}+\\sqrt{\\sqrt5-2}}{\\sqrt{\\sqrt5+1}} + \\dfrac{\\sqrt{\\sqrt5+2}+\\sqrt{\\sqrt5-2}}{2\\sqrt{\\sqrt5+1}} - \\sqrt{3-2\\sqrt2}$, atunci $x^2$ are valoarea",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$\\dfrac{\\sqrt2}{2}+1$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$\\dfrac32+\\sqrt2$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$\\dfrac12-\\sqrt2$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$\\dfrac{\\sqrt2}{2}-1$"
+                    }
+                ],
+                "correctAnswer": [
+                    "B"
+                ]
+            },
+            {
+                "questionNumber": 5,
+                "question": "Fie $a_n$ o progresie aritmetică cu raţia $r \\ne 0$ şi $a_1 = 1$. Pentru $\\forall n \\ge 1$ expresia $C = \\dfrac{a_{2n}+a_{2n-1}+\\ldots+a_{n+1}}{a_n+a_{n-1}+\\ldots+a_1}$ rămâne constantă. Care dintre următoarele afirmaţii sunt adevărate?",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$a_{31}=63$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$a_{15}=29$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "Raţia este egală cu valoarea raportului"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$C=3$"
+                    }
+                ],
+                "correctAnswer": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "questionNumber": 6,
+                "question": "Câte numere întregi pozitive de patru cifre există care conţin blocul \\(25\\) şi sunt divizibile cu \\(75\\)? (\\(2250\\) şi \\(2025\\) sunt două astfel de numere.)",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "62"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "31"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "34"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "63"
+                    }
+                ],
+                "correctAnswer": [
+                    "C"
+                ]
+            },
+            {
+                "questionNumber": 7,
+                "question": "Fie trei numere întregi pozitive $a, b, c$ astfel încât $21a = 9b = 7c$ şi $a+8, b, c$ sunt o progresie aritmetică. Care sunt aceste valori $a, b, c$?",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$a=21, b=49, c=81$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$a=12, b=28, c=36$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$a=42, b=105, c=126$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$a=6, b=14, c=18$"
+                    }
+                ],
+                "correctAnswer": [
+                    "B"
+                ]
+            },
+            {
+                "questionNumber": 8,
+                "question": "Dacă $n$ este un multiplu de 5 şi $n = p^2 \\cdot q$, unde $p$ şi $q$ sunt prime, care dintre următoarele este cu siguranţă multiplu de 25?",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$p^2$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$q^2$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$pq$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$p^2q^2$"
+                    }
+                ],
+                "correctAnswer": [
+                    "D"
+                ]
+            },
+            {
+                "questionNumber": 9,
+                "question": "Fie $p$ un număr prim mai mare decât 3. Care dintre următoarele afirmaţii este adevărată pentru $p^2-1$?",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "Expresia este divizibilă cu 12, dar nu şi cu 24"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "Expresia este divizibilă cu 18, dar nu şi cu 24"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "Expresia este divizibilă cu 24"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "Expresia este divizibilă cu 36, dar nu şi cu 24"
+                    }
+                ],
+                "correctAnswer": [
+                    "C"
+                ]
+            },
+            {
+                "questionNumber": 10,
+                "question": "În care dintre următoarele situaţii numărul natural $n$ divide $2^n-2$?",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$n$ este un număr prim"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$n$ este un număr impar"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$n$ este o putere a lui 2"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$n$ este o putere a lui 2 sau un număr prim"
+                    }
+                ],
+                "correctAnswer": [
+                    "A",
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "questionNumber": 11,
+                "question": "Fie progresia aritmetică $a_1, a_2, \\ldots, a_n$ cu raţia $r$. Ştiind că $a_1=1$ şi $a_{25}=121$, câte pătrate perfecte sunt în progresie?",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "3"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "4"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "5"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "6"
+                    }
+                ],
+                "correctAnswer": [
+                    "D"
+                ]
+            },
+            {
+                "questionNumber": 12,
+                "question": "Fie o progresie aritmetică unde al cincilea termen este de trei ori mai mare decât al doilea, iar al nouălea este mai mare decât al treilea cu 24. Care este primul termen şi raţia progresiei?",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$a_1=1$ şi $r=4$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$a_1=2$ şi $r=3$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$a_1=3$ şi $r=2$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$a_1=2$ şi $r=4$"
+                    }
+                ],
+                "correctAnswer": [
+                    "D"
+                ]
+            },
+            {
+                "questionNumber": 13,
+                "question": "Două progresii aritmetice sunt definite ca $a_n=3n+7$ şi $b_m=5m+2$. Care este cea mai mică valoare a lui $k$ pentru care $a_k \\in b_m$?",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$k=8$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$k=6$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$k=5$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$k=9$"
+                    }
+                ],
+                "correctAnswer": [
+                    "C"
+                ]
+            },
+            {
+                "questionNumber": 14,
+                "question": "Fie $n \\in \\mathbb{N}$, $n \\ge 3$. În planul $xOy$ considerăm o mulţime $M$ formată din $n$ puncte distincte diferite de $O$. Numărul tuturor triunghiurilor $\\triangle AOB$ cu $A, B \\in M$ este",
+                "category": "algebra",
+                "author": "Cosmin Pelea",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$A_n^2$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$2^n$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$C_{n+1}^3$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "cel mult $C_n^2$"
+                    }
+                ],
+                "correctAnswer": [
+                    "D"
+                ]
+            },
+            {
+                "questionNumber": 15,
+                "question": "Fie $M$ o mulţime cu $n$ elemente. În câte moduri posibile putem alege trei submulţimi disjuncte $A, B, C \\subseteq M$?",
+                "category": "algebra",
+                "author": "István Szöllősi",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$3n!$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$3^n$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$4^n$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$C_n^3$"
+                    }
+                ],
+                "correctAnswer": [
+                    "C"
+                ]
+            },
+            {
+                "questionNumber": 16,
+                "question": "Mulţimea numerelor $n$ care verifică inegalitatea $C_{n-1}^5+C_{n-1}^4 < C_n^{n-3}$ este",
+                "category": "algebra",
+                "author": "Cosmin Pelea",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$(-1,8)$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$\\{3,4,5,6,7\\}$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$\\{6,7\\}$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$[8,\\infty) \\cap \\mathbb{N}$"
+                    }
+                ],
+                "correctAnswer": [
+                    "C"
+                ]
+            },
+            {
+                "questionNumber": 17,
+                "question": "Notăm cu $\\mathcal{F}$ mulţimea tuturor funcţiilor cu domeniul $\\{0,1,2,3\\}$ şi codomeniul $\\{1,2,3,4\\}$. Care dintre următoarele afirmaţii sunt adevărate?",
+                "category": "algebra",
+                "author": "Hannelore Lisei",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "Mulţimea $\\mathcal{F}$ conţine $4^3$ funcţii"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "Mulţimea $\\mathcal{F}$ conţine 4 funcţii strict monotone"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "Mulţimea $\\mathcal{F}$ conţine 4 funcţii injective"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "Probabilitatea ca o funcţie $f$ aleasă aleator din mulţimea $\\mathcal{F}$ să verifice $f(0)=f(1)$ este $\\dfrac{1}{16}$"
+                    }
+                ],
+                "correctAnswer": [
+                    "D"
+                ]
+            },
+            {
+                "questionNumber": 18,
+                "question": "Dacă $n \\in \\mathbb{N}$, $n \\ge 2$ şi $x = \\displaystyle\\sum_{k=0}^{n-1} \\dfrac{\\left(C_{n+1}^{k+1}\\right)^4}{C_n^k C_n^{k+1}}$, atunci",
+                "category": "algebra",
+                "author": "Dorel Duca",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$x \\ge 16\\left(C_{2n}^n-1\\right)$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$x < 16\\left(C_{2n}^n-1\\right)$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$x = 16C_{2n}^n$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$x \\ge 16C_{2n}^n-17$"
+                    }
+                ],
+                "correctAnswer": [
+                    "A"
+                ]
+            },
+            {
+                "questionNumber": 19,
+                "question": "Câte funcţii $f: \\{1,2,\\ldots,n\\} \\to \\{0,1\\}$ au proprietatea că $\\displaystyle\\sum_{k=1}^n f(k) = 3$?",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$C_n^2$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$C_n^3$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$A_n^2 \\cdot \\dfrac{1}{2}$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "120, când $n=10$"
+                    }
+                ],
+                "correctAnswer": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "questionNumber": 20,
+                "question": "Considerând mulţimile $A=\\{1,2,3,4\\}$ şi $B=\\{1,2,3,4,5,6\\}$, care este numărul funcţiilor $f: A \\to B$ strict descrescătoare? Dar numărul funcţiilor $f: B \\to A$ crescătoare?",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$C_6^4, A_9^3$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$C_6^4, C_{10}^4$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$A_6^4, C_9^3$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$C_6^4, C_9^3$"
+                    }
+                ],
+                "correctAnswer": [
+                    "D"
+                ]
+            },
+            {
+                "questionNumber": 21,
+                "question": "Suma $1 + 2C_n^1 + 3C_n^2 + \\ldots + (n+1)C_n^n$ este egală cu",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$n \\cdot 2^{n-1}$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$2^{n-1}(n+2)$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$2^n(n+2)$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$\\displaystyle\\sum_{k=0}^n C_n^k + n \\cdot 2^{n-1}$"
+                    }
+                ],
+                "correctAnswer": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "questionNumber": 22,
+                "question": "Suma $C_n^0 + \\dfrac{1}{2}C_n^1 + \\dfrac{1}{3}C_n^2 + \\ldots + \\dfrac{1}{n+1}C_n^n$ este egală cu",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$\\dfrac{2^n-1}{(n+1)!}$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$\\dfrac{2^{n+1}-1}{n+1}$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$\\dfrac{1}{n+1}\\displaystyle\\sum_{k=0}^n C_n^k$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$\\dfrac{2^{n-1}-1}{n+1}$"
+                    }
+                ],
+                "correctAnswer": [
+                    "B"
+                ]
+            },
+            {
+                "questionNumber": 23,
+                "question": "Fie dezvoltarea $\\left(\\sqrt2+\\sqrt[3]3\\right)^n$. Care dintre următoarele afirmaţii sunt adevărate?",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "Dacă $n=15$, dezvoltarea are exact 3 termeni raţionali"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "Dacă $n=24$, dezvoltarea are exact 5 termeni iraţionali"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "Dacă $n=30$, termenul corespunzător pentru $k=18$ este iraţional"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "Dacă $n=18$, termenul corespunzător pentru $k=9$ este iraţional"
+                    }
+                ],
+                "correctAnswer": [
+                    "A",
+                    "D"
+                ]
+            },
+            {
+                "questionNumber": 24,
+                "question": "Pe dreptele $d_1 \\| d_2$ se consideră punctele distincte $A_1, A_2, A_3, A_4, A_5, A_6 \\in d_1$ şi $B_1, B_2, B_3, B_4, B_5 \\in d_2$. Numărul triunghiurilor care se pot forma cu aceste puncte este",
+                "category": "algebra",
+                "author": "Gabriela Petrușel",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "120"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "124"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "135"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "140"
+                    }
+                ],
+                "correctAnswer": [
+                    "C"
+                ]
+            },
+            {
+                "questionNumber": 25,
+                "question": "Fie $x$ şi $y$, numere reale pozitive, $x, y > 1$, astfel încât $\\log_x(y^x) = \\log_y(x^{ey}) = 2\\sqrt\\pi$. Să se indice care dintre următoarele variante reprezintă valoarea lui $x \\cdot y$",
+                "category": "algebra",
+                "author": "Cristian Crețu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$\\dfrac{\\pi^2}{e}$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$\\dfrac{4\\pi}{e}$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$\\dfrac{\\pi}{e}$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$\\dfrac{2\\sqrt\\pi}{e}$"
+                    }
+                ],
+                "correctAnswer": [
+                    "B"
+                ]
+            },
+            {
+                "questionNumber": 26,
+                "question": "Fie $f: \\mathbb{E} \\to \\mathbb{R}$, $f(x) = \\log_3 x + \\log_{\\sqrt x} x - \\log_{\\frac13} x - 6$. Aici $\\mathbb{E} \\subset \\mathbb{R}$ este domeniul maxim de definiţie al lui $f$. Atunci",
+                "category": "algebra",
+                "author": "Adriana Buică",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$\\mathbb{E}$ este un interval deschis"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "ecuaţia $f(x)=0$ are o singură soluţie"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "există un şir nemărginit $(x_n)_{n \\ge 1}$ cu proprietatea că $f(x_n)>0$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "există un şir nemărginit $(x_n)_{n \\ge 1}$ cu proprietatea că $f(x_n)<0$"
+                    }
+                ],
+                "correctAnswer": [
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "questionNumber": 27,
+                "question": "Dacă $\\log_{12}27=a$, atunci valoarea lui $\\log_6 16$ este",
+                "category": "algebra",
+                "author": "Natalia Roșca",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$\\dfrac{4}{a}$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$\\dfrac{4(3-a)}{3+a}$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$\\dfrac{4+a}{4-a}$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$\\dfrac{4(3+a)}{3-a}$"
+                    }
+                ],
+                "correctAnswer": [
+                    "B"
+                ]
+            },
+            {
+                "questionNumber": 28,
+                "question": "Fie $n \\in \\mathbb{N}^*$ şi numerele reale $a_1, a_2, \\ldots, a_n > 1$. Dacă $L = \\log_{a_1^n}a_2 + \\log_{a_2^n}a_3 + \\ldots + \\log_{a_{n-1}^n}a_n + \\log_{a_n^n}a_1$, atunci",
+                "category": "algebra",
+                "author": "Dorel Duca",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$L \\ge 1$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$L > 1$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$L < 1$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$L = 1$"
+                    }
+                ],
+                "correctAnswer": [
+                    "A"
+                ]
+            },
+            {
+                "questionNumber": 29,
+                "question": "Fie ecuaţia $(\\sqrt x-2)^3+\\ln x=0$ şi $I=[1,4]$. Care dintre următoarele afirmaţii sunt adevărate?",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "Există cel puţin o soluţie a ecuaţiei pe intervalul $I$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "Nu există nicio soluţie pe intervalul $I$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "Există cel puţin o soluţie pe intervalul $(1,4]$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "Funcţia $f(x)=(\\sqrt x-2)^3+\\ln x$ nu este definită pentru $x=0$, deci nu există nicio soluţie pe intervalul dat"
+                    }
+                ],
+                "correctAnswer": [
+                    "A"
+                ]
+            },
+            {
+                "questionNumber": 30,
+                "question": "Fie funcţia $f: \\mathbb{R} \\to \\mathbb{R}$, $f(x)=\\begin{cases}x+1, & x<1 \\\\ 4-\\log_{\\sqrt[4]2}(x), & x \\ge 1\\end{cases}$. Pentru ce valori ale lui $c$ ecuaţia $f(x)=c$ are exact 2 soluţii?",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$c=2$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$c=1$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$c=3$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$\\forall c<2$"
+                    }
+                ],
+                "correctAnswer": [
+                    "B",
+                    "D"
+                ]
+            },
+            {
+                "questionNumber": 31,
+                "question": "Fie $S$ mulţimea soluţiilor reale ale ecuaţiei $\\log_3 x+\\log_9 x^2+\\log_{27}x^3+\\ldots+\\log_{3^n}x^n=n,$ atunci:",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$S \\subseteq [0,1)$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$S \\subseteq [1,3)$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$S$ are exact 1 element"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$S$ are exact 3 elemente"
+                    }
+                ],
+                "correctAnswer": [
+                    "B",
+                    "C"
+                ]
+            },
+            {
+                "questionNumber": 32,
+                "question": "Fie sistemul $\\begin{cases}4^{\\frac xy+\\frac yx}=32 \\\\ \\log_9(x-y)+\\log_9(x+y)=\\dfrac12\\end{cases}$. Care dintre următoarele perechi $(x,y)$ sunt soluţii ale sistemului?",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$(2,1)$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$\\left(\\sqrt2, \\dfrac{1}{\\sqrt2}\\right)$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$(-2,-1)$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "Altă soluţie"
+                    }
+                ],
+                "correctAnswer": [
+                    "A"
+                ]
+            },
+            {
+                "questionNumber": 33,
+                "question": "Valoarea lui $n$ care satisface ecuaţia $\\log_2 3 \\cdot \\log_3 4 \\cdot \\log_4 5 \\cdots \\log_n(n+1) = 10$ este",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "1024"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "1023"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "2047"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "512"
+                    }
+                ],
+                "correctAnswer": [
+                    "B"
+                ]
+            },
+            {
+                "questionNumber": 34,
+                "question": "Valoarea lui $x$ care satisface ecuaţia $3+e^{2x}=7e^{2x}$ este",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$-\\ln\\dfrac12$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$\\ln\\dfrac12$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$\\ln\\dfrac{1}{\\sqrt2}$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$-\\dfrac12\\ln2$"
+                    }
+                ],
+                "correctAnswer": [
+                    "C",
+                    "D"
+                ]
+            },
+            {
+                "questionNumber": 35,
+                "question": "Se dă ecuaţia $S := \\log\\left(\\log_{10^a}\\left(\\log_{10^b}\\left(10^{1000}\\right)\\right)\\right)=0$, $a,b \\in \\mathbb{Z}^*$, $a,b>0$. Să se indice care dintre următoarele afirmaţii sunt corecte, ştiind că $M$ reprezintă mulţimea perechilor unice $\\{a,b\\}$, $a \\ne b$ astfel încât $S=0$",
+                "category": "algebra",
+                "author": "Cristian Crețu",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "card $M=4$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$\\displaystyle\\prod_{k=1}^{\\text{card }M} a_k \\cdot b_k = 0$"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$\\displaystyle\\sum_{k=1}^{\\text{card }M} a_k \\cdot b_k = 123$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$\\displaystyle\\sum_{k=1}^{\\text{card }M}\\left(\\prod_{k=1}^{\\text{card }M} a_k + \\prod_{k=1}^{\\text{card }M} b_k\\right)+6$ este pătrat perfect"
+                    }
+                ],
+                "correctAnswer": [
+                    "C"
+                ]
+            },
+            {
+                "questionNumber": 36,
+                "question": "Fie $S=\\{(x,y) \\in \\mathbb{R}\\times\\mathbb{R} \\mid xy+x+y=11$ şi $xy(x+y)=30\\}$, atunci",
+                "category": "algebra",
+                "author": "Adriana Buică",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "$x+y=5$ sau $xy=5$ pentru fiecare $(x,y) \\in S$"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "$S$ are 2 elemente"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "$x+y=6$ sau $xy=6$ pentru fiecare $(x,y) \\in S$"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "$S=\\emptyset$"
+                    }
+                ],
+                "correctAnswer": [
+                    "A",
+                    "C"
+                ]
+            },
+            {
+                "questionNumber": 37,
+                "question": "Numărul de soluţii reale ale ecuaţiei $\\sqrt{3-x}-x=0$ este",
+                "category": "algebra",
+                "author": "Adriana Buică",
+                "answers": [
+                    {
+                        "answer": "A",
+                        "text": "0"
+                    },
+                    {
+                        "answer": "B",
+                        "text": "1"
+                    },
+                    {
+                        "answer": "C",
+                        "text": "2"
+                    },
+                    {
+                        "answer": "D",
+                        "text": "3"
+                    }
+                ],
+                "correctAnswer": [
+                    "B"
+                ]
+            }
+        ]
+}
