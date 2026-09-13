@@ -768,8 +768,8 @@
             "category": "trigonometrie",
             "author": "Ariana Ilieș",
             "answers": [
-            { "answer": "A", "text": "\\(\\dfrac{k\\pi}{2}-\\dfrac{\\pi}{3}<x<\\dfrac{\\pi}{12}+\\dfrac{k\\pi}{2}\\), unde \\(k\\in\\mathbb{Z}\\)" },
-            { "answer": "B", "text": "\\(\\dfrac{k\\pi}{2}-\\dfrac{7\\pi}{24}<x<\\dfrac{\\pi}{24}+\\dfrac{k\\pi}{2}\\), unde \\(k\\in\\mathbb{Z}\\)" },
+            { "answer": "A", "text": "\\(\\dfrac{k\\pi}{2}-\\dfrac{\\pi}{3}\\lt x \\lt\\dfrac{\\pi}{12}+\\dfrac{k\\pi}{2}\\), unde \\(k\\in\\mathbb{Z}\\)" },
+            { "answer": "B", "text": "\\(\\dfrac{k\\pi}{2}-\\dfrac{7\\pi}{24}\\lt x \\lt\\dfrac{\\pi}{24}+\\dfrac{k\\pi}{2}\\), unde \\(k\\in\\mathbb{Z}\\)" },
             { "answer": "C", "text": "\\(x\\) poate lua valoarea \\(1\\)" },
             { "answer": "D", "text": "\\(x\\) poate lua valoarea \\(\\dfrac{3\\pi}{8}\\)" }
             ],
@@ -820,7 +820,7 @@
         {
             "questionNumber": 583,
             "points": "",
-            "question": "Valoarea minimă a expresiei \\(\\dfrac{12+48x^2\\sin^2 x}{x\\cdot \\sin x}\\), pentru \\(0<x<\\pi\\) este mai mică decât:",
+            "question": "Valoarea minimă a expresiei \\(\\dfrac{12+48x^2\\sin^2 x}{x\\cdot \\sin x}\\), pentru \\(0 \\lt x \\lt \\pi\\) este mai mică decât:",
             "category": "trigonometrie",
             "author": "Cristian Crețu",
             "answers": [
@@ -834,7 +834,8 @@
         {
             "questionNumber": 584,
             "points": "",
-            "question": "Problemele 584 și 585 se referă la expresia \\(r\\sin x+t\\cos x\\), \\(x,r,t\\in\\mathbb{R}\\). Care este valoarea maximă a expresiei?",
+            "context" : "Fie expresia \\(r\\sin x+t\\cos x\\), \\(x,r,t\\in\\mathbb{R}\\).",
+            "question": "Care este valoarea maximă a expresiei?",
             "category": "trigonometrie",
             "author": "Rareș Răhăian",
             "answers": [
@@ -848,6 +849,7 @@
         {
             "questionNumber": 585,
             "points": "",
+            "context" : "Fie expresia \\(r\\sin x+t\\cos x\\), \\(x,r,t\\in\\mathbb{R}\\).",
             "question": "Pentru \\(x=\\dfrac{\\pi}{3}\\), în care caz se obține valoarea maximă a expresiei?",
             "category": "trigonometrie",
             "author": "Rareș Răhăian",
