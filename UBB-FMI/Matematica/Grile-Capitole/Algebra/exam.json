@@ -1011,6 +1011,819 @@
                 "correctAnswer": [
                     "B"
                 ]
+            },
+            {
+                "questionNumber": 38,
+                "question": "Fie $S$ o submulţime a lui $\\mathbb{Z}_+$ astfel încât: (a) $2 \\in S$; (b) $n \\in S \\Leftarrow n^2 \\in S$; (c) $(n+5)^2 \\in S \\Leftarrow n \\in S$. Care dintre următoarele afirmaţii sunt adevărate?",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$-5 \\notin S$"
+                },
+                {
+                    "answer": "B",
+                    "text": "Numerele întregi, diferite de 1 şi care nu sunt multiplii de 5 aparţin lui $S$"
+                },
+                {
+                    "answer": "C",
+                    "text": "$S=\\{1\\}\\cup\\{5n \\mid n\\in\\mathbb{N}^*\\}$"
+                },
+                {
+                    "answer": "D",
+                    "text": "$S=\\mathbb{Z}_+ \\setminus \\{1\\}\\cup\\{5n \\mid n\\in\\mathbb{N}^*\\}$"
+                }
+                ],
+                "correctAnswer": [
+                "A",
+                "D"
+                ]
+            },
+            {
+                "questionNumber": 39,
+                "question": "Numărul de soluţii reale ale ecuaţiei $(x^2-7x+11)^{x^2-13x+42}=1$ este",
+                "category": "algebra",
+                "author": "Cristian Crețu",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "4"
+                },
+                {
+                    "answer": "B",
+                    "text": "2"
+                },
+                {
+                    "answer": "C",
+                    "text": "6"
+                },
+                {
+                    "answer": "D",
+                    "text": "8"
+                }
+                ],
+                "correctAnswer": [
+                "C"
+                ]
+            },
+            {
+                "questionNumber": 40,
+                "question": "Fie $(a_n)_{n\\ge1}$ o progresie aritmetică descrescătoare care verifică relaţiile $-a_7a_9a_{11}=101\\cdot129+8$ şi $a_3+a_4+a_5=-6$. Care dintre următoarele afirmaţii sunt $false?$",
+                "category": "algebra",
+                "author": "Patricia Manciu",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$a_1=5$"
+                },
+                {
+                    "answer": "B",
+                    "text": "$a_4^3=-8$"
+                },
+                {
+                    "answer": "C",
+                    "text": "Suma primelor 10 elemente este $-70$"
+                },
+                {
+                    "answer": "D",
+                    "text": "Raţia progresiei este 3"
+                }
+                ],
+                "correctAnswer": [
+                "A",
+                "C",
+                "D"
+                ]
+            },
+            {
+                "questionNumber": 41,
+                "question": "Suma soluţiilor ecuaţiei $\\sqrt[4]{x}=\\dfrac{12}{7-\\sqrt[4]{x}}$ este",
+                "category": "algebra",
+                "author": "Cristian Crețu",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$S<2^9$"
+                },
+                {
+                    "answer": "B",
+                    "text": "$S\\in[2^8,2^9]$"
+                },
+                {
+                    "answer": "C",
+                    "text": "$S\\in(3^5,2^8)$"
+                },
+                {
+                    "answer": "D",
+                    "text": "$S \\notin (2^7,7^3)$"
+                }
+                ],
+                "correctAnswer": [
+                "A",
+                "B"
+                ]
+            },
+            {
+                "questionNumber": 42,
+                "question": "Valoarea minimă a expresiei $\\displaystyle\\sum_{k=1}^n |x_k+k|$, unde $\\forall x \\in \\mathbb{Z}, n\\in\\mathbb{N}^*, n=2m+1, m\\in\\mathbb{N}^*$ şi $x_{k+1}=x_k+1$ este",
+                "category": "algebra",
+                "author": "Cristian Crețu",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$\\dfrac{n^2+2n}{2}$"
+                },
+                {
+                    "answer": "B",
+                    "text": "$1011\\cdot1012$, pentru $n=2023$"
+                },
+                {
+                    "answer": "C",
+                    "text": "$\\dfrac{n^2+2n}{4}$"
+                },
+                {
+                    "answer": "D",
+                    "text": "$2023\\cdot1012$, pentru $n=2023$"
+                }
+                ],
+                "correctAnswer": [
+                "B",
+                "C"
+                ]
+            },
+            {
+                "questionNumber": 43,
+                "question": "Ştiind că, prin $[x]$ şi $\\{x\\}$ înţelegem partea întreagă şi partea fracţionară a numărului real $x$, ecuaţia $x^2+2[x]\\{x\\}+3\\{x\\}^2=4$ are, pe mulţimea numerelor reale",
+                "category": "algebra",
+                "author": "Adriana Buică",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "3 soluţii"
+                },
+                {
+                    "answer": "B",
+                    "text": "4 soluţii"
+                },
+                {
+                    "answer": "C",
+                    "text": "3 soluţii întregi"
+                },
+                {
+                    "answer": "D",
+                    "text": "4 soluţii întregi"
+                }
+                ],
+                "correctAnswer": [
+                "B"
+                ]
+            },
+            {
+                "questionNumber": 44,
+                "question": "Fie $a,b\\in\\mathbb{R}$ fixate. Notăm cu $S_1$ mulţimea soluţiilor reale ale ecuaţiei $ax+b=0$ iar cu $S_2$ mulţimea soluţiilor reale ale inecuaţiei $ax+b\\le0$. Care dintre următoarele afirmaţii sunt adevărate?",
+                "category": "algebra",
+                "author": "Adriana Buică",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "Pentru $a=1$ şi $b=-5$ avem că $S_1=5$ şi $S_2=(-\\infty,5)$"
+                },
+                {
+                    "answer": "B",
+                    "text": "Pentru $a=0$ şi $b=-5$ avem $S_1=-5,0$ şi $S_2=\\mathbb{R}$"
+                },
+                {
+                    "answer": "C",
+                    "text": "Pentru $a=-5$ şi $b=-5$ avem că $S_1=-1$ şi $S_2=(-1,+\\infty)$"
+                },
+                {
+                    "answer": "D",
+                    "text": "Pentru $a=0$ şi $b=0$ avem că $S_1=\\mathbb{R}$ şi $S_2=\\mathbb{R}$"
+                }
+                ],
+                "correctAnswer": [
+                "C",
+                "D"
+                ]
+            },
+            {
+                "questionNumber": 45,
+                "question": "Fie $m\\in\\mathbb{R}$ un parametru fixat. Notăm cu $S$ mulţimea soluţiilor reale ale ecuaţiei $x^2-|x|=mx(x+1)$. Care dintre următoarele afirmaţii sunt adevărate?",
+                "category": "algebra",
+                "author": "Adriana Buică",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$S$ are cel puţin două elemente pentru fiecare $m\\in\\mathbb{R}$"
+                },
+                {
+                    "answer": "B",
+                    "text": "Există un interval nevid $I\\subset\\mathbb{R}$ a.î. $S\\cap(0,\\infty)\\ne0$ pentru fiecare $m\\in I$"
+                },
+                {
+                    "answer": "C",
+                    "text": "Există un $m\\in\\mathbb{R}$ a.î. $S$ este un interval nevid"
+                },
+                {
+                    "answer": "D",
+                    "text": "Există un $m\\in\\mathbb{R}$ a.î. $S$ este reuniunea a două intervale nevide disjuncte"
+                }
+                ],
+                "correctAnswer": [
+                "A",
+                "B",
+                "C"
+                ]
+            },
+            {
+                "questionNumber": 46,
+                "question": "Fie $E\\subset\\mathbb{R}$ domeniul de existenţă al expresiei $\\dfrac{x+1}{x^2-3x+5}$, iar $S\\subset\\mathbb{R}$ mulţimea soluţiilor inecuaţiei $\\dfrac{x+1}{x^2-3x+5}\\le1$. Atunci",
+                "category": "algebra",
+                "author": "Adriana Buică",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$E=\\mathbb{R}\\setminus\\{3,5\\}$ şi $S=(-\\infty,3)$"
+                },
+                {
+                    "answer": "B",
+                    "text": "$E=S$"
+                },
+                {
+                    "answer": "C",
+                    "text": "$S=\\mathbb{R}$"
+                },
+                {
+                    "answer": "D",
+                    "text": "$S\\setminus E \\ne \\emptyset$"
+                }
+                ],
+                "correctAnswer": [
+                "B",
+                "C"
+                ]
+            },
+            {
+                "questionNumber": 47,
+                "question": "Fie $S=\\{(x,y)\\in\\mathbb{R}\\times\\mathbb{R} \\mid xy+x+y=4$ şi $xy(x+y)=4\\}$, atunci",
+                "category": "algebra",
+                "author": "Cristian Crețu",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$S$ are 2 elemente"
+                },
+                {
+                    "answer": "B",
+                    "text": "$(0,4)\\in S$"
+                },
+                {
+                    "answer": "C",
+                    "text": "$(1+i,1-i)\\in S$"
+                },
+                {
+                    "answer": "D",
+                    "text": "$S=\\emptyset$"
+                }
+                ],
+                "correctAnswer": [
+                "D"
+                ]
+            },
+            {
+                "questionNumber": 48,
+                "question": "Produsul soluţiilor reale ale ecuaţiei $x^2+18x+30=2\\sqrt{x^2+18x+45}$ este",
+                "category": "algebra",
+                "author": "Cristian Crețu",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$360$"
+                },
+                {
+                    "answer": "B",
+                    "text": "alt răspuns"
+                },
+                {
+                    "answer": "C",
+                    "text": "$6!$"
+                },
+                {
+                    "answer": "D",
+                    "text": "$4!\\cdot15$"
+                }
+                ],
+                "correctAnswer": [
+                "B"
+                ]
+            },
+            {
+                "questionNumber": 49,
+                "question": "Fie $x,y,z\\in\\mathbb{R}, x,y,z>0$ astfel încât $xyz=1$ şi $x+\\dfrac{1}{z}=3, y+\\dfrac{1}{x}=27$. Să se indice care dintre următoarele variante de răspuns reprezintă valoarea lui $y+\\dfrac{1}{z}$",
+                "category": "algebra",
+                "author": "Adriana Buică",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$\\dfrac{160}{7}$"
+                },
+                {
+                    "answer": "B",
+                    "text": "$\\dfrac{96}{4}$"
+                },
+                {
+                    "answer": "C",
+                    "text": "$\\dfrac{20}{7}$"
+                },
+                {
+                    "answer": "D",
+                    "text": "$\\dfrac{180}{7}$"
+                }
+                ],
+                "correctAnswer": [
+                "A"
+                ]
+            },
+            {
+                "questionNumber": 50,
+                "question": "Fie $m\\in\\mathbb{R}$ un parametru fixat. Notăm cu $S$ mulţimea soluţiilor ecuaţiei $\\sqrt{2|x|-2x}=m-x$. Atunci",
+                "category": "algebra",
+                "author": "Adriana Buică",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$m\\in S$ pentru fiecare $m\\in\\mathbb{R}$"
+                },
+                {
+                    "answer": "B",
+                    "text": "$m-2+2\\sqrt{1-m}\\in S$ pentru fiecare $m\\in(-\\infty,0)$"
+                },
+                {
+                    "answer": "C",
+                    "text": "există un interval nevid, deschis, $I\\subset\\mathbb{R}$ astfel încât $S$ are un singur element pentru orice $m\\in I$"
+                },
+                {
+                    "answer": "D",
+                    "text": "există un interval nevid, deschis, $J\\subset\\mathbb{R}$ astfel încât $S$ are trei elemente pentru orice $m\\in J$"
+                }
+                ],
+                "correctAnswer": [
+                "C",
+                "D"
+                ]
+            },
+            {
+                "questionNumber": 51,
+                "question": "Fie $S$ mulţimea soluţiilor reale ale inecuaţiei $x\\le\\dfrac{8}{x^2}$. Următoarele afirmaţii sunt adevărate?",
+                "category": "algebra",
+                "author": "Adriana Buică",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$f$ şi $f^{-1}$ sunt strict crescătoare, unde $f:\\mathbb{R}\\to\\mathbb{R}, f(y)=\\sqrt[3]{y}$"
+                },
+                {
+                    "answer": "B",
+                    "text": "$(-\\infty,0)\\subset S$"
+                },
+                {
+                    "answer": "C",
+                    "text": "$S=\\{x\\in\\mathbb{R} \\mid x^3\\le8\\}$"
+                },
+                {
+                    "answer": "D",
+                    "text": "$S$ este reuniunea a două intervale nevide disjuncte"
+                }
+                ],
+                "correctAnswer": [
+                "A",
+                "B",
+                "D"
+                ]
+            },
+            {
+                "questionNumber": 52,
+                "question": "Fie $a\\in\\mathbb{R}$ un parametru fixat şi $f:\\mathbb{R}\\to\\mathbb{R}, f(x)=x^3+x$. Fie $S$ mulţimea soluţiilor reale ale ecuaţiei $f(x)=a$. Atunci",
+                "category": "algebra",
+                "author": "Adriana Buică",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$S$ are 3 elemente pentru $a=0$"
+                },
+                {
+                    "answer": "B",
+                    "text": "$f$ este strict crescătoare"
+                },
+                {
+                    "answer": "C",
+                    "text": "$S$ are cel mult un element"
+                },
+                {
+                    "answer": "D",
+                    "text": "$S$ are cel puţin un element"
+                }
+                ],
+                "correctAnswer": [
+                "B",
+                "C",
+                "D"
+                ]
+            },
+            {
+                "questionNumber": 53,
+                "question": "Fie $n\\in\\mathbb{R}$ un parametru fixat. Ecuaţia $\\sqrt{3-x}-x=a$ are cel puţin o soluţie reală dacă",
+                "category": "algebra",
+                "author": "Adriana Buică",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$a\\in(-\\infty,-10)$"
+                },
+                {
+                    "answer": "B",
+                    "text": "$a\\in\\{-10,-9,-8\\}$"
+                },
+                {
+                    "answer": "C",
+                    "text": "$a\\in\\{-3,-2,-1,0\\}$"
+                },
+                {
+                    "answer": "D",
+                    "text": "$a\\in\\{8,9,10\\}$"
+                }
+                ],
+                "correctAnswer": [
+                "C",
+                "D"
+                ]
+            },
+            {
+                "questionNumber": 54,
+                "question": "Considerăm în $\\mathbb{R}$ ecuaţia $\\sqrt{x+3-4\\sqrt{x-1}}+\\sqrt{x+8-6\\sqrt{x-1}}=1$. Mulţimea soluţiilor ecuaţiei este",
+                "category": "algebra",
+                "author": "Natalia Roșca",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$S=[3,12]$"
+                },
+                {
+                    "answer": "B",
+                    "text": "$S=[1,\\infty)$"
+                },
+                {
+                    "answer": "C",
+                    "text": "$S=[5,10]$"
+                },
+                {
+                    "answer": "D",
+                    "text": "$S=\\{4,11\\}$"
+                }
+                ],
+                "correctAnswer": [
+                "C"
+                ]
+            },
+            {
+                "questionNumber": 55,
+                "question": "Notăm $T=\\displaystyle\\sum_{k=1}^{2023}\\dfrac{1}{k^2+k}$, $T\\in\\mathbb{R}$. Fie şirul de numere reale $(x_n)_{n\\in\\mathbb{N}^*}$ dat prin termenul general $x_n=\\left[T+\\dfrac{n}{2024}\\right]$, unde $[x]$ reprezintă partea întreagă a numărului real $x$. Care dintre următoarele afirmaţii sunt adevărate?",
+                "category": "algebra",
+                "author": "Rareș Coțoi",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$T\\in\\mathbb{N}$"
+                },
+                {
+                    "answer": "B",
+                    "text": "$\\displaystyle\\sum_{i=1}^{2024}x_i=2023$"
+                },
+                {
+                    "answer": "C",
+                    "text": "$x_1+x_2+x_3=3$"
+                },
+                {
+                    "answer": "D",
+                    "text": "$\\displaystyle\\sum_{i=1}^{2023}x_i=2024$"
+                }
+                ],
+                "correctAnswer": [
+                "C"
+                ]
+            },
+            {
+                "questionNumber": 56,
+                "question": "Fie $(a_n)_{n\\ge1}$ un şir de $n$ numere reale, cu $n$ număr natural par. Care dintre următoarele afirmaţii sunt adevărate?",
+                "category": "algebra",
+                "author": "Rareș Coțoi",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "Dacă $a_n>0$ pentru orice $n$, atunci $\\displaystyle\\sum_{i=1}^n a_i+\\sum_{i=1}^n\\dfrac{1}{a_i}\\ge2n$"
+                },
+                {
+                    "answer": "B",
+                    "text": "Dacă $a_1,a_2>0$ şi $a_1a_2=3$, atunci $a_1+a_2\\ge3$"
+                },
+                {
+                    "answer": "C",
+                    "text": "Dacă $(a_n)_{n\\ge5}$ sunt rădăcinile polinomului $f=x^n-nx^{n-1}+2024x^3+nx-1$, atunci $\\displaystyle\\sum_{i=1}^n a_i+\\sum_{i=1}^n\\dfrac{1}{a_i}=2n$"
+                },
+                {
+                    "answer": "D",
+                    "text": "Dacă $(a_n)_{n\\ge5}$ sunt rădăcinile polinomului $f=x^n-nx^{n-1}+2024x^3+nx-1$, atunci $\\displaystyle\\sum_{i=1}^n a_i+\\sum_{i=1}^n\\dfrac{1}{a_i}=0$"
+                }
+                ],
+                "correctAnswer": [
+                "A",
+                "B",
+                "C"
+                ]
+            },
+            {
+                "questionNumber": 57,
+                "question": "Mulţimea soluţiilor inecuaţiei $x^{\\log_7 10}+8^{\\log_7 x}+10\\cdot x^{\\log_7 9}\\le 11^{1+\\log_7 x}+x^{\\log_7 11}$ este mulţimea",
+                "category": "algebra",
+                "author": "Dorel Duca",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$(0,+\\infty)$"
+                },
+                {
+                    "answer": "B",
+                    "text": "$[1,+\\infty)$"
+                },
+                {
+                    "answer": "C",
+                    "text": "$\\{1\\}$"
+                },
+                {
+                    "answer": "D",
+                    "text": "$[1,10]$"
+                }
+                ],
+                "correctAnswer": [
+                "B"
+                ]
+            },
+            {
+                "questionNumber": 58,
+                "question": "Soluţiile ecuaţiei $5^{2x}+3x5^x+2x^2+6=7\\cdot5^x+13x$, $x\\in\\mathbb{R}$, aparţin mulţimii:",
+                "category": "algebra",
+                "author": "Dorel Duca",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$[0,1]$"
+                },
+                {
+                    "answer": "B",
+                    "text": "$[-1,4]$"
+                },
+                {
+                    "answer": "C",
+                    "text": "$(-2,0]$"
+                },
+                {
+                    "answer": "D",
+                    "text": "$\\{0,1,2\\}$"
+                }
+                ],
+                "correctAnswer": [
+                "A",
+                "B",
+                "D"
+                ]
+            },
+            {
+                "questionNumber": 59,
+                "question": "Soluţiile ecuaţiei $x^{\\log_7 10}+8^{\\log_7 x}+2\\cdot x^{\\log_7 9}=4\\cdot x^{\\log_7 12}$ aparţin mulţimii",
+                "category": "algebra",
+                "author": "Dorel Duca",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$(0,5)$"
+                },
+                {
+                    "answer": "B",
+                    "text": "$(0,4]$"
+                },
+                {
+                    "answer": "C",
+                    "text": "$[1,2)$"
+                },
+                {
+                    "answer": "D",
+                    "text": "$[2,5)$"
+                }
+                ],
+                "correctAnswer": [
+                "A",
+                "B",
+                "C"
+                ]
+            },
+            {
+                "questionNumber": 60,
+                "question": "Soluţiile ecuaţiei $40^x+18^x+3\\cdot15^x+4\\cdot12^x+3\\cdot8^x=30^x+24^x+3\\cdot20^x+16^x+3\\cdot9^x+3\\cdot6^x$ aparţin mulţimii",
+                "category": "algebra",
+                "author": "Rareș Coțoi",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$[0,\\log_2 3]$"
+                },
+                {
+                    "answer": "B",
+                    "text": "$[-1,1]$"
+                },
+                {
+                    "answer": "C",
+                    "text": "$[0,2)$"
+                },
+                {
+                    "answer": "D",
+                    "text": "$[0,\\log_4 9]$"
+                }
+                ],
+                "correctAnswer": [
+                "A",
+                "C",
+                "D"
+                ]
+            },
+            {
+                "questionNumber": 61,
+                "question": "Fie funcţia $f:[-1,\\infty)\\to\\mathbb{R}, f(x)=(x+1)^{2024}$. Care dintre următoarele afirmaţii sunt $false?$",
+                "category": "algebra",
+                "author": "Dorel Duca",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$2f(6)$ este pătrat perfect al unui număr natural"
+                },
+                {
+                    "answer": "B",
+                    "text": "$f(x)<2024x+1, \\forall x\\in[-1,\\infty)$"
+                },
+                {
+                    "answer": "C",
+                    "text": "$f(x)\\ge2024x+1, \\forall x\\in[-1,\\infty)$"
+                },
+                {
+                    "answer": "D",
+                    "text": "după ridicarea la putere $f(x)$ are exact 2 termeni care $nu$ depind de $x$"
+                }
+                ],
+                "correctAnswer": [
+                "A",
+                "B",
+                "D"
+                ]
+            },
+            {
+                "questionNumber": 62,
+                "question": "Câte triplete $(x,y,z)$ de numere naturale nenule verifică ecuaţia $2xyz+2xy-xz-2yz-x-2y+z=5$?",
+                "category": "algebra",
+                "author": "Dorel Duca",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "2"
+                },
+                {
+                    "answer": "B",
+                    "text": "4"
+                },
+                {
+                    "answer": "C",
+                    "text": "10"
+                },
+                {
+                    "answer": "D",
+                    "text": "niciunul"
+                }
+                ],
+                "correctAnswer": [
+                "B"
+                ]
+            },
+            {
+                "questionNumber": 63,
+                "question": "Dacă $n\\ge2$ este un număr natural fixat, atunci ecuaţia $(1+2^x)(1+2^{-x})+\\cdots+(n+(n+1)^x)(n+(n+1)^{-x})=\\dfrac{2n^3+9n^2+13n}{6}$, $x\\in\\mathbb{R}$, are soluţiile în mulţimea",
+                "category": "algebra",
+                "author": "Dorel Duca",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$[0,+\\infty)$"
+                },
+                {
+                    "answer": "B",
+                    "text": "$[-1,1]$"
+                },
+                {
+                    "answer": "C",
+                    "text": "$[1,3)$"
+                },
+                {
+                    "answer": "D",
+                    "text": "$(-5,4]$"
+                }
+                ],
+                "correctAnswer": [
+                "A",
+                "B",
+                "D"
+                ]
+            },
+            {
+                "questionNumber": 64,
+                "question": "Se consideră şirurile de numere reale $(a_n)$ şi $(b_n)$, $n\\in\\mathbb{N}^*$, astfel încât $\\displaystyle\\sum_{i=1}^n a_i=\\sqrt3$ şi $\\displaystyle\\sum_{i=1}^n b_i=3$. Care dintre următoarele afirmaţii sunt adevărate?",
+                "category": "algebra",
+                "author": "Rareș Coțoi",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$\\left(\\displaystyle\\sum_{i=1}^n a_i^2\\right)\\left(\\displaystyle\\sum_{i=1}^n b_i^2\\right)\\ge\\left(\\displaystyle\\sum_{i=1}^n a_ib_i\\right)^2$"
+                },
+                {
+                    "answer": "B",
+                    "text": "$\\left(\\displaystyle\\sum_{i=1}^n a_i^2\\right)\\left(\\displaystyle\\sum_{i=1}^n b_i^2\\right)<\\left(\\displaystyle\\sum_{i=1}^n a_ib_i\\right)^2$"
+                },
+                {
+                    "answer": "C",
+                    "text": "$\\displaystyle\\sum_{i=1}^n \\dfrac{a_i^2}{b_i}\\ge1$"
+                },
+                {
+                    "answer": "D",
+                    "text": "$\\displaystyle\\sum_{i=1}^n \\dfrac{a_i^2}{b_i}<1$"
+                }
+                ],
+                "correctAnswer": [
+                "A",
+                "C"
+                ]
+            },
+            {
+                "questionNumber": 65,
+                "question": "Considerăm în $\\mathbb{R}$ ecuaţia $\\sqrt{x^2-6}=x^2-8$. Care dintre următoarele afirmaţii sunt adevărate?",
+                "category": "algebra",
+                "author": "Gabriela Petrușel",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "ecuaţia are exact 4 soluţii"
+                },
+                {
+                    "answer": "B",
+                    "text": "ecuaţia nu are soluţii"
+                },
+                {
+                    "answer": "C",
+                    "text": "ecuaţia are exact două soluţii"
+                },
+                {
+                    "answer": "D",
+                    "text": "suma soluţiilor este 0"
+                }
+                ],
+                "correctAnswer": [
+                "C",
+                "D"
+                ]
+            },
+            {
+                "questionNumber": 66,
+                "question": "Se consideră ecuaţiile: $(7-4\\sqrt3)^x-2\\cdot(2-\\sqrt3)^x=3$, $(3-2\\sqrt2)^y-2\\cdot(\\sqrt2-1)^y=3$. Ştiind că $x$ şi $y$ sunt soluţiile celor două ecuaţii, atunci",
+                "category": "algebra",
+                "author": "Gabriela Petrușel",
+                "answers": [
+                {
+                    "answer": "A",
+                    "text": "$x+y=\\ln3\\cdot\\left[\\dfrac{\\ln(\\sqrt2-1)+\\ln(2-\\sqrt3)}{\\ln(\\sqrt2-1)\\cdot\\ln(2-\\sqrt3)}\\right]$"
+                },
+                {
+                    "answer": "B",
+                    "text": "$x+y=\\ln2\\cdot\\left[\\dfrac{\\ln(\\sqrt2+1)+\\ln(2+\\sqrt3)}{\\ln(\\sqrt2+1)\\cdot\\ln(2+\\sqrt3)}\\right]$"
+                },
+                {
+                    "answer": "C",
+                    "text": "$x-y=\\ln3\\cdot\\left[\\dfrac{\\ln(\\sqrt2-1)-\\ln(2-\\sqrt3)}{\\ln(\\sqrt2-1)\\cdot\\ln(2-\\sqrt3)}\\right]$"
+                },
+                {
+                    "answer": "D",
+                    "text": "$x-y=\\ln2\\cdot\\left[\\dfrac{\\ln(\\sqrt2+1)-\\ln(2+\\sqrt3)}{\\ln(\\sqrt2+1)\\cdot\\ln(2+\\sqrt3)}\\right]$"
+                }
+                ],
+                "correctAnswer": [
+                "A",
+                "C"
+                ]
             }
         ]
 }

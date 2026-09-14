@@ -3,23 +3,23 @@
 // ==================================================
 
 const examene = [
-    "../../Examene/Admitere-2026(iulie)/exam.json",
-    "../../Examene/Concurs-2026/exam.json",
-    "../../Examene/Admitere-2025(septembrie)/exam.json",
-    "../../Examene/Admitere-2025(iulie)/exam.json",
-    "../../Examene/Concurs-2025/exam.json",
-    "../../Examene/Admitere-2024(septembrie)/exam.json",
-    "../../Examene/Admitere-2024(iulie)/exam.json",
-    "../../Examene/Concurs-2024/exam.json",
-    "../../Examene/Admitere-2023(septembrie)/exam.json",
-    "../../Examene/Admitere-2023(iulie)/exam.json",
-    "../../Examene/Concurs-2023/exam.json",
-    "../../Examene/Admitere-2022(septembrie)/exam.json",
-    "../../Examene/Admitere-2022(iulie)/exam.json",
-    "../../Examene/Concurs-2022/exam.json",
-    "../../Examene/Admitere-2021(septembrie)/exam.json",
-    "../../Examene/Admitere-2021(iulie)/exam.json",
-    "../../Examene/Concurs-2021/exam.json",
+    //"../../Examene/Admitere-2026(iulie)/exam.json",
+    //"../../Examene/Concurs-2026/exam.json",
+    //"../../Examene/Admitere-2025(septembrie)/exam.json",
+    //"../../Examene/Admitere-2025(iulie)/exam.json",
+    //"../../Examene/Concurs-2025/exam.json",
+    //"../../Examene/Admitere-2024(septembrie)/exam.json",
+    //"../../Examene/Admitere-2024(iulie)/exam.json",
+    //"../../Examene/Concurs-2024/exam.json",
+    //"../../Examene/Admitere-2023(septembrie)/exam.json",
+    //"../../Examene/Admitere-2023(iulie)/exam.json",
+    //"../../Examene/Concurs-2023/exam.json",
+    //"../../Examene/Admitere-2022(septembrie)/exam.json",
+    //"../../Examene/Admitere-2022(iulie)/exam.json",
+    //"../../Examene/Concurs-2022/exam.json",
+    //"../../Examene/Admitere-2021(septembrie)/exam.json",
+    //"../../Examene/Admitere-2021(iulie)/exam.json",
+    //"../../Examene/Concurs-2021/exam.json",
 ];
 
 // ==================================================
@@ -190,7 +190,7 @@ Promise.all(
     }
 
 
-    shuffle(analysisQuestions);
+    //shuffle(analysisQuestions);
 
 
     // ==================================================
