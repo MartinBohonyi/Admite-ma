@@ -446,6 +446,12 @@ body{
     color:white;
 }
 
+.answer-letter.correct-unselected {
+    background-color: #8afd79;
+    color: white;
+    border-color: #8afd79;
+}
+
 .result-card.excellent{
     background-color:#79ff7f;
     border:2px solid #2e7d32;

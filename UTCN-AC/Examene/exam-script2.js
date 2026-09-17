@@ -68,6 +68,7 @@ questionCards.forEach(card => {
 
                     l.classList.remove("correct");
                     l.classList.remove("wrong");
+                    l.classList.remove("correct-unselected");
 
                 }
 
@@ -170,7 +171,14 @@ submitButton.addEventListener("click", () => {
                 option.dataset.answer === correctAnswer
             ) {
 
-                letter.classList.add("correct");
+             if(option.dataset.answer == card.dataset.selected){
+                    /// raspuns corect , selectat
+                    letter.classList.add("correct");
+              }
+              else{
+                    /// raspuns corect , neselectat
+                    letter.classList.add("correct-unselected");
+              }
 
             }
 
