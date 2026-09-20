@@ -1,0 +1,2502 @@
+{
+  "examTitle": "Teste grilă de matematică 2026",
+  "questions": [
+    {
+      "questionNumber": 578,
+      "points": "",
+      "question": "Funcția \\(f: \\mathbb{R} \\to \\mathbb{R}\\), \\(f(x) = \\sin(4x) + \\cos(\\sqrt{2}x)\\), are perioada:",
+      "category": "trigonometrie",
+      "author": "Rozica Moga",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(2\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(2\\pi\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\sqrt{2}\\pi\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\sqrt{2}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "nu este periodică"
+        }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "questionNumber": 579,
+      "points": "",
+      "question": "Valoarea lui \\(\\arcsin(\\sin 3)\\) este:",
+      "category": "trigonometrie",
+      "author": "Mircea Ivan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(3\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(-3\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(0\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\pi - 3\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(-\\cos 3\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 580,
+      "points": "",
+      "question": "Valoarea lui \\(\\sin 15^\\circ\\) este:",
+      "category": "trigonometrie",
+      "author": "Mircia Gurzău",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\dfrac{\\sqrt{6}-\\sqrt{2}}{2}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\dfrac{\\sqrt{3}-\\sqrt{2}}{4}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\dfrac{\\sqrt{6}-\\sqrt{3}}{4}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\dfrac{\\sqrt{6}-\\sqrt{2}}{4}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\dfrac{\\sqrt{6}-\\sqrt{5}}{4}\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 581,
+      "points": "",
+      "context": "Fie numerele complexe \\(z_k = \\cos\\dfrac{2k\\pi}{5} + i\\sin\\dfrac{2k\\pi}{5}\\), \\(k = 1, 2, 3, 4\\).",
+      "question": "Ecuația polinomială ale cărei rădăcini sunt numerele \\(z_k\\) \\((k=1,2,3,4)\\) este:",
+      "category": "trigonometrie",
+      "author": "Mircea Dan Rus",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(x^4 + 1 = 0\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(x^5 - 1 = 0\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(x^5 + 1 = 0\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(x^4 + x^3 + x^2 + x + 1 = 0\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(x^4 + x^2 + 1 = 0\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 582,
+      "points": "",
+      "context": "Fie numerele complexe \\(z_k = \\cos\\dfrac{2k\\pi}{5} + i\\sin\\dfrac{2k\\pi}{5}\\), \\(k = 1, 2, 3, 4\\).",
+      "question": "Valoarea expresiei \\(\\cos\\dfrac{2\\pi}{5} + \\cos\\dfrac{4\\pi}{5} + \\cos\\dfrac{6\\pi}{5} + \\cos\\dfrac{8\\pi}{5}\\) este:",
+      "category": "trigonometrie",
+      "author": "Mircea Dan Rus",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(-1\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(0\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\dfrac{1}{2}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(1\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(2\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 583,
+      "points": "",
+      "context": "Fie numerele complexe \\(z_k = \\cos\\dfrac{2k\\pi}{5} + i\\sin\\dfrac{2k\\pi}{5}\\), \\(k = 1, 2, 3, 4\\).",
+      "question": "Valoarea expresiei \\(\\cos\\dfrac{2\\pi}{5}\\) este:",
+      "category": "trigonometrie",
+      "author": "Mircea Dan Rus",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\dfrac{\\sqrt{5}+1}{4}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\dfrac{\\sqrt{5}-1}{2}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\dfrac{\\sqrt{5}-1}{4}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\dfrac{\\sqrt{5}+1}{2}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(1\\)"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 584,
+      "points": "",
+      "question": "\\(\\cos x \\cos\\dfrac{5\\pi}{4} - \\sin x \\sin\\dfrac{5\\pi}{4} = 1\\) dacă și numai dacă:",
+      "category": "trigonometrie",
+      "author": "Viorica Mureșan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(x \\in \\{2k\\pi - \\dfrac{\\pi}{4} \\mid k \\in \\mathbb{Z}\\}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(x \\in \\{k\\pi \\pm \\dfrac{5\\pi}{4} \\mid k \\in \\mathbb{Z}\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(x \\in \\{k\\pi - \\dfrac{5\\pi}{4} \\mid k \\in \\mathbb{Z}\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(x \\in \\{2k\\pi - \\dfrac{5\\pi}{4} \\mid k \\in \\mathbb{Z}\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(x \\in \\{2k\\pi \\pm \\dfrac{5\\pi}{4} \\mid k \\in \\mathbb{Z}\\}\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 585,
+      "points": "",
+      "context": "Se consideră funcția \\(f(x) = \\cos^{2n} x + \\sin^{2n} x\\), \\(n \\in \\mathbb{N}\\), \\(n \\geq 2\\), \\(x \\in \\mathbb{R}\\).",
+      "question": "Mulțimea soluțiilor ecuației \\(f(x)=1\\) este:",
+      "category": "trigonometrie",
+      "author": "Bogdan Gavrea",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\{2k\\pi\\}_{k \\in \\mathbb{Z}}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\{2k\\pi + \\dfrac{\\pi}{2}\\}_{k \\in \\mathbb{Z}}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\{k\\pi + \\dfrac{\\pi}{2}\\}_{k \\in \\mathbb{Z}}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\{k\\dfrac{\\pi}{2}\\}_{k \\in \\mathbb{Z}}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\emptyset\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 586,
+      "points": "",
+      "context": "Se consideră funcția \\(f(x) = \\cos^{2n} x + \\sin^{2n} x\\), \\(n \\in \\mathbb{N}\\), \\(n \\geq 2\\), \\(x \\in \\mathbb{R}\\).",
+      "question": "Mulțimea valorilor funcției \\(f\\) este",
+      "category": "trigonometrie",
+      "author": "Bogdan Gavrea",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\([0,1]\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\([-1,1]\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\([0,\\dfrac{1}{n}]\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\([\\dfrac{1}{2^{n-1}},1]\\)"
+        },
+        {
+          "answer": "E",
+          "text": "Alt răspuns"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 587,
+      "points": "",
+      "context": "Se consideră ecuația: \\((\\sin x + \\cos x)^n - a\\sin x \\cos x + 1 = 0\\), \\(n \\in \\mathbb{N}\\), \\(a \\in \\mathbb{R}\\).",
+      "question": "Pentru \\(n=2\\) ecuația are soluție dacă și numai dacă",
+      "category": "trigonometrie",
+      "author": "Ioan Gavrea",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(a \\in [2,6]\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(a \\in (-\\infty,-2] \\cup [6,\\infty)\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(a \\in (-2,6)\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(a \\in (-1,1)\\)"
+        },
+        {
+          "answer": "E",
+          "text": "alt răspuns"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 588,
+      "points": "",
+      "context": "Se consideră ecuația: \\((\\sin x + \\cos x)^n - a\\sin x \\cos x + 1 = 0\\), \\(n \\in \\mathbb{N}\\), \\(a \\in \\mathbb{R}\\).",
+      "question": "Pentru \\(n=1\\) și \\(a=3\\) mulțimea soluțiilor ecuației este:",
+      "category": "trigonometrie",
+      "author": "Ioan Gavrea",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\{k\\pi \\mid k \\in \\mathbb{Z}\\}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\emptyset\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\{(2k+1)\\pi \\mid k \\in \\mathbb{Z}\\} \\cup \\{2k\\pi - \\dfrac{\\pi}{2} \\mid k \\in \\mathbb{Z}\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\{\\dfrac{\\pi}{6} + 2k\\pi \\mid k \\in \\mathbb{Z}\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\{2k\\pi + \\dfrac{\\pi}{4} \\mid k \\in \\mathbb{Z}\\}\\)"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 589,
+      "points": "",
+      "question": "Dacă \\(x \\in (\\pi, 2\\pi)\\) și \\(\\cos x = \\dfrac{7}{25}\\), atunci \\(\\sin x\\) este:",
+      "category": "trigonometrie",
+      "author": "Vasile Miheșan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(-\\dfrac{24}{25}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(-\\dfrac{7}{8}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(-\\dfrac{23}{25}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\dfrac{7}{8}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\dfrac{24}{25}\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 590,
+      "points": "",
+      "question": "\\(\\operatorname{tg}\\dfrac{\\pi}{12}\\) are valoarea:",
+      "category": "trigonometrie",
+      "author": "Adrian Holhoș",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\dfrac{\\sqrt{3}+1}{\\sqrt{3}-1}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\dfrac{1}{2+\\sqrt{3}}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\dfrac{\\sqrt{3}}{6}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\dfrac{2}{\\sqrt{3}}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "alt răspuns"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 591,
+      "points": "",
+      "context": "Fie \\(x_1\\) și \\(x_2\\) rădăcinile ecuației \\(x^2 - 2\\sqrt{2}x + 1 = 0\\).",
+      "question": "\\(\\operatorname{arctg} x_1 + \\operatorname{arctg} x_2\\) este:",
+      "category": "trigonometrie",
+      "author": "Alina Sîntămărian",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\dfrac{\\pi}{2}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\dfrac{\\pi}{8}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\dfrac{3\\pi}{8}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\dfrac{3\\pi}{4}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\dfrac{\\pi}{4}\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 592,
+      "points": "",
+      "context": "Fie \\(x_1\\) și \\(x_2\\) rădăcinile ecuației \\(x^2 - 2\\sqrt{2}x + 1 = 0\\).",
+      "question": "\\(\\operatorname{arctg} x_1 \\cdot \\operatorname{arctg} x_2\\) este:",
+      "category": "trigonometrie",
+      "author": "Alina Sîntămărian",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\dfrac{\\pi^2}{8}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\dfrac{3\\pi^2}{16}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\dfrac{3\\pi^2}{64}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\dfrac{3\\pi^2}{32}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\dfrac{\\pi^2}{16}\\)"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 593,
+      "points": "",
+      "question": "Fie \\(x \\in [\\pi, \\dfrac{3\\pi}{2}]\\) cu proprietatea că \\(\\operatorname{tg} x = \\dfrac{1}{2}\\). Atunci perechea \\((\\sin x, \\cos x)\\) este:",
+      "category": "trigonometrie",
+      "author": "Marius Birou",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\left(\\dfrac{1}{\\sqrt{5}}, \\dfrac{2}{\\sqrt{5}}\\right)\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left(\\dfrac{-1}{\\sqrt{5}}, \\dfrac{2}{\\sqrt{5}}\\right)\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\left(\\dfrac{-1}{\\sqrt{5}}, \\dfrac{-2}{\\sqrt{5}}\\right)\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\left(\\dfrac{-2}{\\sqrt{5}}, \\dfrac{-1}{\\sqrt{5}}\\right)\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\left(\\dfrac{2}{\\sqrt{5}}, \\dfrac{1}{\\sqrt{5}}\\right)\\)"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 594,
+      "points": "",
+      "question": "Pentru orice \\(a, b \\in \\mathbb{R}\\) expresia \\((\\cos a + \\cos b)^2 + (\\sin a + \\sin b)^2\\) este egală cu:",
+      "category": "trigonometrie",
+      "author": "Maria Câmpian",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(2\\sin^2(a+b)\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(2\\cos^2(a+b)\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(4\\sin^2 \\dfrac{a-b}{2}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(4\\cos^2 \\dfrac{a-b}{2}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(2\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 595,
+      "points": "",
+      "question": "Oricare ar fi \\(x \\in \\mathbb{R}\\), suma \\(\\sin^6 x + \\cos^6 x\\) este egală cu:",
+      "category": "trigonometrie",
+      "author": "Floare Tomuța",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(3 - \\sin^2 x \\cos^2 x\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(1 - 3\\sin^2 2x\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(1\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\dfrac{2}{3}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(1 - 3\\sin^2 x \\cos^2 x\\)"
+        }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "questionNumber": 596,
+      "points": "",
+      "question": "Dacă \\(E = \\cos^2(a+b) + \\cos^2(a-b) - \\cos 2a \\cdot \\cos 2b\\) atunci, pentru orice \\(a, b \\in \\mathbb{R}\\) are loc egalitatea:",
+      "category": "trigonometrie",
+      "author": "Vasile Miheșan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(2E = 1\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(E = 1\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(2E + 1 = 0\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(E = 0\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(E = -1\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 597,
+      "points": "",
+      "question": "Dacă numerele reale \\(\\alpha\\) și \\(\\beta\\) satisfac egalitatea \\((\\cos\\alpha + \\cos\\beta)^2 + (\\sin\\alpha + \\sin\\beta)^2 = 2\\cos^2 \\dfrac{\\alpha - \\beta}{2}\\), atunci:",
+      "category": "trigonometrie",
+      "author": "Eugenia Duca",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\alpha - \\beta = \\dfrac{\\pi}{3}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\alpha - \\beta \\in \\{2k\\pi \\mid k \\in \\mathbb{Z}\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\alpha - \\beta \\in \\{(2k+1)\\pi \\mid k \\in \\mathbb{Z}\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\alpha - \\beta \\in \\left\\{\\dfrac{\\pi}{2} + 4k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\alpha - \\beta \\in \\left\\{\\dfrac{\\pi}{6} + 10k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 598,
+      "points": "",
+      "question": "Numărul \\(\\operatorname{arctg}\\dfrac{1}{3} + \\operatorname{arctg}\\dfrac{1}{5} + \\operatorname{arctg}\\dfrac{1}{7} + \\operatorname{arctg}\\dfrac{1}{8}\\) este egal cu:",
+      "category": "trigonometrie",
+      "author": "Vasile Câmpian",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\dfrac{\\pi}{12}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\dfrac{\\pi}{6}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\dfrac{\\pi}{4}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\dfrac{5\\pi}{12}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\dfrac{\\pi}{2}\\)"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 599,
+      "points": "",
+      "question": "Inversa funcției \\(f: \\left[\\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}\\right] \\to [-1, 1]\\), \\(f(x) = \\sin x\\), este funcția \\(f^{-1}: [-1, 1] \\to \\left[\\dfrac{\\pi}{2}, \\dfrac{3\\pi}{2}\\right]\\) definită prin:",
+      "category": "trigonometrie",
+      "author": "Daniela Roșca",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(f^{-1}(x) = \\pi + \\arcsin x\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(f^{-1}(x) = \\pi - \\arcsin x\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(f^{-1}(x) = \\arcsin x\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(f^{-1}(x) = 2\\pi - \\arcsin x\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(f^{-1}(x) = -\\pi + \\arcsin x\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 600,
+      "points": "",
+      "question": "Egalitatea \\(\\arcsin(\\sin x) = x\\) are loc pentru:",
+      "category": "trigonometrie",
+      "author": "Daniela Roșca",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "orice \\(x \\in \\mathbb{R}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "orice \\(x \\in \\mathbb{R}\\) astfel încât \\(\\sin x \\in (-1, 1)\\)"
+        },
+        {
+          "answer": "C",
+          "text": "orice \\(x \\in [0, 2\\pi)\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\emptyset\\)"
+        },
+        {
+          "answer": "E",
+          "text": "orice \\(x \\in \\left[-\\dfrac{\\pi}{2}, \\dfrac{\\pi}{2}\\right]\\)"
+        }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "questionNumber": 601,
+      "points": "",
+      "question": "Mulțimea valorilor lui \\(m \\in \\mathbb{R}\\) pentru care expresia \\(E(x) = \\sqrt{\\cos^4 x + m\\sin^2 x} + \\sqrt{\\sin^4 x + m\\cos^2 x}\\) este constantă pe \\(\\mathbb{R}\\) este:",
+      "category": "trigonometrie",
+      "author": "Dorian Popa",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\{0\\}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\{0, 4\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\{1, 4\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\{-1, 0\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\emptyset\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 602,
+      "points": "",
+      "question": "Valorile minimă \\(m\\) și maximă \\(M\\) ale expresiei \\(E(x) = \\cos^2 x - 4\\sin x\\), unde \\(x \\in \\mathbb{R}\\), sunt:",
+      "category": "trigonometrie",
+      "author": "Vasile Pop",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(m = -1, M = 1\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(m = -5, M = 5\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(m = -4, M = 3\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(m = -4, M = 4\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(m = -3, M = 3\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 603,
+      "points": "",
+      "question": "Mulțimea soluțiilor ecuației \\(2\\cos^2 x - 11\\cos x + 5 = 0\\) este:",
+      "category": "trigonometrie",
+      "author": "Vasile Miheșan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\emptyset\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left\\{-\\dfrac{\\pi}{3} + 2k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\left\\{\\pm\\dfrac{\\pi}{4} + 2k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\left\\{-\\dfrac{\\pi}{3} + 2k\\pi \\mid k \\in \\mathbb{Z}\\right\\} \\cup \\left\\{\\dfrac{\\pi}{3} + 2k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{3} + 2k\\pi \\mid k \\in \\mathbb{Z}\\right\\} \\cup \\left\\{\\dfrac{\\pi}{4} + k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 604,
+      "points": "",
+      "question": "Ecuația \\(4\\sin^2 x - 4\\sin x + 1 = 0\\) are următoarea mulțime de soluții:",
+      "category": "trigonometrie",
+      "author": "Maria Câmpian",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\left\\{(-1)^k \\dfrac{\\pi}{4} + k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left\\{(-1)^k \\dfrac{\\pi}{3} + k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\left\\{(-1)^k \\dfrac{\\pi}{6} + k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\left\\{(-1)^{k+1} \\dfrac{\\pi}{3} + 2k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\left\\{(-1)^{k+1} \\dfrac{\\pi}{4} + k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 605,
+      "points": "",
+      "question": "Dacă \\(x \\in \\mathbb{R}\\) și \\(\\sin(\\pi \\cos x) = \\cos(\\pi \\sin x)\\), atunci \\(\\cos 4x\\) este:",
+      "category": "trigonometrie",
+      "author": "Alexandru Mitrea",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(-\\dfrac{1}{8}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\dfrac{1}{8}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(-\\dfrac{1}{2}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\dfrac{1}{2}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(0\\)"
+        }
+      ],
+      "correctAnswer": "A",
+      "hint": "\\(\\sin x+\\cos x=\\dfrac{1}{2}\\) sau \\(\\cos x-\\sin x=\\dfrac{1}{2}\\)"
+    },
+    {
+      "questionNumber": 606,
+      "points": "",
+      "context": "Fie \\(S_n\\), \\(n \\in \\mathbb{N}^*\\), mulțimea soluțiilor ecuației \\(\\sin x \\sin 2x \\ldots \\sin nx = 1\\).",
+      "question": "\\(S_1\\) este:",
+      "category": "trigonometrie",
+      "author": "Alexandru Mitrea",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{2} + 2k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left\\{(-1)^k \\dfrac{\\pi}{2} + 2k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\{k\\pi \\mid k \\in \\mathbb{Z}\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{2}, \\dfrac{5\\pi}{2}\\right\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\emptyset\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 607,
+      "points": "",
+      "context": "Fie \\(S_n\\), \\(n \\in \\mathbb{N}^*\\), mulțimea soluțiilor ecuației \\(\\sin x \\sin 2x \\ldots \\sin nx = 1\\).",
+      "question": "\\(S_{100}\\) este:",
+      "category": "trigonometrie",
+      "author": "Alexandru Mitrea",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{101} + k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{101} + 2k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\emptyset\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\displaystyle\\bigcup_{n=1}^{100}\\left\\{\\dfrac{\\pi}{5n} + \\dfrac{k\\pi}{n+1} \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{6} + k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        }
+      ],
+      "correctAnswer": "C",
+      "hint": "\\((\\sin x)^2(\\sin 2x)^2\\ldots(\\sin nx)^2=1;\\ (\\sin x)^2=1,\\ (\\sin 2x)^2=1\\)"
+    },
+    {
+      "questionNumber": 608,
+      "points": "",
+      "question": "Mulțimea soluțiilor ecuației \\(\\cos 2x = \\cos x\\) este:",
+      "category": "trigonometrie",
+      "author": "Vasile Miheșan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\left\\{\\dfrac{2k\\pi}{3} \\mid k \\in \\mathbb{Z}\\right\\} \\cup \\left\\{\\dfrac{2k\\pi}{7} \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left\\{\\dfrac{2k\\pi}{3} \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\left\\{\\dfrac{2k\\pi}{7} \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\{2k\\pi \\mid k \\in \\mathbb{Z}\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\{\\pi + 2k\\pi \\mid k \\in \\mathbb{Z}\\}\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 609,
+      "points": "",
+      "question": "Mulțimea soluțiilor ecuației \\(\\sin x = \\cos 3x\\) este:",
+      "category": "trigonometrie",
+      "author": "Gheorghe Toader",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{8}+\\dfrac{k\\pi}{2}\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left\\{-\\dfrac{\\pi}{4}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{8},\\dfrac{3\\pi}{4}\\right\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\left\\{-\\dfrac{4k\\pm1}{8}\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{8}+\\dfrac{k\\pi}{2}\\mid k\\in\\mathbb{Z}\\right\\}\\cup\\left\\{-\\dfrac{\\pi}{4}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "questionNumber": 610,
+      "points": "",
+      "question": "Mulțimea soluțiilor ecuației \\(\\sin 5x=\\sin x\\) este:",
+      "category": "trigonometrie",
+      "author": "Mircea Ivan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\left\\{\\dfrac{k\\pi}{5-(-1)^k}\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left\\{\\dfrac{k\\pi}{5}\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\left\\{\\dfrac{k\\pi}{10}\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\left\\{(-1)^k\\arcsin\\dfrac{1}{5}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\left\\{(-1)^k\\dfrac{\\pi}{3}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 611,
+      "points": "",
+      "question": "Ecuația \\(2\\operatorname{tg} x+\\operatorname{ctg} x=3\\) are următoarele soluții în intervalul \\(\\left[0,\\dfrac{\\pi}{2}\\right]\\):",
+      "category": "trigonometrie",
+      "author": "Alexandru Mitrea",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\dfrac{\\pi}{4}\\) și \\(\\dfrac{\\pi}{6}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\dfrac{\\pi}{4}\\) și \\(\\operatorname{arctg}(-5)\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\dfrac{\\pi}{12}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\dfrac{\\pi}{4}\\) și \\(\\operatorname{arctg}\\dfrac{1}{2}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\dfrac{\\pi}{4}\\) și \\(\\operatorname{arctg} 2\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 612,
+      "points": "",
+      "question": "Dacă \\(\\sqrt{3}\\sin x+\\cos x-2=0\\), atunci:",
+      "category": "trigonometrie",
+      "author": "Daria Dumitraș",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(x=(-1)^k\\dfrac{\\pi}{2}-\\dfrac{\\pi}{6},\\ k\\in\\mathbb{Z}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(x=\\dfrac{\\pi}{6}+(-1)^k\\dfrac{\\pi}{2},\\ k\\in\\mathbb{Z}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(x=(-1)^k\\dfrac{\\pi}{2}+k\\pi-\\dfrac{\\pi}{6},\\ k\\in\\mathbb{Z}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(x=k\\pi-\\dfrac{\\pi}{6},\\ k\\in\\mathbb{Z}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(x=k\\pi,\\ k\\in\\mathbb{Z}\\)"
+        }
+      ],
+      "correctAnswer": "C",
+      "hint": "Ecuația se scrie \\(\\sin\\left(x+\\dfrac{\\pi}{6}\\right)=1\\)."
+    },
+    {
+      "questionNumber": 613,
+      "points": "",
+      "question": "Ecuația \\(\\sin x+p\\cos x=2p,\\ p\\in\\mathbb{R}\\), are soluții pentru:",
+      "category": "trigonometrie",
+      "author": "Radu Peter",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(|p|\\gt 5\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(p\\in\\left[-\\dfrac{1}{\\sqrt{3}},\\dfrac{1}{\\sqrt{3}}\\right]\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(|p|\\gt \\dfrac{2}{3}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(|p|=3\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(3p^2\\gt 1\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 614,
+      "points": "",
+      "question": "Soluțiile ecuației \\(-2\\sin^2 x+\\cos^2 x+4\\sin x\\cos x-2=0\\) sunt:",
+      "category": "trigonometrie",
+      "author": "Luminița Cotîrlă",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\operatorname{arctg}\\dfrac{1}{2}+k\\pi,\\ k\\in\\mathbb{Z}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\operatorname{arctg}\\dfrac{1}{3}+2k\\pi,\\ k\\in\\mathbb{Z}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\operatorname{arctg}\\dfrac{1}{6}+2k\\pi,\\ k\\in\\mathbb{Z}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\operatorname{arctg}\\dfrac{1}{3}+k\\pi,\\ k\\in\\mathbb{Z}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\operatorname{arctg} 1+2k\\pi,\\ k\\in\\mathbb{Z}\\)"
+        }
+      ],
+      "correctAnswer": "A",
+      "hint": "Se verifică \\(\\cos x\\neq 0\\). Prin împărțirea cu \\(\\cos^2x\\) în ambii membri, se obține o ecuație de gradul al doilea în \\(t=\\operatorname{tg}x\\)."
+    },
+    {
+      "questionNumber": 615,
+      "points": "",
+      "question": "Valoarea lui \\(\\cos x\\) care verifică ecuația \\(2\\sin^2 2x-2\\sin x\\sin 3x=4\\cos x+\\cos 2x\\) este:",
+      "category": "trigonometrie",
+      "author": "Mircea Ivan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\dfrac{1}{2}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\dfrac{\\sqrt{3}}{2}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(-\\dfrac{1}{2}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\dfrac{\\sqrt{2}}{2}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(0\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 616,
+      "points": "",
+      "question": "Următoarea mulțime reprezintă soluția ecuației \\(\\sin^2 x+\\operatorname{tg}^2 x=\\dfrac{3}{2}\\):",
+      "category": "trigonometrie",
+      "author": "Vasile Miheșan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\left\\{(-1)^k\\dfrac{\\pi}{4}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\cup\\left\\{(-1)^{k+1}\\dfrac{\\pi}{3}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{4},\\dfrac{\\pi}{2},\\dfrac{3\\pi}{4}\\right\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\left\\{\\pm\\dfrac{\\pi}{3}+2k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\left\\{(-1)^k\\dfrac{\\pi}{6}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\left\\{\\pm\\dfrac{\\pi}{4}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "questionNumber": 617,
+      "points": "",
+      "question": "Mulțimea tuturor valorilor \\(x\\in\\mathbb{R}\\) care verifică egalitatea \\(3(\\cos^4 x+\\sin^4 x)-2(\\sin^6 x+\\cos^6 x)=1\\) este:",
+      "category": "trigonometrie",
+      "author": "Dorian Popa",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\emptyset\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\mathbb{R}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{2}+2k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\{k\\pi\\mid k\\in\\mathbb{Z}\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\{2k\\pi\\mid k\\in\\mathbb{N}\\}\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 618,
+      "points": "",
+      "question": "Mulțimea soluțiilor ecuației \\(\\left(\\sqrt{\\dfrac{1-\\sin x}{1+\\sin x}}-\\sqrt{\\dfrac{1+\\sin x}{1-\\sin x}}\\right)\\left(\\sqrt{\\dfrac{1-\\cos x}{1+\\cos x}}-\\sqrt{\\dfrac{1+\\cos x}{1-\\cos x}}\\right)=-4\\) este:",
+      "category": "trigonometrie",
+      "author": "Silvia Toader",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\{k\\pi\\mid k\\in\\mathbb{Z}\\}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\displaystyle\\bigcup_{k\\in\\mathbb{Z}}(\\pi+2k\\pi,2\\pi+2k\\pi)\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\displaystyle\\bigcup_{k\\in\\mathbb{Z}}\\left((2k-1)\\dfrac{\\pi}{2},k\\pi\\right)\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{2}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\{2k\\pi\\mid k\\in\\mathbb{Z}\\}\\)"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 619,
+      "points": "",
+      "question": "Fie \\(x\\in\\mathbb{R}\\). Valoarea expresiei \\(\\left(\\sin x-2\\sqrt[3]{\\sin x\\cos^2 x}\\right)^2+\\left(\\cos x-2\\sqrt[3]{\\sin^2 x\\cos x}\\right)^2\\) este:",
+      "category": "trigonometrie",
+      "author": "Alina Sîntămărian",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(1\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(2\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\sin x+\\cos x\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\sin^3 x+\\cos^3 x\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\sqrt[3]{\\sin x}+\\sqrt[3]{\\cos x}\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 620,
+      "points": "",
+      "question": "Ecuația \\(\\cos^4 x-\\sin^4 x=1+\\sin 2x\\) are următoarea mulțime de soluții:",
+      "category": "trigonometrie",
+      "author": "Alexandru Mitrea",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\emptyset\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{6}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\left\\{\\dfrac{3\\pi}{4}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\{k\\pi\\mid k\\in\\mathbb{Z}\\}\\cup\\left\\{-\\dfrac{\\pi}{4}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\{2k\\pi\\mid k\\in\\mathbb{Z}\\}\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 621,
+      "points": "",
+      "question": "Egalitatea \\(\\max(\\sin x,\\cos x)=\\dfrac{\\sqrt{3}}{2}\\) este adevărată dacă și numai dacă:",
+      "category": "trigonometrie",
+      "author": "Silvia Toader",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(x\\in\\left\\{\\dfrac{\\pi}{6}+2k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(x\\in\\left\\{\\dfrac{\\pi}{3}+2k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(x\\in\\left\\{-\\dfrac{\\pi}{6},\\dfrac{\\pi}{6},\\dfrac{\\pi}{3}\\right\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(x\\in\\left\\{\\dfrac{11\\pi}{6}+2k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(x\\in\\left\\{\\pm\\dfrac{\\pi}{6}+2k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\cup\\left\\{\\dfrac{\\pi}{3}+2k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\cup\\left\\{\\dfrac{2\\pi}{3}+2k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "questionNumber": 622,
+      "points": "",
+      "question": "Mulțimea soluțiilor ecuației \\(4\\sin x\\cos^3 x-4\\sin^3 x\\cos x=1\\) este:",
+      "category": "trigonometrie",
+      "author": "Viorica Mureșan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\left\\{(-1)^k\\dfrac{\\pi}{2}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{8}+\\dfrac{k\\pi}{8}\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{8}+\\dfrac{k\\pi}{2}\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\left\\{-\\dfrac{\\pi}{8},\\dfrac{\\pi}{8}\\right\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{8}+\\dfrac{k\\pi}{4}\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 623,
+      "points": "",
+      "question": "Soluția ecuației \\(2\\arcsin x=\\arccos 2x\\) este:",
+      "category": "trigonometrie",
+      "author": "Mircea Ivan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\dfrac{\\sqrt{3}-1}{4}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\dfrac{\\pi}{4}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\dfrac{\\pi}{6}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\sqrt{2}-1\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\dfrac{\\sqrt{3}-1}{2}\\)"
+        }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "questionNumber": 624,
+      "points": "",
+      "question": "Mulțimea tuturor valorilor parametrului real \\(m\\) pentru care ecuația \\((\\sin x-m)^2+(2m\\sin x-1)^2=0\\) are soluții este:",
+      "category": "trigonometrie",
+      "author": "Maria Câmpian",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\([-1,1]\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left\\{-\\dfrac{\\sqrt{2}}{2},\\dfrac{\\sqrt{2}}{2}\\right\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\{-1,0,1\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\left[-\\dfrac{1}{2},0\\right)\\cup\\left(0,\\dfrac{1}{2}\\right]\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\left\\{\\dfrac{1}{2}\\right\\}\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 625,
+      "points": "",
+      "question": "Dacă \\(S\\) este mulțimea soluțiilor ecuației \\((1-\\cos x)^4+2\\sin^2 x^2=0\\), atunci:",
+      "category": "trigonometrie",
+      "author": "Alexandru Mitrea",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(S=\\emptyset\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(S\\cap\\mathbb{Q}=\\emptyset\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(S=\\{\\pi\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(S=\\{0\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(S=\\{0,2\\pi\\}\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 626,
+      "points": "",
+      "question": "Ecuația \\(\\sin x + \\cos 2x = m\\), \\(m \\in \\mathbb{R}\\), are soluții dacă și numai dacă:",
+      "category": "trigonometrie",
+      "author": "Dorian Popa",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(m \\in \\left[0, \\dfrac{9}{8}\\right]\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(m = 1\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(m = -3\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(m \\lt -2\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(m \\in \\left[-2, \\dfrac{9}{8}\\right]\\)"
+        }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "questionNumber": 627,
+      "points": "",
+      "question": "Mulțimea tuturor valorilor parametrului real \\(m\\) pentru care ecuația \\(\\cos^2 x + (m+1)\\sin x = 2m - 1\\) are soluții este:",
+      "category": "trigonometrie",
+      "author": "Alexandru Mitrea",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\([1,2]\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\emptyset\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\{0\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\([0,2]\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\([3,\\infty)\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 628,
+      "points": "",
+      "question": "Ecuația \\(\\sin^6 x + \\cos^6 x = m\\), \\(m \\in \\mathbb{R}\\), are soluții dacă și numai dacă:",
+      "category": "trigonometrie",
+      "author": "Dorian Popa",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(m \\le 2\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\dfrac{1}{4} \\le m \\le 1\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(m = 1\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(0 \\le m \\le 2\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\dfrac{1}{2} \\le m \\le 1\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 629,
+      "points": "",
+      "question": "Mulțimea soluțiilor ecuației \\(\\sin x + \\sin 2x = 2\\) este:",
+      "category": "trigonometrie",
+      "author": "Dorian Popa",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\{k\\pi \\mid k \\in \\mathbb{Z}\\}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left\\{\\dfrac{k\\pi}{2} \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\left\\{\\dfrac{k\\pi}{3} \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\left\\{\\arcsin \\dfrac{1}{2} + k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\emptyset\\)"
+        }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "questionNumber": 630,
+      "points": "",
+      "question": "Soluția ecuației \\(f(x) = \\dfrac{1}{4}\\) este:",
+      "context": "Se consideră funcția \\(f:[0,2\\pi] \\to \\mathbb{R}\\), \\(f(x) = 3\\cos^2 x - 4\\sin x\\).",
+      "category": "trigonometrie",
+      "author": "Daniela Inoan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{6}, \\dfrac{5\\pi}{6}\\right\\}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{3}, \\dfrac{2\\pi}{3}\\right\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{6}, \\dfrac{\\pi}{3}\\right\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{4}, \\dfrac{3\\pi}{4}\\right\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\left\\{\\dfrac{\\pi}{6}, \\dfrac{11\\pi}{6}\\right\\}\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 631,
+      "points": "",
+      "question": "Valoarea maximă a funcției \\(f\\) este:",
+      "context": "Se consideră funcția \\(f:[0,2\\pi] \\to \\mathbb{R}\\), \\(f(x) = 3\\cos^2 x - 4\\sin x\\).",
+      "category": "trigonometrie",
+      "author": "Daniela Inoan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(-1\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\dfrac{13}{3}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(3\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\dfrac{11}{3}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\dfrac{14}{3}\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 632,
+      "points": "",
+      "question": "Mulțimea valorilor lui \\(a \\in \\mathbb{R}\\) pentru care ecuația \\(f(x) = a\\) are soluție este:",
+      "context": "Se consideră funcția \\(f:[0,2\\pi] \\to \\mathbb{R}\\), \\(f(x) = 3\\cos^2 x - 4\\sin x\\).",
+      "category": "trigonometrie",
+      "author": "Daniela Inoan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\left[-4, \\dfrac{13}{3}\\right]\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left[-3, \\dfrac{11}{3}\\right]\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\left[-4, \\dfrac{14}{3}\\right]\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\left[-3, \\dfrac{13}{3}\\right]\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\left[-4, \\dfrac{11}{3}\\right]\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 633,
+      "points": "",
+      "question": "Numărul soluțiilor ecuației \\(f(x) = 5\\) este:",
+      "context": "Se consideră funcția \\(f:[0,2\\pi] \\to \\mathbb{R}\\), \\(f(x) = 3\\cos^2 x - 4\\sin x\\).",
+      "category": "trigonometrie",
+      "author": "Daniela Inoan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(2\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(1\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(0\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(3\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(4\\)"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 634,
+      "points": "",
+      "question": "Să se arate că dacă \\(a = 41\\), \\(b = 28\\) și \\(c = 15\\), atunci triunghiul \\(ABC\\) este:",
+      "category": "trigonometrie",
+      "author": "Vasile Miheșan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "dreptunghic"
+        },
+        {
+          "answer": "B",
+          "text": "ascuțitunghic"
+        },
+        {
+          "answer": "C",
+          "text": "obtuzunghic"
+        },
+        {
+          "answer": "D",
+          "text": "isoscel"
+        },
+        {
+          "answer": "E",
+          "text": "echilateral"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 635,
+      "points": "",
+      "question": "Să se determine unghiurile \\(A\\) și \\(C\\) ale triunghiului \\(ABC\\) dacă \\(a = \\sqrt2\\), \\(b = 2\\), \\(B = \\dfrac{\\pi}{4}\\).",
+      "category": "trigonometrie",
+      "author": "Vasile Miheșan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(A = \\dfrac{\\pi}{4}\\), \\(C = \\dfrac{\\pi}{2}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(A = \\dfrac{\\pi}{6}\\), \\(C = \\dfrac{7\\pi}{12}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(A = \\dfrac{\\pi}{3}\\), \\(C = \\dfrac{5\\pi}{12}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(A = \\dfrac{7\\pi}{12}\\), \\(C = \\dfrac{\\pi}{6}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(A = \\dfrac{5\\pi}{12}\\), \\(C = \\dfrac{\\pi}{3}\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 636,
+      "points": "",
+      "question": "În triunghiul \\(ABC\\) avem \\(BC = 4\\), \\(m(\\widehat{A}) = 60^\\circ\\), \\(m(\\widehat{B}) = 45^\\circ\\). Atunci \\(AC\\) are lungimea:",
+      "category": "trigonometrie",
+      "author": "Ioan Rașa",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\dfrac{\\sqrt6}{3}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\dfrac{2\\sqrt6}{3}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\sqrt6\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\dfrac{4\\sqrt6}{3}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\dfrac{5\\sqrt6}{3}\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 637,
+      "points": "",
+      "question": "Valoarea lui \\(z\\) este:",
+      "context": "Fie \\(z = \\left(1 + \\dfrac{2i}{1-i}\\right)^{2005}\\).",
+      "category": "trigonometrie",
+      "author": "Dalia Cîmpean",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(1\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(2i\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(-i\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(i\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(-2i+1\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 638,
+      "points": "",
+      "question": "Modulul lui \\(z + i\\) este:",
+      "context": "Fie \\(z = \\left(1 + \\dfrac{2i}{1-i}\\right)^{2005}\\).",
+      "category": "trigonometrie",
+      "author": "Dalia Cîmpean",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\sqrt2\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(2\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(1\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\sqrt3\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\sqrt5\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 639,
+      "points": "",
+      "question": "Valoarea expresiei \\(2z + \\bar{z}\\) este",
+      "context": "Fie \\(z = \\left(1 + \\dfrac{2i}{1-i}\\right)^{2005}\\).",
+      "category": "trigonometrie",
+      "author": "Dalia Cîmpean",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(-i\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(-2i\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(2i+3\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(3\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(i\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 640,
+      "points": "",
+      "question": "\\(x^{2004}\\) este",
+      "context": "Fie \\(x = \\dfrac{1}{4}(\\sqrt3+i)\\). Atunci:",
+      "category": "trigonometrie",
+      "author": "Marius Birou",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\dfrac{-1+i\\sqrt3}{2^{2005}}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(-\\dfrac{1}{2^{2004}}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(0\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\dfrac{1}{2^{2004}}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\dfrac{\\sqrt3+i}{2^{2005}}\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 641,
+      "points": "",
+      "question": "\\(x^{2008}\\) este",
+      "context": "Fie \\(x = \\dfrac{1}{4}(\\sqrt3+i)\\). Atunci:",
+      "category": "trigonometrie",
+      "author": "Marius Birou",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\dfrac{-1+i\\sqrt3}{2^{2009}}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(-\\dfrac{1}{2^{2008}}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(0\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\dfrac{1}{2^{2008}}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\dfrac{\\sqrt3+i}{2^{2009}}\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 642,
+      "points": "",
+      "question": "Dacă \\(n \\in \\mathbb{N}\\), \\(n \\ge 2\\) și \\(S = \\{z \\in \\mathbb{C} \\mid (z+i)^n = (z-i)^n\\}\\), atunci:",
+      "category": "trigonometrie",
+      "author": "Alexandru Mitrea",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(S\\) are \\(n\\) elemente, \\(\\forall n \\in \\mathbb{N}\\), \\(n \\ge 2\\);"
+        },
+        {
+          "answer": "B",
+          "text": "\\(S = \\left\\{(-1)^{n-1} + \\operatorname{tg}\\dfrac{k\\pi}{n} \\mid 1 \\le k \\le n; k \\in \\mathbb{N}; k \\neq \\dfrac{n}{2}\\right\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(S = \\left\\{(-1)^{n-1} + \\operatorname{ctg}\\dfrac{k\\pi}{n} \\mid 1 \\le k \\le n-1; k \\in \\mathbb{N}\\right\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(S = \\left\\{\\operatorname{ctg}\\dfrac{k\\pi}{n} \\mid 1 \\le k \\le n-1; k \\in \\mathbb{N}\\right\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(S \\cap \\mathbb{R}\\) are cel mult două elemente, \\(\\forall n \\in \\mathbb{N}\\), \\(n \\ge 2\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 643,
+      "points": "",
+      "question": "Fie triunghiul \\(ABC\\) pentru care \\(\\operatorname{tg}\\dfrac{A}{2} = \\dfrac{a}{b+c}\\). Atunci triunghiul este:",
+      "category": "trigonometrie",
+      "author": "Vasile Miheșan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "echilateral"
+        },
+        {
+          "answer": "B",
+          "text": "dreptunghic cu \\(A = \\dfrac{\\pi}{2}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "dreptunghic cu \\(B = \\dfrac{\\pi}{2}\\) sau \\(C = \\dfrac{\\pi}{2}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "ascuțitunghic"
+        },
+        {
+          "answer": "E",
+          "text": "obtuzunghic"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 644,
+      "points": "",
+      "question": "Fie \\(z = \\dfrac{(\\sqrt{3}+i)^n}{(\\sqrt{3}-i)^m}\\), \\(m,n \\in \\mathbb{N}\\). Să se determine relația dintre \\(m\\) și \\(n\\) astfel încât \\(z\\) să fie real.",
+      "category": "trigonometrie",
+      "author": "Alexandra Ciupa",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(n-m=6k,\\ k\\in\\mathbb{N}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(n+m=3k,\\ k\\in\\mathbb{N}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(n-m=3k,\\ k\\in\\mathbb{Z}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(n-m=0\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(n+m=6k,\\ k\\in\\mathbb{N}\\)"
+        }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "questionNumber": 645,
+      "points": "",
+      "question": "Numărul \\(E=(\\cos\\alpha - i\\sin\\alpha)(\\cos5\\alpha + i\\sin5\\alpha)\\) este real pentru",
+      "category": "trigonometrie",
+      "author": "Daria Dumitraș",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\alpha = \\dfrac{k\\pi}{4},\\ k\\in\\mathbb{Z}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\alpha = \\dfrac{k\\pi}{2},\\ k\\in\\mathbb{Z}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\alpha = k\\pi,\\ k\\in\\mathbb{Z}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\alpha = \\dfrac{k\\pi}{3},\\ k\\in\\mathbb{Z}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\alpha = \\dfrac{2k\\pi}{3},\\ k\\in\\mathbb{Z}\\)"
+        }
+      ],
+      "correctAnswer": "A",
+      "hint": "\\(E=\\cos 4\\alpha+i\\sin 4\\alpha,\\ \\sin 4\\alpha=0\\Rightarrow 4\\alpha=k\\pi\\)."
+    },
+    {
+      "questionNumber": 646,
+      "context": "Fie numărul complex \\(u = 2+2i\\).",
+      "points": "",
+      "question": "Forma trigonometrică a numărului complex \\(u\\) este:",
+      "category": "trigonometrie",
+      "author": "Alina-Ramona Baias",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(u=\\sqrt{2}\\left(\\cos\\dfrac{\\pi}{2}+i\\sin\\dfrac{\\pi}{2}\\right)\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(u=\\sqrt{8}\\left(\\cos\\dfrac{\\pi}{4}+i\\sin\\dfrac{\\pi}{4}\\right)\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(u=2\\sqrt{2}\\left(\\cos\\dfrac{3\\pi}{4}-i\\sin\\dfrac{3\\pi}{4}\\right)\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(u=\\sqrt{8}\\left(\\cos\\dfrac{\\pi}{2}+i\\sin\\dfrac{\\pi}{2}\\right)\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(u=2\\sqrt{2}\\left(\\cos\\dfrac{\\pi}{4}-i\\sin\\dfrac{\\pi}{4}\\right)\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 647,
+      "context": "Fie numărul complex \\(u = 2+2i\\).",
+      "points": "",
+      "question": "\\(u^{100}\\) este:",
+      "category": "trigonometrie",
+      "author": "Alina-Ramona Baias",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(2^{100}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(2^{100}i\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(-2^{150}i\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(-2^{150}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(-2^{200}\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 648,
+      "context": "Fie numărul complex \\(u = 2+2i\\).",
+      "points": "",
+      "question": "Fie mulțimea \\(A=\\{z\\in\\mathbb{C} : |z-1|\\le|z-i| \\text{ și } |z-u|\\le1\\}\\). Modulul lui \\(z\\in A\\) pentru care argumentul lui \\(z\\) este minim este:",
+      "category": "trigonometrie",
+      "author": "Alina-Ramona Baias",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(3\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\sqrt{8}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\sqrt{7}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(1\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\sqrt{6}\\)"
+        }
+      ],
+      "correctAnswer": "C",
+      "hint": "Se folosește reprezentarea geometrică a numerelor complexe."
+    },
+    {
+      "questionNumber": 649,
+      "context": "Se consideră numerele complexe \\(z_1 = \\sin a - \\cos a + i(\\sin a + \\cos a)\\), \\(z_2 = \\sin a + \\cos a + i(\\sin a - \\cos a)\\).",
+      "points": "",
+      "question": "Mulțimea valorilor lui \\(a\\) pentru care numărul complex \\(w=z_1^n+z_2^n\\) are modulul maxim este:",
+      "category": "trigonometrie",
+      "author": "Ioan Gavrea",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\{2k\\pi \\mid k\\in\\mathbb{Z}\\}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left\\{\\dfrac{k\\pi}{n}+\\dfrac{\\pi}{2} \\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\left\\{\\dfrac{2k\\pi}{n} \\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\left\\{\\dfrac{k\\pi}{n} \\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "alt răspuns"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 650,
+      "context": "Se consideră numerele complexe \\(z_1 = \\sin a - \\cos a + i(\\sin a + \\cos a)\\), \\(z_2 = \\sin a + \\cos a + i(\\sin a - \\cos a)\\).",
+      "points": "",
+      "question": "Mulțimea valorilor lui \\(a\\) pentru care \\(z_1+z_2\\in\\mathbb{R}\\) este:",
+      "category": "trigonometrie",
+      "author": "Ioan Gavrea",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\{k\\pi \\mid k\\in\\mathbb{Z}\\}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\{2k\\pi \\mid k\\in\\mathbb{Z}\\}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\left\\{k\\pi+\\dfrac{\\pi}{2} \\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\emptyset\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\left\\{2k\\pi+\\dfrac{\\pi}{2} \\mid k\\in\\mathbb{Z}\\right\\}\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 651,
+      "context": "Se consideră numerele complexe \\(z_1 = \\sin a - \\cos a + i(\\sin a + \\cos a)\\), \\(z_2 = \\sin a + \\cos a + i(\\sin a - \\cos a)\\).",
+      "points": "",
+      "question": "Valorile lui \\(n\\) pentru care \\(z_1^n z_2^n\\), \\(n\\in\\mathbb{N}^*\\), este real și pozitiv sunt:",
+      "category": "trigonometrie",
+      "author": "Ioan Gavrea",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(n=5\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(n=4k,\\ k\\in\\mathbb{N}^*\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(n=8k+1,\\ k\\in\\mathbb{N}^*\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(n=0\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(n=8k+2,\\ k\\in\\mathbb{Z}\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 652,
+      "context": "Pentru \\(n\\) și \\(k\\) numere naturale nenule cu \\(n\\) fixat, notăm \\(a_k = \\cos\\dfrac{2k\\pi}{n} - 2 + i\\sin\\dfrac{2k\\pi}{n}\\).",
+      "points": "",
+      "question": "Valoarea \\(\\overline{a_n}\\) este:",
+      "category": "trigonometrie",
+      "author": "Daniela Inoan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(1\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(i\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(-1\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(0\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(-i\\)"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 653,
+      "context": "Pentru \\(n\\) și \\(k\\) numere naturale nenule cu \\(n\\) fixat, notăm \\(a_k = \\cos\\dfrac{2k\\pi}{n} - 2 + i\\sin\\dfrac{2k\\pi}{n}\\).",
+      "points": "",
+      "question": "Valoarea sumei \\(a_1+a_2+\\cdots+a_n\\), \\(n \\gt 1\\), este:",
+      "category": "trigonometrie",
+      "author": "Daniela Inoan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(-2n\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(2n\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(1-2^n\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(ni-2n\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(i+2n\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 654,
+      "context": "Pentru \\(n\\) și \\(k\\) numere naturale nenule cu \\(n\\) fixat, notăm \\(a_k = \\cos\\dfrac{2k\\pi}{n} - 2 + i\\sin\\dfrac{2k\\pi}{n}\\).",
+      "points": "",
+      "question": "Valoarea produsului \\(a_1a_2\\ldots a_n\\) este:",
+      "category": "trigonometrie",
+      "author": "Daniela Inoan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(2^n-1\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\((-1)^{n-1}(2^{n+1}-1)\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\((2n-1)(-1)^n\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\((-1)^n(2^n-1)\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(0\\)"
+        }
+      ],
+      "correctAnswer": "D",
+      "hint": "\\(\\cos\\dfrac{2k\\pi}{n}+i\\sin\\dfrac{2k\\pi}{n},\\ k=1,\\ldots,n\\) sunt rădăcinile complexe ale ecuației \\(z^n-1=0\\); se folosesc relațiile lui Viète."
+    },
+    {
+      "questionNumber": 655,
+      "points": "",
+      "question": "Să se calculeze expresia \\(E=(\\sqrt{3}-i)^8(-1+i\\sqrt{3})^{11}\\):",
+      "category": "trigonometrie",
+      "author": "Daria Dumitraș",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(E=2^{11}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(E=2^{19}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(E=2^{15}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(E=2^5\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(2^7\\)"
+        }
+      ],
+      "correctAnswer": "B",
+      "hint": "\\(\\sqrt{3}-i=2\\left(\\cos\\dfrac{11\\pi}{6}+i\\sin\\dfrac{11\\pi}{6}\\right);\\ -1+i\\sqrt{3}=2\\left(\\cos\\dfrac{2\\pi}{3}+i\\sin\\dfrac{2\\pi}{3}\\right)\\)."
+    },
+    {
+      "questionNumber": 656,
+      "points": "",
+      "question": "Dacă \\(z+\\dfrac{1}{z}=2\\cos\\alpha\\), atunci expresia \\(E=z^n+z^{-n}\\) are, pentru orice \\(n\\in\\mathbb{Z}\\) și pentru orice \\(\\alpha\\in\\mathbb{R}\\), valoarea:",
+      "category": "trigonometrie",
+      "author": "Dorian Popa",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(zi\\sin n\\alpha\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\cos n\\alpha+i\\sin n\\alpha\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\operatorname{tg} n\\alpha\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(2\\cos n\\alpha\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\sin n\\alpha+\\operatorname{tg} n\\alpha\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 657,
+      "points": "",
+      "question": "Câte rădăcini complexe are ecuația \\(z^3=\\overline{z}\\)?",
+      "category": "trigonometrie",
+      "author": "Vasile Pop",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(1\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(2\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(3\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(4\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(5\\)"
+        }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "questionNumber": 658,
+      "points": "",
+      "question": "Câte rădăcini complexe are ecuația \\(z^{n-1}=i\\overline{z}\\), \\(n \\gt 2\\), \\(n\\in\\mathbb{N}\\)?",
+      "category": "trigonometrie",
+      "author": "Vasile Miheșan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(n-2\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(n-1\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(n\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(n+1\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(n+2\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 659,
+      "points": "",
+      "question": "Fie numărul complex \\(z=\\left(\\dfrac{\\sqrt{3}-i}{1+i}\\right)^{12}\\). Este adevărată afirmația",
+      "category": "trigonometrie",
+      "author": "Eugenia Duca",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(z=2^6\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\arg z = \\pi\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(|z|=2^{12}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(z=64i\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\arg z = 2\\pi\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    }
+  ]
+}

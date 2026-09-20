@@ -1,0 +1,1080 @@
+{
+  "examTitle": "Teste grilă de matematică 2026",
+  "questions": [
+    {
+      "questionNumber": 543,
+      "points": "",
+      "question": "Fie punctele \\(A(\\lambda,1)\\), \\(B(2,3)\\), \\(C(3,-1)\\). Să se determine \\(\\lambda\\) astfel încât punctul \\(A\\) să se afle pe dreapta determinată de punctele \\(B\\) și \\(C\\).",
+      "category": "geometrie",
+      "author": "Vasile Câmpian",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(2\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(3\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\dfrac{5}{2}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\dfrac{1}{2}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\dfrac{2}{3}\\)"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 544,
+      "points": "",
+      "question": "Dreptele \\(4x-y+2=0\\), \\(x-4y-8=0\\), \\(x+4y-8=0\\) determină un triunghi. Centrul cercului înscris în triunghi este",
+      "category": "geometrie",
+      "author": "Ioan Rașa",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\left(\\dfrac{6}{5},0\\right)\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left(\\dfrac{6}{5},1\\right)\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\left(\\dfrac{5}{6},0\\right)\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\left(\\dfrac{5}{6},1\\right)\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\left(\\dfrac{6}{5},\\dfrac{5}{6}\\right)\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 545,
+      "points": "",
+      "question": "Triunghiul \\(ABC\\) are latura \\([AB]\\) pe dreapta \\(4x+y-8=0\\), latura \\([AC]\\) pe dreapta \\(4x+5y-24=0\\), iar vârfurile \\(B\\) și \\(C\\) pe axa \\(Ox\\). Ecuația medianei corespunzătoare vârfului \\(A\\) este:",
+      "category": "geometrie",
+      "author": "Maria Câmpian",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(2x+3y=0\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(3x+2y=0\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(5x+y=9\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(4x+3y-16=0\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(x+4y-17=0\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 546,
+      "points": "",
+      "question": "Se dau punctele \\(A(2,1)\\) și \\(B(0,-1)\\). Ecuația simetricei dreptei \\(AB\\) față de dreapta \\(OA\\) este:",
+      "category": "geometrie",
+      "author": "Maria Câmpian",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(x+2y-1=0\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(3x-7y+1=0\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(2x+y+5=0\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(x+y+1=0\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(x-7y+5=0\\)"
+        }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "questionNumber": 547,
+      "points": "",
+      "question": "Fie triunghiul \\(ABC\\), unde \\(B(-4,-5)\\). Ecuația înălțimii duse din \\(A\\) este \\(5x+3y-4=0\\). Ecuația dreptei \\(BC\\) este:",
+      "category": "geometrie",
+      "author": "Alexandra Ciupa",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(5y-3x+13=0\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(3x-5y+37=0\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(y=-5\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(x+y-2=0\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(y-2x=3\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 548,
+      "points": "",
+      "question": "În sistemul cartezian de coordonate \\(xOy\\) se consideră punctele \\(A(3,4)\\), \\(B(-3,-4)\\) și \\(C(3,-4)\\). Coordonatele centrului cercului circumscris triunghiului \\(ABC\\) sunt:",
+      "category": "geometrie",
+      "author": "Vasile Miheșan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\((1,1)\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\((-1,0)\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\((0,0)\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\((0,1)\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\((0,-1)\\)"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 549,
+      "points": "",
+      "question": "Fie \\(C\\) simetricul punctului \\(A(-1,-3)\\) față de punctul \\(B(2,1)\\). Care sunt coordonatele punctului \\(C\\)?",
+      "category": "geometrie",
+      "author": "Viorica Mureșan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\((5,5)\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\((4,5)\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\((6,5)\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\((5,6)\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\((4,6)\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 550,
+      "points": "",
+      "question": "Fie punctele \\(A(0,2)\\) și \\(B(3,3)\\). Notăm cu \\(P\\) proiecția punctului \\(O(0,0)\\) pe dreapta \\(AB\\). Care sunt coordonatele punctului \\(P\\)? Care este aria triunghiului \\(OAB\\)?",
+      "category": "geometrie",
+      "author": "Viorica Mureșan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\left(-\\dfrac{3}{5},-\\dfrac{9}{5}\\right);3\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left(-\\dfrac{3}{5},-\\dfrac{9}{5}\\right);6\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\left(\\dfrac{3}{5},-\\dfrac{9}{5}\\right);3\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\left(-\\dfrac{3}{5},\\dfrac{9}{5}\\right);3\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\left(-\\dfrac{3}{5},\\dfrac{9}{5}\\right);6\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 551,
+      "points": "",
+      "question": "Fie \\(A(0,-1)\\), \\(d_1: x-y+1=0\\) și \\(d_2: 2x-y=0\\). Coordonatele punctelor \\(B\\in d_1\\) și \\(C\\in d_2\\) pentru care dreptele \\(d_1\\) și \\(d_2\\) sunt mediane în triunghiul \\(ABC\\) sunt:",
+      "category": "geometrie",
+      "author": "Teodor Potra",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\((0,1), (3,6)\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\((0,1), (0,1)\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\((-1,0), (1,1)\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\((0,0), (-1,1)\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\((-1,-1), (1,1)\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 552,
+      "points": "",
+      "question": "Fie dreptele \\((AB): x+2y-1=0\\), \\((BC): 2x-y+1=0\\), \\((AC): 2x+y-1=0\\) care determină triunghiul \\(ABC\\). Bisectoarea unghiului \\(B\\) are ecuația:",
+      "category": "geometrie",
+      "author": "Silvia Toader",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(x-3y+2=0\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(x+y-1=0\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(3x-y+2=0\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(x-y+1=0\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(x-y+5=0\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 553,
+      "points": "",
+      "question": "Pentru ce valori ale parametrului \\(\\alpha\\) ecuațiile \\(3\\alpha x-8y+13=0\\), \\((\\alpha+1)x-2\\alpha y-5=0\\) reprezintă două drepte paralele:",
+      "category": "geometrie",
+      "author": "Daria Dumitraș",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\alpha_1=-2,\\ \\alpha_2=\\dfrac{1}{3}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\alpha_1=-2,\\ \\alpha_2=-\\dfrac{1}{3}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\alpha_1=2,\\ \\alpha_2=\\dfrac{2}{3}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\alpha_1=2,\\ \\alpha_2=-\\dfrac{2}{3}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\alpha_1=\\dfrac{1}{2},\\ \\alpha_2=3\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 554,
+      "points": "",
+      "question": "Se consideră în plan punctele \\(A(0,0)\\), \\(B(2,0)\\) și dreapta de ecuație \\(d: x-2y+10=0\\). Valoarea minimă a sumei \\(S(M)=MA+MB\\), când punctul \\(M\\) parcurge dreapta \\(d\\) este:",
+      "category": "geometrie",
+      "author": "Vasile Pop",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(2\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(10\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\sqrt{101}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\sqrt{98}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(7\\sqrt{2}\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 555,
+      "points": "",
+      "question": "Dreapta care trece prin \\(C(1,2)\\), neparalelă cu \\(AB\\) față de care punctele \\(A(-1,1)\\) și \\(B(5,-3)\\) sunt egal depărtate, are ecuația:",
+      "category": "geometrie",
+      "author": "Vasile Pop",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(3x+y-5=0\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(2x+y-4=0\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(3x+2y-6=0\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(2x+3y-4=0\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(2x+3y-6=0\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 556,
+      "points": "",
+      "question": "Fie punctele \\(A(1,1)\\), \\(B(2,-3)\\), \\(C(6,0)\\). Coordonatele punctului \\(D\\) pentru care \\(ABCD\\) este paralelogram sunt:",
+      "category": "geometrie",
+      "author": "Dorian Popa",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\((4,4)\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\((5,4)\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\((3,5)\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\((3,3)\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\((4,5)\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 557,
+      "points": "",
+      "question": "Raza cercului care trece prin punctele \\(A(-4,0)\\), \\(B(4,4)\\), \\(O(0,0)\\) este:",
+      "category": "geometrie",
+      "author": "Dorian Popa",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(6\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(7\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(8\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(2\\sqrt{10}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(3\\sqrt{5}\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 558,
+      "points": "",
+      "question": "Laturile \\(AB\\), \\(BC\\), \\(CA\\) ale triunghiului \\(ABC\\) au respectiv ecuațiile: \\(x+21y-22=0\\), \\(5x-12y+7=0\\), \\(4x-33y+146=0\\). Distanța de la centrul de greutate al triunghiului \\(ABC\\) la latura \\(BC\\) este:",
+      "category": "geometrie",
+      "author": "Mircia Gurzău",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(1\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(2\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(3\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(4\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(5\\)"
+        }
+      ],
+      "correctAnswer": "C"
+    },
+    {
+      "questionNumber": 559,
+      "points": "",
+      "context": "Se dau punctele \\(A(0,1)\\), \\(B(-1,0)\\), \\(C(6,2)\\), și \\(D(1,1)\\).",
+      "question": "Simetricul punctului \\(C\\) față de dreapta \\(AB\\) este:",
+      "category": "geometrie",
+      "author": "Mihaela Bercheșan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(C'(-6,2)\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(C'(6,-2)\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(C'(-6,-2)\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(C'(1,7)\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(C'(1,4)\\)"
+        }
+      ],
+      "correctAnswer": "D",
+      "hint": "Panta dreptei \\(AB\\) este \\(m_{AB}=1\\) iar panta perpendicularei pe ea, este \\(m=-1\\). Ecuația perpendicularei, scrisă prin punctul \\(C\\), este: \\(x+y-8=0\\). Ecuația dreptei \\(AB\\) este \\(x-y+1=0\\). Intersectând cele două drepte, obținem proiecția punctului \\(C\\) pe dreapta \\(AB\\), punctul \\(P\\left(\\dfrac{7}{2},\\dfrac{15}{4}\\right)\\). Urmează că simetricul punctului \\(C\\) față de dreapta \\(AB\\) este \\(C'(1,7)\\)."
+    },
+    {
+      "questionNumber": 560,
+      "points": "",
+      "context": "Se dau punctele \\(A(0,1)\\), \\(B(-1,0)\\), \\(C(6,2)\\), și \\(D(1,1)\\).",
+      "question": "Coordonatele punctului \\(M \\in AB\\) pentru care suma \\(DM+MC\\) este minimă sunt:",
+      "category": "geometrie",
+      "author": "Mihaela Bercheșan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\((1,-3)\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\((1,2)\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\((-1,2)\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\((1,3)\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\((2,3)\\)"
+        }
+      ],
+      "correctAnswer": "B",
+      "hint": "Suma \\(DM+MC\\) este minimă dacă punctul \\(M\\) este la intersecția dreptelor \\(DC'\\) și \\(AB\\). Ecuația dreptei \\(DC'\\) este \\(x=1\\), prin urmare rezultă \\(M(1,2)\\)."
+    },
+    {
+      "questionNumber": 561,
+      "points": "",
+      "context": "Se dau punctele \\(A(0,1)\\), \\(B(-1,0)\\), \\(C(6,2)\\), și \\(D(1,1)\\).",
+      "question": "Coordonatele punctului \\(M \\in AB\\) pentru care suma \\(DM^2+MC^2\\) este minimă sunt:",
+      "category": "geometrie",
+      "author": "Mihaela Bercheșan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\((3,4)\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\left(\\dfrac{7}{4}, \\dfrac{15}{4}\\right)\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\((2,3)\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\left(\\dfrac{7}{3},3\\right)\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\((3,5)\\)"
+        }
+      ],
+      "correctAnswer": "C",
+      "hint": "Fie punctul \\(M(x,x+1)\\in AB\\). Considerăm funcția \\(f:\\mathbb{R}\\to\\mathbb{R},\\ f(x)=DM^2+MC^2\\), adică \\(f(x)=(x-1)^2+(x+1-1)^2+(6-x)^2+(2-x-1)^2\\), sau \\(f(x)=4\\cdot x^2-16\\cdot x+38\\). Funcția \\(f\\) își atinge minimul pentru \\(x=2\\). Obținem \\(M(2,3)\\)."
+    },
+    {
+      "questionNumber": 562,
+      "points": "",
+      "context": "Se consideră în planul \\(xOy\\) punctele \\(S(0,12)\\), \\(T(16,0)\\) și \\(Q(x,y)\\) un punct variabil situat pe segmentul \\([ST]\\). Punctele \\(P\\) și \\(R\\) aparțin axelor de coordonate astfel încât patrulaterul \\(OPQR\\) să fie dreptunghi.",
+      "question": "Ecuația dreptei \\(ST\\) este:",
+      "category": "geometrie",
+      "author": "Alina-Ramona Baias",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(3x+4y-48=0\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(-3x-4y+12=0\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(3y-4x-36=0\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(3x-y+12=0\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(y-4x+64=0\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 563,
+      "points": "",
+      "context": "Se consideră în planul \\(xOy\\) punctele \\(S(0,12)\\), \\(T(16,0)\\) și \\(Q(x,y)\\) un punct variabil situat pe segmentul \\([ST]\\). Punctele \\(P\\) și \\(R\\) aparțin axelor de coordonate astfel încât patrulaterul \\(OPQR\\) să fie dreptunghi.",
+      "question": "Aria dreptunghiului \\(OPQR\\) este:",
+      "category": "geometrie",
+      "author": "Alina-Ramona Baias",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(-3x^2+12x\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(12x-\\dfrac{3}{4}x^2\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(3x^2+12x\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(-4x^2+12x\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(48x-\\dfrac{3}{4}x^2\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 564,
+      "points": "",
+      "context": "Se consideră în planul \\(xOy\\) punctele \\(S(0,12)\\), \\(T(16,0)\\) și \\(Q(x,y)\\) un punct variabil situat pe segmentul \\([ST]\\). Punctele \\(P\\) și \\(R\\) aparțin axelor de coordonate astfel încât patrulaterul \\(OPQR\\) să fie dreptunghi.",
+      "question": "Valoarea maximă a ariei dreptunghiului \\(OPQR\\) este:",
+      "category": "geometrie",
+      "author": "Alina-Ramona Baias",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(32\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(48\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(64\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(96\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(84\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 565,
+      "points": "",
+      "context": "Punctul \\(A(-4,1)\\) este un vârf al pătratului \\(ABCD\\) parcurs în sens trigonometric, căruia îi cunoaștem o diagonală de ecuație \\(3x-y-2=0\\).",
+      "question": "Aria pătratului \\(ABCD\\) este:",
+      "category": "geometrie",
+      "author": "Liana Timboș",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(45\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(15\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(90\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(30\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\dfrac{45}{2}\\)"
+        }
+      ],
+      "correctAnswer": "A",
+      "hint": "\\(A(-4,1)\\notin d:3x-y-2=0,\\ d(A,BD)=\\dfrac{3\\sqrt{10}}{2}\\Rightarrow BD=3\\sqrt{10}\\Rightarrow l=3\\sqrt{5}\\Rightarrow\\mathcal{A}=45\\)."
+    },
+    {
+      "questionNumber": 566,
+      "points": "",
+      "context": "Punctul \\(A(-4,1)\\) este un vârf al pătratului \\(ABCD\\) parcurs în sens trigonometric, căruia îi cunoaștem o diagonală de ecuație \\(3x-y-2=0\\).",
+      "question": "Punctul \\(C\\) are coordonatele:",
+      "category": "geometrie",
+      "author": "Liana Timboș",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\((4,-1)\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\((5,-2)\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\((6,1)\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\left(\\dfrac{9}{2}, -\\dfrac{7}{2}\\right)\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\left(\\dfrac{11}{2}, -\\dfrac{1}{2}\\right)\\)"
+        }
+      ],
+      "correctAnswer": "B",
+      "hint": "\\(C\\) este simetricul punctului \\(A\\) față de \\(d\\), \\(AC\\perp d\\Rightarrow AC:x+3y+1=0,\\ AC\\cap d=\\left\\{M\\left(\\dfrac{1}{2},-\\dfrac{1}{2}\\right)\\right\\}\\), \\(M\\) este mijlocul \\([AC]\\Rightarrow C(5,-2)\\)."
+    },
+    {
+      "questionNumber": 567,
+      "points": "",
+      "context": "Fie în planul \\(xOy\\) punctele \\(A(4,0)\\), \\(B(5,1)\\), \\(C(1,5)\\), \\(D(0,4)\\).",
+      "question": "Patrulaterul \\(ABCD\\) este:",
+      "category": "geometrie",
+      "author": "Floare Tomuța",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "patrulater oarecare"
+        },
+        {
+          "answer": "B",
+          "text": "trapez isoscel"
+        },
+        {
+          "answer": "C",
+          "text": "romb"
+        },
+        {
+          "answer": "D",
+          "text": "dreptunghi"
+        },
+        {
+          "answer": "E",
+          "text": "trapez dreptunghic"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 568,
+      "points": "",
+      "context": "Fie în planul \\(xOy\\) punctele \\(A(4,0)\\), \\(B(5,1)\\), \\(C(1,5)\\), \\(D(0,4)\\).",
+      "question": "Aria patrulaterului este",
+      "category": "geometrie",
+      "author": "Floare Tomuța",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(4\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(8\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(1\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(16\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(2\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 569,
+      "points": "",
+      "context": "Fie în planul \\(xOy\\) punctele \\(A(4,0)\\), \\(B(5,1)\\), \\(C(1,5)\\), \\(D(0,4)\\).",
+      "question": "Simetricul punctului \\(A\\) față de dreapta \\(BC\\) este punctul de coordonate",
+      "category": "geometrie",
+      "author": "Floare Tomuța",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\((1,5)\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\((5,1)\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\((5,2)\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\((6,2)\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\((6,4)\\)"
+        }
+      ],
+      "correctAnswer": "D"
+    },
+    {
+      "questionNumber": 570,
+      "points": "",
+      "question": "În sistemul cartezian \\(xOy\\), o dreaptă variabilă \\(d\\) care conține punctul \\(A(0,5)\\) intersectează dreptele \\(x-2=0\\) și \\(x-3=0\\) în punctele \\(B\\), respectiv \\(C\\). Să se determine panta \\(m\\) a dreptei \\(d\\) astfel încât segmentul \\(BC\\) să aibă lungime minimă.",
+      "category": "geometrie",
+      "author": "Daniela Inoan",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(m=0\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(m=-1\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(m \\in \\mathbb{R}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(m=2\\)"
+        },
+        {
+          "answer": "E",
+          "text": "nu există"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 571,
+      "points": "",
+      "question": "Fie dreapta \\(\\mathcal{D}: x+y=0\\) și punctele \\(A(4,0)\\), \\(B(0,3)\\). Valoarea minimă a sumei \\(MA^2+MB^2\\), pentru \\(M \\in \\mathcal{D}\\) este:",
+      "category": "geometrie",
+      "author": "Vasile Pop",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\dfrac{99}{4}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(25\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\dfrac{101}{4}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(26\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(\\dfrac{105}{4}\\)"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 572,
+      "points": "",
+      "question": "Distanța de la punctul \\((x, y)\\) la punctul \\((3, 5)\\) este:",
+      "category": "geometrie",
+      "author": "Vasile Pop",
+      "context": "Se consideră expresia \\(E(x, y) = x^2 + y^2 - 6x - 10y\\).",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(\\sqrt{E(x,y) + 34}\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(\\sqrt{E(x,y) - 34}\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(\\sqrt{E(x,y)}\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(\\sqrt{E(x,y) + 1}\\)"
+        },
+        {
+          "answer": "E",
+          "text": "alt răspuns"
+        }
+      ],
+      "correctAnswer": "A"
+    },
+    {
+      "questionNumber": 573,
+      "points": "",
+      "question": "Valoarea minimă a lui \\(E(x, y)\\), pentru \\((x, y) \\in \\mathbb{R}^2\\), este:",
+      "category": "geometrie",
+      "author": "Vasile Pop",
+      "context": "Se consideră expresia \\(E(x, y) = x^2 + y^2 - 6x - 10y\\).",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(0\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(-34\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(34\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(-1\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(1\\)"
+        }
+      ],
+      "correctAnswer": "B"
+    },
+    {
+      "questionNumber": 574,
+      "points": "",
+      "question": "Se consideră mulțimea \\(D = \\{(x, y) \\in \\mathbb{R}^2 \\mid x^2 + y^2 - 2y \\leq 0\\}\\). Valoarea maximă a lui \\(E(x, y)\\), pentru \\((x, y) \\in D\\), este:",
+      "category": "geometrie",
+      "author": "Vasile Pop",
+      "context": "Se consideră expresia \\(E(x, y) = x^2 + y^2 - 6x - 10y\\).",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(8\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(0\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(4\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(6\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(2\\)"
+        }
+      ],
+      "correctAnswer": "E"
+    },
+    {
+      "questionNumber": 575,
+      "points": "",
+      "question": "Punctul \\(M\\) din planul triunghiului \\(ABC\\) pentru care \\(\\overrightarrow{MA} + \\overrightarrow{MB} + \\overrightarrow{MC} = \\vec{0}\\) este:",
+      "category": "geometrie",
+      "author": "Vasile Pop",
+      "context": "Fie \\(ABC\\) un triunghi. Notăm cu \\(G\\) centrul său de greutate, cu \\(O\\) centrul cercului circumscris, cu \\(H\\) ortocentrul, cu \\(I\\) centrul cercului înscris și \\(a = BC\\), \\(b = CA\\), \\(c = AB\\).",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(G\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(H\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(I\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(O\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(A\\)"
+        }
+      ],
+      "correctAnswer": "A",
+      "hint": "\\(\\overrightarrow{MG}=\\dfrac{\\overrightarrow{MA}+\\overrightarrow{MB}+\\overrightarrow{MC}}{3}=\\overrightarrow{0}\\Rightarrow M=G\\)."
+    },
+    {
+      "questionNumber": 576,
+      "points": "",
+      "question": "Punctul \\(N\\) din planul triunghiului \\(ABC\\) pentru care \\(a\\overrightarrow{NA} + b\\overrightarrow{NB} + c\\overrightarrow{NC} = \\vec{0}\\) este:",
+      "category": "geometrie",
+      "author": "Vasile Pop",
+      "context": "Fie \\(ABC\\) un triunghi. Notăm cu \\(G\\) centrul său de greutate, cu \\(O\\) centrul cercului circumscris, cu \\(H\\) ortocentrul, cu \\(I\\) centrul cercului înscris și \\(a = BC\\), \\(b = CA\\), \\(c = AB\\).",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(G\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(H\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(I\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(O\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(A\\)"
+        }
+      ],
+      "correctAnswer": "C",
+      "hint": "\\(\\overrightarrow{NI}=\\dfrac{a\\overrightarrow{NA}+b\\overrightarrow{NB}+c\\overrightarrow{NC}}{a+b+c}=\\overrightarrow{0}\\Rightarrow N=I\\)."
+    },
+    {
+      "questionNumber": 577,
+      "points": "",
+      "question": "Punctul \\(R\\) din planul triunghiului \\(ABC\\) pentru care \\(\\overrightarrow{RA} + \\overrightarrow{RB} + \\overrightarrow{RC} = \\overrightarrow{RH}\\) este:",
+      "category": "geometrie",
+      "author": "Vasile Pop",
+      "context": "Fie \\(ABC\\) un triunghi. Notăm cu \\(G\\) centrul său de greutate, cu \\(O\\) centrul cercului circumscris, cu \\(H\\) ortocentrul, cu \\(I\\) centrul cercului înscris și \\(a = BC\\), \\(b = CA\\), \\(c = AB\\).",
+      "answers": [
+        {
+          "answer": "A",
+          "text": "\\(G\\)"
+        },
+        {
+          "answer": "B",
+          "text": "\\(H\\)"
+        },
+        {
+          "answer": "C",
+          "text": "\\(I\\)"
+        },
+        {
+          "answer": "D",
+          "text": "\\(O\\)"
+        },
+        {
+          "answer": "E",
+          "text": "\\(A\\)"
+        }
+      ],
+      "correctAnswer": "D",
+      "hint": "\\(\\overrightarrow{OH}=\\overrightarrow{OA}+\\overrightarrow{OB}+\\overrightarrow{OC}=\\overrightarrow{0}\\Rightarrow P=O\\)."
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-.skip-button , .check-button , .previous-button{
+.skip-button , .check-button , .previous-button , .hint-button{
     background-color: #1F3A5F;
     color: white;
 
@@ -44,5 +44,60 @@
     font-family: 'Times New Roman', Times, serif ;
     color :#1F3A5F;
     font-style: italic;
+}
+
+.hint-card {
+
+    width:100%;
+
+    margin-top:70px;
+
+    padding:25px 30px;
+
+    background:white;
+
+    border-radius:20px;
+
+    border:1px solid #e3e6eb;
+
+    box-shadow:0 12px 30px rgba(0,0,0,.10);
+
+    opacity:0;
+
+    transform:translateY(30px);
+
+    transition: opacity .5s ease, transform .5s ease;
+}
+
+.hint-card.show {
+
+    opacity:1;
+
+    transform:translateY(0);
+}
+
+.hint-title {
+    color: #1F3A5F;
+    font-family: "Cormorant Garamond" , serif;
+    font-size: 30px;
+    font-weight: bold;
+
+    margin-bottom: 10px;
+}
+
+.hint-text {
+    font-size:28px;
+
+    color:#1F2937;
+
+    font-family:"Cormorant Garamond", serif;
+
+    margin:0;
+
+    line-height:1.4;
+
+    flex:1;
+   
+    overflow-wrap:break-word;
 }
 

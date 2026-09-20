@@ -17,7 +17,12 @@ const examene = [
     "../Examene/Simulare-2021/exam.json",
     "../Examene/Simulare-2019/exam.json",
     "../Examene/Simulare-2018/exam.json",
-    "../Examene/Simulare-2017/exam.json"
+    "../Examene/Simulare-2017/exam.json",
+
+    "../Grile-Capitole/Algebra/exam.json",
+    //"../Grile-Capitole/Analiza-Matematica/exam.json",
+    "../Grile-Capitole/Geometrie/exam.json",
+    //"../Grile-Capitole/Trigonometrie/exam.json",
 ];
 
 

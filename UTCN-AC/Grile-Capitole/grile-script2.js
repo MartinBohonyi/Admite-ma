@@ -481,6 +481,16 @@ Promise.all(
             "check-button"
         );
 
+        const hintButton =
+        document.createElement("button");
+
+        hintButton.textContent =
+            "💡 Indicație de rezolvare";
+
+        hintButton.classList.add(
+            "hint-button"
+        );
+
 
         const skipButton =
             document.createElement("button");
@@ -500,6 +510,12 @@ Promise.all(
         buttonsContainer.appendChild(
             checkButton
         );
+
+        if(question.hint){
+            buttonsContainer.appendChild(
+                hintButton
+            );
+        }
 
         buttonsContainer.appendChild(
             skipButton
@@ -699,6 +715,85 @@ Promise.all(
 
             }
         );
+
+hintButton.addEventListener(
+    "click",
+    () => {
+
+        let hintCard =
+            questionsList.querySelector(".hint-card");
+
+        // Dacă există deja
+        if (hintCard) {
+
+            hintCard.classList.toggle("show");
+
+            if (hintCard.classList.contains("show")) {
+
+                hintButton.textContent =
+                    "✕ Închide indicația";
+
+                hintCard.scrollIntoView({
+                    behavior: "smooth",
+                    block: "center"
+                });
+
+            } else {
+
+                hintButton.textContent =
+                    "💡 Indicație de rezolvare";
+
+                questionCard.scrollIntoView({
+                    behavior: "smooth",
+                    block: "center"
+                });
+
+            }
+
+            return;
+        }
+
+
+        // Creăm hint-card
+        hintCard =
+            document.createElement("div");
+
+        hintCard.classList.add(
+            "hint-card"
+        );
+
+        hintCard.innerHTML = `
+            <div class="hint-title">
+                💡 Indicație
+            </div>
+
+            <div class="hint-text">
+                ${question.hint}
+            </div>
+        `;
+
+        questionsList.appendChild(
+            hintCard
+        );
+
+        typesetMath(hintCard);
+
+        hintCard.classList.add(
+            "show"
+        );
+
+        // Schimbăm butonul
+        hintButton.textContent =
+            "✕ Închide indicația";
+
+        hintCard.scrollIntoView({
+            behavior: "smooth",
+            block: "center"
+        });
+
+    }
+);
+        
 
 
         // ==================================================
