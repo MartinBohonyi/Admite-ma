@@ -22,7 +22,7 @@ const examene = [
     "../Grile-Capitole/Algebra/exam.json",
     //"../Grile-Capitole/Analiza-Matematica/exam.json",
     "../Grile-Capitole/Geometrie/exam.json",
-    //"../Grile-Capitole/Trigonometrie/exam.json",
+    "../Grile-Capitole/Trigonometrie/exam.json",
 ];
 
 

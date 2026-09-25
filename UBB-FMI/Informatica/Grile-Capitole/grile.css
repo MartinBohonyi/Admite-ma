@@ -45,3 +45,21 @@
     color :#1F3A5F;
     font-style: italic;
 }
+
+@media (max-width: 768px) {
+    .skip-button,
+    .check-button,
+    .previous-button,
+    .hint-button {
+        padding: 16px 30px;
+        font-size: 19px;
+        min-height: 50px;
+        border-radius: 14px;
+        box-sizing: border-box;
+    }
+
+    .question-buttons {
+        gap: 14px;
+        flex-wrap: wrap;
+    }
+}

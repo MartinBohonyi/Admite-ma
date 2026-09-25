@@ -193,23 +193,23 @@
       "answers": [
         {
           "answer": "A",
-          "text": "\\(x \\in \\{2k\\pi - \\dfrac{\\pi}{4} \\mid k \\in \\mathbb{Z}\\}\\)"
+          "text": "\\(x \\in \\left\\{2k\\pi - \\dfrac{\\pi}{4} \\mid k \\in \\mathbb{Z}\\right\\}\\)"
         },
         {
           "answer": "B",
-          "text": "\\(x \\in \\{k\\pi \\pm \\dfrac{5\\pi}{4} \\mid k \\in \\mathbb{Z}\\}\\)"
+          "text": "\\(x \\in \\left\\{k\\pi \\pm \\dfrac{5\\pi}{4} \\mid k \\in \\mathbb{Z}\\right\\}\\)"
         },
         {
           "answer": "C",
-          "text": "\\(x \\in \\{k\\pi - \\dfrac{5\\pi}{4} \\mid k \\in \\mathbb{Z}\\}\\)"
+          "text": "\\(x \\in \\left\\{k\\pi - \\dfrac{5\\pi}{4} \\mid k \\in \\mathbb{Z}\\right\\}\\)"
         },
         {
           "answer": "D",
-          "text": "\\(x \\in \\{2k\\pi - \\dfrac{5\\pi}{4} \\mid k \\in \\mathbb{Z}\\}\\)"
+          "text": "\\(x \\in \\left\\{2k\\pi - \\dfrac{5\\pi}{4} \\mid k \\in \\mathbb{Z}\\right\\}\\)"
         },
         {
           "answer": "E",
-          "text": "\\(x \\in \\{2k\\pi \\pm \\dfrac{5\\pi}{4} \\mid k \\in \\mathbb{Z}\\}\\)"
+          "text": "\\(x \\in \\left\\{2k\\pi \\pm \\dfrac{5\\pi}{4} \\mid k \\in \\mathbb{Z}\\right\\}\\)"
         }
       ],
       "correctAnswer": "D"
@@ -224,19 +224,19 @@
       "answers": [
         {
           "answer": "A",
-          "text": "\\(\\{2k\\pi\\}_{k \\in \\mathbb{Z}}\\)"
+          "text": "\\(\\left\\{2k\\pi\\right\\}_{k \\in \\mathbb{Z}}\\)"
         },
         {
           "answer": "B",
-          "text": "\\(\\{2k\\pi + \\dfrac{\\pi}{2}\\}_{k \\in \\mathbb{Z}}\\)"
+          "text": "\\(\\left\\{2k\\pi + \\dfrac{\\pi}{2}\\right\\}_{k \\in \\mathbb{Z}}\\)"
         },
         {
           "answer": "C",
-          "text": "\\(\\{k\\pi + \\dfrac{\\pi}{2}\\}_{k \\in \\mathbb{Z}}\\)"
+          "text": "\\(\\left\\{k\\pi + \\dfrac{\\pi}{2}\\right\\}_{k \\in \\mathbb{Z}}\\)"
         },
         {
           "answer": "D",
-          "text": "\\(\\{k\\dfrac{\\pi}{2}\\}_{k \\in \\mathbb{Z}}\\)"
+          "text": "\\(\\left\\{k\\dfrac{\\pi}{2}\\right\\}_{k \\in \\mathbb{Z}}\\)"
         },
         {
           "answer": "E",
@@ -263,11 +263,11 @@
         },
         {
           "answer": "C",
-          "text": "\\([0,\\dfrac{1}{n}]\\)"
+          "text": "\\(\\left[0,\\dfrac{1}{n}\\right]\\)"
         },
         {
           "answer": "D",
-          "text": "\\([\\dfrac{1}{2^{n-1}},1]\\)"
+          "text": "\\(\\left[\\dfrac{1}{2^{n-1}},1\\right]\\)"
         },
         {
           "answer": "E",
@@ -298,7 +298,7 @@
         },
         {
           "answer": "D",
-          "text": "\\(a \\in (-1,1)\\)"
+          "text": "\\(a \\in (-1,1]\\)"
         },
         {
           "answer": "E",
@@ -317,7 +317,7 @@
       "answers": [
         {
           "answer": "A",
-          "text": "\\(\\{k\\pi \\mid k \\in \\mathbb{Z}\\}\\)"
+          "text": "\\(\\left\\{k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
         },
         {
           "answer": "B",
@@ -325,15 +325,15 @@
         },
         {
           "answer": "C",
-          "text": "\\(\\{(2k+1)\\pi \\mid k \\in \\mathbb{Z}\\} \\cup \\{2k\\pi - \\dfrac{\\pi}{2} \\mid k \\in \\mathbb{Z}\\}\\)"
+          "text": "\\(\\left\\{(2k+1)\\pi \\mid k \\in \\mathbb{Z}\\right\\} \\cup \\left\\{2k\\pi - \\dfrac{\\pi}{2} \\mid k \\in \\mathbb{Z}\\right\\}\\)"
         },
         {
           "answer": "D",
-          "text": "\\(\\{\\dfrac{\\pi}{6} + 2k\\pi \\mid k \\in \\mathbb{Z}\\}\\)"
+          "text": "\\(\\left\\{\\dfrac{\\pi}{6} + 2k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
         },
         {
           "answer": "E",
-          "text": "\\(\\{2k\\pi + \\dfrac{\\pi}{4} \\mid k \\in \\mathbb{Z}\\}\\)"
+          "text": "\\(\\left\\{2k\\pi + \\dfrac{\\pi}{4} \\mid k \\in \\mathbb{Z}\\right\\}\\)"
         }
       ],
       "correctAnswer": "C"
@@ -593,11 +593,11 @@
         },
         {
           "answer": "B",
-          "text": "\\(\\alpha - \\beta \\in \\{2k\\pi \\mid k \\in \\mathbb{Z}\\}\\)"
+          "text": "\\(\\alpha - \\beta \\in \\left\\{2k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
         },
         {
           "answer": "C",
-          "text": "\\(\\alpha - \\beta \\in \\{(2k+1)\\pi \\mid k \\in \\mathbb{Z}\\}\\)"
+          "text": "\\(\\alpha - \\beta \\in \\left\\{(2k+1)\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
         },
         {
           "answer": "D",
@@ -709,19 +709,19 @@
       "answers": [
         {
           "answer": "A",
-          "text": "\\(\\{0\\}\\)"
+          "text": "\\(\\left\\{0\\right\\}\\)"
         },
         {
           "answer": "B",
-          "text": "\\(\\{0, 4\\}\\)"
+          "text": "\\(\\left\\{0, 4\\right\\}\\)"
         },
         {
           "answer": "C",
-          "text": "\\(\\{1, 4\\}\\)"
+          "text": "\\(\\left\\{1, 4\\right\\}\\)"
         },
         {
           "answer": "D",
-          "text": "\\(\\{-1, 0\\}\\)"
+          "text": "\\(\\left\\{-1, 0\\right\\}\\)"
         },
         {
           "answer": "E",
@@ -815,7 +815,7 @@
         },
         {
           "answer": "E",
-          "text": "\\(\\left\\{(-1)^{k+1} \\dfrac{\\pi}{4} + k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
+          "text": "\\(\\left\\{(-1)^{k+1} \\dfrac{\\pi}{4} + 2k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
         }
       ],
       "correctAnswer": "C"
@@ -869,7 +869,7 @@
         },
         {
           "answer": "C",
-          "text": "\\(\\{k\\pi \\mid k \\in \\mathbb{Z}\\}\\)"
+          "text": "\\(\\left\\{k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
         },
         {
           "answer": "D",
@@ -935,11 +935,11 @@
         },
         {
           "answer": "D",
-          "text": "\\(\\{2k\\pi \\mid k \\in \\mathbb{Z}\\}\\)"
+          "text": "\\(\\left\\{2k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
         },
         {
           "answer": "E",
-          "text": "\\(\\{\\pi + 2k\\pi \\mid k \\in \\mathbb{Z}\\}\\)"
+          "text": "\\(\\left\\{\\pi + 2k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
         }
       ],
       "correctAnswer": "B"
@@ -1207,11 +1207,11 @@
         },
         {
           "answer": "D",
-          "text": "\\(\\{k\\pi\\mid k\\in\\mathbb{Z}\\}\\)"
+          "text": "\\(\\left\\{k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
         },
         {
           "answer": "E",
-          "text": "\\(\\{2k\\pi\\mid k\\in\\mathbb{N}\\}\\)"
+          "text": "\\(\\left\\{2k\\pi\\mid k\\in\\mathbb{N}\\right\\}\\)"
         }
       ],
       "correctAnswer": "B"
@@ -1225,7 +1225,7 @@
       "answers": [
         {
           "answer": "A",
-          "text": "\\(\\{k\\pi\\mid k\\in\\mathbb{Z}\\}\\)"
+          "text": "\\(\\left\\{k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
         },
         {
           "answer": "B",
@@ -1241,7 +1241,7 @@
         },
         {
           "answer": "E",
-          "text": "\\(\\{2k\\pi\\mid k\\in\\mathbb{Z}\\}\\)"
+          "text": "\\(\\left\\{2k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
         }
       ],
       "correctAnswer": "C"
@@ -1297,11 +1297,11 @@
         },
         {
           "answer": "D",
-          "text": "\\(\\{k\\pi\\mid k\\in\\mathbb{Z}\\}\\cup\\left\\{-\\dfrac{\\pi}{4}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
+          "text": "\\(\\left\\{k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\cup\\left\\{-\\dfrac{\\pi}{4}+k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
         },
         {
           "answer": "E",
-          "text": "\\(\\{2k\\pi\\mid k\\in\\mathbb{Z}\\}\\)"
+          "text": "\\(\\left\\{2k\\pi\\mid k\\in\\mathbb{Z}\\right\\}\\)"
         }
       ],
       "correctAnswer": "D"
@@ -1413,7 +1413,7 @@
         },
         {
           "answer": "C",
-          "text": "\\(\\{-1,0,1\\}\\)"
+          "text": "\\(\\left\\{-1,0,1\\right\\}\\)"
         },
         {
           "answer": "D",
@@ -1443,15 +1443,15 @@
         },
         {
           "answer": "C",
-          "text": "\\(S=\\{\\pi\\}\\)"
+          "text": "\\(S=\\left\\{\\pi\\right\\}\\)"
         },
         {
           "answer": "D",
-          "text": "\\(S=\\{0\\}\\)"
+          "text": "\\(S=\\left\\{0\\right\\}\\)"
         },
         {
           "answer": "E",
-          "text": "\\(S=\\{0,2\\pi\\}\\)"
+          "text": "\\(S=\\left\\{0,2\\pi\\right\\}\\)"
         }
       ],
       "correctAnswer": "D"
@@ -1503,7 +1503,7 @@
         },
         {
           "answer": "C",
-          "text": "\\(\\{0\\}\\)"
+          "text": "\\(\\left\\{0\\right\\}\\)"
         },
         {
           "answer": "D",
@@ -1555,7 +1555,7 @@
       "answers": [
         {
           "answer": "A",
-          "text": "\\(\\{k\\pi \\mid k \\in \\mathbb{Z}\\}\\)"
+          "text": "\\(\\left\\{k\\pi \\mid k \\in \\mathbb{Z}\\right\\}\\)"
         },
         {
           "answer": "B",
@@ -1855,7 +1855,7 @@
     {
       "questionNumber": 639,
       "points": "",
-      "question": "Valoarea expresiei \\(2z + \\bar{z}\\) este",
+      "question": "Valoarea expresiei \\(\\overline{2z+\\bar{z}}\\) este",
       "context": "Fie \\(z = \\left(1 + \\dfrac{2i}{1-i}\\right)^{2005}\\).",
       "category": "trigonometrie",
       "author": "Dalia Cîmpean",
@@ -1948,13 +1948,13 @@
     {
       "questionNumber": 642,
       "points": "",
-      "question": "Dacă \\(n \\in \\mathbb{N}\\), \\(n \\ge 2\\) și \\(S = \\{z \\in \\mathbb{C} \\mid (z+i)^n = (z-i)^n\\}\\), atunci:",
+      "question": "Dacă \\(n \\in \\mathbb{N}\\), \\(n \\ge 2\\) și \\(S = \\left\\{z \\in \\mathbb{C} \\mid (z+i)^n = (z-i)^n\\right\\}\\), atunci:",
       "category": "trigonometrie",
       "author": "Alexandru Mitrea",
       "answers": [
         {
           "answer": "A",
-          "text": "\\(S\\) are \\(n\\) elemente, \\(\\forall n \\in \\mathbb{N}\\), \\(n \\ge 2\\);"
+          "text": "\\(S\\) are \\(n\\) elemente, \\(\\forall n \\in \\mathbb{N}\\), \\(n \\ge 2\\)"
         },
         {
           "answer": "B",
@@ -2132,7 +2132,7 @@
       "questionNumber": 648,
       "context": "Fie numărul complex \\(u = 2+2i\\).",
       "points": "",
-      "question": "Fie mulțimea \\(A=\\{z\\in\\mathbb{C} : |z-1|\\le|z-i| \\text{ și } |z-u|\\le1\\}\\). Modulul lui \\(z\\in A\\) pentru care argumentul lui \\(z\\) este minim este:",
+      "question": "Fie mulțimea \\(A=\\left\\{z\\in\\mathbb{C} : |z-1|\\le|z-i| \\text{ și } |z-u|\\le1\\right\\}\\). Modulul lui \\(z\\in A\\) pentru care argumentul lui \\(z\\) este minim este:",
       "category": "trigonometrie",
       "author": "Alina-Ramona Baias",
       "answers": [
@@ -2170,7 +2170,7 @@
       "answers": [
         {
           "answer": "A",
-          "text": "\\(\\{2k\\pi \\mid k\\in\\mathbb{Z}\\}\\)"
+          "text": "\\(\\left\\{2k\\pi \\mid k\\in\\mathbb{Z}\\right\\}\\)"
         },
         {
           "answer": "B",
@@ -2201,11 +2201,11 @@
       "answers": [
         {
           "answer": "A",
-          "text": "\\(\\{k\\pi \\mid k\\in\\mathbb{Z}\\}\\)"
+          "text": "\\(\\left\\{k\\pi \\mid k\\in\\mathbb{Z}\\right\\}\\)"
         },
         {
           "answer": "B",
-          "text": "\\(\\{2k\\pi \\mid k\\in\\mathbb{Z}\\}\\)"
+          "text": "\\(\\left\\{2k\\pi \\mid k\\in\\mathbb{Z}\\right\\}\\)"
         },
         {
           "answer": "C",

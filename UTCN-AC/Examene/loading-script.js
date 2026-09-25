@@ -127,29 +127,23 @@ fetch(`${exam}/exam.json`)
         // AȘTEPTĂM CA MATHJAX SĂ TERMINE
         // ==========================================
 
-        const questionCards =
-            document.querySelectorAll(
-                ".question-card"
-            );
 
-
-       while (
-            typeof MathJax === "undefined" ||
-            typeof MathJax.typesetPromise !== "function"
+        if (
+            typeof MathJax !== "undefined" &&
+            typeof MathJax.typesetPromise === "function"
         ) {
-            await new Promise(resolve => setTimeout(resolve, 50));
+
+            const elementsToTypeset = [
+                ...document.querySelectorAll(".question-card"),
+                ...document.querySelectorAll(".question-context")
+            ];
+
+            await MathJax.typesetPromise(elementsToTypeset);
         }
-
-        const elementsToTypeset = [
-            ...document.querySelectorAll(".question-card"),
-            ...document.querySelectorAll(".question-context")
-        ];
-
-        await MathJax.typesetPromise(elementsToTypeset);
 
         initExam(data);
 
-    })
+            })
 
     .catch(error => {
         console.error(error);
