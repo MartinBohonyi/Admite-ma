@@ -94,7 +94,7 @@
     {
       "questionNumber": 243,
       "points": "",
-      "question": "Limita șirului \\(\\left\\{\\sqrt{n^2+n+1}\\right\\}\\), \\(n=1,2,\\ldots\\), unde \\(\\{x\\}\\) este partea fracționară a numărului real \\(x\\), este:",
+      "question": "Limita șirului \\(\\left\\{\\sqrt{n^2+n+1}\\right\\}\\), \\(n=1,2,\\ldots\\), unde \\(\\left\\{x\\right\\}\\) este partea fracționară a numărului real \\(x\\), este:",
       "category": "analiza",
       "author": "Vicuța Neagoș",
       "answers": [
@@ -242,7 +242,7 @@
         }
       ],
       "correctAnswer": "B",
-      "hint": "\\(x_{n+1}-x_n=\\dfrac{2}{x_n}\\gt 0\\), deci șirul este crescător. Rezultă că șirul are o limită \\(L\\), finită sau infinită. Dacă presupunem că \\(L\\) este finită, avem \\(L=L+2/L\\), deci \\(2/L=0\\), fals. Prin urmare \\(L=\\infty\\). Conform Lemei Stolz-Cesaro avem \\(\\displaystyle \\lim_{n\\to\\infty}\\dfrac{x_n^2}{n}=\\lim_{n\\to\\infty}\\left(x_{n+1}^2-x_n^2\\right)=\\lim_{n\\to\\infty}\\left(4+4/x_n^2\\right)=4\\). Rezultă \\(\\displaystyle \\lim_{n\\to\\infty}\\dfrac{x_n}{\\sqrt{n}}=2\\)."
+      "hint": "\\(x_{n+1}-x_n=\\dfrac{1}{x_n}\\gt 0\\), deci șirul este crescător. Rezultă că șirul are o limită \\(L\\), finită sau infinită. Dacă presupunem că \\(L\\) este finită, avem \\(L=L+2/L\\), deci \\(2/L=0\\), fals. Prin urmare \\(L=\\infty\\). Conform Lemei Stolz-Cesaro avem \\(\\displaystyle \\lim_{n\\to\\infty}\\dfrac{x_n^2}{n}=\\lim_{n\\to\\infty}\\left(x_{n+1}^2-x_n^2\\right)=\\lim_{n\\to\\infty}\\left(4+4/x_n^2\\right)=4\\). Rezultă \\(\\displaystyle \\lim_{n\\to\\infty}\\dfrac{x_n}{\\sqrt{n}}=2\\)."
     },
     {
       "questionNumber": 248,
@@ -820,12 +820,12 @@
         }
       ],
       "correctAnswer": "A",
-      "hint": "Se aplică Problema \\(535\\)."
+      "hint": "Se aplică enunțul teoretic de la Problema \\(535\\). Fie \\(x_n \\gt 0\\), \\(n \\in \\mathbb{N}^*\\), astfel ca\n \\(\\displaystyle\\lim_{n\\to\\infty} \\left(\\dfrac{x_{n+1}}{x_n}\\right)^n \\lt 1\\).\n Atunci \\(\\displaystyle\\lim_{n\\to\\infty} x_n = 0\\)."
     },
     {
       "questionNumber": 267,
       "points": "",
-      "question": "Fie \\(p\\in\\mathbb{N}\\setminus\\{0,1\\}\\), \\(q\\gt0\\). Se cere valoarea limitei: \\(\\displaystyle\\lim_{n\\to\\infty}\\dfrac{qn+1}{qn}\\cdot\\dfrac{qn+p+1}{qn+p}\\cdots\\dfrac{qn+np+1}{qn+np}\\).",
+      "question": "Fie \\(p\\in\\mathbb{N}\\setminus\\left\\{0,1\\right\\}\\), \\(q\\gt0\\). Se cere valoarea limitei: \\(\\displaystyle\\lim_{n\\to\\infty}\\dfrac{qn+1}{qn}\\cdot\\dfrac{qn+p+1}{qn+p}\\cdots\\dfrac{qn+np+1}{qn+np}\\).",
       "category": "analiza",
       "author": "Alina Sîntămărian",
       "answers": [
@@ -1305,7 +1305,7 @@
         }
       ],
       "correctAnswer": "E",
-      "hint": "\\(f(x_n)=x_{n+1}-x_n=e^{x_n}-x_n-1\\geq 0,\\ \\forall n\\geq 0\\), deci șirul este crescător."
+      "hint": "\\(f(x_n):=x_{n+1}-x_n=e^{x_n}-x_n-1\\geq 0,\\ \\forall n\\geq 0\\), deci șirul este crescător."
     },
     {
       "questionNumber": 283,
@@ -1337,7 +1337,7 @@
         }
       ],
       "correctAnswer": "A",
-      "hint": "Cum șirul este crescător rezultă că există \\(\\displaystyle \\lim_{n\\to\\infty}x_n\\in\\overline{\\mathbb{R}}\\). Dacă presupunem că \\(\\displaystyle \\lim_{n\\to\\infty}x_n=x,\\ x\\in\\mathbb{R}\\), din recurență obținem \\(x=e^x-1\\), de unde \\(x=0\\) o contradicție cu \\(x_0\\gt 0\\) și monotonia lui \\((x_n)_{n\\geq 0}\\). Deci \\(\\displaystyle \\lim_{n\\to\\infty}x_n=\\infty\\)."
+      "hint": "Cum șirul este crescător rezultă că există \\(\\displaystyle \\lim_{n\\to\\infty}x_n\\in\\overline{\\mathbb{R}}\\). Dacă presupunem că \\(\\displaystyle \\lim_{n\\to\\infty}x_n=x,\\ x\\in\\mathbb{R}\\), din recurență obținem \\(x=e^x-1\\), de unde \\(x=0\\)  contradicție cu \\(x_0\\gt 0\\) și monotonia lui \\((x_n)_{n\\geq 0}\\). Deci \\(\\displaystyle \\lim_{n\\to\\infty}x_n=\\infty\\)."
     },
     {
       "questionNumber": 284,
@@ -1353,7 +1353,7 @@
         },
         {
           "answer": "B",
-          "text": "\\(\\{0\\}\\)"
+          "text": "\\(\\left\\{0\\right\\}\\)"
         },
         {
           "answer": "C",
@@ -1453,11 +1453,11 @@
         },
         {
           "answer": "C",
-          "text": "\\(\\{0,1\\}\\)"
+          "text": "\\(\\left\\{0,1\\right\\}\\)"
         },
         {
           "answer": "D",
-          "text": "\\(\\{1\\}\\)"
+          "text": "\\(\\left\\{1\\right\\}\\)"
         },
         {
           "answer": "E",
@@ -1540,7 +1540,7 @@
       "answers": [
         {
           "answer": "A",
-          "text": "\\(\\{2\\}\\)"
+          "text": "\\(\\left\\{2\\right\\}\\)"
         },
         {
           "answer": "B",
@@ -1552,7 +1552,7 @@
         },
         {
           "answer": "D",
-          "text": "\\([2,4]\\)"
+          "text": "\\([2,4)\\)"
         },
         {
           "answer": "E",
@@ -1654,7 +1654,8 @@
         }
       ],
       "correctAnswer": "A",
-      "hint": "Vezi problema \\(535\\)."
+      "hint": "Se aplică enunțul teoretic de la Problema \\(535\\). Fie \\(x_n \\gt 0\\), \\(n \\in \\mathbb{N}^*\\), astfel ca\n \\(\\displaystyle\\lim_{n\\to\\infty} \\left(\\dfrac{x_{n+1}}{x_n}\\right)^n \\lt 1\\).\n Atunci \\(\\displaystyle\\lim_{n\\to\\infty} x_n = 0\\)."
+      
     },
     {
       "questionNumber": 294,
@@ -1969,7 +1970,7 @@
       "answers": [
         {
           "answer": "A",
-          "text": "\\(\\{1\\}\\)"
+          "text": "\\(\\left\\{1\\right\\}\\)"
         },
         {
           "answer": "B",
@@ -1977,7 +1978,7 @@
         },
         {
           "answer": "C",
-          "text": "\\(\\{0\\}\\)"
+          "text": "\\(\\left\\{0\\right\\}\\)"
         },
         {
           "answer": "D",
@@ -2204,7 +2205,7 @@
     {
       "questionNumber": 312,
       "points": "",
-      "question": "\\(\\displaystyle \\lim_{x\\to0}\\dfrac{x-\\sin(\\sin(\\cdots(\\sin x)\\cdots))}{x^3}\\), unde compunerea funcției \\(\\sin\\) se face de \\(n\\) ori",
+      "question": "\\(\\displaystyle \\lim_{x\\to0}\\dfrac{x-\\overbrace{\\sin(\\sin(\\cdots(\\sin x)\\cdots))}^{\\text{de }n\\text{ ori }\\sin}}{x^3}\\) ",
       "category": "analiza",
       "author": "Mircea Ivan",
       "answers": [
@@ -3325,7 +3326,7 @@
     {
       "questionNumber": 349,
       "points": "",
-      "question": "Fie funcția \\( f: \\mathbb{R} \\setminus \\{-1\\} \\to \\mathbb{R} \\), \\(\\displaystyle f(x) = \\lim_{n\\to\\infty} \\dfrac{x^n+x}{x^{2n}+1} \\). Care din afirmațiile de mai jos sunt adevărate?",
+      "question": "Fie funcția \\( f: \\mathbb{R} \\setminus \\left\\{-1\\right\\} \\to \\mathbb{R} \\), \\(\\displaystyle f(x) = \\lim_{n\\to\\infty} \\dfrac{x^n+x}{x^{2n}+1} \\). Care din afirmațiile de mai jos sunt adevărate?",
       "category": "analiza",
       "author": "Daniela Roșca",
       "answers": [
@@ -3365,7 +3366,7 @@
         },
         {
           "answer": "B",
-          "text": "\\(\\mathbb{R} \\setminus \\{-1,1\\}\\)"
+          "text": "\\(\\mathbb{R} \\setminus \\left\\{-1,1\\right\\}\\)"
         },
         {
           "answer": "C",
@@ -3373,11 +3374,11 @@
         },
         {
           "answer": "D",
-          "text": "\\(\\mathbb{R} \\setminus \\{-1,0,1\\}\\)"
+          "text": "\\(\\mathbb{R} \\setminus \\left\\{-1,0,1\\right\\}\\)"
         },
         {
           "answer": "E",
-          "text": "\\(\\mathbb{R} \\setminus \\{-1\\}\\)"
+          "text": "\\(\\mathbb{R} \\setminus \\left\\{-1\\right\\}\\)"
         }
       ],
       "correctAnswer": "A"
@@ -3574,19 +3575,19 @@
       "answers": [
         {
           "answer": "A",
-          "text": "\\(\\{(b,c)\\in\\mathbb{R}^2\\mid b\\ne 0,\\ c=1\\}\\)"
+          "text": "\\(\\left\\{(b,c)\\in\\mathbb{R}^2\\mid b\\ne 0,\\ c=1\\right\\}\\)"
         },
         {
           "answer": "B",
-          "text": "\\(\\{(b,c)\\in\\mathbb{R}^2\\mid c=1\\}\\)"
+          "text": "\\(\\left\\{(b,c)\\in\\mathbb{R}^2\\mid c=1\\right\\}\\)"
         },
         {
           "answer": "C",
-          "text": "\\(\\{(b,c)\\in\\mathbb{R}^2\\mid b=3,\\ c=1\\}\\)"
+          "text": "\\(\\left\\{(b,c)\\in\\mathbb{R}^2\\mid b=3,\\ c=1\\right\\}\\)"
         },
         {
           "answer": "D",
-          "text": "\\(\\{(b,c)\\in\\mathbb{R}^2\\mid c=1,\\ b=2 \\text{ sau } c=1,\\ b=3\\}\\)"
+          "text": "\\(\\left\\{(b,c)\\in\\mathbb{R}^2\\mid c=1,\\ b=2 \\text{ sau } c=1,\\ b=3\\right\\}\\)"
         },
         {
           "answer": "E",
@@ -3628,7 +3629,7 @@
     {
       "questionNumber": 359,
       "points": "",
-      "context": "Fie \\( f: [0,\\infty)\\setminus\\{1,2\\} \\to \\mathbb{R} \\), \\( f(x) = \\dfrac{mx-3}{x^2-3x+2} \\), unde \\(m\\) este un parametru real.",
+      "context": "Fie \\( f: [0,\\infty)\\setminus\\left\\{1,2\\right\\} \\to \\mathbb{R} \\), \\( f(x) = \\dfrac{mx-3}{x^2-3x+2} \\), unde \\(m\\) este un parametru real.",
       "question": "Numărul asimptotelor funcției \\(f\\) este:",
       "category": "analiza",
       "author": "Alexandru Mitrea",
@@ -3659,7 +3660,7 @@
     {
       "questionNumber": 360,
       "points": "",
-      "context": "Fie \\( f: [0,\\infty)\\setminus\\{1,2\\} \\to \\mathbb{R} \\), \\( f(x) = \\dfrac{mx-3}{x^2-3x+2} \\), unde \\(m\\) este un parametru real.",
+      "context": "Fie \\( f: [0,\\infty)\\setminus\\left\\{1,2\\right\\} \\to \\mathbb{R} \\), \\( f(x) = \\dfrac{mx-3}{x^2-3x+2} \\), unde \\(m\\) este un parametru real.",
       "question": "Numărul valorilor întregi ale parametrului \\(m\\) pentru care \\(f\\) are trei puncte de extrem este:",
       "category": "analiza",
       "author": "Alexandru Mitrea",
@@ -3902,13 +3903,13 @@
     {
       "questionNumber": 368,
       "points": "",
-      "question": "Care dintre următoarele afirmații este adevărată pentru orice funcție \\(f: \\mathbb{R} \\setminus \\{0\\} \\to \\mathbb{R}\\) care are derivată strict pozitivă?",
+      "question": "Care dintre următoarele afirmații este adevărată pentru orice funcție \\(f: \\mathbb{R} \\setminus \\left\\{0\\right\\} \\to \\mathbb{R}\\) care are derivată strict pozitivă?",
       "category": "analiza",
       "author": "Mircea Ivan",
       "answers": [
         {
           "answer": "A",
-          "text": "\\(f\\) este crescătoare pe \\(\\mathbb{R} \\setminus \\{0\\}\\)"
+          "text": "\\(f\\) este crescătoare pe \\(\\mathbb{R} \\setminus \\left\\{0\\right\\}\\)"
         },
         {
           "answer": "B",
@@ -4482,7 +4483,7 @@
     {
       "questionNumber": 387,
       "points": "",
-      "question": "Fie funcția \\(f: \\mathbb{R} \\setminus \\{1\\} \\to \\mathbb{R}\\), \\(f(x) = \\dfrac{x^2+\\alpha x+\\beta}{x-1}\\), unde \\(\\alpha, \\beta \\in \\mathbb{R}\\). Valorile lui \\(\\alpha\\) și \\(\\beta\\) pentru care \\(f\\) admite un extrem în punctul \\(M(0,1)\\) sunt:",
+      "question": "Fie funcția \\(f: \\mathbb{R} \\setminus \\left\\{1\\right\\} \\to \\mathbb{R}\\), \\(f(x) = \\dfrac{x^2+\\alpha x+\\beta}{x-1}\\), unde \\(\\alpha, \\beta \\in \\mathbb{R}\\). Valorile lui \\(\\alpha\\) și \\(\\beta\\) pentru care \\(f\\) admite un extrem în punctul \\(M(0,1)\\) sunt:",
       "category": "analiza",
       "author": "Vasile Ile",
       "answers": [
@@ -4670,11 +4671,11 @@
       "answers": [
         {
           "answer": "A",
-          "text": "\\(\\{0\\}\\)"
+          "text": "\\(\\left\\{0\\right\\}\\)"
         },
         {
           "answer": "B",
-          "text": "\\(\\{-1;0;1\\}\\)"
+          "text": "\\(\\left\\{-1;0;1\\right\\}\\)"
         },
         {
           "answer": "C",
@@ -4682,11 +4683,11 @@
         },
         {
           "answer": "D",
-          "text": "\\(\\{0;2\\}\\)"
+          "text": "\\(\\left\\{0;2\\right\\}\\)"
         },
         {
           "answer": "E",
-          "text": "\\(\\{0;1\\}\\)"
+          "text": "\\(\\left\\{0;1\\right\\}\\)"
         }
       ],
       "correctAnswer": "C"
@@ -4701,11 +4702,11 @@
       "answers": [
         {
           "answer": "A",
-          "text": "\\(\\{0\\}\\)"
+          "text": "\\(\\left\\{0\\right\\}\\)"
         },
         {
           "answer": "B",
-          "text": "\\(\\{-1;0;1\\}\\)"
+          "text": "\\(\\left\\{-1;0;1\\right\\}\\)"
         },
         {
           "answer": "C",
@@ -4713,11 +4714,11 @@
         },
         {
           "answer": "D",
-          "text": "\\(\\{0;2\\}\\)"
+          "text": "\\(\\left\\{0;2\\right\\}\\)"
         },
         {
           "answer": "E",
-          "text": "\\(\\{0;1\\}\\)"
+          "text": "\\(\\left\\{0;1\\right\\}\\)"
         }
       ],
       "correctAnswer": "A"
@@ -5129,7 +5130,7 @@
       "answers": [
         {
           "answer": "A",
-          "text": "\\(\\{e\\}\\)"
+          "text": "\\(\\left\\{e\\right\\}\\)"
         },
         {
           "answer": "B",
@@ -5461,11 +5462,11 @@
       "answers": [
         {
           "answer": "A",
-          "text": "\\(\\{-\\pi,0,\\pi\\}\\)"
+          "text": "\\(\\left\\{-\\pi,0,\\pi\\right\\}\\)"
         },
         {
           "answer": "B",
-          "text": "\\(\\{0\\}\\)"
+          "text": "\\(\\left\\{0\\right\\}\\)"
         },
         {
           "answer": "C",
@@ -6520,7 +6521,7 @@
     {
       "questionNumber": 454,
       "points": "",
-      "question": "\\(\\displaystyle\\int_{-1}^{2} \\min\\{1,x,x^2\\}\\,dx\\)",
+      "question": "\\(\\displaystyle\\int_{-1}^{2} \\min\\left\\{1,x,x^2\\right\\}\\,dx\\)",
       "category": "analiza",
       "author": "Mircea Ivan",
       "answers": [
@@ -7124,7 +7125,7 @@
     {
       "questionNumber": 474,
       "points": "",
-      "question": "Fie \\(n\\) un număr natural nenul. Să se calculeze \\(\\displaystyle\\int_{0}^{1} \\{nx\\}^2\\,dx\\), unde \\(\\{a\\}\\) reprezintă partea fracționară a numărului \\(a\\).",
+      "question": "Fie \\(n\\) un număr natural nenul. Să se calculeze \\(\\displaystyle\\int_{0}^{1} \\left\\{nx\\right\\}^2\\,dx\\), unde \\(\\left\\{a\\right\\}\\) reprezintă partea fracționară a numărului \\(a\\).",
       "category": "analiza",
       "author": "Ovidiu Furdui",
       "answers": [
@@ -7282,11 +7283,11 @@
       "answers": [
         {
           "answer": "A",
-          "text": "\\(\\{0,1\\}\\)"
+          "text": "\\(\\left\\{0,1\\right\\}\\)"
         },
         {
           "answer": "B",
-          "text": "\\(\\{1,2\\}\\)"
+          "text": "\\(\\left\\{1,2\\right\\}\\)"
         },
         {
           "answer": "C",
@@ -7294,7 +7295,7 @@
         },
         {
           "answer": "D",
-          "text": "\\(\\{0\\}\\)"
+          "text": "\\(\\left\\{0\\right\\}\\)"
         },
         {
           "answer": "E",
@@ -8099,7 +8100,7 @@
         }
       ],
       "correctAnswer": "A",
-      "hint": "Dacă \\(\\displaystyle G(x)=\\int_0^xe^{t^3}\\,dt,\\ G'(x)=e^{x^3},\\ F(x)=G(x^2),\\ F'(x)=e^{x^6}\\,2x\\)."
+      "hint": "Dacă \\(\\displaystyle G(x)=\\int_0^xe^{t^3}\\,dt,\\ G'(x)=e^{x^3},\\ F(x^2)=G(x^2),\\ F'(x)=e^{x^6}\\,2x\\)."
     },
     {
       "questionNumber": 506,
@@ -8755,7 +8756,7 @@
     {
       "questionNumber": 527,
       "points": "",
-      "question": "Fie \\(\\{x\\}\\) partea fracționară a numărului real \\(x\\). Atunci, \\(\\displaystyle\\lim_{n\\to\\infty} n\\int_{0}^{\\pi} \\{-x\\}^n\\,dx\\) este:",
+      "question": "Fie \\(\\left\\{x\\right\\}\\) partea fracționară a numărului real \\(x\\). Atunci, \\(\\displaystyle\\lim_{n\\to\\infty} n\\int_{0}^{\\pi} \\left\\{-x\\right\\}^n\\,dx\\) este:",
       "category": "analiza",
       "author": "Mircea Ivan",
       "answers": [
@@ -8906,7 +8907,7 @@
     {
       "questionNumber": 532,
       "points": "",
-      "question": "Limita șirului \\(\\displaystyle\\int_{0}^{1} \\dfrac{\\{nx\\}}{1+x}\\,dx\\), \\(n=1,2,\\ldots\\), unde \\(\\{x\\}\\) reprezintă partea fracționară a numărului real \\(x\\), este:",
+      "question": "Limita șirului \\(\\displaystyle\\int_{0}^{1} \\dfrac{\\left\\{nx\\right\\}}{1+x}\\,dx\\), \\(n=1,2,\\ldots\\), unde \\(\\left\\{x\\right\\}\\) reprezintă partea fracționară a numărului real \\(x\\), este:",
       "category": "analiza",
       "author": "Mircea Ivan",
       "answers": [
@@ -8936,7 +8937,7 @@
     {
       "questionNumber": 533,
       "points": "",
-      "question": "Integrala \\(\\displaystyle\\int_{0}^{1} \\sin\\left(x-\\{nx\\}\\right)dx\\), unde \\(\\{x\\}\\) reprezintă partea fracționară a numărului real \\(x\\) și \\(n \\gt 1\\) un întreg, este:",
+      "question": "Integrala \\(\\displaystyle\\int_{0}^{1} \\sin\\left(x-\\left\\{nx\\right\\}\\right)dx\\), unde \\(\\left\\{x\\right\\}\\) reprezintă partea fracționară a numărului real \\(x\\) și \\(n \\gt 1\\) un întreg, este:",
       "category": "analiza",
       "author": "Mircea Ivan",
       "answers": [
@@ -8994,10 +8995,10 @@
       "correctAnswer": "A"
     },
     {
-      "context": "Următoarele enunțuri teoretice pot fi utile pentru rezolvarea unor probleme din culegere.",
+      "context": "Următorul enunț teoretic poate fi util pentru rezolvarea unor probleme din culegere.",
       "questionNumber": 535,
       "points": "",
-      "question": "Fie \\(x_n \\gt 0\\), \\(n \\in \\mathbb{N}^*\\), astfel ca \\(\\displaystyle\\lim_{n\\to\\infty} \\left(\\dfrac{x_{n+1}}{x_n}\\right)^n \\lt 1\\). Atunci \\(\\displaystyle\\lim_{n\\to\\infty} x_n = 0\\).",
+      "question": "Fie \\(x_n \\gt 0\\), \\(n \\in \\mathbb{N}^*\\), astfel ca\n \\(\\displaystyle\\lim_{n\\to\\infty} \\left(\\dfrac{x_{n+1}}{x_n}\\right)^n \\lt 1\\).\n Atunci \\(\\displaystyle\\lim_{n\\to\\infty} x_n = 0\\).",
       "category": "analiza",
       "author": "Mircea Ivan",
       "answers": [],
@@ -9005,7 +9006,7 @@
       "hint": "Mai general, fie \\(x_n,a_n\\gt 0,\\ n\\in\\mathbb{N}^*\\), astfel ca \\(\\displaystyle \\sum_{n\\geq 1}\\dfrac{1}{a_n}=\\infty\\) și \\[\\lim_{n\\to\\infty}\\left(\\dfrac{x_{n+1}}{x_n}\\right)^{a_n}\\lt 1.\\] Să demonstrăm că \\(\\displaystyle \\lim_{n\\to\\infty}x_n=0\\). Fie \\(0\\lt q\\lt 1\\) și \\(p\\in\\mathbb{N}^*\\) astfel ca \\[\\left(\\dfrac{x_{n+1}}{x_n}\\right)^{a_n}\\lt q,\\quad n\\geq p.\\] Rezultă \\[x_{n+1}\\lt x_p\\,q^{\\frac{1}{a_p}+\\cdots+\\frac{1}{a_n}},\\quad n\\geq p,\\] de unde \\(x_n\\to 0\\)."
     },
     {
-      "context": "Următoarele enunțuri teoretice pot fi utile pentru rezolvarea unor probleme din culegere.",
+      "context": "Următorul enunț teoretic poate fi util pentru rezolvarea unor probleme din culegere.",
       "questionNumber": 536,
       "points": "",
       "question": "Fie \\(f : [0, b-a] \\to (0,\\infty)\\) o funcție continuă și \\(a \\lt b\\). Atunci \\(\\displaystyle\\int_{a}^{b} \\dfrac{f(x-a)}{f(x-a)+f(b-x)}\\,dx = \\dfrac{b-a}{2}\\).",
@@ -9016,7 +9017,7 @@
       "hint": "\\(x=a+b-t\\)."
     },
     {
-      "context": "Următoarele enunțuri teoretice pot fi utile pentru rezolvarea unor probleme din culegere.",
+      "context": "Următorul enunț teoretic poate fi util pentru rezolvarea unor probleme din culegere.",
       "questionNumber": 537,
       "points": "",
       "question": "Fie \\(f : (-1,1] \\to \\mathbb{R}\\) o funcție continuă. Atunci, \\(\\displaystyle\\lim_{n\\to\\infty} n \\int_{a}^{1} x^n f(x)\\,dx = f(1)\\), \\(-1 \\lt a \\lt 1\\).",
@@ -9026,7 +9027,7 @@
       "correctAnswer": []
     },
     {
-      "context": "Următoarele enunțuri teoretice pot fi utile pentru rezolvarea unor probleme din culegere.",
+      "context": "Următorul enunț teoretic poate fi util pentru rezolvarea unor probleme din culegere.",
       "questionNumber": 538,
       "points": "",
       "question": "Fie \\(f : [0,1] \\to \\mathbb{R}\\) continuă. Atunci, \\(\\displaystyle\\lim_{n\\to\\infty} n \\int_{0}^{1} x^n f(x^n)\\,dx = \\int_{0}^{1} f(t)\\,dt\\).",
@@ -9036,7 +9037,7 @@
       "correctAnswer": []
     },
     {
-      "context": "Următoarele enunțuri teoretice pot fi utile pentru rezolvarea unor probleme din culegere.",
+      "context": "Următorul enunț teoretic poate fi util pentru rezolvarea unor probleme din culegere.",
       "questionNumber": 539,
       "points": "",
       "question": "Dacă \\(f : [0,\\infty) \\to \\mathbb{R}\\) este continuă și are perioada \\(T \\gt 0\\), atunci \\(\\displaystyle\\lim_{n\\to\\infty} \\int_{0}^{1} f(nx)\\,dx = \\dfrac{1}{T}\\int_{0}^{T} f(x)\\,dx\\).",
@@ -9047,7 +9048,7 @@
       "hint": "\\[\\begin{aligned}\\int_0^1f(nx)\\,dx&=\\dfrac{1}{n}\\int_0^nf(x)\\,dx=\\dfrac{1}{n}\\int_0^{T\\left[\\frac{n}{T}\\right]+T\\left\\{\\frac{n}{T}\\right\\}}f(x)\\,dx\\\\&=\\dfrac{1}{n}\\int_0^{T\\left[\\frac{n}{T}\\right]}f(x)\\,dx+\\dfrac{1}{n}\\int_{T\\left[\\frac{n}{T}\\right]}^{T\\left[\\frac{n}{T}\\right]+T\\left\\{\\frac{n}{T}\\right\\}}f(x)\\,dx\\\\&=\\dfrac{\\left[\\frac{n}{T}\\right]}{n}\\int_0^Tf(x)\\,dx+\\dfrac{1}{n}\\int_0^{T\\left\\{\\frac{n}{T}\\right\\}}f(x)\\,dx\\\\&\\to\\dfrac{1}{T}\\int_0^Tf(x)\\,dx+0.\\end{aligned}\\]"
     },
     {
-      "context": "Următoarele enunțuri teoretice pot fi utile pentru rezolvarea unor probleme din culegere.",
+      "context": "Următorul enunț teoretic poate fi util pentru rezolvarea unor probleme din culegere.",
       "questionNumber": 540,
       "points": "",
       "question": "Fie \\(a, b \\gt 0\\). Dacă \\(f : [-b,b] \\to \\mathbb{R}\\) este o funcție continuă pară, atunci \\(\\displaystyle\\int_{-b}^{b} \\dfrac{f(x)}{a^x+1}\\,dx = \\int_{0}^{b} f(x)\\,dx\\).",
@@ -9057,7 +9058,7 @@
       "correctAnswer": []
     },
     {
-      "context": "Următoarele enunțuri teoretice pot fi utile pentru rezolvarea unor probleme din culegere.",
+      "context": "Următorul enunț teoretic poate fi util pentru rezolvarea unor probleme din culegere.",
       "questionNumber": 541,
       "points": "",
       "question": "Fie \\(a, b \\in \\mathbb{R}\\). Dacă \\(f : \\mathbb{R} \\to \\mathbb{R}\\) este o funcție integrabilă cu perioada \\(T \\gt 0\\), atunci integrala \\(\\displaystyle\\int_{a}^{a+T} f(x+b)\\,dx\\), nu depinde de \\(a\\) și \\(b\\).",
@@ -9067,7 +9068,7 @@
       "correctAnswer": []
     },
     {
-      "context": "Următoarele enunțuri teoretice pot fi utile pentru rezolvarea unor probleme din culegere.",
+      "context": "Următorul enunț teoretic poate fi util pentru rezolvarea unor probleme din culegere.",
       "questionNumber": 542,
       "points": "",
       "question": "(Prima formula de medie pentru integrala Riemann) Dacă \\(f : [a,b] \\to \\mathbb{R}\\) este continuă și \\(g : [a,b] \\to [0,\\infty)\\) este integrabilă, atunci există \\(c \\in [a,b]\\) astfel încât \\(\\displaystyle\\int_{a}^{b} f(x)g(x)\\,dx = f(c)\\int_{a}^{b} g(x)\\,dx\\).",

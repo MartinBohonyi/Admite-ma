@@ -20,7 +20,7 @@ const examene = [
     "../Examene/Simulare-2017/exam.json",
 
     "../Grile-Capitole/Algebra/exam.json",
-    //"../Grile-Capitole/Analiza-Matematica/exam.json",
+    "../Grile-Capitole/Analiza-Matematica/exam.json",
     "../Grile-Capitole/Geometrie/exam.json",
     "../Grile-Capitole/Trigonometrie/exam.json",
 ];

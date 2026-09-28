@@ -1,4 +1,3 @@
-
 // ==================================================
 // EXAMENE JSON
 // ==================================================
@@ -222,6 +221,15 @@ Promise.all(
 
 
         // ==================================================
+        // EXISTĂ RĂSPUNSURI?
+        // ==================================================
+
+        const hasAnswers =
+            Array.isArray(question.answers) &&
+            question.answers.length > 0;
+
+
+        // ==================================================
         // SOURCE
         // ==================================================
 
@@ -356,86 +364,88 @@ Promise.all(
 
 
         // ==================================================
-        // DIVIDER
+        // ANSWERS (doar dacă există)
         // ==================================================
 
-        const divider =
-            document.createElement("div");
+        if (hasAnswers) {
 
-        divider.classList.add(
-            "question-divider"
-        );
+            // DIVIDER
 
-        questionCard.appendChild(
-            divider
-        );
-
-
-        // ==================================================
-        // ANSWERS
-        // ==================================================
-
-        const answers =
-            document.createElement("div");
-
-        answers.classList.add(
-            "answers"
-        );
-
-
-        question.answers.forEach(answerData => {
-
-            const answerOption =
+            const divider =
                 document.createElement("div");
 
-            answerOption.classList.add(
-                "answer-option"
+            divider.classList.add(
+                "question-divider"
             );
 
-            answerOption.dataset.answer =
-                answerData.answer;
+            questionCard.appendChild(
+                divider
+            );
 
 
-            const answerLetter =
+            const answers =
                 document.createElement("div");
 
-            answerLetter.classList.add(
-                "answer-letter"
+            answers.classList.add(
+                "answers"
             );
 
-            answerLetter.textContent =
-                answerData.answer;
+
+            question.answers.forEach(answerData => {
+
+                const answerOption =
+                    document.createElement("div");
+
+                answerOption.classList.add(
+                    "answer-option"
+                );
+
+                answerOption.dataset.answer =
+                    answerData.answer;
 
 
-            const answerText =
-                document.createElement("p");
+                const answerLetter =
+                    document.createElement("div");
 
-            answerText.classList.add(
-                "answer-text"
+                answerLetter.classList.add(
+                    "answer-letter"
+                );
+
+                answerLetter.textContent =
+                    answerData.answer;
+
+
+                const answerText =
+                    document.createElement("p");
+
+                answerText.classList.add(
+                    "answer-text"
+                );
+
+                answerText.innerHTML =
+                    answerData.text;
+
+
+                answerOption.appendChild(
+                    answerLetter
+                );
+
+                answerOption.appendChild(
+                    answerText
+                );
+
+                answers.appendChild(
+                    answerOption
+                );
+
+            });
+
+
+            questionCard.appendChild(
+                answers
             );
 
-            answerText.innerHTML =
-                answerData.text;
-
-
-            answerOption.appendChild(
-                answerLetter
-            );
-
-            answerOption.appendChild(
-                answerText
-            );
-
-            answers.appendChild(
-                answerOption
-            );
-
-        });
-
-
-        questionCard.appendChild(
-            answers
-        );
+        }
 
 
         questionGroup.appendChild(
@@ -482,7 +492,7 @@ Promise.all(
         );
 
         const hintButton =
-        document.createElement("button");
+            document.createElement("button");
 
         hintButton.textContent =
             "💡 Indicație de rezolvare";
@@ -507,11 +517,14 @@ Promise.all(
             previousButton
         );
 
-        buttonsContainer.appendChild(
-            checkButton
-        );
+        // Butonul "Verifică răspunsul" există doar dacă există răspunsuri
+        if (hasAnswers) {
+            buttonsContainer.appendChild(
+                checkButton
+            );
+        }
 
-        if(question.hint){
+        if (question.hint) {
             buttonsContainer.appendChild(
                 hintButton
             );
@@ -528,164 +541,169 @@ Promise.all(
 
 
         // ==================================================
-        // SELECTARE / DESELECTARE
+        // SELECTARE / DESELECTARE + VERIFICARE
+        // (doar dacă există răspunsuri)
         // ==================================================
 
-        const answerOptions =
-            questionCard.querySelectorAll(
-                ".answer-option"
-            );
+        if (hasAnswers) {
 
-
-        answerOptions.forEach(option => {
-
-            option.addEventListener(
-                "click",
-                () => {
-
-                    const letter =
-                        option.querySelector(
-                            ".answer-letter"
-                        );
-
-
-                    const wasSelected =
-                        questionCard.dataset.selected ===
-                        option.dataset.answer;
-
-
-                    answerOptions.forEach(opt => {
-
-                        const l =
-                            opt.querySelector(
-                                ".answer-letter"
-                            );
-
-                        l.classList.remove(
-                            "selected"
-                        );
-
-                        l.classList.remove(
-                            "correct"
-                        );
-
-                        l.classList.remove(
-                            "wrong"
-                        );
-
-                        l.classList.remove(
-                            "correct-unselected"
-                        );
-
-                    });
-
-
-                    if (wasSelected) {
-
-                        delete questionCard.dataset.selected;
-
-                    }
-
-                    else {
-
-                        letter.classList.add(
-                            "selected"
-                        );
-
-                        questionCard.dataset.selected =
-                            option.dataset.answer;
-
-                    }
-
-                }
-            );
-
-        });
-
-
-        // ==================================================
-        // VERIFICARE
-        // ==================================================
-
-        checkButton.addEventListener(
-            "click",
-            () => {
-
-                const selectedAnswer =
-                    questionCard.dataset.selected;
-
-
-                if (!selectedAnswer) {
-
-                    return;
-
-                }
-
-
-                questionCard.classList.remove(
-                    "unanswered"
+            const answerOptions =
+                questionCard.querySelectorAll(
+                    ".answer-option"
                 );
 
 
-                const correctAnswer =
-                    questionData.correctAnswer;
+            answerOptions.forEach(option => {
+
+                option.addEventListener(
+                    "click",
+                    () => {
+
+                        const letter =
+                            option.querySelector(
+                                ".answer-letter"
+                            );
 
 
-                answerOptions.forEach(option => {
-
-                    const letter =
-                        option.querySelector(
-                            ".answer-letter"
-                        );
+                        const wasSelected =
+                            questionCard.dataset.selected ===
+                            option.dataset.answer;
 
 
-                    letter.classList.remove(
-                        "correct"
-                    );
+                        answerOptions.forEach(opt => {
 
-                    letter.classList.remove(
-                        "wrong"
-                    );
+                            const l =
+                                opt.querySelector(
+                                    ".answer-letter"
+                                );
 
-                    letter.classList.remove(
-                        "correct-unselected"
-                    );
+                            l.classList.remove(
+                                "selected"
+                            );
 
-
-                    if (
-                        option.dataset.answer ===
-                        correctAnswer
-                    ) {
-
-                        if(option.dataset.answer === selectedAnswer){
-                            letter.classList.add(
+                            l.classList.remove(
                                 "correct"
                             );
+
+                            l.classList.remove(
+                                "wrong"
+                            );
+
+                            l.classList.remove(
+                                "correct-unselected"
+                            );
+
+                        });
+
+
+                        if (wasSelected) {
+
+                            delete questionCard.dataset.selected;
+
                         }
-                        else{
-                            letter.classList.add("correct-unselected");
+
+                        else {
+
+                            letter.classList.add(
+                                "selected"
+                            );
+
+                            questionCard.dataset.selected =
+                                option.dataset.answer;
+
                         }
+
+                    }
+                );
+
+            });
+
+
+            // ==================================================
+            // VERIFICARE
+            // ==================================================
+
+            checkButton.addEventListener(
+                "click",
+                () => {
+
+                    const selectedAnswer =
+                        questionCard.dataset.selected;
+
+
+                    if (!selectedAnswer) {
+
+                        return;
 
                     }
 
 
-                    if (
-                        option.dataset.answer ===
-                        selectedAnswer &&
-                        selectedAnswer !==
-                        correctAnswer
-                    ) {
+                    questionCard.classList.remove(
+                        "unanswered"
+                    );
 
-                        letter.classList.add(
+
+                    const correctAnswer =
+                        questionData.correctAnswer;
+
+
+                    answerOptions.forEach(option => {
+
+                        const letter =
+                            option.querySelector(
+                                ".answer-letter"
+                            );
+
+
+                        letter.classList.remove(
+                            "correct"
+                        );
+
+                        letter.classList.remove(
                             "wrong"
                         );
 
-                    }
+                        letter.classList.remove(
+                            "correct-unselected"
+                        );
 
-                });
 
-            }
-        );
+                        if (
+                            option.dataset.answer ===
+                            correctAnswer
+                        ) {
+
+                            if (option.dataset.answer === selectedAnswer) {
+                                letter.classList.add(
+                                    "correct"
+                                );
+                            }
+                            else {
+                                letter.classList.add("correct-unselected");
+                            }
+
+                        }
+
+
+                        if (
+                            option.dataset.answer ===
+                            selectedAnswer &&
+                            selectedAnswer !==
+                            correctAnswer
+                        ) {
+
+                            letter.classList.add(
+                                "wrong"
+                            );
+
+                        }
+
+                    });
+
+                }
+            );
+
+        }
 
 
         // ==================================================
@@ -716,20 +734,78 @@ Promise.all(
             }
         );
 
-hintButton.addEventListener(
-    "click",
-    () => {
 
-        let hintCard =
-            questionsList.querySelector(".hint-card");
+        // ==================================================
+        // INDICAȚIE
+        // ==================================================
 
-        // Dacă există deja
-        if (hintCard) {
+        hintButton.addEventListener(
+            "click",
+            () => {
 
-            hintCard.classList.toggle("show");
+                let hintCard =
+                    questionsList.querySelector(".hint-card");
 
-            if (hintCard.classList.contains("show")) {
+                // Dacă există deja
+                if (hintCard) {
 
+                    hintCard.classList.toggle("show");
+
+                    if (hintCard.classList.contains("show")) {
+
+                        hintButton.textContent =
+                            "✕ Închide indicația";
+
+                        hintCard.scrollIntoView({
+                            behavior: "smooth",
+                            block: "center"
+                        });
+
+                    } else {
+
+                        hintButton.textContent =
+                            "💡 Indicație de rezolvare";
+
+                        questionCard.scrollIntoView({
+                            behavior: "smooth",
+                            block: "center"
+                        });
+
+                    }
+
+                    return;
+                }
+
+
+                // Creăm hint-card
+                hintCard =
+                    document.createElement("div");
+
+                hintCard.classList.add(
+                    "hint-card"
+                );
+
+                hintCard.innerHTML = `
+                    <div class="hint-title">
+                        💡 Indicație
+                    </div>
+
+                    <div class="hint-text">
+                        ${question.hint}
+                    </div>
+                `;
+
+                questionsList.appendChild(
+                    hintCard
+                );
+
+                typesetMath(hintCard);
+
+                hintCard.classList.add(
+                    "show"
+                );
+
+                // Schimbăm butonul
                 hintButton.textContent =
                     "✕ Închide indicația";
 
@@ -738,62 +814,8 @@ hintButton.addEventListener(
                     block: "center"
                 });
 
-            } else {
-
-                hintButton.textContent =
-                    "💡 Indicație de rezolvare";
-
-                questionCard.scrollIntoView({
-                    behavior: "smooth",
-                    block: "center"
-                });
-
             }
-
-            return;
-        }
-
-
-        // Creăm hint-card
-        hintCard =
-            document.createElement("div");
-
-        hintCard.classList.add(
-            "hint-card"
         );
-
-        hintCard.innerHTML = `
-            <div class="hint-title">
-                💡 Indicație
-            </div>
-
-            <div class="hint-text">
-                ${question.hint}
-            </div>
-        `;
-
-        questionsList.appendChild(
-            hintCard
-        );
-
-        typesetMath(hintCard);
-
-        hintCard.classList.add(
-            "show"
-        );
-
-        // Schimbăm butonul
-        hintButton.textContent =
-            "✕ Închide indicația";
-
-        hintCard.scrollIntoView({
-            behavior: "smooth",
-            block: "center"
-        });
-
-    }
-);
-        
 
 
         // ==================================================
@@ -887,4 +909,3 @@ hintButton.addEventListener(
     );
 
 });
-
